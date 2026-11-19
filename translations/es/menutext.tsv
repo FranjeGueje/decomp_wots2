@@ -1,0 +1,326 @@
+# Spanish menus: Us/menu/menutext.txt.  <line number><TAB><text>; see docs/spanish/03_menu_text.md.
+# \n is a line break; ¿ » º are written as they are.  Lines left out stay in English.
+
+3	y
+5	mon
+9	Hora
+10	kcal
+14	ptos
+15	Sí
+16	No
+17	Elegir
+18	Atrás
+19	Cancelar
+22	④ Elegir
+23	③ Atrás
+24	④ Atrás
+25	Tirar
+26	Listo
+27	Dinero
+28	Trabajo
+29	Importante
+30	Amanecer
+31	Mañana
+32	Tarde
+33	Anochecer
+34	Noche
+35	21 de agosto
+36	22 de agosto
+37	23 de agosto
+38	24 de agosto
+39	25 de agosto
+40	26 de agosto
+41	27 de agosto
+42	28 de agosto
+43	29 de agosto
+44	30 de agosto
+45	Postura
+46	Dur
+47	Atq
+48	Def
+49	Cal
+50	Bajas
+51	2 manos
+52	Alta
+53	Media
+54	Baja
+55	Lateral
+56	1 mano
+57	Ninja
+58	Esgrima
+59	PV
+60	Resistencia
+61	PAUSA
+62	Elegir espada
+63	Elegir objeto
+64	Ver estado
+65	Opciones
+66	Volver al juego
+67	Elegir almacén
+68	Guardar
+69	Descansar
+70	Armero
+71	Baúl
+72	Salir
+73	Echar la siesta
+74	Tumbarse
+75	Dormir un poco
+76	Dormir
+77	Dormir a fondo
+78	Dormir a fondo
+79	Salir de casa
+80	Botones de dirección: elegir lugar   ⑥ Ver objeto   ④ Elegir
+81	¿Quieres dejar Amahara?\n\nLa partida terminará \ny volverás a la\npantalla de título.
+82	Puerta Otemon
+83	Amakaze-cho
+84	Magistratura
+85	Cuartel de los Aoto
+86	Santuario de Amahara
+87	Afueras
+88	Otsuka-cho
+89	Numata-cho
+90	Kakinuma-cho
+91	Shikano-cho
+92	Fuera de Amahara
+94	Puerta Otemon
+95	Amakaze-cho
+96	Magistratura
+97	Cuartel de los Aoto
+98	Santuario de Amahara
+99	Afueras
+100	Otsuka-cho
+101	Numata-cho
+102	Kakinuma-cho
+103	Shikano-cho
+104	Fuera de Amahara
+106	Barras color
+107	Pos. pantalla
+108	Cámara
+109	Normal
+110	Invertida
+111	Vibración
+112	No
+113	Sí
+114	Subtítulos
+115	Sí
+116	No
+117	Sangre
+118	Sonido
+119	Salida audio
+120	ESTÉREO
+121	MONO
+122	Prueba música
+123	Vol. música
+124	Prueba sonidos
+125	Vol. sonidos
+126	Fin
+127	Fin
+128	Reiniciar
+129	Reiniciar vol.
+130	Elegir objetos
+131	Cambiar opciones
+132	Jugar
+133	⑥ Jugar
+134	③ Menú de pausa
+135	③ Volver al juego
+136	PV
+137	PR
+138	Dur
+139	PV
+140	PR
+141	Dur
+142	¿Qué quieres hacer?
+143	Equipar
+144	Tirar
+145	Ver técnicas
+146	Elige una espada
+147	Ya equipada
+148	No puedes tirarlas todas
+149	No puedes tirar la que empuñas
+150	Ahora no puedes tirarla
+151	¿Cambiar por cuál?
+152	Ahora no puedes tirarlo
+153	Usar
+154	Cambiar orden
+155	Tirar
+156	Equipar
+157	Quitar
+158	Día
+159	Fecha : 
+160	Lugar : 
+161	Espada : 
+162	Trabajo : 
+163	Usarlo no tiene ningún efecto
+164	Ya has aprendido todas las técnicas\nde este pergamino.
+165	La calidad ya no puede subir más.
+166	Nombre
+167	Cabeza
+168	Ropa
+169	Adorno
+170	Espada
+171	Objetos
+172	Listo
+173	Elige una opción.
+174	Terminar y empezar la partida.
+175	Elige la cabeza del personaje.
+176	Elige la ropa del personaje.
+178	Pulsa START
+179	Empezar
+180	1J contra CPU
+181	1J contra 2J
+182	Introducción samurái
+183	Récords
+184	Opciones
+185	Fácil
+186	Normal
+187	Difícil
+188	Golpe de gracia
+189	Listo
+194	④ Aceptar
+195	① Borrar
+196	Equipar espadas
+197	Armero
+198	Listo
+199	Al armero
+200	Equipar
+201	Tirar
+202	Empuñar
+203	Ver técnicas
+204	Sin equipar
+205	Las espadas que tires se perderán.\n¿Tirar la espada?
+206	El armero está lleno
+207	No puedes equipar más espadas
+208	Ya llevas 3 espadas equipadas
+209	No puedes tirar todas tus espadas
+210	Equipa una espada
+211	② Cambiar vista
+212	Pág. 1
+213	Pág. 2
+214	Pág. 3
+215	Pág. 4
+216	Pág. 5
+217	Pág. 6
+218	Pág. 7
+219	Pág. 8
+220	Pág. 9
+221	Pág. 10
+222	Normal
+223	Postura
+224	Durabilidad
+225	Calidad
+226	Ataque
+227	Defensa
+228	Bajas
+229	Nombre
+230	Cambiar orden
+231	Objetos
+232	Baúl
+233	Guardar en el baúl
+234	Sacar
+235	Los objetos que tires se perderán.\n¿Tirar el objeto?
+236	Ya llevas 8 objetos.
+237	Ya hay 99 objetos en el baúl.
+238	Terminar de elegir objetos.
+239	 Siguiente
+240	Bajas totales
+241	Ingresos totales
+242	Bajas de un golpe
+243	Gastos totales
+244	Espadas reunidas
+245	Sueño
+246	Trabajos hechos
+247	Calorías ingeridas
+248	Noches en posada
+249	Final nº
+250	Hay ropa nueva en la pantalla de personaje
+251	Hay máscaras y ropa nuevas en la pantalla de personaje
+252	Hay máscaras y ropa nuevas en la pantalla de personaje
+253	Hay ropa nueva en la pantalla de personaje
+254	Se ha añadido la dificultad Difícil
+255	Hay máscaras y ropa nuevas en la pantalla de personaje
+256	Hay ropa nueva en la pantalla de personaje
+257	Nuevo accesorio: «Afro»
+258	Nuevo accesorio: «Gafas de sol»
+259	Hay máscaras y ropa nuevas en la pantalla de personaje
+260	Hay ropa nueva en la pantalla de personaje
+261	Nuevo accesorio: «Máscara de gas»
+262	Nuevo accesorio: «Disfraz»
+263	Hay máscaras y ropa nuevas en la pantalla de personaje
+264	Hay ropa nueva en la pantalla de personaje
+265	Nuevo accesorio: «Armas del futuro»
+266	Nuevo accesorio: «Frasco de medicina»
+267	Nuevo accesorio: «Máscara de hockey»
+268	Se ha añadido la dificultad Golpe de gracia
+269	Nuevo accesorio: «Orejas de gato»
+270	Nuevo accesorio: «Alas de ángel»
+271	¡Has descubierto todos los secretos! \n¡El equipo del juego te da las gracias!
+272	Récords principales
+273	Títulos
+274	Espadas
+275	Accesorios
+276	Clasificación
+277	Puntos
+278	Veces completado
+279	Bajas totales
+280	Bajas de un golpe
+281	Finales
+282	③ Atrás
+283	Empezar partida nueva
+284	Sin equipar
+313	No puedes huir.
+314	Envaina la espada para entrar.
+315	¿Saltar esta escena?
+316	 (fracaso)
+317	Te quedas sin paga: 
+318	 (salida)
+319	Gastas 1 PR.
+320	PR agotados
+321	Elige una espada
+322	Ahora no puedes cambiar de espada.
+323	Fiesta de Amahara
+354	③ Salir
+355	④ Elegir
+356	② Valores iniciales
+357	Ｓ
+364	ｏ
+367	 y 
+369	Alza
+370	Rompe
+371	Aplasta
+372	Lanza
+375	Cargar
+376	¡Has aprendido %s!
+377	Ya puedes enlazar %s y %s.
+378	¡%s ha mejorado a %s!
+379	Cargando
+380	Casa de té
+381	Restaurante
+382	Posada
+383	Telas
+384	Joyería
+385	Bazar
+386	Tienda
+387	Taberna
+388	Posada Amakaze
+389	Cárcel
+390	Casa de té
+391	Restaurante
+392	Tienda
+393	Bazar
+394	Médico
+395	Botica
+396	Tienda
+397	Bazar
+398	Bodega
+399	Verdulería
+400	Casa
+401	Restaurante
+402	Baños
+403	Verdulería
+404	Herrería
+405	Taberna
+406	Casa de té
+407	Restaurante
+408	Posada
+409	Restaurante
+410	Dojo

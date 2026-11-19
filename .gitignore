@@ -47,5 +47,7 @@ mods/original_story/story/generated/
 # Photo mode pictures (F7, F12)
 screenshots/
 
-# Spanish mod: the font made from the disc's by tools/spanish_font.py
-mods/espanol/files/Us/Font/
+# Spanish mod: everything under files/ is made from the disc's files (tools/spanish_font.py,
+# tools/spanish_text.py build); the English originals extracted to work from
+mods/espanol/files/
+translations/*/original/
