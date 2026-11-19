@@ -1,7 +1,7 @@
 # Glosario de la traducción al español
 
-Términos fijados en `menutext.tsv` (paso 3). Los scripts de la historia (paso 4) deben
-usar los mismos. Español de España, neutro; se tutea al jugador («Elige», «No puedes»).
+Términos fijados en `menutext.tsv` (paso 3) y en los scripts (paso 4,
+`translations/es/script/`). Toda traducción nueva debe usar los mismos. Español de España, neutro; se tutea al jugador («Elige», «No puedes»).
 Los nombres propios japoneses se dejan como en la versión inglesa (sin tildes ni
 macrones añadidos: `Amakaze-cho`, `Mumei-tou`).
 
@@ -36,8 +36,8 @@ macrones añadidos: `Amakaze-cho`, `Mumei-tou`).
 
 | inglés | español | notas |
 |---|---|---|
-| HP | PV | puntos de vida |
-| EP | PR | puntos de resistencia (el código lo llama *vigour*: 10–15 cuentas, se recupera durmiendo). **Pendiente de confirmar** |
+| HP | PV | Puntos de Vida |
+| EP | PR | Puntos de Resistencia (el código lo llama *vigour*: 10–15 cuentas, se recupera durmiendo). Decidido por el usuario; también en los scripts: «¡PV +600!», «¡PR +4!» |
 | Endurance | Resistencia | |
 | Dur / Durability | Dur / Durabilidad | de la espada |
 | Att / Attack | Atq / Ataque | |
@@ -125,3 +125,32 @@ macrones añadidos: `Amakaze-cho`, `Mumei-tou`).
 
 Take a Nap / Lie down / Sleep a bit / Sleep / Deep Sleep → Echar la siesta / Tumbarse /
 Dormir un poco / Dormir / Dormir a fondo.
+
+## Historia (scripts, paso 4)
+
+Estilo: ver «Reglas de estilo» en `docs/spanish/04_scripts.md` (caja normal aunque el
+inglés vaya en MAYÚSCULAS, tú/vosotros entre iguales, usted de comerciantes a clientes,
+tartamudeos «Q-quién», «...» de tres puntos, un solo espacio tras el punto).
+
+| inglés | español | notas |
+|---|---|---|
+| samurai | samurái (pl. samuráis) | nombre común, con tilde (RAE) |
+| ronin | ronin (pl. ronin) | |
+| Aoto Gang | la banda Aoto / los Aoto | el cuartel: «Cuartel de los Aoto» (menús) |
+| Yakuza Boss | el jefe yakuza | |
+| Magistrate's Office | la Magistratura | |
+| Chief Magistrate | el magistrado jefe | |
+| Magistrate | el magistrado | |
+| Shogun / Shogunate | el shogun / el shogunato | |
+| rice ball | bola de arroz | (onigiri) |
+| mon | mon | moneda, no se traduce |
+| brat (Sayo) | mocosa, cría | |
+| Dr. Genan | el doctor Genan | |
+| HP +400! | ¡PV +400! | avisos del HUD (`UI.AddMessage`) |
+| EP +2! | ¡PR +2! | |
+
+**Nombres propios**: como en la versión inglesa, sin tildes ni cambios: Sayo, Kyojiro,
+Hanzaemon, Kasumi, Goshiro, Soma, Yasuno, Maikaze, Danpachi, Kuroha, Nakamura, Genan,
+Takanuma, Muto, Nami, Otomi, Chiyo, Sosuke, Kagenuma; los tres matones de los Aoto:
+Ichikichi (`itikiti` en los scripts), Nihei (`nihei`, tartamudea) y Santa (`santa`).
+Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
