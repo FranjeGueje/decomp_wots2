@@ -1,0 +1,12 @@
+# ui/GameUI/ShopList.dat: muestra del paso 5. c0-c4 son comunes a todas las
+# tiendas; <tienda>.<línea> lo que dice el tendero (las repetidas heredan).
+c0	Me lo llevo\nMe lo pensaré
+c1	Aquí tiene\n¡No pienso pagar!
+c2	Dinero
+c3	Has conseguido: %s
+c4	③ Salir de la tienda
+0.0	¡Bienvenido!
+0.1	¿Qué le pongo?
+0.2	¿Es esto lo que quiere?
+0.3	¡Gracias!
+1.1	¿Qué va a ser hoy?

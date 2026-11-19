@@ -1,0 +1,4 @@
+# ui/NameInput/CharGlance.txt: el teclado de nombre (15 teclas por fila, tres
+# grupos de 5). Filas 0-5 como el inglés; 6 y 7 nuevas (el teclado se desplaza).
+6	ÁÉÍÓÚáéíóúÑñÜü¡
+7	ÀÈÌÒÙàèìòùÇç¿ªº

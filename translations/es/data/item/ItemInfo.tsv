@@ -1,0 +1,23 @@
+# item/ItemInfo.Dat: muestra del paso 5 (objetos 1-5). Campos: name, help (2 líneas,
+# menú de objetos), desc (3 líneas, recuadro), use (al usarlo).
+1.name	Bola de arroz
+1.help	Arroz recién hecho envuelto en alga.\nRecupera 200 PV.
+1.desc	Arroz recién hecho envuelto en alga.\nRecupera 200 PV.
+1.use	Recuperas 200 PV.
+2.name	Pescado seco
+2.help	Pescado secado con agua de mar y sake.\nNo se estropea. Recupera 400 PV.
+2.desc	Pescado secado con agua de mar y sake.\nNo se estropea.\nRecupera 400 PV.
+2.use	Recuperas 400 PV.
+3.name	Rábano
+3.help	No parece apetitoso, pero se digiere bien.\nRecupera 600 PV.
+3.desc	No parece apetitoso,\npero se digiere bien.\nRecupera 600 PV.
+3.use	Recuperas 600 PV.
+4.name	Dulce de alubia
+4.help	Dulce de alubia con forma de pollito.\nMuy nutritivo. Recupera todos los PV.
+4.desc	Dulce de alubia con forma de pollito.\nMuy nutritivo.\nRecupera todos los PV.
+4.use	Recuperas todos los PV.
+# 5: la bola de arroz podrida; se llama igual que la buena a propósito.
+5.name	Bola de arroz
+5.help	Arroz recién hecho envuelto en alga.\nTiene una pinta deliciosa...
+5.desc	Arroz recién hecho envuelto en alga.\nTiene una pinta deliciosa...
+5.use	Estaba podrida.\n¡Pierdes 150 PV!
