@@ -170,3 +170,5 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Comida: sopa de miso, almuerzo de sashimi, ñame rallado con natto, fideos de gelatina, dango, mochi, cuenco.
 - Herrería (Dojima): «Tasar» = appraise («Tasar el título», «Tasar historial»); atributos «Ataque », «Defensa », «Calidad », «Durabilidad », «Técnica » con espacio final.
 - Yukaku → «posada de Amakaze» en menús; en diálogo «nuestras chicas». Guardia de la cárcel: dōshin / «el guardia».
+- Tratamientos (tanda 4): Hanzaemon y Goshiro tutean al protagonista; Sosuke usa usted con el protagonista y tú con Goshiro; Kusaburo (vendedor ambulante de medicinas) usa usted con el protagonista, que le tutea. Sayo: «la niña».
+- Expresiones: «bajo la bota» (magistrados), «huele a chamusquina». Maikaze: «mensajera» (usa a la niña de mensajera).

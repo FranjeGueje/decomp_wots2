@@ -1,0 +1,41 @@
+# CTX/TimeB/B01A2x: tras ayudar a la niña, Danpachi le ofrece trabajo y alojamiento en la posada Amakaze; el protagonista puede aceptar o rechazar.
+2	Me gustaría enseñarle a leer a la niña...
+3	Debería ir a la posada Amakaze cuando oscurezca...
+11	Parece que has ayudado mucho a la niña. Debo darte las gracias.
+14	Déjame estrecharte la mano.
+15	Quizá no logré convencerte de ser guardaespaldas aquí, en Amakaze, pero has hecho un gran trabajo protegiéndola.
+18	Mire, no sé cómo darle las gracias. ¿Le gustaría trabajar aquí?
+19	Debe de necesitar trabajo, siendo nuevo en la ciudad, ¿no?
+20	Si quiere trabajar, le daremos un lugar donde alojarse.
+21	Se lo agradecería mucho.\n
+22	Ahora mismo no busco trabajo.
+25	No se preocupe. Si consigo un buen guardaespaldas con el trato, salgo ganando.
+26	Venga, le enseñaré su habitación.
+29	Ya veo. Es una lástima, pero supongo que no estaba destinado a ser.
+32	Esta es su habitación. No nos importa que se sienta como en casa.
+33	Así que, si necesita algo, solo tiene que pedirlo.
+36	Sabe, la niña parecía muy contenta al volver.
+37	Claro que no logré entender lo que intentaba explicarme.
+38	¿Tiene idea de lo que pasó?
+39	NO TENGO NI IDEA.\n
+40	QUIERO ENSEÑAR A LA NIÑA A LEER.
+43	¿No? Pues parece que le caes muy bien, así que quizá por eso está tan contenta.
+44	Sabe, la vida aquí en Amakaze no siempre es agradable para alguien en su situación.
+47	¿Usted? ¿Enseñarle?
+48	Ya veo... Es buena idea. Estoy totalmente de acuerdo, pero Maikaze la usa de mensajera...
+51	Quizá debería preguntarle a Maikaze.
+54	Quizá debería preguntárselo a ella primero.
+55	Durante el día está ocupada con preparativos y entrenamientos, así que solo podrá verla por la noche.
+56	Pregúnteme si quiere verla.
+59	¿Sí? ¿Quería algo?
+60	NO, OLVÍDELO.\n
+61	¿PUEDO HABLAR CON MAIKAZE?\n
+65	¿No? Pues si necesita algo, solo tiene que decirlo.
+68	¿Maikaze? Lo siento, pero es la chica más solicitada de aquí. No es tan fácil verla.
+69	Pero si de verdad tiene que verla, quizá podamos arreglarlo.
+72	¿Usted? ¿Enseñarle? Ya veo... Es buena idea. Estoy totalmente de acuerdo, pero Maikaze la usa de mensajera...
+81	NO, NO ES NADA.\n
+82	¿Puedo hablar con Maikaze?
+85	¿No? Pues si necesita algo, solo tiene que decirlo.
+88	Sí, seguramente estará libre ahora. Venga conmigo.
+91	Lo siento, pero está ocupada ahora. Si quiere verla, vuelva por la noche.
