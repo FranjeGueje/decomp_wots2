@@ -174,3 +174,5 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Expresiones: «bajo la bota» (magistrados), «huele a chamusquina». Maikaze: «mensajera» (usa a la niña de mensajera).
 - Kyojiro es **femenina** (el inglés dice «She loves this kind of thing»): usar género femenino al hablar de ella.
 - rub out → «liquidar»; protection money → «dinero de protección»; «calaña» (his kind); Maikaze trata de usted al protagonista.
+- ryo y mon: monedas, sin traducir. Soma: droga (nombre propio). Yasuno: magistrado corrupto (el hablante `kureemon` se trata como Yasuno); Nishino: ronin; Otomi y Kasumi: femeninas. Yasuno tutea al protagonista.
+- Juego de palabras Sayo/Sayonara: «¿Sayo? ¿Sayonara? ¿Adiós?».
