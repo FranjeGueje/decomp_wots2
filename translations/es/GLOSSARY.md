@@ -172,3 +172,5 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Yukaku → «posada de Amakaze» en menús; en diálogo «nuestras chicas». Guardia de la cárcel: dōshin / «el guardia».
 - Tratamientos (tanda 4): Hanzaemon y Goshiro tutean al protagonista; Sosuke usa usted con el protagonista y tú con Goshiro; Kusaburo (vendedor ambulante de medicinas) usa usted con el protagonista, que le tutea. Sayo: «la niña».
 - Expresiones: «bajo la bota» (magistrados), «huele a chamusquina». Maikaze: «mensajera» (usa a la niña de mensajera).
+- Kyojiro es **femenina** (el inglés dice «She loves this kind of thing»): usar género femenino al hablar de ella.
+- rub out → «liquidar»; protection money → «dinero de protección»; «calaña» (his kind); Maikaze trata de usted al protagonista.
