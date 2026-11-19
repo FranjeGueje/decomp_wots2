@@ -178,3 +178,4 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Juego de palabras Sayo/Sayonara: «¿Sayo? ¿Sayonara? ¿Adiós?».
 - `yositaka` = el magistrado jefe Kuroha («el magistrado jefe»; «el magistrado» en corto): usted al protagonista, tú a Goshiro. Yasuno usa usted con el magistrado jefe y tú con Hanzaemon.
 - «samurái de tres al cuarto» (bum), «timar» (rip off), «la altanera» (uppity wench), «puesto de guardia» (guardhouse), Jirocho (nombre propio).
+- Kasumi y el protagonista se tutean. wolfsbane → «acónito». «el Chief» sin más: según contexto, Hanzaemon («el jefe») o el magistrado jefe Kuroha; Goshiro lo trata de usted.
