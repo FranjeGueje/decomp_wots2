@@ -176,3 +176,5 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - rub out → «liquidar»; protection money → «dinero de protección»; «calaña» (his kind); Maikaze trata de usted al protagonista.
 - ryo y mon: monedas, sin traducir. Soma: droga (nombre propio). Yasuno: magistrado corrupto (el hablante `kureemon` se trata como Yasuno); Nishino: ronin; Otomi y Kasumi: femeninas. Yasuno tutea al protagonista.
 - Juego de palabras Sayo/Sayonara: «¿Sayo? ¿Sayonara? ¿Adiós?».
+- `yositaka` = el magistrado jefe Kuroha («el magistrado jefe»; «el magistrado» en corto): usted al protagonista, tú a Goshiro. Yasuno usa usted con el magistrado jefe y tú con Hanzaemon.
+- «samurái de tres al cuarto» (bum), «timar» (rip off), «la altanera» (uppity wench), «puesto de guardia» (guardhouse), Jirocho (nombre propio).
