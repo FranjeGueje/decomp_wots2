@@ -24,6 +24,7 @@ mods/*/*.so
 
 # The game disc and its contents (copyrighted: never commit)
 extracted/
+/extracted
 extracted_vol/
 
 # Local project notes
