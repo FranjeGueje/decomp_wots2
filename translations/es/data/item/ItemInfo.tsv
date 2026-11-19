@@ -113,3 +113,88 @@
 32.name	Botellita
 32.help	Botella de soma que recuperaste de Kasumi.\nPor supuesto, no debes beberla.
 32.desc	Botella de soma que recuperaste\nde Kasumi. Por supuesto,\nno debes beberla.
+# objetos 33-60 (tanda 2): accesorios; sin «use»
+33.name	Máscara de zorro
+33.help	Uno de los adornos más sencillos, esta máscara\nse ve a menudo en las fiestas.
+33.desc	Uno de los adornos más sencillos,\nesta máscara se ve a menudo\nen las fiestas.
+34.name	Máscara de tengu
+34.help	Máscara con forma de demonio de las montañas.\nDicen que da poderes ocultos... quizá.
+34.desc	Máscara con forma de demonio\nde las montañas. Dicen que da\npoderes ocultos... quizá.
+35.name	Máscara de demonio
+35.help	Obra de toda la vida de un maestro mascarero,\ndicen que está inspirada en su esposa...
+35.desc	Obra de toda la vida de un maestro\nmascarero. Dicen que está inspirada\nen su esposa...
+36.name	Máscara de noh
+36.help	Máscara del teatro noh. Dicen que un samurái\nasesino la llevaba puesta.
+36.desc	Máscara del teatro noh.\nDicen que un samurái asesino\nla llevaba puesta.
+37.name	Máscara de carnaval
+37.help	Máscara de colores adornada con plumas.\nEstá de moda entre algunas familias ricas del sur.
+37.desc	Máscara de colores adornada con plumas.\nEstá de moda entre algunas\nfamilias ricas del sur.
+38.name	Gafas
+38.help	Unas gafas de aspecto refinado e intelectual.\nBasta con ponérselas para sentirse más listo.
+38.desc	Unas gafas de aspecto refinado\ne intelectual. Basta con ponérselas\npara sentirse más listo.
+39.name	Biwa
+39.help	Instrumento de cuerda de madera del período Nara.\nTodo samurái de verdad sabe tocar algo.
+39.desc	Instrumento de cuerda de madera usado\ndesde el período Nara. Todo samurái\nde verdad sabe tocar unas piezas.
+40.name	Paraguas
+40.help	Hecho por Tokujiro, el paragüero de Amahara.\nDa ganas de que llueva.
+40.desc	Hecho por Tokujiro, el paragüero\nde Amahara. Da ganas de que llueva.
+41.name	Loro
+41.help	Si miras a los ojos de este sensible pájaro,\nverás que reza por la paz en Amahara.
+41.desc	Si miras a los ojos de este sensible\npájaro, verás que reza por la paz\nen Amahara.
+42.name	Hombreras
+42.help	Lo último de la armadura de un gran general,\nvendida poco a poco para conseguir dinero.
+42.desc	Lo último que queda de la armadura\nde un gran general, vendida poco a poco\npara conseguir dinero.
+43.name	Shuriken
+43.help	Diseñada para ser la estrella arrojadiza más poderosa\njamás hecha, pero de momento nadie sabe usarla...
+43.desc	Diseñada para ser la estrella arrojadiza\nmás poderosa jamás hecha, pero de\nmomento nadie sabe usarla...
+44.name	Tablilla funeraria
+44.help	Una tablilla funeraria. *Las personas de corazón débil\ndeberían consultar a un médico antes de usarla.*
+44.desc	Una tablilla funeraria. *Las personas de\ncorazón débil deberían consultar a un\nmédico antes de usarla.*
+45.name	Flor
+45.help	Un lirio artificial hecho por artesanos de Amahara.\nImprescindible para el samurái a la última moda.
+45.desc	Un lirio artificial hecho por\nartesanos de Amahara. Imprescindible\npara el samurái a la última moda.
+46.name	Mono
+46.help	Sakujiro, el mono, es muy listo y simpático.\nLe gusta alborotar el pelo a la gente...
+46.desc	Sakujiro, el mono, es muy listo\ny simpático. Le gusta alborotar\nel pelo a la gente...
+47.name	Águila blanca
+47.help	Da aire de importancia solo con llevarla en el hombro.\nIrradia nobleza.
+47.desc	Da aire de importancia solo con llevarla\nen el hombro. Irradia nobleza.
+48.name	Diadema
+48.help	Con dos velas encendidas en lo alto, es divertida\nen las fiestas y útil de noche.
+48.desc	Con dos velas encendidas en lo alto,\nes muy divertida en las fiestas\ny resulta útil de noche.
+49.name	Parche de ojo
+49.help	Lo usó un antiguo samurái. Hace parecer malvado,\npero cuesta calcular distancias.
+49.desc	Dicen que lo usó un antiguo samurái.\nHace parecer malvado, pero la percepción\nde profundidad se resiente.
+50.name	Sombrero pirata
+50.help	Misterioso sombrero que llegó a Amahara.\nDa +5 a la habilidad de navegación.
+50.desc	Este misterioso sombrero acabó\nde algún modo en Amahara.\nDa +5 a la habilidad de navegación.
+51.name	Conejo
+51.help	Hace falta un verdadero maestro para lucirlo... Mejor\nno entrar en tiendas con él puesto...
+51.desc	Hace falta un verdadero maestro\npara lucirlo... Mejor no entrar\nen tiendas con él puesto...
+52.name	Afro
+52.help	Cierto samurái extranjero lo dejó atrás tras\nuna batalla espantosa...
+52.desc	Cierto samurái extranjero lo dejó\natrás tras una batalla espantosa...
+53.name	Gafas de sol
+53.help	La quintesencia de la elegancia, estas «gafas de sol»\nestán de moda entre los ricos y famosos.
+53.desc	La quintesencia de la elegancia, estas\n«gafas de sol» están de moda entre\nlos ricos y famosos.
+54.name	Máscara antigás
+54.help	Protege de todo tipo de gas venenoso.\nPero quizá no haya muchas ocasiones de usarla...
+54.desc	Protege de todo tipo de gas\nvenenoso. Pero quizá no haya\nmuchas ocasiones de usarla...
+55.name	Juego de disfraces
+55.help	Ni el mejor amigo reconocería a quien lo lleva.\nPerfecto para misiones secretas...?
+55.desc	Ni el mejor amigo reconocería a quien\nlo lleva. Perfecto para misiones\nsecretas...?
+56.name	Armas modernas
+56.help	Basadas en la «electricidad», son lo más avanzado\nde la tecnología de Edo. Ningún samurái las usaría.
+56.desc	Basadas en la «electricidad», son lo más\navanzado de la tecnología de Edo.\nNingún samurái de verdad las usaría.
+57.name	Frasco de medicina
+57.help	Una botella escondida en la casa del doctor Genan.\nAl parecer es una especie de bebida...
+57.desc	Una botella escondida en la casa\ndel doctor Genan. Al parecer es\nuna especie de bebida...
+58.name	Máscara de hockey
+58.help	La rabia homicida invade a quien la lleva.\nMejor reservarla para cuando haga falta...
+58.desc	Al ponérsela, la rabia homicida invade\na quien la lleva. Mejor reservarla\npara cuando de verdad haga falta...
+59.name	Orejas de gato
+59.help	Con estas lindas orejas de gato, los enemigos\nse confían y bajan la guardia.
+59.desc	Con estas lindas orejas de gato,\nlos enemigos se confían\ny bajan la guardia.
+60.name	Alas de ángel
+60.help	Un samurái ángel que ayuda a quien lo necesita.\nPor desgracia, no permiten volar.
+60.desc	Un samurái ángel que ayuda\na quien lo necesita. Por desgracia,\nno permiten volar.
