@@ -21,3 +21,95 @@
 5.help	Arroz recién hecho envuelto en alga.\nTiene una pinta deliciosa...
 5.desc	Arroz recién hecho envuelto en alga.\nTiene una pinta deliciosa...
 5.use	Estaba podrida.\n¡Pierdes 150 PV!
+# objetos 6-32 (tanda 1)
+6.name	Ginseng
+6.help	Raíz de la medicina china que da energía.\nRecupera 1 PR.
+6.desc	Raíz de la medicina china\nque da energía.\nRecupera 1 PR.
+6.use	Recuperas 1 PR.
+7.name	Sales aromáticas
+7.help	Tónico de hierbas medicinales, muy amargo.\nRecupera 2 PR.
+7.desc	Tónico de hierbas medicinales,\nmuy amargo.\nRecupera 2 PR.
+7.use	Recuperas 2 PR.
+8.name	Medicina
+8.help	Polvo de diez clases de hierbas medicinales.\nNo se sabe si te sentará bien...
+8.desc	Polvo de diez clases de\nhierbas medicinales.\nNo se sabe si te sentará bien...
+8.use	¡Pierdes 1 PR!
+9.name	Sake
+9.help	Sake especial de Amahara.\nNo es muy popular. Recupera 2 PR, pero...
+9.desc	Sake especial de Amahara.\nNo es muy popular.\nRecupera 2 PR, pero...
+9.use	Recuperas 2 PR.\n¡Pero pierdes 150 PV!
+11.name	Polvo para espadas
+11.help	Quita el aceite de la hoja de la espada.\nAumenta en 5 el Ataque de la espada.
+11.desc	Quita el aceite de la hoja\nde la espada.\nAumenta en 5 el Ataque de la espada.
+11.use	Tu Ataque ha aumentado 5 puntos.
+12.name	Amuleto
+12.help	Amuleto de buena suerte para espadas.\nAumenta en 5 la Defensa de la espada.
+12.desc	Amuleto de buena suerte\npara espadas.\nAumenta en 5 la Defensa de la espada.
+12.use	Tu Defensa ha aumentado 5 puntos.
+13.name	Pergamino
+13.help	Escrito por un maestro espadachín para sus alumnos.\nPermite aprender una técnica nueva.
+13.desc	Escrito por un maestro espadachín\npara sus alumnos.\nPermite aprender una técnica nueva.
+13.use	¡Has aprendido una técnica nueva!
+14.name	Pergamino especial
+14.help	Escrito hace mucho por un maestro célebre.\nPermite aprender una técnica poderosa.
+14.desc	Escrito hace mucho\npor un maestro célebre.\nPermite aprender una técnica poderosa.
+15.name	Pergamino secreto
+15.help	Pergamino secreto escrito por un famoso maestro.\nPermite aprender una técnica secreta.
+15.desc	Pergamino secreto escrito\npor un famoso maestro.\nPermite aprender una técnica secreta.
+16.name	Rosario budista
+16.help	Hilo de 108 cuentas de cristal que ayuda\na librarse de los deseos terrenales. PV máx. +100
+16.desc	Hilo de 108 cuentas de cristal,\nque ayuda a librarse de\nlos deseos terrenales. PV máx. +100
+16.use	¡Tus PV máximos han aumentado en 100!
+17.name	Talismán
+17.help	Talismán de madera con una plegaria a los espíritus\nde la naturaleza. PV máx. +300
+17.desc	Talismán de madera con una plegaria\na los espíritus de la naturaleza.\nPV máx. +300
+17.use	¡Tus PV máximos han aumentado en 300!
+18.name	Cuenta mágica
+18.help	Hecha de una piedra antigua con poderes mágicos,\nparece rebosar energía. PV máx. +500
+18.desc	Hecha de una piedra antigua con\npoderes mágicos; parece rebosar\nenergía. PV máx. +500
+18.use	¡Tus PV máximos han aumentado en 500!
+19.name	Polvo de longevidad
+19.help	Polvo de longevidad de un médico extranjero.\nPR máx. +1
+19.desc	Polvo de longevidad preparado\npor un médico extranjero.\nPR máx. +1
+19.use	Tu PR máximo ha aumentado en 1.
+20.name	Aceite para espadas
+20.help	Protege la hoja de la espada del óxido.\nAumenta temporalmente el Ataque de la espada.
+20.desc	Protege la hoja de la espada\ndel óxido. Aumenta temporalmente\nel Ataque de la espada.
+20.use	Tu Ataque ha aumentado.
+21.name	Muñeco Amagatsu
+21.help	Se cree que ahuyenta a los espíritus malignos.\nAumenta temporalmente la Defensa.
+21.desc	Se cree que ahuyenta a los\nespíritus malignos. Aumenta\ntemporalmente la Defensa.
+21.use	Tu Defensa ha aumentado.
+22.name	Seta demoníaca
+22.help	Usada desde antiguo por los samuráis, aumenta\ntemporalmente el Ataque y la Defensa.
+22.desc	Usada desde antiguo por los samuráis,\naumenta temporalmente\nel Ataque y la Defensa.
+22.use	¡Te sientes más poderoso!\nTu Ataque y tu Defensa han aumentado.
+23.name	Paquete
+23.help	Un paquete envuelto en un trozo de tela.\nNo se sabe qué hay dentro.
+23.desc	Un paquete envuelto en un trozo\nde tela. No se sabe qué hay dentro.
+24.help	Un paquete envuelto en un trozo de tela.\nParece que dentro hay una caja de madera.
+24.desc	Un paquete envuelto en un trozo\nde tela. Parece que dentro hay\nuna caja de madera.
+25.name	Horquilla
+25.help	Horquilla de marfil de mujer, delicadamente labrada.\nAlguien debe de estar buscándola...
+25.desc	Horquilla de marfil de mujer,\ndelicadamente labrada. Alguien debe\nde estar buscándola...
+26.name	Gatito
+26.help	Un gatito adorable de unos tres meses.\nSolo mirarlo te relaja.
+26.desc	Un gatito adorable de unos\ntres meses. Solo mirarlo\nte relaja.
+27.name	Papeles secretos
+27.help	Unos papeles de aspecto muy importante.\nTe gustaría mirar dentro, pero te contienes...
+27.desc	Unos papeles de aspecto muy importante.\nTe gustaría mirar dentro, pero\nte contienes...
+28.name	Bebé
+28.help	Duerme profundamente y es muy mono. Más vale\nque lo devuelvas cuanto antes a sus padres...
+28.desc	Duerme profundamente y es muy mono.\nMás vale que lo devuelvas\ncuanto antes a sus padres...
+29.name	Caja del dinero
+29.help	Caja para transportar dinero, de pino y bien cerrada.\nNo se puede abrir.
+29.desc	Caja para transportar dinero.\nEs de pino y está bien cerrada.\nNo se puede abrir.
+30.name	Caja de 100 ryo
+30.help	Caja con la recompensa por matar al magistrado jefe.\nNo te la gastes toda en el mismo sitio...
+30.desc	Caja con la recompensa por matar\nal magistrado jefe. No te la gastes\ntoda en el mismo sitio...
+31.name	Carta
+31.help	Carta escrita por Sayo. Dice que se va a vivir\ncon Beniya.
+31.desc	Carta escrita por Sayo. Dice que se va\na vivir con Beniya.
+32.name	Botellita
+32.help	Botella de soma que recuperaste de Kasumi.\nPor supuesto, no debes beberla.
+32.desc	Botella de soma que recuperaste\nde Kasumi. Por supuesto,\nno debes beberla.
