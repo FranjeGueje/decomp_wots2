@@ -154,3 +154,12 @@ Hanzaemon, Kasumi, Goshiro, Soma, Yasuno, Maikaze, Danpachi, Kuroha, Nakamura, G
 Takanuma, Muto, Nami, Otomi, Chiyo, Sosuke, Kagenuma; los tres matones de los Aoto:
 Ichikichi (`itikiti` en los scripts), Nihei (`nihei`, tartamudea) y Santa (`santa`).
 Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
+
+## Decisiones fijadas (tandas de scripts)
+
+- **El protagonista es masculino** (decisión del usuario): «quieto», «te detendremos», «chaval». Sin formas femeninas ni «la protagonista».
+- stray samurai → «samurái callejero» (juego de palabras con «gato callejero»).
+- No-Name from Amakaze → «la sin nombre de Amakaze» (apodo de la niña muda, Sayo).
+- O-kyo (apodo de Kyojiro que usa Ichikichi) → se deja «O-kyo».
+- bodyguard → «guardaespaldas».
+- Tratamiento: Sosuke Nakamura (magistrado) y Danpachi hablan de «usted» al protagonista; Danpachi tutea a Maikaze y a la niña; Chiyo tutea.
