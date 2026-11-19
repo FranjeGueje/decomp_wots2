@@ -1,0 +1,228 @@
+# 06_work: work_dispose_obj_b, work_fight_bugyo_a, work_hunting_obj_a, work_informant_a, work_judgment_obj_a, work_kidnapping_obj_a.
+work_dispose_obj_b:0.33	¡Dame tu vida!\nYa volveré.
+work_dispose_obj_b:0.38	Qué broma más sosa.
+work_dispose_obj_b:0.40	...¿Lo dice en serio?
+work_dispose_obj_b:0.44	Pues entonces lo contrato...
+work_dispose_obj_b:0.46	De acuerdo, hasta luego.
+work_dispose_obj_b:0.53	...¡%s!!
+work_dispose_obj_b:0.57	¿Q-qué hace aquí a estas horas?\nYa no tengo trabajo para usted.
+work_dispose_obj_b:0.61	Así que el otro se lo ha contado\ntodo, ¿no?
+work_dispose_obj_b:0.62	Sí, el que envió al asesino\ncontra usted fui yo mismo.
+work_dispose_obj_b:0.64	¿Todavía no lo entiende?\nNo es tan torpe.
+work_dispose_obj_b:0.65	Ha trabajado mucho para la Magistratura.
+work_dispose_obj_b:0.67	No crea que no me he dado cuenta.
+work_dispose_obj_b:0.68	Eso hizo mi decisión\naún más difícil.
+work_dispose_obj_b:0.70	Verá...
+work_dispose_obj_b:0.72	Sencillamente, sabe demasiado.
+work_dispose_obj_b:0.73	Ha trabajado mucho en la sombra...\ntras bambalinas...
+work_dispose_obj_b:0.74	Sabe demasiado de lo que pasa\ndetrás de la fachada pública.
+work_dispose_obj_b:0.76	No puedo dejar que alguien así\nsalga vivo de Amahara.
+work_dispose_obj_b:0.77	Es el riesgo de hacer negocios así.
+work_dispose_obj_b:0.80	Pero por un capricho del destino,\nlo tengo aquí, delante de mí...
+work_dispose_obj_b:0.81	¿Qué le parece...?
+work_dispose_obj_b:0.83	¿Empezamos de nuevo?
+work_dispose_obj_b:0.84	¿Dejamos atrás todo este feo asunto?
+work_dispose_obj_b:0.87	¡Te mataré!\nOlvidémoslo.
+work_dispose_obj_b:0.88	¿No?
+work_dispose_obj_b:0.92	Entonces me temo que tendré que\ncumplir mi plan original.
+work_dispose_obj_b:0.99	Y sacarle de en medio.
+work_dispose_obj_b:0.102	Sabía que entraría en razón.
+work_dispose_obj_b:0.103	Trabajaremos juntos\na partir de ahora, %s.
+work_dispose_obj_b:0.105	Tómelo como símbolo\nde nuestra nueva relación.
+work_dispose_obj_b:0.120	¡Espero grandes cosas de él!
+work_dispose_obj_b:3.3	¡Ya basta!
+work_dispose_obj_b:8.5	Has eliminado al intermediario.
+work_dispose_obj_b:8.6	He matado al intermediario.\nLa Magistratura caerá en el caos...
+work_dispose_obj_b:8.7	Insensato...
+work_dispose_obj_b:8.19	¿Era esto...\nlo que...quería?
+work_fight_bugyo_a:0.26	Has sofocado los disturbios...
+work_fight_bugyo_a:0.27	He sofocado los disturbios.\nDebo volver a Amakaze-cho a cobrar.
+work_fight_bugyo_a:2.58	Mierda...
+work_fight_bugyo_a:2.60	¡Ahh!
+work_fight_bugyo_a:2.62	¡Argh!!
+work_hunting_obj_a:0.43	Es un arma excelente...
+work_hunting_obj_a:0.44	Ha valido la fortuna\nque me costó...
+work_hunting_obj_a:0.46	Je, je, je...
+work_hunting_obj_a:0.47	Me gustaría probar esta espada\ncon alguien...
+work_hunting_obj_a:0.49	Es una gran espada...
+work_hunting_obj_a:0.50	Tuve que quitársela a su dueño.\nSeguramente era una herencia.
+work_hunting_obj_a:0.52	Es una espada maravillosa...
+work_hunting_obj_a:0.53	Un samurái necesita un arma así.
+work_hunting_obj_a:0.55	Una obra de arte...
+work_hunting_obj_a:0.56	¿Quién daría algo así como garantía\npor un préstamo?
+work_hunting_obj_a:0.58	Sí...
+work_hunting_obj_a:0.59	Es una obra maestra.\nMira la curva de esa hoja...
+work_hunting_obj_a:0.62	Tendré que despedirme de ti,\nvieja espada. Si no fuera\ntan pobre...
+work_hunting_obj_a:0.64	Es un arma asombrosa...
+work_hunting_obj_a:0.65	Esto cambia todo lo que creía saber\nsobre las espadas...
+work_hunting_obj_a:0.67	Pasear de noche por la calle\ncon una buena hoja a la cintura...
+work_hunting_obj_a:0.68	Nada haría más feliz\na un amante de las espadas...
+work_hunting_obj_a:0.70	Me llevo esa espada.\nBuenas noches.
+work_hunting_obj_a:0.75	Perfecto...
+work_hunting_obj_a:0.88	¡Prueba el filo de Shichiten-batto!
+work_hunting_obj_a:0.90	¿Podrás aguantar mi Burai-an?
+work_hunting_obj_a:0.92	¡Te haré pedazos con mi Tsuma-yoji!
+work_hunting_obj_a:0.94	¡Ante Shimei-engetsu\nnadie puede resistirse!
+work_hunting_obj_a:0.96	¡Prueba el filo de Yaso!
+work_hunting_obj_a:0.98	¡Voy a pulirte con Kunishige!
+work_hunting_obj_a:0.100	¡Deja que Kotetsu te acompañe\nal otro mundo!
+work_hunting_obj_a:0.102	¡Mutsu-no-shirakane es una espada\ncomo no has visto nunca!
+work_hunting_obj_a:0.104	¡Prepárate para rendirte\nante Kamikaze!
+work_hunting_obj_a:0.119	Has fracasado en el asesinato.
+work_hunting_obj_a:5.5	¿Quieres pelear conmigo?
+work_hunting_obj_a:5.7	¿Qué te pasa?
+work_hunting_obj_a:5.11	¡Me llevo esa espada!\nNo me hagas caso...
+work_hunting_obj_a:8.2	¡Caza de espadas lograda!
+work_hunting_obj_a:8.13	No, mi Shichiten-batto...
+work_hunting_obj_a:8.15	Mi hermosa Burai-an...
+work_hunting_obj_a:8.17	Pero Tsuma-yoji es mía...
+work_hunting_obj_a:8.19	Mi Shimei-engetsu...
+work_hunting_obj_a:8.21	Quería ser...\nun ninja...
+work_hunting_obj_a:8.23	Kunishige...\nFuiste una espada sin suerte...
+work_hunting_obj_a:8.25	Adiós, compañera...
+work_hunting_obj_a:8.27	¿Podrás manejar...\nMutsu-no-shirakane...?
+work_hunting_obj_a:8.29	Kamikaze...\nGracias por los buenos ratos...
+work_informant_a:0.62	Oh, ¿cómo está,\njovencito?
+work_informant_a:0.64	Oh, buenas noches,\njovencito.
+work_informant_a:0.66	Oh, ¿cómo está,\nmi elegante caballero\nde cierta edad?
+work_informant_a:0.68	¡Oh! ¿Cómo está...\nchiquillo?
+work_informant_a:0.70	¿Cómo está,\njovencita?
+work_informant_a:0.72	¿Cómo está,\nseñorita?
+work_informant_a:0.74	¿No tiene clase mañana,\nverdad, jovencito...?
+work_informant_a:0.76	Su familia debe de estar\npreocupada por usted, jovencita...
+work_informant_a:0.78	Creo que he visto su cara\nen algún sitio...
+work_informant_a:0.80	Me especializo en información\nsobre espadas.
+work_informant_a:0.81	Conozco todas las espadas\nque llegan a Amahara.
+work_informant_a:0.83	Pero no me malinterprete.
+work_informant_a:0.84	Solo se lo cuento como\ncompañero aficionado a las espadas.
+work_informant_a:0.85	Lo que haga con mi información\nes asunto suyo.
+work_informant_a:0.87	¿Entendido?
+work_informant_a:0.88	Lo entiendo.\nEso es un problema.\n¿Qué tal una cita?
+work_informant_a:0.89	¿Se encuentra bien?
+work_informant_a:0.91	Bien.
+work_informant_a:0.94	Hmm. Si quiere tratar conmigo,\nentonces eso sí que es un problema.
+work_informant_a:0.97	Es solo un disfraz.\nNo me malinterprete.
+work_informant_a:0.99	Huelga decir que las espadas\nno están vivas...
+work_informant_a:0.101	Así que cuando una espada llega\na Amahara, siempre viene con su dueño.
+work_informant_a:0.102	Recuérdelo...
+work_informant_a:0.105	Así que elija.
+work_informant_a:0.112	Tengo noticias jugosas.
+work_informant_a:0.113	Normal: 200 mon.\nDeluxe: 800 mon.\nSuperdeluxe: 1600 mon.
+work_informant_a:0.117	Pago por adelantado.\nSon 200 mon.
+work_informant_a:0.118	Has pagado 200 mon...
+work_informant_a:0.124	Pago por adelantado.\nSon 800 mon.
+work_informant_a:0.125	Has pagado 800 mon...
+work_informant_a:0.132	Pago por adelantado.\nSon 1600 mon.
+work_informant_a:0.133	Has pagado 1600 mon...
+work_informant_a:0.139	No tiene suficiente dinero.
+work_informant_a:0.151	La espada se llama\nShichiten-batto.
+work_informant_a:0.154	Caza de espadas
+work_informant_a:0.155	Tengo pistas de la espada\nShichiten-batto. Está en las afueras.
+work_informant_a:0.157	No es una obra maestra, pero\nsirve para practicar.
+work_informant_a:0.158	Está en las afueras.
+work_informant_a:0.161	La espada se llama\nBurai-an.
+work_informant_a:0.165	Tengo pistas de la espada Burai-an.\nEstá en Otsuka-cho.
+work_informant_a:0.167	«Dinámica» es la palabra justa.\nNo es lujosa, pero tiene\nun encanto rústico.
+work_informant_a:0.168	Está en Otsuka-cho.
+work_informant_a:0.171	La espada se llama\nTsuma-yoji.
+work_informant_a:0.175	Tengo pistas de la espada Tsuma-yoji.\nEstá en la Magistratura.
+work_informant_a:0.177	Es una espada de una mano. Exige\nhabilidad, pero es un buen filo.
+work_informant_a:0.178	Está en la Magistratura de Amahara.
+work_informant_a:0.181	La espada se llama\nShimei-engetsu.
+work_informant_a:0.185	Tengo pistas de la espada\nShimei-engetsu. Está en las afueras.
+work_informant_a:0.187	Esta hoja flexible le permite\nasestar varios golpes seguidos.\nMuy buena.
+work_informant_a:0.191	La espada se llama\nYaso.
+work_informant_a:0.195	Tengo pistas de la espada Yaso.\nEstá en Otsuka-cho.
+work_informant_a:0.197	Es la clase de espada que usan\nlos ninjas. Ligera,\nideal para misiones secretas.
+work_informant_a:0.201	La espada se llama\nKunishige.
+work_informant_a:0.205	Tengo pistas de la espada Kunishige.\nEstá en la Magistratura.
+work_informant_a:0.207	Es una gran espada para el combate\nreal, y está muy bien hecha.
+work_informant_a:0.208	Está en la Magistratura.
+work_informant_a:0.211	La espada se llama\nKotetsu.
+work_informant_a:0.215	Tengo pistas de la espada Kotetsu.\nEstá en las afueras.
+work_informant_a:0.217	Es un hallazgo de verdad. La forma,\nel aspecto y el filo son fantásticos.
+work_informant_a:0.221	La espada se llama\nMutsu-no-shirakane.
+work_informant_a:0.225	Tengo pistas de la espada\nMutsu-no-shirakane. Está en Otsuka-cho.
+work_informant_a:0.227	La espada de un verdadero guerrero.\nLa curva de la hoja no tiene igual.
+work_informant_a:0.231	La espada se llama\nKamikaze.
+work_informant_a:0.235	Tengo pistas de la espada Kamikaze.\nEstá en la Magistratura.
+work_informant_a:0.237	El filo de esta espada es una locura\nde afilado... ¡Una obra de arte!
+work_informant_a:0.241	Eso es todo por ahora.
+work_informant_a:0.245	¿Eh?\nVenga, váyase.
+work_informant_a:0.247	No tengo información por ahora.\nVuelva más tarde, ¿quiere?
+work_informant_a:0.252	Tiene una visita en las afueras.
+work_informant_a:0.257	Pero si es mi querido %s...
+work_informant_a:0.259	Parece que un perro salvaje\nse ha colado en Amahara...
+work_judgment_obj_a:0.23	Hum...
+work_judgment_obj_a:0.24	¿Qué quieres de mí, samurái?
+work_judgment_obj_a:0.26	¿Qué pasa?
+work_judgment_obj_a:0.27	Estoy ocupado. Si no quieres salir\nmal parado, lárgate.
+work_judgment_obj_a:0.32	¡He venido a liquidarte!\nNo me hagas caso...
+work_judgment_obj_a:0.41	¿¡Han descubierto mis tratos ilegales!?
+work_judgment_obj_a:0.43	¡Lo estaba esperando!
+work_judgment_obj_a:0.45	¡Perro del gobierno!
+work_judgment_obj_a:0.70	¡E-este es f-fuerte!
+work_judgment_obj_a:0.72	¡No quiero m-morir!
+work_judgment_obj_a:0.74	¿¡Eres algún tipo de monstruo!?
+work_judgment_obj_a:0.78	No has conseguido matarlo...
+work_judgment_obj_a:1.5	Cuidado...
+work_judgment_obj_a:5.4	¡Guarda esa arma!
+work_judgment_obj_a:5.6	Oye, ¿qué pasa...?
+work_judgment_obj_a:5.8	¿¡Qué demonios haces!?
+work_judgment_obj_a:5.20	¡Han descubierto mis tratos ilegales!
+work_judgment_obj_a:8.2	Lo has matado.
+work_judgment_obj_a:8.3	Lo he rematado. Ahora debo volver a\nla Magistratura.
+work_kidnapping_obj_a:0.114	Je, je, je...
+work_kidnapping_obj_a:0.115	Ahora solo tengo que salir\nde Amahara...
+work_kidnapping_obj_a:0.118	Pan comido. Ahora me espera\nla vida fácil...
+work_kidnapping_obj_a:0.121	Seguro que alguien encontrará al bebé...\nAlgún día...
+work_kidnapping_obj_a:0.123	Dime dónde está el bebé.\n........
+work_kidnapping_obj_a:0.132	¡Ay, ay!
+work_kidnapping_obj_a:0.134	¿Q-qué quieres decir?!
+work_kidnapping_obj_a:0.136	¿De qué hablas?!
+work_kidnapping_obj_a:0.160	Bien, bien.\nHablaré...
+work_kidnapping_obj_a:0.162	¡Lo siento!\nHablaré...
+work_kidnapping_obj_a:0.164	Tengo demasiados nervios\npara pelear...
+work_kidnapping_obj_a:0.191	Está en la Puerta Otemon...
+work_kidnapping_obj_a:0.192	«¡Bienvenido a Amahara!»\n...El bebé está en la Puerta Otemon!
+work_kidnapping_obj_a:0.195	«¡Vive una vida larga y austera!»\n...El bebé está en la Puerta Otemon!
+work_kidnapping_obj_a:0.200	Está en la Magistratura...
+work_kidnapping_obj_a:0.201	«¡Libertad robada!»\n...El bebé está en la Magistratura!
+work_kidnapping_obj_a:0.204	«¡Juicio del cielo!»\n...El bebé está en la Magistratura!
+work_kidnapping_obj_a:0.207	«¡Protegido por la justicia!»\n...El bebé está en la Magistratura!
+work_kidnapping_obj_a:0.209	Está en el Cuartel de los Aoto...
+work_kidnapping_obj_a:0.210	«Con un cartel a la espalda»\n...El bebé está en el Cuartel de los Aoto!
+work_kidnapping_obj_a:0.213	«Junto al auténtico calibre firme»\nEl bebé está en el Cuartel de los Aoto!
+work_kidnapping_obj_a:0.216	«En una guarida de ladrones»\n...El bebé está en el Cuartel de los Aoto!
+work_kidnapping_obj_a:0.218	Está en las afueras...
+work_kidnapping_obj_a:0.219	«Con miedo al médico»\n...El bebé está en las afueras!
+work_kidnapping_obj_a:0.222	«Cuando estás enfermo...»\n...El bebé está en las afueras!
+work_kidnapping_obj_a:0.225	«Un pequeño jardín»\n...El bebé está en las afueras!
+work_kidnapping_obj_a:0.227	Está en Otsuka-cho...
+work_kidnapping_obj_a:0.228	«Cuando cumplas veintiuno»\n...El bebé está en Otsuka-cho!
+work_kidnapping_obj_a:0.231	«Si aguantas el hedor»\n...El bebé está en Otsuka-cho!
+work_kidnapping_obj_a:0.234	«Rodeado de fruta»\n...El bebé está en Otsuka-cho!
+work_kidnapping_obj_a:0.236	Está en Numata-cho...
+work_kidnapping_obj_a:0.237	«El sonido de los martillos es una nana»\n...El bebé está en Numata-cho!
+work_kidnapping_obj_a:0.240	«Rodeado de arroz»\n...El bebé está en Numata-cho!
+work_kidnapping_obj_a:0.243	«Invitado a pasar»\n...El bebé está en Numata-cho!
+work_kidnapping_obj_a:0.245	Está en Kakinuma-cho...
+work_kidnapping_obj_a:0.246	«Donde se chasquean los labios»\n...El bebé está en Kakinuma-cho!
+work_kidnapping_obj_a:0.249	«El viajero se quita los zapatos»\n...El bebé está en Kakinuma-cho!
+work_kidnapping_obj_a:0.252	«Fresco si se abanica»\n...El bebé está en Kakinuma-cho!
+work_kidnapping_obj_a:0.254	Está en Shikano-cho...
+work_kidnapping_obj_a:0.255	«El sonido de las campanillas de viento»\n...El bebé está en Shikano-cho!
+work_kidnapping_obj_a:0.258	«Donde se reúnen los héroes»\n...El bebé está en Shikano-cho!
+work_kidnapping_obj_a:0.261	«Naturaleza hecha por el hombre»\n...El bebé está en Shikano-cho!
+work_kidnapping_obj_a:5.6	¿Quién eres?
+work_kidnapping_obj_a:5.14	¿Qué estás haciendo?
+work_kidnapping_obj_a:5.16	¡Dime dónde está el bebé!\nNo me hagas caso...
+work_kidnapping_obj_a:5.109	«Junto al auténtico calibre firme»\n...El bebé está en el Cuartel de los Aoto!
+work_kidnapping_obj_a:7.11	¿¡Quién ha hablado!?
+work_kidnapping_obj_a:7.13	¡No me digas...!
+work_kidnapping_obj_a:7.38	Bien, bien.\nHablaré...
+work_kidnapping_obj_a:7.91	«Junto al auténtico calibre firme»\n...El bebé está en el Cuartel de los Aoto!
+work_kidnapping_obj_a:8.4	El bebé...
+work_kidnapping_obj_a:8.6	Lo siento...
+work_kidnapping_obj_a:8.8	Perdón.\nPor favor, que alguien lo encuentre...
+work_kidnapping_obj_a:8.44	Está en la Magistratura...
