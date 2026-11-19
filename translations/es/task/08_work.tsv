@@ -1,0 +1,201 @@
+# 08_work: work_rescue_obj_a, work_revenge_obj_a, work_robber_obj_a, work_search_obj_a, work_stingy_a, work_training_bouncer_a y work_yakuza_a (intermediario de la banda Aoto).
+work_rescue_obj_a:0.27	Je, je, je...\nHe conseguido algo bueno...
+work_rescue_obj_a:0.29	¿Eh?\n¿Quieres algo?
+work_rescue_obj_a:0.31	Esto se lo llevaré\na mi tierra natal...
+work_rescue_obj_a:0.35	Bien, bien...
+work_rescue_obj_a:0.37	¡No te acerques!
+work_rescue_obj_a:0.39	¡Devuelve lo que robaste!\nVen aquí un momento.\nNo importa.
+work_rescue_obj_a:0.52	¿¡Crees que te lo voy a\ndar sin más!?
+work_rescue_obj_a:0.54	¡No pienso devolverlo!
+work_rescue_obj_a:0.56	¡Es mío!
+work_rescue_obj_a:0.78	¡Maldición!
+work_rescue_obj_a:0.81	¡Oh!!
+work_rescue_obj_a:0.84	¡Ah!!
+work_rescue_obj_a:5.4	¿Qué te pasa?
+work_rescue_obj_a:5.8	¿Q-qué pasa?
+work_rescue_obj_a:5.10	¡Devuelve lo que robaste!\nNo te preocupes por eso.
+work_revenge_obj_a:0.23	Un samurái...
+work_revenge_obj_a:0.24	No me mires\nasí.
+work_revenge_obj_a:0.27	¡Cuidado, o\nte entierro!
+work_revenge_obj_a:0.29	Grrr...
+work_revenge_obj_a:0.30	Es gente como tú la que\nme da ganas de matar...
+work_revenge_obj_a:0.32	¡He venido a vengarme!\nNo me hagas caso...
+work_revenge_obj_a:0.41	¿¡Qué significa esto!?
+work_revenge_obj_a:0.43	Así que mis crímenes\nvuelven a perseguirme...
+work_revenge_obj_a:0.45	¡Basta de charla!\n¡Que hable tu espada!
+work_revenge_obj_a:0.70	¡A-alguien!
+work_revenge_obj_a:0.72	¡Maldición!\n¡No puedo ganar!
+work_revenge_obj_a:0.74	¡Me queda grande!
+work_revenge_obj_a:0.78	Has perdido tu oportunidad...
+work_revenge_obj_a:1.5	¡Cuidado!
+work_revenge_obj_a:5.4	¿¡Q-qué haces!?
+work_revenge_obj_a:5.6	¿¡Tienes algún problema\nconmigo!?
+work_revenge_obj_a:5.8	Bonita espada...
+work_revenge_obj_a:5.10	¡He venido a vengarme!\nNo te preocupes por eso.
+work_revenge_obj_a:7.9	¿¡Quién eres!?
+work_revenge_obj_a:7.13	Eres un asesino como yo, ¿eh?
+work_revenge_obj_a:8.2	Has cumplido tu misión.
+work_revenge_obj_a:8.3	He completado la misión con éxito.\nDebo volver a Amakaze-cho.
+work_robber_obj_a:0.27	Un poco más...\nQué emoción llevar esto...
+work_robber_obj_a:0.29	¿Eh?\n¿Puedo ayudarte?
+work_robber_obj_a:0.31	Ahora solo tengo que entregar\neste paquete al señor\ny...
+work_robber_obj_a:0.33	¿Puedo hacer algo\npor ti?
+work_robber_obj_a:0.35	Vaya pieza más bonita...
+work_robber_obj_a:0.37	Oh, hola.
+work_robber_obj_a:0.39	¡Dame eso!\nVen aquí un momento...\nNo me hagas caso.
+work_robber_obj_a:0.52	¡L-ladrón!
+work_robber_obj_a:0.54	¡No puedes interponerte\nen el amor!
+work_robber_obj_a:0.56	¡No p-puedo darte\nesto!
+work_robber_obj_a:0.78	¡No!
+work_robber_obj_a:0.81	¡Mi obra maestra!
+work_robber_obj_a:0.84	¡Se va a romper!
+work_robber_obj_a:5.4	¿¡Q-qué!?
+work_robber_obj_a:5.8	¿Qué pasa?
+work_robber_obj_a:5.10	He venido por eso...\nNo te preocupes.
+work_search_obj_a:0.65	¿¡Has venido a llevarme\nde vuelta!?
+work_search_obj_a:0.66	Así es.\nSolo doy un paseo.\nNo te hagas ilusiones.
+work_search_obj_a:0.70	¿Te ha mandado mi padre?
+work_search_obj_a:0.73	¡Ah, estaba seguro de que\nmi padre te había mandado...!
+work_search_obj_a:0.77	¿Ah, sí? Pues vuelve a casa...
+work_search_obj_a:0.80	No pienso volver. Estoy harto\nde esa tienda de sombrillas\nde tres al cuarto.
+work_search_obj_a:0.81	¿Y qué tiene de malo?\nTienes toda la razón.\nCállate y vuelve a casa.
+work_search_obj_a:0.85	Digo yo que ser sombrillero\nes de lo más cutre.
+work_search_obj_a:0.89	Ni siquiera sabe nada\nde sombrillas.
+work_search_obj_a:0.93	Nunca...
+work_search_obj_a:0.96	¡Seré lo que quiera\ncuando crezca!
+work_search_obj_a:0.97	¿Qué quieres ser?\n¿Sombrillero?\nBasta de charla. Vete a casa.
+work_search_obj_a:0.101	Pues... aún no lo sé.
+work_search_obj_a:0.109	No pienso volver.
+work_search_obj_a:0.111	Haz lo que quieras.\nPor favor, vuelve.
+work_search_obj_a:0.123	No, no pienso volver\na ese sitio.
+work_search_obj_a:0.124	¡Pero más me vale buscar\notro sitio donde esconderme!
+work_search_obj_a:0.127	...De acuerdo, volveré.
+work_search_obj_a:0.128	Solo esta vez, como\nfavor personal para ti.
+work_search_obj_a:0.132	¡Lo has encontrado!
+work_search_obj_a:0.133	He encontrado al hijo del sombrillero.\nDebo ir a cobrar mi recompensa...
+work_search_obj_a:0.136	No lo has convencido...
+work_search_obj_a:0.142	¡Ya voy, ya voy!
+work_search_obj_a:0.144	¿Dónde me escondo\nla próxima vez...?
+work_search_obj_a:0.151	Oye, samurái...
+work_search_obj_a:0.153	Has venido a buscarme,\n¿verdad?
+work_search_obj_a:0.158	Es muy propio de mi padre\npedir a otro que encuentre\na su propia hija...
+work_search_obj_a:0.161	No, creía que mi padre te\nhabía pedido que me\nencontraras...
+work_search_obj_a:0.165	Ah, ¿sí?\nPues entonces no tienes\nnada que ver conmigo.
+work_search_obj_a:0.168	Mi padre trata a su hija\ncomo a una de sus herramientas...
+work_search_obj_a:0.169	Creo que te equivocas.\nAsí son las cosas.\nBasta de charla. Vete a casa.
+work_search_obj_a:0.173	¡No!\nAsí es él.
+work_search_obj_a:0.177	¿Entonces entiendes\na qué me refiero?
+work_search_obj_a:0.184	Hasta mi boda es solo para\nayudar a su negocio. ¡Yo no\ntengo voz ni voto!
+work_search_obj_a:0.185	Eso pasa a menudo.\nSeguro que te quiere.\nCállate y vuelve a casa.
+work_search_obj_a:0.189	¡Ya lo sé!\n¡Por eso quiero empezar\nuna vida nueva!
+work_search_obj_a:0.191	...No estoy tan segura\nde eso.
+work_search_obj_a:0.195	Vaya samurái más grosero\neres, ¿no?
+work_search_obj_a:0.198	Haz lo que quieras...\nPor favor, vuelve a casa.
+work_search_obj_a:0.208	¡No volveré a casa con mi\npadre pase lo que pase!
+work_search_obj_a:0.210	¡Quiero una vida nueva!
+work_search_obj_a:0.213	Bueno, de acuerdo.\nVolveré a casa con mi padre.
+work_search_obj_a:0.215	Pero no te hagas ideas.\n¡No pienso cambiar de opinión!
+work_search_obj_a:0.219	¡La has hecho volver a casa!
+work_search_obj_a:0.220	He convencido a la hija de Mikawaya\npara que vuelva a casa. Ahora, a cobrar.
+work_search_obj_a:0.223	No la has convencido...
+work_search_obj_a:0.229	No hace falta que me acompañes.\n¡Ya me voy!
+work_search_obj_a:0.231	A ver, ¿cómo podré\nsalir del pueblo...?
+work_search_obj_a:0.241	Venía a buscarte.\nSolo doy un paseo.\nNo, nada.
+work_search_obj_a:0.245	Lo siento, pero no\npuedo ayudarle.
+work_search_obj_a:0.249	¿Ah, sí?\nEsta zona es ideal para\npasear...
+work_search_obj_a:0.253	¿No?\nPues me voy...
+work_search_obj_a:0.256	Tengo que volver\nal trabajo pronto...
+work_search_obj_a:0.257	Estás dando problemas.\nTú también necesitas descanso...\nCállate y vuelve al trabajo.
+work_search_obj_a:0.261	Pero mi trabajo\nya está terminado.
+work_search_obj_a:0.264	Claro. Terminé mi trabajo antes\npara poder descansar.
+work_search_obj_a:0.268	Qué directo es usted...
+work_search_obj_a:0.271	De hecho, se me da bastante\nbien mi trabajo.
+work_search_obj_a:0.273	Entiendo que\nme necesiten.
+work_search_obj_a:0.274	Debe de ser duro para ti.\nNo te emociones.\nBasta de charla. Vuelve.
+work_search_obj_a:0.278	Bueno, no me importa\ndemasiado.
+work_search_obj_a:0.282	L-lo siento...
+work_search_obj_a:0.286	...Es usted duro, ¿verdad?
+work_search_obj_a:0.288	Haz lo que quieras...\nPor favor, vuelve.
+work_search_obj_a:0.299	Hmm.\nVolveré dentro de un rato.
+work_search_obj_a:0.300	Tengo que pensar\nalgunas cosas a solas.
+work_search_obj_a:0.303	Entiendo.\nVolveré al trabajo.
+work_search_obj_a:0.305	¡El sake sabe mejor\ncuando se bebe tras\nuna dura jornada!
+work_search_obj_a:0.309	¡Lo has convencido de volver!
+work_search_obj_a:0.310	He convencido a Sabuji para que vuelva\nal trabajo. Ahora, a Amakaze-cho.
+work_search_obj_a:0.319	¡A trabajar, a trabajar!
+work_search_obj_a:0.321	Déjeme en paz.
+work_search_obj_a:0.323	Es usted, %s.
+work_search_obj_a:7.9	¡A-auxilio!
+work_search_obj_a:7.11	¡O-oye!
+work_search_obj_a:7.13	¡Aargh!
+work_search_obj_a:8.2	Has fracasado en la misión.
+work_stingy_a:0.35	¿Tu nombre es\n%s...?
+work_stingy_a:0.37	Así es.\nNunca he oído ese nombre.
+work_stingy_a:0.40	Perdona que te moleste...
+work_stingy_a:0.46	¡He venido a matarte!
+work_stingy_a:7.6	¿Eres %s?
+work_stingy_a:8.5	¿Será verdad? El asesino dice que\nlo mandó el intermediario de la banda Aoto.
+work_stingy_a:8.6	Averiguar la verdad
+work_stingy_a:8.11	Déjame... contarte algo\ninteresante...
+work_stingy_a:8.13	Conoces muy bien al que me\nmandó... Es el... intermediario\n...de los Aoto.
+work_stingy_a:8.16	¿Será verdad? El asesino dice que\nlo mandó el intermediario de la Magistratura.
+work_stingy_a:8.24	Conoces muy bien al que me\nmandó... Es el... intermediario\n...de la Magistratura.
+work_training_bouncer_a:0.29	Has terminado el entrenamiento...
+work_training_bouncer_a:0.30	He terminado el entrenamiento.\n¿Me dará tiempo a volver a Amakaze-cho?
+work_training_bouncer_a:2.107	¿¡E-este tipo!?
+work_training_bouncer_a:2.121	¡Te mueves demasiado rápido\npara verte!
+work_training_bouncer_a:2.131	¡Eh! ¿¡Sesenta!?
+work_training_bouncer_a:2.133	¿Esto es... un sueño?
+work_training_bouncer_a:2.135	¡Amahara se va a quedar vacía!
+work_training_bouncer_a:2.140	He cambiado de opinión\nsobre ti...
+work_training_bouncer_a:2.178	Eres demasiado fuerte...
+work_yakuza_a:0.135	No tengo trabajo para usted, amigo.
+work_yakuza_a:0.139	No tengo trabajo para usted\nde momento. Vuelva más tarde.
+work_yakuza_a:0.143	Hmm...\n¿Qué hago...?
+work_yakuza_a:0.145	¡Ah, ha llegado en el\nmomento perfecto!
+work_yakuza_a:0.147	Contrato a gente para hacer\ntrabajos para la banda Aoto.
+work_yakuza_a:0.148	¿Seguro que no es la primera vez\nque trabaja en Amahara?
+work_yakuza_a:0.155	P-perdone por eso.
+work_yakuza_a:0.156	Bueno, si quiere trabajo,\nvuelva cuando quiera.
+work_yakuza_a:0.159	Bueno, déjeme explicarle cómo\nfuncionan aquí los trabajos.
+work_yakuza_a:0.160	Primero le hablo de\nlos que le contratan...
+work_yakuza_a:0.162	Hay mucha gente en Amahara\nque necesita a alguien como usted.
+work_yakuza_a:0.163	Recoger esas peticiones\nes lo que hacemos los\nintermediarios.
+work_yakuza_a:0.164	Como le decía, soy intermediario\nde trabajos de la banda Aoto.
+work_yakuza_a:0.166	Los de la banda cogen todos\nlos trabajos que no pueden hacer\ny se los endilgan a...
+work_yakuza_a:0.167	Eh... no, no es eso.\nContratan gente para\nresolver problemas difíciles.
+work_yakuza_a:0.168	Usted cobra, el problema\nse resuelve y todos\nquedan contentos.
+work_yakuza_a:0.169	Hay gente como yo\npor la Magistratura\ny Amakaze-cho.
+work_yakuza_a:0.170	Pero no les haga caso.\nSi quiere trabajo, venga a verme.
+work_yakuza_a:0.172	Recuerde: «Si busca trabajo,\n¡acuda a la banda Aoto!»
+work_yakuza_a:0.173	Lo siguiente es:
+work_yakuza_a:0.175	«El trabajo dura hasta cobrar.»
+work_yakuza_a:0.177	Aunque acabe el trabajo,\n¡no puede relajarse!
+work_yakuza_a:0.178	A veces le pago\ny a veces no.
+work_yakuza_a:0.180	Pero recuerde: el trabajo\nno acaba hasta que venga\na cobrar.
+work_yakuza_a:0.181	Lo siguiente es lo más\nimportante.
+work_yakuza_a:0.187	¡Así que asegúrese de acabar\nlos trabajos a tiempo!
+work_yakuza_a:0.189	Es una regla\nfirme.
+work_yakuza_a:0.190	No le pagaré si se pasa\ndel plazo.
+work_yakuza_a:0.194	¡Trabajar para la banda Aoto!\n¡Trabajar para los magistrados!\n¡Buscar trabajo en Amakaze-cho!
+work_yakuza_a:0.228	¡Bien! Ah, una última cosa...\nEs muy importante:
+work_yakuza_a:0.238	¿Qué hago...?
+work_yakuza_a:0.241	Tengo un trabajo para usted.
+work_yakuza_a:0.242	No puedo decirlo muy alto,\npero el encargo de esta vez es...
+work_yakuza_a:0.244	Un asesinato.
+work_yakuza_a:0.245	Suena a trabajo para mí.\nNo soy un asesino.
+work_yakuza_a:0.247	Si no está seguro, quizá\nle pregunte a otro.
+work_yakuza_a:0.250	Perfecto.
+work_yakuza_a:0.251	Ahora, en cuanto a su objetivo...
+work_yakuza_a:0.265	Hoy aparecerá cierto matón\nen las Afueras.
+work_yakuza_a:0.266	Me han pedido que mate a un matón en\nlas Afueras, de parte de los Aoto.
+work_yakuza_a:0.267	Asesinato
+work_yakuza_a:0.272	Hoy aparecerá un magistrado\nen Kakinuma-cho.
+work_yakuza_a:0.273	Me han pedido que mate a un magistrado\nen Kakinuma-cho.
+work_yakuza_a:0.279	Hoy habrá un samurái en el\nSantuario de Amahara.
+work_yakuza_a:0.280	Me han pedido que mate a un samurái en\nel Santuario de Amahara, de parte de los Aoto.
+work_yakuza_a:0.287	Acabe con ellos.
+work_yakuza_a:0.289	Es un tipo muy terco.\nNo se doblega ante la banda...
+work_yakuza_a:0.290	Pero eso demuestra\nlo duro que es.
+work_yakuza_a:0.291	Tenga cuidado.
+work_yakuza_a:0.294	¿Qué pasa? ¿Le ha entrado\nel canguelo de repente?

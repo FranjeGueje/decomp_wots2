@@ -1,0 +1,206 @@
+# 07_work: work_lostarticle_obj_a, work_message_ask_a, work_message_obj_a, work_mob_bugyo_a, work_mob_yakuza_a, work_pick_obj_a (205 cadenas).
+work_lostarticle_obj_a:0.101	Hm... ¿Qué pasa?\nParece que tiene mucha prisa...
+work_lostarticle_obj_a:0.102	¿Un paquete?\nAh, ¿anda buscando algo?
+work_lostarticle_obj_a:0.104	Sí, creo que he visto\nalgo parecido...
+work_lostarticle_obj_a:0.105	Al buscar algo,\nconviene registrar bien\nla zona.
+work_lostarticle_obj_a:0.109	En muchos casos, lo perdido\nestá más cerca de lo que cree...\n¿Cómo era el refrán...?
+work_lostarticle_obj_a:0.110	Bah, da igual.\nSuerte...
+work_lostarticle_obj_a:0.112	Hm... ¿Qué pasa,\n%s?\nParece que tiene mucha prisa...
+work_lostarticle_obj_a:0.118	¿Qué pasa, samurái?
+work_lostarticle_obj_a:0.119	¿Un paquete?\nNo, no he visto ninguno...
+work_lostarticle_obj_a:0.121	Al buscar algo,\nasegúrese de no haber\ndejado ningún sitio sin mirar.
+work_lostarticle_obj_a:0.122	Si aún no lo encuentra,\nseguro que se le ha pasado\npor alto.
+work_lostarticle_obj_a:0.126	Las cosas perdidas suelen\nestar en los sitios\nmás evidentes...
+work_lostarticle_obj_a:0.127	Dicen: «Si fuera una serpiente,\nya te habría mordido».
+work_lostarticle_obj_a:0.129	¿Algo va mal,\n%s?
+work_lostarticle_obj_a:0.135	Vaya, qué bonito está\nel cielo hoy...
+work_lostarticle_obj_a:0.136	¿Un paquete?\nSí, he visto uno.
+work_lostarticle_obj_a:0.138	Mi familia tiene una tienda,\nasí que veo paquetes de\ntodo tipo cada día.
+work_lostarticle_obj_a:0.141	Quizá el suyo se haya\nmezclado con los nuestros.
+work_lostarticle_obj_a:0.143	Vaya, qué bonito está\nel cielo hoy, %s.
+work_lostarticle_obj_a:1.9	¡Uy!
+work_lostarticle_obj_a:1.11	Ay...
+work_lostarticle_obj_a:1.13	Uy, perdone...
+work_lostarticle_obj_a:1.15	¡Ay!
+work_message_ask_a:0.29	Ay, vaya...
+work_message_ask_a:0.31	Samurái, ¿podría\nayudarme, por favor?
+work_message_ask_a:0.32	Me distraje mirando el paisaje\ny perdí de vista a mi esposa.
+work_message_ask_a:0.34	Si ve a mi esposa,\ndígale un mensaje, ¿de acuerdo?
+work_message_ask_a:0.35	Tengo mucha prisa, así que\nle daré una buena recompensa.
+work_message_ask_a:0.36	Entendido.\nNo soy ningún recadero.
+work_message_ask_a:0.41	¡Oh!\n¡Muchas gracias!
+work_message_ask_a:0.55	Si se encuentra con mi esposa,\ndígale: «Espero en el sitio\nde antes».
+work_message_ask_a:0.57	Si se encuentra con mi esposa,\ndígale: «Espero en el\nlugar de siempre».
+work_message_ask_a:0.59	Si se encuentra con mi esposa,\ndígale: «La hora y el\nlugar de siempre».
+work_message_ask_a:0.62	Seguro que anda por algún\nlado buscándome.
+work_message_ask_a:0.66	Mensaje del extranjero
+work_message_ask_a:0.67	Un extranjero le ha pedido que\nentregue un mensaje a su esposa.
+work_message_ask_a:0.68	¡No hay tiempo!\n¡Dése prisa, por favor!
+work_message_ask_a:0.71	¡Oh, no!
+work_message_ask_a:0.88	Déjelo en mis manos.\nEstoy ocupado. Hágalo usted mismo.
+work_message_ask_a:0.90	¡Por favor, ayúdeme!
+work_message_ask_a:0.99	Qué falta de respeto...
+work_message_ask_a:0.102	¡Samurái!
+work_message_ask_a:0.104	¡Gracias a usted\nhe encontrado a mi esposa!
+work_message_ask_a:0.106	Esto no es mucho, pero tome...
+work_message_ask_a:0.122	Esperé en el sitio de antes,\npero no estaba mi esposa.
+work_message_ask_a:0.124	Esperé en el lugar de siempre,\npero no estaba mi esposa.
+work_message_ask_a:0.126	Esperé a la hora de siempre,\npero no llegó mi esposa.
+work_message_ask_a:0.129	Aun así, le doy algo\npor las molestias...
+work_message_ask_a:0.143	Muchas gracias.
+work_message_ask_a:5.4	¿Qué quiere?
+work_message_ask_a:7.6	¡Socorro!
+work_message_obj_a:0.15	¿Dónde estará...?
+work_message_obj_a:0.17	¡Oh, samurái!\n¿Ha visto a mi marido?
+work_message_obj_a:0.18	Va vestido muy\nllamativamente...
+work_message_obj_a:0.19	Tengo un mensaje para usted.\nNo lo conozco.
+work_message_obj_a:0.25	¿De verdad? ¿Qué le dijo?
+work_message_obj_a:0.28	Hm...\nMe pregunto dónde\nhabrá ido...
+work_message_obj_a:0.30	Está donde estaba antes.\nEstá en el lugar de siempre.\nLa hora y el lugar de siempre.
+work_message_obj_a:0.43	Le ha dado el mensaje...
+work_message_obj_a:0.44	He dado el mensaje a la esposa del extranjero.\nDebo ir a cobrar mi recompensa.
+work_message_obj_a:0.46	...Entiendo.
+work_message_obj_a:0.48	Iré a mirar enseguida.
+work_message_obj_a:0.50	Entonces iré corriendo.
+work_message_obj_a:8.3	No ha podido entregar\nel mensaje...
+work_mob_bugyo_a:8.47	¡M-maldita sea!
+work_mob_bugyo_a:8.49	Eres fuerte...
+work_mob_bugyo_a:8.51	Van 10...
+work_mob_bugyo_a:8.53	Qué destreza...
+work_mob_bugyo_a:8.55	Llevas 20 bajas...
+work_mob_bugyo_a:8.57	¡No tienen la menor oportunidad!
+work_mob_bugyo_a:8.59	¡Van 30!
+work_mob_bugyo_a:8.63	¡Ya llevas 40!!
+work_mob_bugyo_a:8.65	Estás loco...
+work_mob_bugyo_a:8.67	¡Van 50!
+work_mob_bugyo_a:8.69	Eres una bestia...
+work_mob_bugyo_a:8.71	¿De verdad? ¿¡60?!
+work_mob_bugyo_a:8.73	¡Ya basta!
+work_mob_bugyo_a:8.75	¡Solo queda un poco de tiempo!
+work_mob_bugyo_a:8.77	¡Un poco más! ¡Vamos!
+work_mob_bugyo_a:8.79	¡100 bajas!\n¡Enhorabuena!
+work_mob_yakuza_a:8.49	Eres un monstruo...
+work_mob_yakuza_a:8.61	¿Qué clase de\nmonstruo eres?!
+work_mob_yakuza_a:8.65	¡Estás como una cabra!
+work_mob_yakuza_a:8.69	¡Eres el mismísimo demonio!
+work_mob_yakuza_a:8.71	¡Eh, 60?!
+work_mob_yakuza_a:8.73	¡Ya no más, por favor!!
+work_mob_yakuza_a:8.79	¡100 bajas! ¡Increíble!
+work_pick_obj_a:0.65	Buenas, samurái.\n¿Qué tal van esas cosas?
+work_pick_obj_a:0.66	Uno más bajo que el otro.\nCuide esa lengua.\nOjo con los carteristas.
+work_pick_obj_a:0.69	¡Estupendo!\nMe alegra oírlo.
+work_pick_obj_a:0.70	Seguro que su trabajo también va bien.
+work_pick_obj_a:0.75	Oiga, eso no está bien.
+work_pick_obj_a:0.77	Nunca va a conseguir pareja\nsi siempre anda enfadado...
+work_pick_obj_a:0.81	«¿Carteristas?»
+work_pick_obj_a:0.83	¿Qué son?\n¿Se pueden comer?
+work_pick_obj_a:0.87	Eh, %s.\n¿Qué tal le va todo?
+work_pick_obj_a:0.89	Ser optimista es\nmi secreto.
+work_pick_obj_a:0.95	Buenas.\n¿Quiere que le hable de\nmi tierra?
+work_pick_obj_a:0.96	¿Por qué no?\nMe da igual.\nOjo con los carteristas.
+work_pick_obj_a:0.99	Mi tierra está muy lejos,\nal otro lado del mar...
+work_pick_obj_a:0.100	Es un lugar estupendo.\nPaisajes preciosos.
+work_pick_obj_a:0.107	Me interesa mucho Japón...
+work_pick_obj_a:0.108	Sobre todo ese peinado\nque llevan todos los hombres.\n¿Dónde puedo conseguir uno?
+work_pick_obj_a:0.114	Pero no tengo nada\nque valga la pena robar...
+work_pick_obj_a:0.116	¡Solo mi amor por\nmi tierra! ¡Ja, ja!
+work_pick_obj_a:0.120	Buenas, %s.\n¿Quiere que le hable de\nmi tierra?
+work_pick_obj_a:0.122	¡Si uno recuerda su tierra,\npuede ir a cualquier parte!
+work_pick_obj_a:0.128	Amahara está azotada por\nolas de violencia y descontento.\nCuídese.
+work_pick_obj_a:0.129	...¿Qué?\n¿Cree que todos los extranjeros\nhablan un japonés chapurreado?
+work_pick_obj_a:0.130	Sí, lo creía.\nClaro que no.\nCuidado con los ladrones.
+work_pick_obj_a:0.133	Hmpf. Con estudio,\nhasta un extranjero puede\naprender el idioma...
+work_pick_obj_a:0.134	y las costumbres de un país.
+work_pick_obj_a:0.141	Hoy en día, demasiada gente\njuzga a los demás\npor su apariencia.
+work_pick_obj_a:0.142	Debería pensar más\nen cómo reacciona ante\nlos demás.
+work_pick_obj_a:0.146	¿Carteristas, dice?
+work_pick_obj_a:0.148	Sí, últimamente hay muchos\nladrones que se dedican a\nrobar a los extranjeros.
+work_pick_obj_a:0.149	Gracias por el aviso.\nTendré cuidado.
+work_pick_obj_a:0.153	Me han hablado muy bien\nde usted, %s.
+work_pick_obj_a:0.155	Hoy en día hay muchos\nextranjeros descuidados\npor ahí.
+work_pick_obj_a:0.160	¿Qué le trae a Amahara?
+work_pick_obj_a:0.161	Nada en especial.\nEstoy en una misión secreta.\nOjo con los carteristas.
+work_pick_obj_a:0.165	Pues tenga cuidado.\nÚltimamente hay mucha\nviolencia por aquí.
+work_pick_obj_a:0.170	¿Ah, sí?\n¡Qué imaginativo...!
+work_pick_obj_a:0.172	Bueno, si puedo ayudarle\nen algo, no dude en preguntar.
+work_pick_obj_a:0.176	¿Hm?\nAh, sí.
+work_pick_obj_a:0.178	Cuídese también.
+work_pick_obj_a:0.182	De vuelta al trabajo...
+work_pick_obj_a:0.187	Últimamente el cansancio\nme pesa bastante...
+work_pick_obj_a:0.188	A estas horas del día,\nel cansancio me pesa tanto\nque no lo aguanto.
+work_pick_obj_a:0.189	¿Duerme lo suficiente?\n¿Come bien?\nOjo con los carteristas.
+work_pick_obj_a:0.192	Puede que sí.
+work_pick_obj_a:0.193	Me esfuerzo por dormir\nal menos 3 horas cada noche.\n¿No es suficiente?
+work_pick_obj_a:0.198	Hoy en día es difícil\ncomer como es debido.
+work_pick_obj_a:0.200	Por eso doy un paseo.\n¡Al menos alimento la mente!\nSí...
+work_pick_obj_a:0.204	¿Hm?\nAh, sí...
+work_pick_obj_a:0.206	Quisiera ver al carterista\nque se atreviera a robarme.
+work_pick_obj_a:0.210	Qué cansancio...
+work_pick_obj_a:0.215	Antes había de todo tipo\nde animales en Amahara.
+work_pick_obj_a:0.216	¿Qué prefiere, perros\no gatos?
+work_pick_obj_a:0.217	Sin duda, perros.\nGatos, por supuesto.\nOjo con los carteristas.
+work_pick_obj_a:0.220	¡Lo sabía! Me encantan los perros.\nSon muy inteligentes\ny obedientes.
+work_pick_obj_a:0.221	Aunque algunos son un poco\ndemasiado entusiastas...
+work_pick_obj_a:0.226	Gatos, ¿eh?\nSon muy monos, eso sí.
+work_pick_obj_a:0.228	Hace un rato le pregunté lo\nmismo a un hombre que paseaba\nun perro.
+work_pick_obj_a:0.229	Dijo que prefería los gatos.\n¡Su perro casi se muere de disgusto!
+work_pick_obj_a:0.233	¿Carteristas...?
+work_pick_obj_a:0.235	He vivido mucho,\npero nunca he oído hablar\nde un animal con ese nombre.
+work_pick_obj_a:0.239	Me pregunto dónde se\npodrán encontrar animales...
+work_pick_obj_a:0.244	¿Qué cree que es lo más\nimportante para vivir\nen Amahara?
+work_pick_obj_a:0.245	Por supuesto, la confianza.\nEl dinero lo es todo.\nOjo con los carteristas.
+work_pick_obj_a:0.248	Es usted muy ingenuo.
+work_pick_obj_a:0.249	Si confía en la gente,\nsolo le traicionarán.
+work_pick_obj_a:0.254	No entiende nada.
+work_pick_obj_a:0.256	El dinero no significa nada.
+work_pick_obj_a:0.257	Pero gente como usted\nnunca se da cuenta\nhasta que es demasiado tarde.
+work_pick_obj_a:0.262	Exacto...
+work_pick_obj_a:0.263	Cuando era joven, un\ncarterista me quitó\ntodo lo que tenía.
+work_pick_obj_a:0.265	Cada noche sueño con\nesa escena horrible...
+work_pick_obj_a:0.269	Así es la vida.
+work_pick_obj_a:0.274	Hoy he cometido un gran\nerror en el trabajo...
+work_pick_obj_a:0.275	Creo que me van a despedir...
+work_pick_obj_a:0.277	¿De qué voy a vivir\nsi pierdo el empleo?
+work_pick_obj_a:0.278	Hacerme ronin libre.\nUnirme a la banda Aoto.\nHacerme carterista.
+work_pick_obj_a:0.281	Hmm. Es una posibilidad.
+work_pick_obj_a:0.282	Quizá merezca la pena que\nme despidan para ser mi\npropio jefe...
+work_pick_obj_a:0.287	¿Quiere decir hacerse\ncriminal?
+work_pick_obj_a:0.288	Pero si usara mi experiencia\ncomo magistrado, quizá\npudiera...
+work_pick_obj_a:0.290	No, no puedo.\nNo puedo.
+work_pick_obj_a:0.294	¿Un carterista, eh?
+work_pick_obj_a:0.296	Pero ¿no hace falta una coordinación\nsobrehumana para eso?
+work_pick_obj_a:0.297	Pues me gustaría aprenderlo,\nsi pudiera.
+work_pick_obj_a:0.301	¿Qué voy a hacer...?
+work_pick_obj_a:0.306	Trabajamos día y noche\npara mejorar Amahara.
+work_pick_obj_a:0.307	Pero nada ha cambiado.\nMe pregunto qué más\nhay que hacer...
+work_pick_obj_a:0.308	Hace falta más esfuerzo.\nNo hace falta nada.\nArreste a los carteristas.
+work_pick_obj_a:0.311	Yo también lo creo.
+work_pick_obj_a:0.312	¡Si no nos esforzamos más,\nnunca llegará la paz\na Amahara!
+work_pick_obj_a:0.317	Supongo que tiene razón.\nSupongo que hay que esperar\nun poco para ver resultados.
+work_pick_obj_a:0.319	¡Solo tenemos que seguir\nal pie de la letra las órdenes\ndel magistrado jefe!
+work_pick_obj_a:0.324	¿Carteristas, eh?\nHay muchas denuncias\nde robos.
+work_pick_obj_a:0.325	Supongo que ocuparse de\nlas cosas pequeñas es la clave\npara traer la paz.
+work_pick_obj_a:0.329	Tengo que esforzarme más...
+work_pick_obj_a:1.87	¡¿Un carterista?!
+work_pick_obj_a:1.89	¡¿Es usted un carterista?!
+work_pick_obj_a:1.91	¡Es usted un ladrón!
+work_pick_obj_a:1.93	¡¿Es usted un ladrón?!
+work_pick_obj_a:1.95	¡Ladrón!
+work_pick_obj_a:1.97	¡Ladrón!.....!!
+work_pick_obj_a:1.99	¿Qué está haciendo ahí?
+work_pick_obj_a:1.101	¡Pare eso!
+work_pick_obj_a:5.15	¿Q-q-qué está haciendo?!
+work_pick_obj_a:5.19	¡Y-yo me rindo!
+work_pick_obj_a:5.27	¡S-pare eso!
+work_pick_obj_a:5.31	¡Q-qué peligro!
+work_pick_obj_a:5.43	¡Seguro que podemos\nhablarlo con calma!
+work_pick_obj_a:5.47	¡Socorro!\n¡Que alguien venga!
+work_pick_obj_a:7.16	¡Echo de menos mi tierra!
+work_pick_obj_a:7.19	¡Quiero volver a casa!
+work_pick_obj_a:7.22	Si tan solo fuera más fuerte...
+work_pick_obj_a:7.25	¡¿He hecho algo malo?!
+work_pick_obj_a:7.28	Me da vueltas la cabeza...
+work_pick_obj_a:7.31	Hoy no es mi día\nde suerte...
+work_pick_obj_a:7.34	Creo que me he torcido\nel tobillo...
+work_pick_obj_a:7.37	Qué mala suerte...
+work_pick_obj_a:7.40	¿Cree que puede\nmatarme sin más?
