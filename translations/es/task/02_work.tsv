@@ -29,3 +29,174 @@ work_chonin_a:0.173	Si tarda demasiado,\npueden pasar cosas malas...
 work_chonin_a:0.174	¡Así que asegúrese de\nterminarlos a tiempo!
 work_chonin_a:0.177	Si se pasa del plazo,\nno le pagaré.
 work_chonin_a:0.178	No lo olvide.
+
+work_bugyo_a:0.543	Ya veo. Pensaba que era\nusted el indicado para\neste trabajo, pero...
+work_bugyo_a:0.544	No pasa nada.\nSi cambia de idea,\nvuelva más tarde.
+work_bugyo_a:0.551	¿Qué...?
+work_bugyo_a:0.552	No tengo por qué decirle\ndónde está, ¿verdad?
+work_bugyo_a:0.553	Confíe en mí.\n¿Puedo volver más tarde?
+work_bugyo_a:0.555	Confío en usted.
+work_bugyo_a:0.564	¿No se va a rendir\nahora, verdad?
+work_bugyo_a:0.566	¡Es usted de lo peor!\nNo debí hacerme ilusiones\ncon usted.
+work_bugyo_a:0.567	Olvídelo.\nGracias por todo.\nVáyase a casa.
+work_bugyo_a:0.569	¡Oiga, %s!
+work_bugyo_a:0.571	¡Lo ha conseguido! Ya me\nimagino el caos que hay\nahora en la banda Aoto.
+work_bugyo_a:0.573	Es lo mínimo que puedo hacer.\nTome.
+work_bugyo_a:0.588	La ha fastidiado...
+work_bugyo_a:0.590	Bah, qué más da.\nTendremos que esperar\notra oportunidad.
+work_bugyo_a:0.599	Usted...
+work_bugyo_a:0.601	Tiene agallas para\nasomarse por aquí.
+work_bugyo_a:0.602	Todos esperan la ocasión\nde acabar con usted.
+work_bugyo_a:0.604	Yo incluido...
+work_bugyo_a:0.605	De verdad que no debería\nvenir por aquí.
+work_bugyo_a:0.608	Pero yo no soy\nun monstruo...
+work_bugyo_a:0.610	Por suerte, tengo un\nencargo que le vendría\nbien.
+work_bugyo_a:0.611	Quizá le dé este trabajo,\nsi es que le interesa.
+work_bugyo_a:0.613	Paga casi nada,\npero ¿lo hará?
+work_bugyo_a:0.614	Haré lo que sea.\nNo soy su esclavo.
+work_bugyo_a:0.616	¿Acaso está en posición\nde negarse?
+work_bugyo_a:0.619	Ya me lo imaginaba.
+work_bugyo_a:0.620	Le explico los detalles\ndel trabajo.
+work_bugyo_a:0.622	No puede ser más sencillo.\nAbate a cuantos miembros\nde la banda Aoto pueda.
+work_bugyo_a:0.623	Me han encargado abatir a miembros\nde los Aoto. ¡Que caigan todos!
+work_bugyo_a:0.624	Cacería
+work_bugyo_a:0.635	Nos llegan informes de que\nlos de la banda andan\ndesmandados por Amahara.
+work_bugyo_a:0.636	Son muchísimos, pero no\nson muy diestros.
+work_bugyo_a:0.638	Perfecto para alguien\ncomo usted...
+work_bugyo_a:0.639	¿Entiende? Cuantos más\nmate, más se redime.
+work_bugyo_a:0.640	Cuando esté satisfecho,\nvuelva por aquí.
+work_bugyo_a:0.642	Pero si no le importa\nel dinero, no hace falta\nque vuelva.
+work_bugyo_a:0.644	Le vigilaré,\nno se preocupe.
+work_bugyo_a:0.645	En fin, ataque a cuantos\nmiembros de la banda pueda\nhasta que se acabe el tiempo.
+work_bugyo_a:0.647	¡Matar, matar, matar!
+work_bugyo_a:0.650	Bah.\nHay gente que nunca\naprende.
+work_bugyo_a:0.651	Vaya a pedir limosna,\na mí qué más me da.
+work_bugyo_a:0.656	¿Qué...?
+work_bugyo_a:0.657	¿Ya ha terminado?
+work_bugyo_a:0.658	Sí, ya he terminado.\n¡Todavía no!
+work_bugyo_a:0.664	Ha dejado el trabajo...
+work_bugyo_a:0.665	Hum... ¿Es lo mejor que\npuede hacer?
+work_bugyo_a:0.668	Bueno, gracias.\nAquí tiene su paga...
+work_bugyo_a:0.681	¡Así me gusta!
+work_bugyo_a:0.683	Ya veo.
+work_bugyo_a:0.685	Supongo que por ahora\nha demostrado lo que vale.
+work_bugyo_a:0.687	Aquí tiene su recompensa.
+work_bugyo_a:0.707	¿Me está tomando el pelo?
+work_bugyo_a:0.708	Bueno, tampoco esperaba\ngran cosa de usted desde\nel principio.
+work_bugyo_a:0.710	Gracias.\n¡Ahora, váyase a casa!
+work_bugyo_a:0.721	Veamos...
+work_bugyo_a:0.723	Vaya, ha llegado\nen buen momento.
+work_bugyo_a:0.725	Necesito que haga un\nrecado para mí.
+work_bugyo_a:0.726	¿Qué le parece?\n¿Quiere intentarlo?
+work_bugyo_a:0.727	Los recados son pan comido.\nBusque a otro.
+work_bugyo_a:0.729	...¿Le da vergüenza?
+work_bugyo_a:0.732	Bien.\nMe alegro.
+work_bugyo_a:0.733	Le cuento los detalles\ndel trabajo.
+work_bugyo_a:0.748	Quiero que lleve estos\ndocumentos a un criado\nde la puerta Otemon.
+work_bugyo_a:0.749	Debo llevar unos documentos a un\ncriado de la puerta Otemon.
+work_bugyo_a:0.750	Recado secreto
+work_bugyo_a:0.756	Quiero que lleve estos\ndocumentos a un criado\nde Numata-cho.
+work_bugyo_a:0.757	Debo llevar unos documentos a un\ncriado de Numata-cho.
+work_bugyo_a:0.764	Quiero que lleve estos\ndocumentos a un criado\nde Shikano-cho.
+work_bugyo_a:0.765	Debo llevar unos documentos a un\ncriado de Shikano-cho.
+work_bugyo_a:0.773	Últimamente nos roban\nmuchos documentos a los\nmensajeros. Así que...
+work_bugyo_a:0.774	Los documentos que llevará\nno son secretos,\nasí que nadie sacará provecho.
+work_bugyo_a:0.775	Creo que todo esto es\nun complot de la banda\nAoto...
+work_bugyo_a:0.777	Si ve a alguien que\nparezca sospechoso, tenga\ncuidado...
+work_bugyo_a:0.781	Tendré que enviar a uno\nde mis hombres a hacerlo.
+work_bugyo_a:0.788	¿Qué pasa?
+work_bugyo_a:0.792	¡Corra a la puerta Otemon\no el criado se irá!
+work_bugyo_a:0.794	¡Corra a Numata-cho\no el criado se irá!
+work_bugyo_a:0.796	¡Corra a Shikano-cho\no el criado se irá!
+work_bugyo_a:0.798	Ya lo sé, no me meta prisa.\nNo me voy a apurar.
+work_bugyo_a:0.801	Tenga cuidado...
+work_bugyo_a:0.812	Si sigue así, verá\nque nadie se fiará\nde usted.
+work_bugyo_a:0.815	¿Lo ha hecho?
+work_bugyo_a:0.817	Muchas gracias. Sabía que\nhabía elegido bien.
+work_bugyo_a:0.819	Aquí tiene su paga.
+work_bugyo_a:0.834	¿Qué ha pasado?\n¿Ha fracasado?
+work_bugyo_a:0.836	Esto va a estropear las\ncomunicaciones con nuestros\ncontactos de fuera.
+work_bugyo_a:0.838	Bah.\nGracias de todos modos.\nYa puede irse.
+work_bugyo_a:0.847	Menuda faena...
+work_bugyo_a:0.849	Vaya, me alegro de que\nhaya pasado.
+work_bugyo_a:0.850	Acaba de llegar un trabajo.
+work_bugyo_a:0.852	Es tan sencillo que ni\nsiquiera llamaría trabajo\na esto...
+work_bugyo_a:0.854	¡Quiero que busque\nun objeto perdido!
+work_bugyo_a:0.855	Suena impresionante,\npero en realidad...
+work_bugyo_a:0.856	Solo está tapando la\nmetedura de pata de un\nmagistrado cabeza hueca...
+work_bugyo_a:0.858	Uno de los magistrados\nnuevos...
+work_bugyo_a:0.859	Se le ha caído algo\nde camino al trabajo hoy.
+work_bugyo_a:0.860	Entonces, ¿le interesa?
+work_bugyo_a:0.861	Claro.\nNo soy una niñera.
+work_bugyo_a:0.863	...¿Se lo está pensando?
+work_bugyo_a:0.866	Perfecto.\nMe vendrá muy bien.
+work_bugyo_a:0.867	Bueno, le cuento dónde\nestá el lío que montó\nel magistrado...
+work_bugyo_a:0.944	Al parecer andaba por\nla puerta Otemon.
+work_bugyo_a:0.945	Debo encontrar un objeto perdido\ncerca de la puerta Otemon.
+work_bugyo_a:0.949	Al parecer andaba por\nlas afueras.
+work_bugyo_a:0.950	Debo encontrar un objeto perdido\nen las afueras.
+work_bugyo_a:0.954	Al parecer andaba por\nOtsuka-cho.
+work_bugyo_a:0.955	Debo encontrar un objeto perdido\nen Otsuka-cho.
+work_bugyo_a:0.959	Al parecer andaba por\nNumata-cho.
+work_bugyo_a:0.960	Debo encontrar un objeto perdido\nen Numata-cho.
+work_bugyo_a:0.964	Al parecer andaba por\nKakinuma-cho.
+work_bugyo_a:0.965	Debo encontrar un objeto perdido\nen Kakinuma-cho.
+work_bugyo_a:0.969	Al parecer andaba por\nShikano-cho.
+work_bugyo_a:0.970	Debo encontrar un objeto perdido\nen Shikano-cho.
+work_bugyo_a:0.972	Buscar objeto perdido
+work_bugyo_a:0.978	Perdone, ¿puede darse\nprisa?
+work_bugyo_a:0.980	Si no encuentra ese bulto,\nni siquiera tiene con qué\ncambiarse de ropa.
+work_bugyo_a:0.981	Pues le dejo con ello.
+work_bugyo_a:0.984	Qué lástima.
+work_bugyo_a:0.986	No se gana la confianza\nde la gente rechazando\ntrabajos.
+work_bugyo_a:0.994	¿Aún no lo encuentra?
+work_bugyo_a:0.1013	Seguro que lo perdió\ncerca de la puerta\nOtemon...
+work_bugyo_a:0.1015	Seguro que lo perdió\nen las afueras...
+work_bugyo_a:0.1017	Seguro que lo perdió\nen Otsuka-cho...
+work_bugyo_a:0.1019	Seguro que lo perdió\nen Numata-cho...
+work_bugyo_a:0.1021	Seguro que lo perdió\nen Kakinuma-cho...
+work_bugyo_a:0.1023	Seguro que lo perdió\nen Shikano-cho.
+work_bugyo_a:0.1025	Déjemelo a mí.\nNo lo encuentro. Lo dejo.
+work_bugyo_a:0.1027	Bien.\nManos a la obra.
+work_bugyo_a:0.1036	¿Q-qué?
+work_bugyo_a:0.1038	¿Va a tirar por la borda\nel trabajo que le di...?
+work_bugyo_a:0.1039	Bah, da igual.\nYa puede irse.
+work_bugyo_a:0.1041	...¡Ese paquete!
+work_bugyo_a:0.1043	Sí, este es sin duda\nel que buscaba.
+work_bugyo_a:0.1045	Le diré que tenga más\ncuidado.\nAquí tiene su paga.
+work_bugyo_a:0.1060	¿No lo encontró?
+work_bugyo_a:0.1061	No hay remedio.
+work_bugyo_a:0.1063	Haré que se arrepienta\nde ser tan descuidado...\nGracias igualmente.
+work_bugyo_a:0.1073	Gracias igualmente.
+work_bugyo_a:0.1076	¡Has recibido 10 mon!
+work_bugyo_a:0.1079	¡Has recibido 15 mon!
+work_bugyo_a:0.1082	¡Has recibido 20 mon!
+work_bugyo_a:0.1085	¡Has recibido 25 mon!
+work_bugyo_a:0.1088	¡Has recibido 30 mon!
+work_bugyo_a:0.1091	¡Has recibido 35 mon!
+work_bugyo_a:0.1094	¡Has recibido 40 mon!
+work_bugyo_a:0.1097	¡Has recibido 100 mon!
+work_bugyo_a:0.1100	¡Has recibido 200 mon!
+work_bugyo_a:0.1103	¡Has recibido 300 mon!
+work_bugyo_a:0.1106	¡Has recibido 400 mon!
+work_bugyo_a:0.1109	¡Has recibido 500 mon!
+work_bugyo_a:0.1112	¡Has recibido 600 mon!
+work_bugyo_a:0.1115	¡Has recibido 700 mon!
+work_bugyo_a:0.1118	¡Has recibido 800 mon!
+work_bugyo_a:0.1121	¡Has recibido 900 mon!
+work_bugyo_a:0.1124	¡Has recibido 1000 mon!
+work_bugyo_a:0.1127	¡Has recibido 1100 mon!
+work_bugyo_a:0.1130	¡Has recibido 3000 mon!
+work_bugyo_a:0.1149	Un traidor...
+work_bugyo_a:0.1151	Nakamura y Goshiro\nse estaban peleando hace\nun rato.
+work_bugyo_a:0.1152	Parece que hay problemas\nen las filas.
+work_bugyo_a:0.1155	La Magistratura se va\na la ruina...
+work_bugyo_a:0.1159	Le haremos pagar...
+work_bugyo_a:0.1162	Así que el magistrado jefe\nha muerto...
+work_bugyo_a:0.1163	Y Goshiro también...
+work_bugyo_a:0.1165	A partir de ahora\nlas cosas se van a poner\nduras.
+work_bugyo_a:1.6	¿Qué?
+work_bugyo_a:3.3	¡Calma!
+work_bugyo_a:5.4	Guarde esa espada...
+work_bugyo_a:7.6	¿Qué está haciendo?!
+work_bugyo_a:8.2	Qué necio he sido...
