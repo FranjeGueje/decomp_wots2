@@ -1,0 +1,87 @@
+# mcard/message: pantallas de guardar / cargar. Tarjeta de memoria y
+# terminología de Sony España; %s %n %d %p y los asteriscos se conservan.
+0	Comprobando la tarjeta de memoria (8MB) (para PlayStation®2) en\nla ranura para MEMORY CARD 1.\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2).
+1	No hay tarjeta de memoria (8MB) (para PlayStation®2) en\nla ranura para MEMORY CARD 1. Se necesitan al menos ＆KB para guardar\nlos datos de Way of the Samurai 2.
+2	No hay tarjeta de memoria (8MB) (para PlayStation®2) en\nla ranura para MEMORY CARD 1.
+3	La tarjeta de memoria de la ranura para MEMORY CARD 1 no es\nuna tarjeta de memoria (8MB) (para PlayStation®2).
+4	Se ha encontrado una tarjeta de memoria (8MB) (para PlayStation®2) sin formatear en\nla ranura para MEMORY CARD 1. ¿Quieres formatearla?
+5	Se ha encontrado una tarjeta de memoria (8MB) (para PlayStation®2) sin formatear en\nla ranura para MEMORY CARD 1.
+6	Formateando. No retires la tarjeta de memoria (8MB) (para PlayStation®2)\nde la ranura para MEMORY CARD 1, ni el mando, ni reinicies ni apagues la\nconsola.
+7	Formateo completado.
+8	¡Error al formatear!
+9	No hay espacio suficiente en la tarjeta de memoria (8MB) (para PlayStation®2)\nde la ranura para MEMORY CARD 1. Se necesitan al menos ＆KB para guardar\nlos datos de Way of the Samurai 2.
+10	Los datos pueden estar dañados. Estos datos no se pueden\nusar para restaurar una partida.
+11	¿Quieres crear un archivo de guardado de Way of the Samurai 2?
+12	Creando el archivo de guardado...\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2) de la\nranura para MEMORY CARD 1, ni el mando, ni reinicies ni apagues la\nconsola.
+13	Archivo creado.
+14	No se pudo crear el archivo de guardado.
+15	¡Error en la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1!\nEl archivo de guardado de Way of the Samurai 2 puede estar dañado.
+16	Se ha retirado la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1. ¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «%n************ , Día %d, %p***********»
+17	Se ha retirado la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1. ¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «Empezar partida nueva»
+18	Selecciona un archivo de datos.
+19	¿Qué quieres hacer?
+20	Se ha retirado la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1. ¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «Datos dañados»
+21	Escribiendo el archivo de guardado....\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1.
+22	Se ha retirado la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1. ¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «%n************ Desde el principio»
+23	Archivo cargado.
+24	No se pudo cargar el archivo de guardado.
+25	¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «Empezar una partida nueva»
+26	¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «%n************ Desde el principio»
+27	¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «%n************, Día %d, %p***********»
+28	Sobrescribiendo el archivo de guardado...\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2) de la\nranura para MEMORY CARD 1, ni el mando, ni reinicies ni apagues la\nconsola.
+29	Los datos se han sobrescrito.
+30	Error al guardar.
+31	Elige la ubicación de la copia.
+32	¿Quieres sobrescribir el archivo actual?\nLos datos sobrescritos se perderán.
+33	Copiando el archivo...\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2) de la\nranura para MEMORY CARD 1, ni el mando, ni reinicies ni apagues la\nconsola.
+34	Datos copiados.
+35	Error al copiar.
+36	¿Quieres borrar los datos?\nLos datos borrados se perderán.
+37	Borrando el archivo...\nNo retires la tarjeta de memoria (8MB) (para PlayStation®2) de la\nranura para MEMORY CARD 1, ni el mando, ni reinicies ni apagues la\nconsola.
+38	Datos borrados.
+39	Error al borrar.
+40	Si ahora no eliges un archivo de datos, podrás seguir guardando\nla partida en cualquier tarjeta de memoria (8MB) (para PlayStation®2) que tenga\nun archivo de guardado de Way of the Samurai 2 o ＆KB de memoria libre.\nSin embargo, la partida se guardará en el primer archivo de datos.
+41	Puedes seguir jugando, pero no podrás guardar los datos de\nWay of the Samurai 2. ¿Quieres empezar la partida?
+42	¿Cancelar el guardado?
+43	¿Salir del juego y volver a la pantalla de título?
+44	¿Salir del juego sin guardar?
+45	Se ha retirado la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1. ¿Quieres sobrescribir los datos del archivo %s?\n\n\nDatos que se sobrescribirán: «Datos dañados»
+46	¡Error en la tarjeta de memoria (8MB) (para PlayStation®2) de la ranura para MEMORY CARD 1!\nLos datos pueden estar dañados.
+47	¿Quieres formatear la tarjeta de memoria (8MB) (para PlayStation®2)\nde la ranura para MEMORY CARD 1?
+48	Los datos pueden estar dañados.\nEstos datos no se pueden copiar.
+49	¿Empezar la partida con estos datos?
+50	El archivo de guardado de Way of the Samurai 2 de la tarjeta de memoria (8MB)\n(para PlayStation®2) de la ranura para MEMORY CARD 1 está dañado. Borra los datos\ndañados con el navegador de la consola. Se necesitan al menos ＆KB para crear\nun archivo de guardado nuevo.
+51	Datos que se guardarán: «%n************ , Día %d, %p***********»
+53	S í
+54	N o
+55	Empezar
+56	Atrás
+57	Copiar
+58	Borrar
+59	Empezar partida nueva
+60	Fecha: 
+61	Dinero: 
+62	Espada:
+63	PV:
+64	PR:
+65	Nº 1: 
+66	Nº 2: 
+67	Nº 3: 
+68	Día %d  %p***********
+69	Datos dañados
+70	Día %d  Tarde
+71	Día %d  Anochecer
+72	Día %d  Madrugada
+73	Día %d  Noche
+74	mon
+76	④ Elegir　　③ Atrás
+77	¡Accediendo!
+78	Desde el principio
+79	Datos dañados
+80	Dificultad: 
+81	Fácil
+82	Normal
+83	Difícil
+84	Golpe de gracia
+85	Datos dañados.
+86	El archivo de guardado de Way of the Samurai 2 de la\ntarjeta de memoria (8MB) (para PlayStation®2) de la ranura para\nMEMORY CARD 1 está dañado.

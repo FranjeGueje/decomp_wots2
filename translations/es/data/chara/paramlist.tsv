@@ -1,0 +1,41 @@
+# chara/paramlist: solo los roles genéricos (los nombres propios se quedan).
+# Magistrate (17 personajes) = Magistrado, decisión del usuario.
+0	Personaje
+1	Comerciante
+2	Magistrado
+4	Ronin
+5	Guerrero
+6	Ciudadano
+7	Dama
+8	Extranjero
+9	Monje
+10	Niño
+13	Niña
+15	Matón
+16	Sin nombre
+19	Vecino
+33	Vendedor ambulante
+35	Cortesana
+47	Esposa
+53	Viajero
+58	Samurái
+62	Agente de empleo
+64	Cobrador
+65	Tipo sospechoso
+66	Secuestrador
+67	Estudiante
+76	Hombre
+78	Contacto
+82	Hijo
+83	Hija
+87	Espía
+91	Maestro
+92	Escultor
+93	Guardia
+107	Obrero
+112	Conde
+115	Carpintero
+116	Mayordomo
+122	Asesino
+123	Informante
+143	Anciana
