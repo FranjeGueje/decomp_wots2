@@ -1,0 +1,235 @@
+# 05_work: work_collector_obj_a (el cobrador de los Aoto y los tenderos a los que cobra), work_deliver_asis_a, work_deliver_obj_a (los documentos), work_dispose_obj_a (el intermediario que quiere matar al protagonista).
+work_collector_obj_a:0.39	¡M-me van a matar!
+work_collector_obj_a:0.41	¿Te crees que puedes\nmandarme así como así?
+work_collector_obj_a:0.43	¡P-por favor, no!
+work_collector_obj_a:0.48	No se ha cobrado\nel dinero...
+work_collector_obj_a:0.75	Bienvenido, samurái...
+work_collector_obj_a:0.76	Vengo a cobrar.\n¡Suelte el dinero!\nBuenas.
+work_collector_obj_a:0.80	¡Q-qué!  \n¿Es de los Aoto?
+work_collector_obj_a:0.82	En fin...\nTenemos mercancía nueva\nmuy buena...
+work_collector_obj_a:0.90	¿P-por qué no echa\nun vistazo...?
+work_collector_obj_a:0.93	Ah, buenas.
+work_collector_obj_a:0.95	Hoy tenemos mercancía\nnueva.
+work_collector_obj_a:0.98	¿No quiere echar\nun vistazo...?
+work_collector_obj_a:0.101	Olvide eso. ¡El dinero!\nNo cambie de tema.\n¡Uy! A ver...
+work_collector_obj_a:0.107	¡Aaah!
+work_collector_obj_a:0.108	¡Deme un poco\nmás de tiempo!
+work_collector_obj_a:0.109	No paran de subir\nel precio... ¡No doy abasto!
+work_collector_obj_a:0.113	Lo siento.
+work_collector_obj_a:0.115	Pero no paran de subir\nel precio... ¡No doy abasto!
+work_collector_obj_a:0.118	Este es bastante bonito...
+work_collector_obj_a:0.122	El negocio va mal\ndesde hace tiempo. No puedo\npagar el dinero de protección.
+work_collector_obj_a:0.123	Pero los Aoto no dejan\nde mandar matones\na cobrar...
+work_collector_obj_a:0.129	Basta de quejas.\nEl dinero o la vida.\nQué vida más dura.
+work_collector_obj_a:0.136	¿Cuánto le debo?
+work_collector_obj_a:0.142	¡P-perdone!
+work_collector_obj_a:0.143	¿C-cuánto le debo?
+work_collector_obj_a:0.146	Bueno, quejarse\nno cuesta nada...
+work_collector_obj_a:0.148	Es un mundo duro.
+work_collector_obj_a:0.150	Pero viene a cobrar\npara los Aoto, ¿verdad?
+work_collector_obj_a:0.151	¿Cuánto debo pagar?
+work_collector_obj_a:0.153	¿Cuánto...?
+work_collector_obj_a:0.156	500 mon, por favor.\nDeme 1000 mon.\nNo puedo llevarme su dinero.
+work_collector_obj_a:0.166	¿D-de verdad?  \n¡G-gracias!
+work_collector_obj_a:0.171	No se ha cobrado\nel dinero...
+work_collector_obj_a:0.175	Lo siento, hoy no llevo\nmucho encima...
+work_collector_obj_a:0.177	Espero que 300 mon basten.
+work_collector_obj_a:0.181	Bueno, pagaré.
+work_collector_obj_a:0.183	Aquí tiene 500 mon.\nTómelos.
+work_collector_obj_a:0.191	Ni siquiera me ha dicho\ncuánto tengo que pagar...
+work_collector_obj_a:0.193	Llévese solo 300 mon hoy.
+work_collector_obj_a:0.201	L-lo entiendo.  Pagaré.  \nPerdóneme, por favor...
+work_collector_obj_a:0.203	1000 mon...
+work_collector_obj_a:0.209	¡Se ha cobrado\nel dinero!
+work_collector_obj_a:0.210	He cobrado el dinero de Mohei.\nAhora debo volver al cuartel...
+work_collector_obj_a:0.215	Se ha cobrado el dinero\na medias...
+work_collector_obj_a:0.220	Están los tiempos muy duros...
+work_collector_obj_a:0.222	Gracias.
+work_collector_obj_a:0.224	Ah, bienvenido,\n%s...
+work_collector_obj_a:0.233	Ah, un samurái...  \n¿Tiene algún asunto\nconmigo?
+work_collector_obj_a:0.234	Vengo a cobrar.\nEl dinero...\nNada en especial.
+work_collector_obj_a:0.238	Ah, ¿viene en nombre\nde los Aoto?
+work_collector_obj_a:0.240	¿Le gusta que le usen\nlos matones del hampa?
+work_collector_obj_a:0.246	Hmph... ¿viene en nombre\nde los Aoto?
+work_collector_obj_a:0.248	¿Hace todo lo que\nle mandan?
+work_collector_obj_a:0.251	Ah, creía que venía\na cobrar para los\nAoto...
+work_collector_obj_a:0.253	No paran nunca...
+work_collector_obj_a:0.256	Esos desgraciados...
+work_collector_obj_a:0.259	No pida prestado a esa gente.\n¡El moroso es usted, escoria!\nNo son tan malos.
+work_collector_obj_a:0.264	Maldición.
+work_collector_obj_a:0.265	Tiene razón...
+work_collector_obj_a:0.267	Pero, ¿le gusta ser\nel perro faldero de ellos?
+work_collector_obj_a:0.274	¿Está satisfecho con\nesta vida?
+work_collector_obj_a:0.277	Pobre samurái desdichado.
+work_collector_obj_a:0.278	¿Está satisfecho con\nsu vida?
+work_collector_obj_a:0.281	¿No quiere ser algo más\nque un perro de los yakuza?
+work_collector_obj_a:0.284	Cada cual hace lo que puede.\nMato a bocazas como usted.\nPensándolo bien...
+work_collector_obj_a:0.291	Entonces, ¿cuánto le debo\nhoy?
+work_collector_obj_a:0.298	P-perdone.  \n¿Cuánto le debo hoy?
+work_collector_obj_a:0.301	Ya se lo dije.
+work_collector_obj_a:0.303	Tiene que replantearse\nsu vida.
+work_collector_obj_a:0.304	Puede que se sorprenda\nde lo que descubra...
+work_collector_obj_a:0.306	¿Cuánto es el pago\nde hoy?
+work_collector_obj_a:0.307	¿Cuánto?
+work_collector_obj_a:0.312	Me llevo 500 mon.\nSerán 1000 mon.\nDejo este trabajo.
+work_collector_obj_a:0.322	¿D-de verdad?!  \n¡Ha tomado la decisión\ncorrecta!
+work_collector_obj_a:0.331	Perdone, je, je. Hoy\nestoy sin blanca...
+work_collector_obj_a:0.333	Así que solo puedo\npagar 300 mon.
+work_collector_obj_a:0.337	Lo entiendo...\nPagaré.
+work_collector_obj_a:0.339	500 mon...
+work_collector_obj_a:0.347	Es muchísimo...
+work_collector_obj_a:0.349	Me temo que hoy solo\ntengo 300 mon, así que...
+work_collector_obj_a:0.357	Bueno, bueno. Pagaré,\nsolo no me haga daño.
+work_collector_obj_a:0.365	¡Se ha cobrado el dinero!
+work_collector_obj_a:0.366	He cobrado el dinero de Abukichi.\nAhora debo volver a por mi paga.
+work_collector_obj_a:0.371	Se ha cobrado el dinero\na medias...
+work_collector_obj_a:0.372	He cobrado el dinero a medias...\nAhora debo ir a por mi paga.
+work_collector_obj_a:0.376	Hoy no es mi día de suerte.\nMaldita sea...
+work_collector_obj_a:0.378	Gracias...
+work_collector_obj_a:0.380	¿Eh? %s,\n¿tiene algún asunto conmigo?
+work_collector_obj_a:0.389	¿Qué quiere?
+work_collector_obj_a:0.390	Vengo a cobrar.\n¡Suelte su dinero, escoria!\nAh, nada en especial.
+work_collector_obj_a:0.394	Hmph. Así que es de\nlos Aoto...
+work_collector_obj_a:0.396	Oiga, ¿por qué no se va\na casa?
+work_collector_obj_a:0.402	¡Qué insolente...!  \nSeguro que es de\nlos Aoto.
+work_collector_obj_a:0.404	O-oiga, ¿por qué no se\nvuelve a casa?
+work_collector_obj_a:0.407	¿Ah, sí?  \n¿No ha venido a\ncobrar?
+work_collector_obj_a:0.409	Si es así, puede largarse.
+work_collector_obj_a:0.412	Márchese de aquí.
+work_collector_obj_a:0.415	¡Cómo se atreve!\nMe iré si paga.\nBueno, me voy.
+work_collector_obj_a:0.421	Eh...
+work_collector_obj_a:0.425	...La verdad es que\nmi hija está enferma.
+work_collector_obj_a:0.426	Ahora tenemos poco\ndinero. ¿Podría hacer\nuna excepción, por favor?
+work_collector_obj_a:0.430	Lo siento...
+work_collector_obj_a:0.432	Si mi hija no estuviera\nenferma, nada de esto\nhabría pasado...
+work_collector_obj_a:0.435	Mmm...
+work_collector_obj_a:0.437	Usted también debería\ncuidar su salud.
+work_collector_obj_a:0.438	O podría acabar como\nmi hija...
+work_collector_obj_a:0.439	Y tener que pedir prestado\na los Aoto,\ncomo yo.
+work_collector_obj_a:0.442	Sus tratamientos son\ncarísimos.
+work_collector_obj_a:0.445	Lo entiendo, pero pague.\n¿Es lo mejor que puede dar?\nSu hija... qué pena.
+work_collector_obj_a:0.450	Los cobradores son\ngente muy triste, ¿verdad?
+work_collector_obj_a:0.452	Dígame, ¿cuánto le\ndebo?
+work_collector_obj_a:0.458	¡Monstruo sin corazón!\n¿No tiene sentimientos?
+work_collector_obj_a:0.459	¿¡Cuánto tengo que pagar\npara que se conforme!?
+work_collector_obj_a:0.462	Veo que lo entiende.
+work_collector_obj_a:0.464	Pero haré lo que sea\npor mi hija.
+work_collector_obj_a:0.466	...Pero viene a cobrar,\n¿verdad?
+work_collector_obj_a:0.467	¿Cuánto ha venido\na cobrar hoy?
+work_collector_obj_a:0.472	Me llevo 500 mon.\nSerán 1000 mon.\nCuide de ella por mí...
+work_collector_obj_a:0.482	¿Lo dejará pasar\nesta vez? ¡Gracias!
+work_collector_obj_a:0.491	Perdone... Hoy ando un poco\ncorto de dinero.
+work_collector_obj_a:0.493	Tome 300 mon.
+work_collector_obj_a:0.497	Lo entiendo. Soy un hombre\nde palabra. Pagaré.
+work_collector_obj_a:0.507	Se está pasando un poco.
+work_collector_obj_a:0.509	Tendrá que conformarse\ncon 300 mon hoy...
+work_collector_obj_a:0.517	¡Bueno, bueno!\nPagaré, pero no me haga daño.
+work_collector_obj_a:0.519	1000 mon... Maldición...
+work_collector_obj_a:0.525	¡Se ha cobrado\nel dinero!
+work_collector_obj_a:0.526	He cobrado el dinero.\nAhora debo ir a por mi paga.
+work_collector_obj_a:0.531	Se ha cobrado el dinero\na medias...
+work_collector_obj_a:0.532	He cobrado el dinero a medias.\nAhora debo ir a por mi paga.
+work_collector_obj_a:0.536	Este mundo gira en torno\nal dinero, dinero, dinero...
+work_collector_obj_a:0.538	¿Es usted...?
+work_collector_obj_a:0.539	¿una especie de ángel?
+work_collector_obj_a:0.541	%s...\n¿Qué quiere?
+work_collector_obj_a:1.9	Uf...
+work_collector_obj_a:1.11	¡Ay...!
+work_collector_obj_a:1.13	¿Q-qué...?
+work_collector_obj_a:5.13	¿¡B-busca pelea!?
+work_collector_obj_a:5.16	¿Intenta asustarme?
+work_collector_obj_a:7.10	¡Por favor, no!
+work_collector_obj_a:7.13	A-ay...
+work_collector_obj_a:7.16	Basta de violencia...
+work_collector_obj_a:7.32	¡No me mate!
+work_collector_obj_a:7.38	¡Creo que me he roto un hueso!
+work_deliver_asis_a:0.36	Parece que han robado\nlos documentos...
+work_deliver_asis_a:0.41	¿Síííí?
+work_deliver_asis_a:0.43	Je, je.
+work_deliver_asis_a:0.45	¡Devuelve lo que robaste!\nNada.\n¿Qué tal el tiempo?
+work_deliver_asis_a:0.48	Mañana estará despejado.
+work_deliver_asis_a:0.54	¿De qué hablas?
+work_deliver_asis_a:2.35	¡Uy, perdón!
+work_deliver_asis_a:2.43	...¡Acabo de pillar algo bueno...!
+work_deliver_asis_a:5.5	¿¡Quéee!?
+work_deliver_asis_a:7.6	¿¡Buscas pelea!?
+work_deliver_asis_a:8.3	No...
+work_deliver_obj_a:0.73	¿Es usted de la Magistratura?
+work_deliver_obj_a:0.74	Perdone que le haya hecho\nvenir hasta aquí.\nAcabo de llegar a Amahara...
+work_deliver_obj_a:0.76	Tomaré esos documentos...
+work_deliver_obj_a:0.79	Llega tarde...
+work_deliver_obj_a:0.80	Pero supongo que la culpa\nes mía, por no ir allí\na cerrar el trato...
+work_deliver_obj_a:0.82	...Así que deme\nlos documentos...
+work_deliver_obj_a:0.85	¡Ah!  \n¡Ha venido!
+work_deliver_obj_a:0.86	Ir hasta la Magistratura\nes un fastidio\nhoy en día...
+work_deliver_obj_a:0.88	Así que entregue\nlos documentos de siempre...
+work_deliver_obj_a:0.91	Aquí están.\nNos los han robado...\nNo me haga caso.
+work_deliver_obj_a:0.97	¿¡Qué!?
+work_deliver_obj_a:0.99	¡Ja, ja, ja!  \n¡Qué sentido del humor tiene!
+work_deliver_obj_a:0.103	Entonces me voy a casa.
+work_deliver_obj_a:0.104	Vuelva a la Magistratura\ny dígaselo de mi parte.
+work_deliver_obj_a:0.113	No se han entregado\nlos documentos...
+work_deliver_obj_a:0.122	¿Eh?  \n¿No tiene los documentos...?
+work_deliver_obj_a:0.125	¿Se los han robado?
+work_deliver_obj_a:0.130	He entregado los documentos\na salvo. Debo volver a la Magistratura.
+work_deliver_obj_a:0.136	Sí, son esos,\nsin duda.
+work_deliver_obj_a:0.140	Bueno...
+work_deliver_obj_a:0.141	Gracias por todo.
+work_deliver_obj_a:0.145	Ay, perdone...
+work_deliver_obj_a:0.146	Bueno, me voy ya.
+work_deliver_obj_a:0.150	¡Se han entregado\nlos documentos!
+work_deliver_obj_a:0.151	Adiós...
+work_deliver_obj_a:0.161	Hasta luego...
+work_deliver_obj_a:0.163	Adiós...
+work_deliver_obj_a:7.10	¿Eres un enemigo?
+work_deliver_obj_a:7.12	¿Eres de los Aoto?
+work_deliver_obj_a:7.14	¡Escoria!
+work_deliver_obj_a:7.19	¿Q-qué?  \n¿¡Qué!?
+work_deliver_obj_a:7.21	¿¡Qué está pasando!?
+work_deliver_obj_a:7.23	¿Q-qué te crees que haces?
+work_deliver_obj_a:8.6	¿Por qué...?
+work_dispose_obj_a:0.27	Ahora mismo no tengo\ntrabajo para usted.
+work_dispose_obj_a:0.29	Así que es usted,\n%s...
+work_dispose_obj_a:0.31	No tengo nada para usted\nde momento.  Vuelva\nmás tarde.
+work_dispose_obj_a:0.33	¡Ha llegado su hora!\nVolveré más tarde.
+work_dispose_obj_a:0.38	Je, je, je.  \nNo tiene gracia.
+work_dispose_obj_a:0.40	...¿Lo dice en serio?
+work_dispose_obj_a:0.44	¡Entonces, muera!
+work_dispose_obj_a:0.46	¡Hasta luego!
+work_dispose_obj_a:0.53	¡%s!!
+work_dispose_obj_a:0.57	¿Q-qué? ¿Trabajo?  Me temo que\nno tengo nada ahora mismo...
+work_dispose_obj_a:0.61	Se le nota en la cara\nque le ha contado\ntodo...
+work_dispose_obj_a:0.62	Es verdad.  Fui yo\nquien mandó a ese tipo\na matarle.
+work_dispose_obj_a:0.64	¿Le sorprende?\nO ya lo había\nadivinado?
+work_dispose_obj_a:0.65	Esperaba que no\nfuera necesario.
+work_dispose_obj_a:0.67	Al fin y al cabo, era\nuno de mis preferidos.
+work_dispose_obj_a:0.69	Ha trabajado duro para\nla banda. Doy fe de ello.
+work_dispose_obj_a:0.70	Pero...
+work_dispose_obj_a:0.72	Sabe demasiado.
+work_dispose_obj_a:0.73	Alguien como usted, que\nha participado en todos\nnuestros turbios negocios...
+work_dispose_obj_a:0.74	sabe todo lo que hay\nque saber de nosotros.
+work_dispose_obj_a:0.76	No podemos dejarle vivir...
+work_dispose_obj_a:0.77	Me temo que ese es el destino\nde alguien en su posición.
+work_dispose_obj_a:0.80	Pero ha sobrevivido.
+work_dispose_obj_a:0.81	¿Qué le parece...?
+work_dispose_obj_a:0.83	¿Podemos empezar de\nnuevo desde el principio?
+work_dispose_obj_a:0.84	¿Olvidamos lo pasado?
+work_dispose_obj_a:0.87	Buen intento, ¡ya es hora de morir!\n¿Olvidamos lo pasado?
+work_dispose_obj_a:0.88	¿No...?
+work_dispose_obj_a:0.90	Muy bien.
+work_dispose_obj_a:0.92	Asegúrese de saludar\na todas sus víctimas...
+work_dispose_obj_a:0.99	¡En el infierno!
+work_dispose_obj_a:0.102	¡Así es!
+work_dispose_obj_a:0.103	Podemos llevarnos bien,\n¿verdad, %s?
+work_dispose_obj_a:0.105	Por nuestra nueva amistad.  \n¡Tome, compañero!
+work_dispose_obj_a:0.118	¡Ha cobrado 2000 mon!
+work_dispose_obj_a:0.120	¡Espero trabajar\ncon usted!
+work_dispose_obj_a:0.143	No se ha rematado\nal objetivo.
+work_dispose_obj_a:1.6	¿Eh?
+work_dispose_obj_a:3.3	¡Nada de peleas delante\ndel cuartel!
+work_dispose_obj_a:5.4	¿Qué...?
+work_dispose_obj_a:7.6	¡Eh!
+work_dispose_obj_a:8.5	Ha matado al intermediario.
+work_dispose_obj_a:8.6	He matado al intermediario.\nQuizá ahora los Aoto se porten...
+work_dispose_obj_a:8.18	Ha matado al intermediario...
+work_dispose_obj_a:8.19	¿Está... satisfecho?
