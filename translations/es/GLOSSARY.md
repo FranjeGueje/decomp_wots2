@@ -163,3 +163,6 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - O-kyo (apodo de Kyojiro que usa Ichikichi) → se deja «O-kyo».
 - bodyguard → «guardaespaldas».
 - Tratamiento: Sosuke Nakamura (magistrado) y Danpachi hablan de «usted» al protagonista; Danpachi tutea a Maikaze y a la niña; Chiyo tutea.
+- Clínica (tanda 3): Genan tutea al protagonista y a Chiyo, usted a los pacientes; la enfermera Oboro usa usted con Genan y con el protagonista. Nombre propio: Oboro.
+- «la pequeña sin nombre» (little No-Name); «mochi de pasta de alubia» (bean-jam rice cakes); «sede de la gran banda Aoto» en diálogo (menús: «Cuartel de los Aoto»); en diálogo «la clínica» / «el doctor Genan».
+- Interjecciones de Genan: «Ja», «Hum». Nihei tartamudea («T-tú de v-verdad…»).
