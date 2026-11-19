@@ -1,5 +1,201 @@
-# 01_work: muestra del paso 6 (work_bugyo_a); el resto de la tanda, sin traducir.
+# 01_work: trabajos del intermediario de la Magistratura y de la banda Aoto (work_assassin_obj_a, work_broker_obj_a, work_bugyo_a).
+work_assassin_obj_a:0.23	Oye...
+work_assassin_obj_a:0.24	Pareces con ganas de\nmatar a alguien...
+work_assassin_obj_a:0.26	Oye, tú...
+work_assassin_obj_a:0.27	¿Qué haces por aquí\na estas horas?
+work_assassin_obj_a:0.29	Samurái...
+work_assassin_obj_a:0.30	¿Tienes algo que\ntratar conmigo?
+work_assassin_obj_a:0.32	He venido a por tu vida.\nNo me hagas caso.
+work_assassin_obj_a:0.41	¿¡Es que no me dejas en paz!?
+work_assassin_obj_a:0.43	¡Qué pesado eres!
+work_assassin_obj_a:0.45	¡Me las pagarás!
+work_assassin_obj_a:0.70	Impresionante...
+work_assassin_obj_a:0.72	Hasta aquí llegué...
+work_assassin_obj_a:0.74	Muy impresionante...
+work_assassin_obj_a:0.78	No has podido matarlo...
+work_assassin_obj_a:1.5	Cuidado...
+work_assassin_obj_a:5.4	¿Me estás siguiendo...?
+work_assassin_obj_a:5.6	No pareces estar aquí\nsolo para dar un paseo...
+work_assassin_obj_a:5.8	¿Por qué llevas la\nespada desenvainada?
+work_assassin_obj_a:5.10	¡Tu vida es mía!\nNo te preocupes por eso.
+work_assassin_obj_a:8.2	¡Has conseguido matarlo!
+work_assassin_obj_a:8.3	He conseguido matarlo.\nDebo informar a la banda Aoto.
+work_broker_obj_a:0.76	Así que has venido...
+work_broker_obj_a:0.77	Acabemos con esto.\n¿Lo has traído?
+work_broker_obj_a:0.79	Llegas tarde.
+work_broker_obj_a:0.80	Cerremos el trato.
+work_broker_obj_a:0.82	Así que has venido.
+work_broker_obj_a:0.83	Dame los documentos.
+work_broker_obj_a:0.85	Aquí están los documentos.\nAcércate...\nClaro.
+work_broker_obj_a:0.96	A ver...
+work_broker_obj_a:0.97	Uno, dos, tres...
+work_broker_obj_a:0.98	Bien, parece que todo\nestá en orden.
+work_broker_obj_a:0.101	¡Oh!\nMe pregunto qué habrá dentro.
+work_broker_obj_a:0.106	Gracias.\nDéjame echar un vistazo...
+work_broker_obj_a:0.116	Aquí tienes lo que te prometí.
+work_broker_obj_a:0.122	¡Has conseguido el objeto!
+work_broker_obj_a:0.123	He cerrado el trato.\nAhora debo llevarlo a la Magistratura.
+work_broker_obj_a:0.124	Hasta luego.
+work_broker_obj_a:0.127	Aquí tienes eso...
+work_broker_obj_a:0.135	¡Adiós, adiós!
+work_broker_obj_a:0.138	Aquí tienes eso del que\ntodo el mundo habla.
+work_broker_obj_a:0.146	¡Úsalo bien!
+work_broker_obj_a:0.156	Hasta la próxima.
+work_broker_obj_a:0.158	Adiós.
+work_broker_obj_a:0.162	Mi socio en el trato\nha escapado.
+work_broker_obj_a:0.172	¡Adiós!
+work_broker_obj_a:0.174	¡Ya he terminado aquí!
+work_broker_obj_a:0.176	Bueno, ¡adiós!
+work_broker_obj_a:0.182	No has cerrado\nel trato.
+work_broker_obj_a:7.10	¡Es una traición!
+work_broker_obj_a:7.12	¿¡Cómo te atreves!?
+work_broker_obj_a:7.14	¡Lo sabía!
+work_broker_obj_a:7.19	La violencia no es lo mío...
+work_broker_obj_a:7.21	¡Qué terco eres!
+work_broker_obj_a:7.23	¡No te pongas así!
+work_broker_obj_a:8.4	He dado caza a mi socio\nfugado.
+work_broker_obj_a:8.6	Lo he matado a traición.
+work_broker_obj_a:8.13	Oh, no...
+work_broker_obj_a:8.16	He perdido...
+work_broker_obj_a:8.19	La he fastidiado...
+work_bugyo_a:0.132	Por desgracia, ahora mismo\nno tengo nada para usted.
 work_bugyo_a:0.134	%s...
+work_bugyo_a:0.136	Lo siento, ahora mismo\nno tengo trabajo para\nusted.
+work_bugyo_a:0.138	Hmm...\n¿Qué hago ahora...?
+work_bugyo_a:0.140	¡Oh, ha llegado justo\na tiempo!
+work_bugyo_a:0.142	Me encargo de los trabajos\nde la Magistratura y los\nasigno a la gente.
+work_bugyo_a:0.143	Disculpe, pero ¿es\nla primera vez que\ntrabaja aquí?
+work_bugyo_a:0.144	Ya tengo experiencia.\nSí, es la primera vez.
+work_bugyo_a:0.150	Le pido disculpas...
+work_bugyo_a:0.151	Cuando quiera un trabajo,\nno dude en pedírmelo.
+work_bugyo_a:0.154	Permítame que le explique\ncómo se trabaja en Amahara.
+work_bugyo_a:0.155	Primero están quienes\nle contratan...
+work_bugyo_a:0.157	Hay muchísima gente en\nAmahara que necesita\nsus servicios.
+work_bugyo_a:0.158	Gente como yo les pone\nen contacto con gente como usted.
+work_bugyo_a:0.159	Como le decía, trabajo aquí,\nen la Magistratura, como\nintermediario de trabajos.
+work_bugyo_a:0.161	Los problemas que no pueden\nresolverse por las vías normales\nllegan hasta mí.
+work_bugyo_a:0.162	Usted cobra por resolver\nel problema.
+work_bugyo_a:0.163	Hay gente como yo en\nAmakaze-cho y en el cuartel\nde los Aoto.
+work_bugyo_a:0.164	Pero si quiere trabajar por\nla paz y la justicia, venga aquí.
+work_bugyo_a:0.166	Dicho de otro modo:\n«¡Busque trabajo en la Magistratura!»
 work_bugyo_a:0.167	Lo siguiente es...
+work_bugyo_a:0.169	«El trabajo dura hasta\nque se cobra».
+work_bugyo_a:0.171	¡Aunque termine la misión,\nno se relaje!
+work_bugyo_a:0.172	A veces le daré una\nrecompensa y a veces no.
+work_bugyo_a:0.174	Pero hasta que venga aquí\na cobrar, su trabajo no está\nterminado. Recuérdelo.
+work_bugyo_a:0.175	Y ahora lo más\nimportante.
+work_bugyo_a:0.177	«¡Termine antes de que\ncambie el momento del día!»
+work_bugyo_a:0.179	La mayoría de los trabajos\nque le daremos...
+work_bugyo_a:0.180	son urgentes y hay que\nterminarlos en un plazo\ndeterminado.
+work_bugyo_a:0.181	Así que debe acabarlos\nantes de que venza el plazo.
 work_bugyo_a:0.183	Es una regla inamovible.
+work_bugyo_a:0.184	No puede venir a pedir\nel pago cuando el plazo\nya haya vencido.
+work_bugyo_a:0.185	¡Bajo ningún concepto\nlo olvide!
+work_bugyo_a:0.187	Bien, repasemos\nlas normas...
+work_bugyo_a:0.188	¡Trabajar para los magistrados!\n¡Buscar trabajo en Amakaze-cho!\n¡Trabajar para la banda Aoto!
+work_bugyo_a:0.199	¡El trabajo dura hasta cobrar!\n¡El trabajo dura hasta acabarlo!\n¡No acabar los trabajos!
+work_bugyo_a:0.210	¡Acabar dentro del plazo!\n¡Acabar después del plazo!\n¡Los trabajos no tienen plazo!
+work_bugyo_a:0.221	Una cosa más.\nEs importante.
 work_bugyo_a:0.222	Si se pierde durante\nun trabajo, mire en\n«Ver estado».
+work_bugyo_a:0.224	Si necesita trabajo, pase\npor aquí cuando quiera.
+work_bugyo_a:0.225	Le estaré esperando...
+work_bugyo_a:0.231	Hmm...
+work_bugyo_a:0.233	Oiga, ha llegado justo\na tiempo...
+work_bugyo_a:0.234	Tengo un trabajo para usted.
+work_bugyo_a:0.235	Es un trabajo muy\nimportante.
+work_bugyo_a:0.237	Necesito liquidar a\nalguien...
+work_bugyo_a:0.238	Encantado.\nNo es asunto mío...
+work_bugyo_a:0.240	Es un asunto serio.\nNo le culpo por pensarlo\ndos veces.
+work_bugyo_a:0.243	¿Lo hará?\n¡Estupendo!
+work_bugyo_a:0.244	La persona a la que\ndebe liquidar es:
+work_bugyo_a:0.258	Un magistrado que pasará\npor la Puerta Otemon hoy.
+work_bugyo_a:0.259	Me han encargado liquidar a un\nmagistrado fuera de la Puerta Otemon.
+work_bugyo_a:0.260	Matar al magistrado
+work_bugyo_a:0.265	Un samurái que mata\na transeúntes al azar\nen Shikano-cho.
+work_bugyo_a:0.266	Me han encargado liquidar a un samurái\nque mata gente en Shikano-cho.
+work_bugyo_a:0.267	Matar al samurái
+work_bugyo_a:0.272	Un miembro de la banda Aoto\nque aparecerá hoy en\nOtsuka-cho.
+work_bugyo_a:0.273	Me han encargado matar a un miembro\nde la banda que aparecerá en Otsuka-cho.
+work_bugyo_a:0.274	Matar al pandillero
+work_bugyo_a:0.280	Es bastante fuerte, pero no\nhay de qué preocuparse.
+work_bugyo_a:0.282	Sé que lo sacará\nadelante.
+work_bugyo_a:0.283	Pero tenga cuidado...
+work_bugyo_a:0.286	Qué lástima.\nEsperaba que lo hiciera.
+work_bugyo_a:0.287	Olvídelo...
+work_bugyo_a:0.294	¿Eh?
+work_bugyo_a:0.298	Su objetivo debería estar\nen la Puerta Otemon\nahora mismo.
+work_bugyo_a:0.300	Su objetivo debería estar\nen Shikano-cho ahora mismo.
+work_bugyo_a:0.302	Su objetivo debería estar\nen Otsuka-cho ahora mismo.
+work_bugyo_a:0.304	Déjemelo a mí.\nHa surgido algo...
+work_bugyo_a:0.306	Buena suerte.\nNo se lo cuente a nadie.
+work_bugyo_a:0.314	Has abandonado el trabajo...
+work_bugyo_a:0.315	¿Cómo?\nNo puede dejarlo a medias así.
+work_bugyo_a:0.317	Bueno.\nPuede irse a casa, entonces.
+work_bugyo_a:0.319	¡Ha vuelto!
+work_bugyo_a:0.321	Parece que lo ha conseguido.\nHe acertado al elegirle\npara el trabajo.
+work_bugyo_a:0.323	No es mucho, pero\naquí tiene su paga.
+work_bugyo_a:0.338	Menudo chapucero...
+work_bugyo_a:0.340	¿Está seguro de que es samurái?
+work_bugyo_a:0.341	Es una vergüenza para\nsu espada.
+work_bugyo_a:0.350	Hmm...
+work_bugyo_a:0.354	Tengo un trabajo urgente\nsi le interesa.
+work_bugyo_a:0.355	Es solo un trabajo de mensajero,\npero quiero a alguien como usted.
+work_bugyo_a:0.357	No quiero que se haga\na la vista de todos.
+work_bugyo_a:0.358	¡Haré lo que sea!\nNo soy un chico de recados.
+work_bugyo_a:0.360	...¿Se encuentra bien?
+work_bugyo_a:0.363	¿Lo hará?
+work_bugyo_a:0.365	Bien, le explico\nlos detalles.
+work_bugyo_a:0.380	Vaya a Shikano-cho. Entregue estos\ndocumentos a su contacto.\nLe dará un objeto.
+work_bugyo_a:0.381	Debo llevar unos documentos a un hombre\nen Shikano-cho y recoger un objeto.
+work_bugyo_a:0.382	Tratos secretos
+work_bugyo_a:0.389	Vaya a Otsuka-cho. Entregue los\ndocumentos a su contacto.\nLe dará un objeto.
+work_bugyo_a:0.390	Debo llevar unos documentos a un hombre\nen Otsuka-cho y recoger un objeto.
+work_bugyo_a:0.398	Vaya a Numata-cho. Entregue los\ndocumentos a su contacto.\nLe dará un objeto.
+work_bugyo_a:0.399	Debo llevar unos documentos a un hombre\nen Numata-cho y recoger un objeto.
+work_bugyo_a:0.408	No es difícil, pero hay que\nmantenerlo en secreto.
+work_bugyo_a:0.409	¡No olvide traer\nel objeto de vuelta aquí!
+work_bugyo_a:0.411	¡Y tenga cuidado!
+work_bugyo_a:0.414	Lamento oír eso.
+work_bugyo_a:0.416	Bueno, hay muchos otros\na los que puedo dar\neste trabajo.
+work_bugyo_a:0.431	¡Llegará tarde al\nintercambio en Shikano-cho!
+work_bugyo_a:0.433	¡Llegará tarde al\nintercambio en Otsuka-cho!
+work_bugyo_a:0.435	¡Llegará tarde al\nintercambio en Numata-cho!
+work_bugyo_a:0.437	Ya lo sé. No me apresure.\nHa surgido algo...
+work_bugyo_a:0.440	Bien, pues...
+work_bugyo_a:0.451	¿Va a dejarlo a medias\nasí, sin más?
+work_bugyo_a:0.452	Da igual.\nBuscaré a otro.
+work_bugyo_a:0.454	Ha vuelto...
+work_bugyo_a:0.457	¿Cómo dice?
+work_bugyo_a:0.459	¡Será...!\nSabía que elegirle era\nlo correcto.
+work_bugyo_a:0.460	¿Y dónde está\nel objeto en cuestión?
+work_bugyo_a:0.465	Ah, sí, es este.
+work_bugyo_a:0.467	Ah, qué maravilla.
+work_bugyo_a:0.469	Sí, este es sin duda.\nEl objeto del que todos\nhablan...
+work_bugyo_a:0.472	Aquí tiene un extra por\nlas molestias.\nNo diga nada.
+work_bugyo_a:0.487	¿¡Se ha escapado!?
+work_bugyo_a:0.489	Qué lamentable.\nFui un necio al confiar en usted...
+work_bugyo_a:0.491	Gracias por sus molestias.\nYa puede marcharse.
+work_bugyo_a:0.502	Así que ha venido, %s...
+work_bugyo_a:0.503	Llevo años trabajando aquí,\nen la Magistratura.
+work_bugyo_a:0.505	Pero parece que Amahara\nnunca se vuelve más segura.
+work_bugyo_a:0.506	De hecho, pasa todo lo contrario.\nEsos chulos de la banda Aoto...
+work_bugyo_a:0.508	y también un montón de\nmatones sueltos están\ndestrozando el pueblo.
+work_bugyo_a:0.510	¿¡Por qué será!?
+work_bugyo_a:0.511	He estado pensando.\nCreo que hemos sido\ndemasiado blandos con ellos.
+work_bugyo_a:0.513	He llegado a una\nconclusión sencilla.
+work_bugyo_a:0.514	Hay alguien como yo en la\nbanda Aoto, que consigue\ntrabajos para la gente.
+work_bugyo_a:0.516	Si nos deshacemos de él,\n¡la banda Aoto quedará paralizada!
+work_bugyo_a:0.517	...¿Lo hará?
+work_bugyo_a:0.518	Déjemelo a mí.\nSeguro que tiene familia.
+work_bugyo_a:0.520	Piénselo todo lo que\nquiera.
+work_bugyo_a:0.523	¡Ajá!\n¡Es un auténtico samurái!
+work_bugyo_a:0.524	El hombre al que quiero\nque liquide es...
+work_bugyo_a:0.526	El intermediario de trabajos\ndel cuartel de los Aoto.\nQuizá lo conozca.
+work_bugyo_a:0.527	Me han encargado matar al intermediario\ndel cuartel de los Aoto.
+work_bugyo_a:0.528	Matar al intermediario
+work_bugyo_a:0.533	Por lo que sé, se retiró\nhace mucho tiempo.
+work_bugyo_a:0.534	Pero en su día fue\nun buen luchador.
+work_bugyo_a:0.536	Lo apodaban «el Ciervo».
+work_bugyo_a:0.537	Le apuesto a que dará\nbatalla.
+work_bugyo_a:0.539	Pero confío en usted.
+work_bugyo_a:0.540	Buena suerte...
