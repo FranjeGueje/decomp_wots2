@@ -1,0 +1,79 @@
+# Shop/numata/kajiya: herrería de Numata (Dojima, el herrero). Usted al cliente. Los avisos «Ataque », «Defensa »… van seguidos del valor.
+1	El herrero no está.
+2	¡T-tú!
+3	¡No voy a tocar su espada!
+4	¡Fuera de aquí!
+5	¡Tú!
+6	He oído hablar de usted. Parece que\nha estado trabajando duro\npor los vecinos.
+7	Veo que ha cambiado de vida,\n¿eh?
+8	¡Me alegro mucho!
+9	Me llamo Dojima.\nNo me preocupa demasiado\nel pasado.
+10	Prefiero dejar lo pasado\nen el pasado. Agua pasada,\ny todo eso.
+11	Pero procure no meterse\nen líos...
+15	¿Eh? ¿Quién es usted?
+16	Soy el herrero de aquí.\nMe llamo Dojima.
+17	Puedo reparar y mejorar\nsus armas.
+18	¿Desea algo?
+19	Vaya, otra vez usted.
+20	¿No necesita nada?
+21	Templar la misma arma.\nTengo otros asuntos.\nNo necesito nada.
+22	¿No? Vuelva cuando quiera.
+23	¿Necesita algo más?
+24	Mejorar arma\nTasar el título\nDéjelo
+26	¿Qué arma quiere que\ntrabaje?
+27	No puedo trabajar en\nuna espada rota.
+28	¿Qué quiere que haga?
+29	Mejorar calidad\nMejorar durabilidad\nDéjelo
+30	No puedo hacer nada más\ncon esto.
+31	Ni yo puedo hacer más.
+32	Quizá no pueda hacer mucho\ncon esto.
+33	De todas formas le cobraré.\n¿Le parece bien?
+34	Vale\nDéjelo
+35	Mejorar ataque\nMejorar defensa\nLo que le parezca
+36	Costará 500 mon.\n¿Lo pagará?
+37	Hágalo, por favor\nDéjelo
+38	Vale. Esto tardará\nun poco...
+39	Lo siento...\nNo ha salido bien.
+40	Se ha roto...
+41	Calidad -1
+42	Durabilidad -1
+43	¡Vale, ya está listo!
+45	Costará
+46	mon.\n¿Lo pagará?
+47	Adelante\nDéjelo
+48	Vale, un momento.
+50	Durabilidad +1
+51	Ya no puede durar más\nde lo que dura ahora.
+52	¿Qué arma quiere que\ntase?
+53	Esa ya la he tasado\nantes.
+54	No puedo tasar un arma\nrota.
+55	¿Qué quiere saber\nde esta arma?
+56	Tasar calidad\nTasar historial\nDéjelo
+57	Ataque\nDefensa\nCalidad
+58	Número de bajas\nExperiencia\nNombre
+59	Costará 500 mon.\n¿Vale?
+60	Adelante.\nHe cambiado de opinión
+61	El título de esta arma\nes
+62	Parece que esta arma se\nllama
+63	Se llama
+64	Solo se puede poner un título\nuna vez. ¿Le parece bien?
+65	Vale\nNo
+66	Vale, lo tasaré.
+67	Esta arma se conoce ahora\ncomo
+69	Vale. Vuelva después de\nusarla un poco más.
+70	Esta espada no tiene\nningún rasgo distintivo\nde verdad.
+71	Vuelva cuando la haya usado\nun poco más.
+72	Serán
+73	 mon.
+74	Aquí tiene\n¡No puedo pagar tanto!
+75	Sin duda, lo he recibido.\n¿Hay algo más que pueda\nhacer por usted?
+76	¿No va a pagar?!\n¡Miserable...!
+77	¿Cómo que no tiene dinero?!\n¡Desgraciado...!
+78	¿No piensa pagar?!\n¡Tacaño...!
+81	Ataque
+82	Defensa
+83	Calidad
+85	Durabilidad
+86	Técnica
+90	¡Parece que no aprenderá\nsin un poco de\ndolor!
+91	Lo siento, pagaré\n¡A-asesino!

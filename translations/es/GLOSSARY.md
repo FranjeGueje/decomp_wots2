@@ -166,3 +166,7 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Clínica (tanda 3): Genan tutea al protagonista y a Chiyo, usted a los pacientes; la enfermera Oboro usa usted con Genan y con el protagonista. Nombre propio: Oboro.
 - «la pequeña sin nombre» (little No-Name); «mochi de pasta de alubia» (bean-jam rice cakes); «sede de la gran banda Aoto» en diálogo (menús: «Cuartel de los Aoto»); en diálogo «la clínica» / «el doctor Genan».
 - Interjecciones de Genan: «Ja», «Hum». Nihei tartamudea («T-tú de v-verdad…»).
+- Tiendas: el protagonista trata de «usted» a los tenderos («Déjelo», «Hágalo, por favor»). Gritos con tartamudeo: «¡T-tú!», «¡S-alguien!».
+- Comida: sopa de miso, almuerzo de sashimi, ñame rallado con natto, fideos de gelatina, dango, mochi, cuenco.
+- Herrería (Dojima): «Tasar» = appraise («Tasar el título», «Tasar historial»); atributos «Ataque », «Defensa », «Calidad », «Durabilidad », «Técnica » con espacio final.
+- Yukaku → «posada de Amakaze» en menús; en diálogo «nuestras chicas». Guardia de la cárcel: dōshin / «el guardia».
