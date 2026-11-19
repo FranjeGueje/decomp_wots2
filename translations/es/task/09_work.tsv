@@ -1,0 +1,235 @@
+# 09_work: trabajos de los matones de los Aoto (work_yakuza_a): encargos de robo, cobro y asesinato, el trabajo de carterista y las quejas del jefe de los matones. Tono hostil y callejero; tú a todos.
+work_yakuza_a:0.295	Supongo que tendré que\nbuscar a otro.
+work_yakuza_a:0.302	¿Qué te pasa?
+work_yakuza_a:0.306	Tu objetivo debería andar\nya por las afueras.
+work_yakuza_a:0.308	Tu objetivo debería andar\nya por Kakinuma-cho.
+work_yakuza_a:0.310	Tu objetivo debería estar ya\nen el Santuario de Amahara.
+work_yakuza_a:0.312	¡No puedo esperar más!\nMe duele el estómago. Lo dejo.
+work_yakuza_a:0.314	¡Date prisa!
+work_yakuza_a:0.323	¿Qué? ¿Esa espada es\nsolo de adorno?
+work_yakuza_a:0.325	Patético...
+work_yakuza_a:0.327	¡Eh, samurái!
+work_yakuza_a:0.329	Parece que el trabajo salió\nbien. Supongo que tenía\nrazón contigo.
+work_yakuza_a:0.331	No es mucho, pero aquí\ntienes tu paga.
+work_yakuza_a:0.346	La has fastidiado...
+work_yakuza_a:0.348	¿Qué clase de samurái\nno sabe ni matar?
+work_yakuza_a:0.349	Supongo que me hice ilusiones\npara nada...
+work_yakuza_a:0.360	Siempre apareces justo\ncuando hace falta.
+work_yakuza_a:0.362	Tenemos un encargo urgente\nque te va como anillo al dedo.
+work_yakuza_a:0.364	Pan comido.\nSolo es un robo.
+work_yakuza_a:0.366	No debería ser problema\npara alguien de tu talla.
+work_yakuza_a:0.367	Déjamelo a mí.\nNo soy ningún ladrón.
+work_yakuza_a:0.369	¿No te interesa?
+work_yakuza_a:0.372	¡Sabía que te\ninteresaría!
+work_yakuza_a:0.374	Lo que tienes que\nrobar es...
+work_yakuza_a:0.388	La caja del dinero de un\nmercader que pasa por\nlas afueras.
+work_yakuza_a:0.389	Debo robar la caja del dinero\nde un mercader en las afueras.
+work_yakuza_a:0.390	Robar el dinero
+work_yakuza_a:0.395	Los documentos secretos de una\njovencita que estará en\nAmakaze-cho.
+work_yakuza_a:0.396	Debo robar los documentos secretos\nde una chica en Amakaze-cho.
+work_yakuza_a:0.397	Robar documentos
+work_yakuza_a:0.402	Un paquete que lleva un hombre\ncerca de la Puerta Otemon.
+work_yakuza_a:0.403	Debo robar el paquete que lleva un\nhombre junto a la Puerta Otemon.
+work_yakuza_a:0.404	Robar el paquete
+work_yakuza_a:0.410	Es un trabajo sencillo, pero\nel objetivo es un luchador\nbastante hábil.
+work_yakuza_a:0.411	¡Por eso te lo pido a ti!
+work_yakuza_a:0.413	¡Si no te das prisa, tu presa\nse escapará!
+work_yakuza_a:0.414	¡Date prisa, date prisa!
+work_yakuza_a:0.417	¿Eh? ¿Ya no te valen\nestos trabajos?
+work_yakuza_a:0.419	Bueno, esperaré un rato.\nYa cambiarás de opinión.
+work_yakuza_a:0.420	El dinero hace eso con\nla gente...
+work_yakuza_a:0.430	¿Qué pasa?
+work_yakuza_a:0.434	La caja del dinero debería\nestar ya en las afueras.
+work_yakuza_a:0.436	Los documentos secretos deberían\nestar ya en Amakaze-cho.
+work_yakuza_a:0.438	El paquete debería estar ya\njunto a la Puerta Otemon.
+work_yakuza_a:0.440	Déjamelo a mí.\nSolo que no puedo robar...
+work_yakuza_a:0.452	¡Maldición...!
+work_yakuza_a:0.454	Menudo trabajo has hecho...
+work_yakuza_a:0.455	Pues bien.\nPreguntaré a otro.
+work_yakuza_a:0.457	Eh, samurái...
+work_yakuza_a:0.462	¡Ah!\n¡Es la caja del dinero!
+work_yakuza_a:0.464	¡Ah!\n¡Son los documentos secretos!
+work_yakuza_a:0.466	¡Ah!\n¡Es el paquete!
+work_yakuza_a:0.469	¡Bien hecho!\nAquí tienes tu paga...
+work_yakuza_a:0.484	Esta vez sí que la\nhas liado...
+work_yakuza_a:0.486	Supongo que los samuráis solo\nsirven para tajar gente.
+work_yakuza_a:0.488	Bueno, lo has intentado.\nAhora vete a casa...
+work_yakuza_a:0.497	Pues vaya...
+work_yakuza_a:0.499	¡Ah!\n¡Bienvenido! ¡Bienvenido!
+work_yakuza_a:0.500	Tengo un encarguito para ti,\nsi te interesa.
+work_yakuza_a:0.502	Es solo un trabajo de cobro...
+work_yakuza_a:0.504	Eres un experto en eso,\n¿verdad? Je, je.
+work_yakuza_a:0.505	Soy un experto. Je, je.\n¿Te estás riendo de mí?
+work_yakuza_a:0.507	¡Eh, no te pongas así!
+work_yakuza_a:0.510	¡Como pensaba!\nLo sabía.
+work_yakuza_a:0.512	Hoy necesito que cobres\nde...
+work_yakuza_a:0.526	Un puesto callejero destartalado\nen Kakinuma-cho, regentado por\nun tal Mohei.
+work_yakuza_a:0.527	Debo cobrar a Mohei, en Kakinuma-cho,\npor encargo de los Aoto. Paga 500 mon.
+work_yakuza_a:0.528	Cobrar dinero
+work_yakuza_a:0.533	Abukichi, el vago más inútil\nde Numata-cho.
+work_yakuza_a:0.534	Debo cobrar a Abukichi, en Numata-cho,\npor encargo de los Aoto. Paga 500 mon.
+work_yakuza_a:0.540	Shida, uno de los magistrados más\ncorruptos de la Magistratura.
+work_yakuza_a:0.541	Debo cobrar a un magistrado corrupto,\npor encargo de los Aoto. Paga 500 mon.
+work_yakuza_a:0.548	Tienes que cobrarle 500 mon.\n¡Nada de excusas!
+work_yakuza_a:0.549	¿Qué? Solo asústalo un poco\ny pagará.
+work_yakuza_a:0.551	Pero no te pases...
+work_yakuza_a:0.552	Ah, y una cosa más...
+work_yakuza_a:0.554	Que los magistrados no te vean\namenazarle.
+work_yakuza_a:0.558	¿Qué te pasa? ¿Te crees\ndemasiado bueno para eso?
+work_yakuza_a:0.559	Hoy en día, el orgullo de un\nsamurái no vale ni un mon.
+work_yakuza_a:0.566	¿Cómo va eso?
+work_yakuza_a:0.570	El puesto callejero del que\nte hablé está en Kakinuma-cho.
+work_yakuza_a:0.572	El vago inútil del que te\nhablé está en Numata-cho.
+work_yakuza_a:0.574	El magistrado corrupto del que\nte hablé está en la Magistratura.
+work_yakuza_a:0.576	Me quedo con todo lo que tiene.\nHe cambiado de idea. Lo dejo.
+work_yakuza_a:0.579	No eres un bandido cualquiera.\nTómatelo con calma.
+work_yakuza_a:0.590	No busco estos trabajos\npor diversión.
+work_yakuza_a:0.591	Bueno, gracias de todos modos.\nNos vemos la próxima.
+work_yakuza_a:0.593	¿Así que has vuelto?
+work_yakuza_a:0.598	Parece que le has sacado todo\nlo que debía el puesto.
+work_yakuza_a:0.600	Parece que le has sacado todo\nlo que debía el vago.
+work_yakuza_a:0.602	Parece que le has sacado todo\nlo que debía ese magistrado.
+work_yakuza_a:0.605	Bien hecho, bien hecho.\nTe dejaré quedarte con la mitad\ndel dinero que has cobrado.
+work_yakuza_a:0.606	La otra mitad es mía.
+work_yakuza_a:0.608	La mitad de 500\nson 250, así que dame\n250 mon.
+work_yakuza_a:0.618	Has entregado 250 mon.
+work_yakuza_a:0.620	Vuelve cuando quieras.
+work_yakuza_a:0.622	Bien hecho, bien hecho.\nEsta vez te daré todo el dinero\nque has cobrado.
+work_yakuza_a:0.631	¡El dinero que has cobrado\nes tuyo!
+work_yakuza_a:0.633	Una vez que les des un susto,\nel próximo cobro será\nmucho más fácil.
+work_yakuza_a:0.637	¿Así que se han escapado, eh?
+work_yakuza_a:0.638	Supongo que los samuráis no\nsirven para este tipo de\ntrabajo.
+work_yakuza_a:0.640	Bueno, lo has intentado.\nVuelve otra vez.
+work_yakuza_a:0.651	Bienvenido, %s.
+work_yakuza_a:0.652	Llevo mucho tiempo\nencargándome de los trabajos\npara la banda...
+work_yakuza_a:0.654	Pero, pase lo que pase, la banda\nsigue sin hacerse con Amahara.
+work_yakuza_a:0.655	Todo lo contrario: parece que los\njóvenes matones que dirijo...
+work_yakuza_a:0.657	todos viven aterrados\nde los magistrados.
+work_yakuza_a:0.659	¿Y por qué será?
+work_yakuza_a:0.660	Entonces me di cuenta: hemos\nsido demasiado blandos\ncon la competencia.
+work_yakuza_a:0.662	Ya sé qué hacer.\nEs muy sencillo.
+work_yakuza_a:0.663	Hay un tipo en la Magistratura\nde Amahara que copia lo que\nhago.
+work_yakuza_a:0.665	Si lo matamos, los magistrados\nno sabrán qué hacer.
+work_yakuza_a:0.666	¿Te ves capaz?
+work_yakuza_a:0.667	Déjamelo a mí.\nSeguro que tiene familia...
+work_yakuza_a:0.669	¿No te decides?\nEso no es propio de ti.
+work_yakuza_a:0.672	¡Ja! ¡Ya eres un samurái\nde verdad!
+work_yakuza_a:0.673	Bien, el que quiero que\nmates es...
+work_yakuza_a:0.675	Esa escoria de la Magistratura.\nSeguro que lo has visto\nalguna vez.
+work_yakuza_a:0.676	Debo matar al intermediario de trabajos\nde la Magistratura.
+work_yakuza_a:0.682	Hace mucho que se retiró...
+work_yakuza_a:0.683	Pero dicen que en su época\nera un buen luchador...
+work_yakuza_a:0.685	Lo llamaban «el tejón blanco».
+work_yakuza_a:0.686	Si no tienes cuidado, este\npodría ser tu último trabajo...
+work_yakuza_a:0.688	Pero seguro que lo harás bien.
+work_yakuza_a:0.692	Ya veo.\nPensé que serías perfecto\npara esto...
+work_yakuza_a:0.693	Pero vuelve si cambias\nde opinión.
+work_yakuza_a:0.701	Sabes dónde está, ¿no?
+work_yakuza_a:0.702	Lo tengo controlado.\n¿Puedo cambiar de día...?
+work_yakuza_a:0.704	Confío en ti.
+work_yakuza_a:0.713	¿¡Qué!?\n¿Te rindes?
+work_yakuza_a:0.715	¡Joder!\nFui un necio al confiar en ti.
+work_yakuza_a:0.716	Por hoy basta.\nVete a casa.
+work_yakuza_a:0.720	¡Lo has hecho genial!\n¡Esos magistrados deben de estar\ntemblando de miedo!
+work_yakuza_a:0.722	Esto es algo que tenía\nahorrado. Es tuyo.
+work_yakuza_a:0.737	¿Has fracasado, eh?
+work_yakuza_a:0.739	Bueno, no hay remedio.\nTendremos que esperar otra\noportunidad.
+work_yakuza_a:0.750	Tienes mucha cara para\nasomarte por aquí.
+work_yakuza_a:0.751	Muchos de los jóvenes de la banda\nsolo esperan la ocasión de matarte.
+work_yakuza_a:0.753	Y a mí no me importaría\nhacer lo mismo.
+work_yakuza_a:0.754	Dicho de otro modo:\nlárgate y no te acerques a nosotros.
+work_yakuza_a:0.757	...Pero todo depende de\nlo de fiar que seas.
+work_yakuza_a:0.759	Acaba de llegar un encargo que\nte iría como anillo al dedo.
+work_yakuza_a:0.760	Es una buena ocasión para\ndemostrar lo que vales.
+work_yakuza_a:0.762	Solo paga una miseria,\n¿pero te interesa?
+work_yakuza_a:0.763	Haré lo que sea.\n¿Me tomas por un criado?
+work_yakuza_a:0.765	Decídete de una vez...
+work_yakuza_a:0.768	Buena decisión.
+work_yakuza_a:0.769	Te cuento en qué consiste\nel trabajo.
+work_yakuza_a:0.771	Es sencillo.\nSolo tienes que abatir\na un montón de magistrados.
+work_yakuza_a:0.772	Debo atacar a los magistrados de guardia,\npor encargo de los Aoto.
+work_yakuza_a:0.784	No sé qué pasa hoy, pero todos\nlos magistrados están de guardia.
+work_yakuza_a:0.785	Parece que detienen a todo el\nque pillan.
+work_yakuza_a:0.787	Hay un montón. Más vale\nque vayas preparado.
+work_yakuza_a:0.788	¿Entendido? Cuantos más mates,\nmejor será tu fama.
+work_yakuza_a:0.789	Puedes volver cuando te canses,\npero...
+work_yakuza_a:0.791	Si no te importa el dinero, no\nhace falta que vuelvas.
+work_yakuza_a:0.793	No te preocupes.\nYo vigilaré cómo lo haces.
+work_yakuza_a:0.794	Así que hasta que se acabe el tiempo,\nlos magistrados de guardia son\ntus objetivos.
+work_yakuza_a:0.799	¿Qué actitud es esa?
+work_yakuza_a:0.800	Más te vale ir con ojo...
+work_yakuza_a:0.806	¿Ya has terminado?
+work_yakuza_a:0.807	Sí, basta ya.\n¡Todavía no!
+work_yakuza_a:0.814	¿Eso es lo mejor que\nsabes hacer?
+work_yakuza_a:0.816	Bueno, lo has intentado.\nAquí tienes tu paga.
+work_yakuza_a:0.829	¡Genial!
+work_yakuza_a:0.833	Has demostrado de sobra\nlo que vales.
+work_yakuza_a:0.855	¿Me estás tomando el pelo...?
+work_yakuza_a:0.856	Bueno, tampoco esperaba\nmucho de ti.
+work_yakuza_a:0.858	¡Largo de aquí!
+work_yakuza_a:0.869	¿Qué voy a hacer...?
+work_yakuza_a:0.871	Ah, eres tú.\n¿Qué tal te va?
+work_yakuza_a:0.872	Oye, tienes pinta de tener\nbuenas manos...
+work_yakuza_a:0.874	No, no.\nOlvídalo.
+work_yakuza_a:0.876	Tengo un trabajo, pero...
+work_yakuza_a:0.877	Es un poco delicado y requiere\nmucha mano izquierda.
+work_yakuza_a:0.878	...Dicho en pocas palabras,\nes robar carteras.
+work_yakuza_a:0.879	Me pregunto dónde encontraría\na alguien que pueda con ello...
+work_yakuza_a:0.880	Me llaman «manos ligeras».\nNo es lo mío.
+work_yakuza_a:0.882	A ver si hay alguien que\npueda hacerlo...
+work_yakuza_a:0.885	¿De verdad?
+work_yakuza_a:0.886	Bueno, está bien querer probar\ncosas distintas.
+work_yakuza_a:0.888	Te cuento los detalles...
+work_yakuza_a:0.902	Hoy aparecerá por algún punto\nde la ciudad un extranjero\ncon un objeto de valor.
+work_yakuza_a:0.903	Debo chocar con el extranjero y\nrobarle lo que lleva.
+work_yakuza_a:0.904	Robo de bolsillo
+work_yakuza_a:0.909	Hoy aparecerá un hombre con un\nobjeto de valor en algún punto\nde Amahara.
+work_yakuza_a:0.910	Debo chocar con el hombre y\nrobarle lo que lleva.
+work_yakuza_a:0.916	Hoy aparecerá un magistrado con\nun objeto de valor en algún punto\nde Amahara.
+work_yakuza_a:0.917	Debo chocar con el magistrado y\nrobarle lo que lleva.
+work_yakuza_a:0.924	Hazte con el objeto de valor sin\nque se dé cuenta.
+work_yakuza_a:0.925	Por desgracia no sabemos dónde\nestá, así que tendrás que buscarlo.
+work_yakuza_a:0.926	Robar carteras es muy\nsencillo, de verdad.
+work_yakuza_a:0.928	Solo tienes que chocar con el\nobjetivo y meterle la mano en\nel bolsillo.
+work_yakuza_a:0.930	Pero si chocas por detrás, no\nllegarás al bolsillo.
+work_yakuza_a:0.931	¡Choca de frente, como un hombre!
+work_yakuza_a:0.932	¡No te rindas hasta tener\nel objeto!
+work_yakuza_a:0.933	Suerte. Solo no te\ndejes pillar...
+work_yakuza_a:0.936	Sí, supongo que no...
+work_yakuza_a:0.938	Supongo que tendré que preguntar\na un experto en estas cosas.
+work_yakuza_a:0.948	¿Qué tal va?
+work_yakuza_a:0.952	Date prisa y quítale ese objeto\nal extranjero.
+work_yakuza_a:0.954	Date prisa y quítale ese objeto\nal hombre.
+work_yakuza_a:0.956	Date prisa y quítale ese objeto\nal magistrado.
+work_yakuza_a:0.958	¡Déjame a mí!\nEsto no es lo mío...
+work_yakuza_a:0.961	¡Bien! ¡Ve a por ellos!
+work_yakuza_a:0.972	Ya lo veía en tu cara.
+work_yakuza_a:0.973	Bueno, gracias de todos modos.\nNo deberías meterte en algo\npara lo que no vales.
+work_yakuza_a:0.975	¿Vas mejorando?
+work_yakuza_a:0.980	¡Ah! ¿Ese paquete es\nlo que creo que es...?
+work_yakuza_a:0.982	¡Ah! ¿Ese es quien creo que es...?
+work_yakuza_a:0.984	¡Ah! ¿Esos documentos son\nlo que creo que son...?
+work_yakuza_a:0.987	Bien hecho. Ya ves que si te\nlo propones, puedes. Aquí tienes\ntu parte.
+work_yakuza_a:0.1002	Así que has fracasado...
+work_yakuza_a:0.1003	Veo que no sirve de nada darte\notra cosa que trabajos a lo bruto.
+work_yakuza_a:0.1005	Bueno. Gracias de todos modos.\nVuelve otra vez.
+work_yakuza_a:0.1012	Debió de ser duro.
+work_yakuza_a:0.1018	¡Has recibido 15 mon!
+work_yakuza_a:0.1021	¡Has recibido 20 mon!
+work_yakuza_a:0.1024	¡Has recibido 25 mon!
+work_yakuza_a:0.1027	¡Has recibido 30 mon!
+work_yakuza_a:0.1030	¡Has recibido 35 mon!
+work_yakuza_a:0.1033	¡Has recibido 40 mon!
+work_yakuza_a:0.1066	¡Has recibido 3000 mon!
+work_yakuza_a:0.1084	Ahora mismo no tengo trabajo\npara ti.
+work_yakuza_a:0.1086	Desde que se escapó Kasumi...
+work_yakuza_a:0.1087	los jóvenes no paran de buscarla\npor todas partes. Es el caos...
+work_yakuza_a:0.1097	Lo siento, ahora no hay trabajo\npara ti. Vuelve más tarde.
+work_yakuza_a:0.1101	Kasumi puede ser la hija del\nviejo jefe, pero...
+work_yakuza_a:0.1103	No me creo que una sola chica\nlleve tanto lío a nuestra\norganización...
+work_yakuza_a:0.1108	Echo de menos los tiempos en que\ntrabajaba para el viejo jefe...
+work_yakuza_a:0.1119	Así que esa cabecilla alborotadora\npor fin ha salido de en medio...
+work_yakuza_a:0.1121	Parece que los Aoto están un paso\nmás cerca de hacerse con todo.
+work_yakuza_a:0.1123	¡Genial! ¡Vamos!
+work_yakuza_a:5.4	¿Qué es esto?
+work_yakuza_a:8.2	No puede ser verdad...
