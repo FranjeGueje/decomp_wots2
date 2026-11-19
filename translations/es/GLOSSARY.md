@@ -180,3 +180,4 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - «samurái de tres al cuarto» (bum), «timar» (rip off), «la altanera» (uppity wench), «puesto de guardia» (guardhouse), Jirocho (nombre propio).
 - Kasumi y el protagonista se tutean. wolfsbane → «acónito». «el Chief» sin más: según contexto, Hanzaemon («el jefe») o el magistrado jefe Kuroha; Goshiro lo trata de usted.
 - Nami (camarera): femenina. Soma sin artículo en diálogo. Interjecciones: «¡Iiih!» (grito femenino), «¡Aaaah!», «¡Ja, ja!», «¡Je, je!». «escoria de los Aoto», «samurái molesto». Beniya: nombre propio.
+- Kasumi es «la nueva jefa de la banda» (boss) tras D02D1x. Nami tutea al protagonista; Kuroha tutea (plural) a sus soldados. «carta de triunfo» (trump card), «gobierno del shogun».
