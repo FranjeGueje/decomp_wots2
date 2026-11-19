@@ -1,4 +1,4 @@
-# 04_work: muestra del paso 6 (work_chonin_a); el resto de la tanda, sin traducir.
+# 04_work: work_chonin_a (el intermediario de Amakaze-cho), tanda completa.
 work_chonin_a:0.911	Al secuestrador le oyeron\ndecir la frase:\n«Si soportas la peste».
 work_chonin_a:0.912	Debo encontrar a un bebé. Mi única pista\nes la frase «Si soportas la peste».
 work_chonin_a:0.914	Al secuestrador le oyeron\ndecir la frase:\n«Rodeado de fruta».
@@ -27,3 +27,99 @@ work_chonin_a:0.951	Pero no tenemos ni idea\nde qué significa la pista.
 work_chonin_a:0.953	¡Encuentre al bebé, por favor!
 work_chonin_a:0.954	¡Si no se da prisa, la\npobre criatura podría morir!
 work_chonin_a:0.956	¡Se lo ruego!
+work_chonin_a:0.961	Necesitamos toda la ayuda que\npodamos conseguir. Vuelva si\ncambia de opinión.
+work_chonin_a:0.969	¿Sin suerte?
+work_chonin_a:0.994	¿Qué querría decir «¡Bienvenido\na Amahara!»...?
+work_chonin_a:0.996	¿Qué querría decir «¡Vive una\nvida larga y austera!»...?
+work_chonin_a:0.1000	¿Qué querría decir «¡Libertad\nrobada!»...?
+work_chonin_a:0.1002	¿Qué querría decir «¡Juicio del\ncielo!»...?
+work_chonin_a:0.1004	¿Qué querría decir «¡Protegido\npor la justicia!»...?
+work_chonin_a:0.1006	¿Qué querría decir «Con un cartel\na la espalda»...?
+work_chonin_a:0.1008	¿Qué querría decir «Junto al auténtico\ncalibre firme»...?
+work_chonin_a:0.1010	¿Qué querría decir «En una\nguarida de ladrones»...?
+work_chonin_a:0.1012	¿Qué querría decir «Con miedo\nal médico»...?
+work_chonin_a:0.1014	¿Qué querría decir «Cuando\nestás enfermo...»?
+work_chonin_a:0.1016	¿Qué querría decir «Un pequeño\njardín»...?
+work_chonin_a:0.1018	¿Qué querría decir «Cuando\ncumplas veintiuno»...?
+work_chonin_a:0.1020	¿Qué querría decir «Si soportas\nla peste»...?
+work_chonin_a:0.1022	¿Qué querría decir «Rodeado\nde fruta»...?
+work_chonin_a:0.1024	¿Qué querría decir «El ruido de\nlos martillos es una nana»...?
+work_chonin_a:0.1026	¿Qué querría decir «Rodeado\nde arroz»...?
+work_chonin_a:0.1028	¿Qué querría decir «Invitado\na pasar»...?
+work_chonin_a:0.1030	¿Qué querría decir «Donde se\nrelamen los labios»...?
+work_chonin_a:0.1032	¿Qué querría decir «El viajero\nse descalza»...?
+work_chonin_a:0.1034	¿Qué querría decir «Fresco\nsi te abanicas»...?
+work_chonin_a:0.1036	¿Qué querría decir «El sonido de\nlas campanillas de viento»...?
+work_chonin_a:0.1038	¿Qué querría decir «Donde se\nreúnen los héroes»...?
+work_chonin_a:0.1040	¿Qué querría decir «Naturaleza\nhecha por el hombre»...?
+work_chonin_a:0.1042	Estamos en el mismo barco.\nTengo otros asuntos...
+work_chonin_a:0.1055	Estaba seguro de que\nusted lo encontraría...
+work_chonin_a:0.1056	Solo me queda esperar\na que alguien más\nlo encuentre...
+work_chonin_a:0.1058	...¿¡Es quien creo que es!?
+work_chonin_a:0.1060	¡Menos mal que está a salvo!
+work_chonin_a:0.1061	¡Gracias!\nSi no fuera por usted...
+work_chonin_a:0.1063	¡Aquí tiene su paga!
+work_chonin_a:0.1076	Ah...
+work_chonin_a:0.1078	Ya veo.\nNo ha podido encontrarlo...
+work_chonin_a:0.1080	Es de suma importancia.
+work_chonin_a:0.1082	Tendré que esperar a que\nlo encuentre otra persona...
+work_chonin_a:0.1091	¿Ah, sí?
+work_chonin_a:0.1093	Usted hace lo que le da\nla gana, ¿verdad?
+work_chonin_a:0.1094	Mis hombres se ponen furiosos\nsolo con oír el nombre\n%s.
+work_chonin_a:0.1096	Es usted un miserable...
+work_chonin_a:0.1097	Me gustaría verle echado de\nAmahara cuanto antes.
+work_chonin_a:0.1099	Pero hay un trabajo que quizá\npueda hacer...
+work_chonin_a:0.1100	Si lo consigue...
+work_chonin_a:0.1102	Quizá cambie un poco\nmi opinión de usted...
+work_chonin_a:0.1103	No paga gran cosa, pero\n¿le interesa?
+work_chonin_a:0.1104	Haré lo que sea.\nNo me postraré ante usted.
+work_chonin_a:0.1106	Si no está seguro, olvidémoslo...
+work_chonin_a:0.1110	Es un trabajo sencillo...
+work_chonin_a:0.1112	Quiero que haga de sparring\npara mis guardias de Amahara.
+work_chonin_a:0.1113	Debo hacer de sparring para los guardias\ndel Santuario de Amahara.
+work_chonin_a:0.1114	Hacer de sparring
+work_chonin_a:0.1120	El lugar es el Santuario de Amahara.
+work_chonin_a:0.1122	Esto va en serio.\nPodría morir fácilmente.
+work_chonin_a:0.1124	Así que es perfecto para usted...
+work_chonin_a:0.1125	Espero que nos demuestre\nque estábamos equivocados.
+work_chonin_a:0.1127	Cambiaríamos de opinión si\nabate a unos cien hombres...
+work_chonin_a:0.1128	Ya deberían estar en el santuario.
+work_chonin_a:0.1130	Si no pone todo su empeño,\nno tiene sentido hacerlo...
+work_chonin_a:0.1132	¡Así que a matar, a matar!
+work_chonin_a:0.1135	Debe de estar de broma...
+work_chonin_a:0.1136	Se quedará solo para siempre.
+work_chonin_a:0.1144	¿Miedo?
+work_chonin_a:0.1145	Estoy bien.\nSí, no puedo con esto.
+work_chonin_a:0.1151	Me ha traicionado otra vez...
+work_chonin_a:0.1153	Es usted lo peor...
+work_chonin_a:0.1154	Gracias por todo.\n¡Y no vuelva nunca!
+work_chonin_a:0.1166	Espero con ganas ver cómo le va.
+work_chonin_a:0.1168	¿Ha vuelto?
+work_chonin_a:0.1170	Tiene agallas. He cambiado\nde opinión sobre usted.\nPor ahora...
+work_chonin_a:0.1187	¿Intenta tomarnos el pelo?
+work_chonin_a:0.1188	Bueno. No esperaba gran cosa\nde usted desde el principio.
+work_chonin_a:0.1190	Vuelva a casa...
+work_chonin_a:0.1202	¡Ha cobrado 10 mon!
+work_chonin_a:0.1205	¡Ha cobrado 100 mon!
+work_chonin_a:0.1208	¡Ha cobrado 200 mon!
+work_chonin_a:0.1211	¡Ha cobrado 300 mon!
+work_chonin_a:0.1214	¡Ha cobrado 400 mon!
+work_chonin_a:0.1217	¡Ha cobrado 500 mon!
+work_chonin_a:0.1220	¡Ha cobrado 600 mon!
+work_chonin_a:0.1223	¡Ha cobrado 700 mon!
+work_chonin_a:0.1226	¡Ha cobrado 800 mon!
+work_chonin_a:0.1229	¡Ha cobrado 900 mon!
+work_chonin_a:0.1232	¡Ha cobrado 1000 mon!
+work_chonin_a:0.1250	Maikaze es muy popular, así que\nsolo puede verla de noche. Además...
+work_chonin_a:0.1251	Según el humor que tenga,\nquizá no quiera verle.
+work_chonin_a:0.1253	Debería terminar sus asuntos\ncuanto antes.
+work_chonin_a:0.1257	Tengo un mensaje de Maikaze.
+work_chonin_a:0.1259	Dice: «No quiero verle».
+work_chonin_a:0.1261	¿Le ha hecho algo para\nenfadarla?
+work_chonin_a:0.1263	Debería verla antes de\nque cambie de opinión.
+work_chonin_a:0.1268	No es de extrañar que no quiera\nver a alguien como usted...
+work_chonin_a:1.6	¡Ay!
+work_chonin_a:3.3	¡Alto!\n¡Soy pacifista!
+work_chonin_a:5.4	¿Q-qué está haciendo?
+work_chonin_a:7.6	¡Basta!
+work_chonin_a:8.2	¿Por qué...?
