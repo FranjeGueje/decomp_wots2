@@ -278,6 +278,7 @@ programada (`WOTS2_NEW_GAME=1`, `WOTS2_INPUT`) y capturas (`WOTS2_SHOTS`):
 
 - La narración de la intro: `end_roll/opening.er2` (`Effect.EndRoll` en `CTX/Opening`).
   Los créditos: `EndRoll` usa otros `end_roll/*.er*`.
-- Nombres de objetos, espadas, trabajos (tareas), técnicas: otras tablas del disco
-  (`task/*.bin`, datos de objetos…), aún sin estudiar.
+- Lo que dicen los NPC por la calle y los trabajos: las tareas (`task/alltask`), paso 6
+  (`docs/spanish/06_tasks.md`).
+- Nombres de objetos, espadas, técnicas: otras tablas del disco (datos de objetos…).
 - Rótulos dibujados en texturas (títulos de menú, «PAUSE»…).
