@@ -1,0 +1,236 @@
+# 30_normal: vecinos de Amahara (señoras normal_lady_a/b/c/d y señores normal_mister_a/b). Usted al protagonista; las señoras, en femenino en primera persona; los señores, en masculino. Salida: id|español (se convierte en tabulador).
+normal_lady_a:0.28	¡Qué pintoresco!\n¡Un samurái!
+normal_lady_a:0.29	Se le ve un poco distinto\nde como sale en las fotos\nque he visto.
+normal_lady_a:0.30	¿Ese palo que lleva al cinto\nes una «katana»?
+normal_lady_a:0.31	¿Me dejaría sostenerla\nun momento?
+normal_lady_a:0.33	Esta espada es mi vida.\nEs demasiado peligrosa.
+normal_lady_a:0.35	Perdone que se lo pregunte...
+normal_lady_a:0.38	Es usted un samurái\nbastante serio.
+normal_lady_a:0.43	Es la primera «katana»\nque he visto en mi vida.
+normal_lady_a:0.44	Brilla de un modo extraño.
+normal_lady_a:0.49	¿Cómo está?
+normal_lady_a:0.52	Se le ve muy bien,\n%s.
+normal_lady_a:0.58	Vine aquí con mi marido\npor asuntos de negocios,\npero me aburro terriblemente.
+normal_lady_a:0.59	Me pregunto si alguien tendría\nla bondad de enseñarme\nAmahara...
+normal_lady_a:0.63	Me gustaría ir al sitio\nmás famoso de Amahara...
+normal_lady_a:0.64	Si al menos alguien\nme acompañara hasta allí...
+normal_lady_a:0.69	Se le ve bien hoy.
+normal_lady_a:0.72	¿Le ocurre algo?
+normal_lady_a:0.78	¿Qué?\n¡No se acerque!\n¡No estoy en exposición!
+normal_lady_a:0.79	Hace un rato me rodeó\nuna pandilla de niños.
+normal_lady_a:0.80	¡Me hicieron las preguntas\nmás groseras!
+normal_lady_a:0.81	Esto demuestra lo poco civilizado\nque es este país.\n¡Bah!
+normal_lady_a:0.85	¡La gente hace las preguntas\nmás groseras!
+normal_lady_a:0.90	¿Va a algún sitio,\n%s?
+normal_lady_a:0.91	Debería venir a mi casa\nalgún día.
+normal_lady_a:0.92	Le prepararé té\ny pasteles.
+normal_lady_a:0.102	Me recuerda a mi infancia.\nEl olor del mar y de los\nárboles...
+normal_lady_a:0.103	Amahara me recuerda al pueblo\nal otro lado del mar\ndonde nací.
+normal_lady_a:0.104	Amahara me recuerda\na mi pueblo natal...
+normal_lady_a:0.108	En mi pueblo también se veía\nel mar, igual que aquí.
+normal_lady_a:0.109	Me pregunto qué estarán\nhaciendo todos en casa...
+normal_lady_a:1.13	¡Perdone!
+normal_lady_b:0.27	Desde que llegué a este pueblo\nme molestan tantos\nvendedores ambulantes...
+normal_lady_b:0.28	¿Usted también es vendedor ambulante?
+normal_lady_b:0.30	Sí, soy vendedor ambulante.\nSoy un mendigo.\nSolo un samurái errante.
+normal_lady_b:0.32	¿Por qué me mira\nasí?
+normal_lady_b:0.33	¡Llamaré a los magistrados!
+normal_lady_b:0.36	Qué persona más rara...
+normal_lady_b:0.39	¡Déjeme en paz!\n¿Le parecen las caras de los\nextranjeros como si fueran dinero?
+normal_lady_b:0.40	¡Quítese de mi vista!\n¡Llamaré a los magistrados!
+normal_lady_b:0.44	Por desgracia, no tengo\nnada de dinero que darle.
+normal_lady_b:0.45	Así que márchese, por favor.
+normal_lady_b:0.48	Ah, qué bien.
+normal_lady_b:0.50	No me siga.
+normal_lady_b:0.57	¿Podría alejarse un poco\nde mí?
+normal_lady_b:0.58	Su ropa huele fatal.
+normal_lady_b:0.60	Pues perdone...\nLlevo semanas sin bañarme.\n¡Voy a matarla!
+normal_lady_b:0.62	¡Ja! ¿No tiene nada\nque decir a eso?
+normal_lady_b:0.63	Por eso los hombres japoneses\nno valen nada.
+normal_lady_b:0.66	¿Ni siquiera puede contestar?
+normal_lady_b:0.69	Con que lo tenga claro...
+normal_lady_b:0.70	Ahora déjeme pasar.
+normal_lady_b:0.73	¡¿Semanas?!\n¡Iiih!
+normal_lady_b:0.74	¡Va a apestarme\nla ropa bonita!
+normal_lady_b:0.77	¡No! ¡Este bárbaro me va a matar!\n¡Socorro!
+normal_lady_b:0.82	Por favor, no se me acerque.
+normal_lady_b:0.86	%s,\n¿por qué no deja\nde ser samurái?
+normal_lady_b:0.87	Es que está tan\nanticuado...
+normal_lady_b:0.90	Es mi vida.\n¡La mataré, infiel!
+normal_lady_b:0.95	Bueno...
+normal_lady_b:0.96	Los samuráis no son\nmuy flexibles, ¿verdad?
+normal_lady_b:0.100	Eso es lo que quiero decir.\nNo puede ir por ahí diciendo\ncosas así.
+normal_lady_b:0.101	Si no empieza a ser\nmás flexible, se quedará\natrás.
+normal_lady_b:0.104	Bueno, hasta luego.
+normal_lady_b:0.111	¿Dónde puedo hacerme un\nchonmage bonito, como\nel de los samuráis?
+normal_lady_b:0.112	Dicen: «Donde fueres,\nhaz lo que vieres».
+normal_lady_b:0.113	Me gustaría probar\nun chonmage.
+normal_lady_b:0.117	Cuando vuelva a casa,\nharé popular el peinado\nde los samuráis.
+normal_lady_b:0.122	Este país es tan polvoriento\ny parece tan pobre...
+normal_lady_b:0.123	Supongo que todo eso de que Japón\nestá empedrado de oro era mentira.
+normal_lady_b:0.127	Mi marido decía que aquí\nharía fortuna, pero...
+normal_lady_c:0.29	Aquella fiesta japonesa\nfue maravillosa.
+normal_lady_c:0.30	¡Fue tan único!\n¡Me impresionó mucho!
+normal_lady_c:0.34	¡Cuando vuelva a casa\nenseñaré el baile Bon\na todo el mundo!
+normal_lady_c:0.39	Perdone,\n%s.
+normal_lady_c:0.41	¿Es costumbre que maten a mucha\ngente en las fiestas japonesas?
+normal_lady_c:0.43	No me pregunte...\nAsí es.\nPor supuesto que no.
+normal_lady_c:0.45	¿Por qué calla?
+normal_lady_c:0.46	¿Usted también va a matarme?
+normal_lady_c:0.55	¡Qué país tan bárbaro!
+normal_lady_c:0.56	¡Se lo contaré a todos\nen mi país!
+normal_lady_c:0.60	¿Quiere decir que no\nes costumbre?
+normal_lady_c:0.61	Entonces, ¿por qué murieron\ntodas esas personas?
+normal_lady_c:0.66	Este es un país\nbastante aterrador.
+normal_lady_c:0.71	He decidido volver\na mi país.
+normal_lady_c:0.73	¿Por qué?\n¡Qué alivio!\n¿Me lleva con usted?
+normal_lady_c:0.75	No parece muy\ninteresado...
+normal_lady_c:0.77	Este país es tan bárbaro.
+normal_lady_c:0.79	No lo soporto.
+normal_lady_c:0.83	No se preocupe,\n¡pronto me iré!
+normal_lady_c:0.87	Me temo que no puedo hacer eso.
+normal_lady_c:0.90	Adiós, samurái.
+normal_lady_c:0.95	Perdone, samurái...
+normal_lady_c:0.96	¿Puede enseñarme el secreto\ndel baile Bon?
+normal_lady_c:0.98	Solo disfrute.\nMueva mucho las caderas.
+normal_lady_c:0.100	Preguntaré a alguien más...
+normal_lady_c:0.103	¿Se lo está pasando bien?
+normal_lady_c:0.104	El baile Bon es un\nmagnífico ejemplo de\nla cultura japonesa.
+normal_lady_c:0.108	Ah, sus caderas...
+normal_lady_c:0.109	Tendré que\npracticarlo.
+normal_lady_c:0.112	¡El baile Bon\nes muy divertido!
+normal_lady_d:0.31	Hay tantos canallas\nrondando por Amahara.
+normal_lady_d:0.32	Me pregunto por qué los\nmagistrados no hacen nada\nal respecto.
+normal_lady_d:0.36	Por supuesto, sabe que es\nuno de esos canallas, ¿verdad?
+normal_lady_d:0.40	He oído hablar de usted,\n%s.
+normal_lady_d:0.41	Dicen que se le da muy bien\nla espada.
+normal_lady_d:0.43	Pero sabe una cosa,\n%s...
+normal_lady_d:0.45	En los países extranjeros\nhay muchos hombres más fuertes\nque usted.
+normal_lady_d:0.48	Como hay tantos samuráis\nen Japón...
+normal_lady_d:0.50	En Occidente hay muchos\npistoleros.
+normal_lady_d:0.56	Antes me encantaba Amahara,\ny lo cosmopolita que era.
+normal_lady_d:0.57	Pero cómo han cambiado\nlas cosas...
+normal_lady_d:0.61	Amahara ha cambiado\nde una forma terrible...
+normal_lady_d:0.65	Me encanta lo cosmopolita\nque es Amahara.
+normal_lady_d:0.69	Espero que Amahara\nno cambie.
+normal_lady_d:0.75	¿Cree que la situación en\nAmahara está empeorando?
+normal_lady_d:0.76	Tengo varios guardaespaldas,\nasí que no me preocupa mucho.
+normal_lady_d:0.80	La gente corriente debe\nde estar sufriendo con tanta\nviolencia.
+normal_lady_d:0.84	¡Oh, %s!
+normal_lady_d:0.85	¡Me encantaría que viniera\na trabajar como uno\nde mis guardaespaldas!
+normal_lady_d:0.89	¡Piénselo, por favor!
+normal_lady_d:0.95	¿Quién es usted?\n¿Sabe quién soy yo?
+normal_lady_d:0.96	Si hace alguna tontería,\n¡gritaré!
+normal_lady_d:0.100	¡No sé quién es usted!\n¡No puede venir y hablarme\nsin más!
+normal_lady_d:0.104	¡Pero si es %s!
+normal_lady_d:0.105	¡Mírese!
+normal_lady_d:0.106	¡De verdad debería vestirse\ncon más estilo!
+normal_lady_d:0.110	Debería cuidar la piel\ntanto como cuida la espada.
+normal_lady_d:0.116	Les envidio, gente corriente.\nNo tienen nada que perder.
+normal_lady_d:0.117	Pero nuestra familia es distinta.\nEspero que los magistrados\nnos protejan bien...
+normal_lady_d:0.121	Espero que los magistrados\nnos protejan bien...
+normal_lady_d:0.125	Entiendo muy bien\ncómo se siente con su espada.
+normal_lady_d:0.127	¡Es lo mismo que siente\nuna dama por su sombrilla!
+normal_lady_d:0.131	Las damas y los samuráis\nno son tan distintos.
+normal_mister_a:0.58	Amahara se ha vuelto\nun sitio bastante peligroso\ndesde hace poco.
+normal_mister_a:0.60	No era así antes.\nCuando aún vivía el viejo\njefe de los yakuza.
+normal_mister_a:0.64	¡Hoy ni se puede pasear\nde noche por las calles!
+normal_mister_a:0.67	¡Eh, %s!
+normal_mister_a:0.69	Parece que las cosas van\nun poco mejor desde que\nllegó a Amahara.
+normal_mister_a:0.72	El viejo jefe de la banda Aoto\ntambién alegraba Amahara...
+normal_mister_a:0.78	Quizá sea el estrés,\npero últimamente\nme duele el estómago...
+normal_mister_a:0.80	Debería pedirle al doctor Genan\nque me lo mire un día de estos...
+normal_mister_a:0.84	No tengo dinero, pero el buen\ndoctor Genan me atenderá igual.
+normal_mister_a:0.87	Últimamente me encuentro\nbien.
+normal_mister_a:0.89	Gracias al doctor Genan,\nme miró el estómago.
+normal_mister_a:0.95	Pobre doctor Genan...\nEra un buen hombre...
+normal_mister_a:0.101	¿Cree que el magistrado jefe\nquiere acabar de verdad\ncon los yakuza?
+normal_mister_a:0.103	Si es así, supongo que puedo\naguantar cómo actúan\nlos magistrados.
+normal_mister_a:0.106	Si libra a este pueblo\nde los delincuentes,\nle apoyaré.
+normal_mister_a:0.109	Pensar que el jefe ha muerto...\n¿Qué será ahora de Amahara...?
+normal_mister_a:0.112	%s,\n¿de verdad va a acabar\ncon los yakuza?
+normal_mister_a:0.114	Si es así, puedo aguantar\nalgunas penurias.
+normal_mister_a:0.115	¡Haré lo que usted diga,\n%s!
+normal_mister_a:0.119	¡Estamos con usted,\n%s!
+normal_mister_a:0.125	Oiga, ¿tiene usted de eso?\n¿Eh? ¿Tiene?
+normal_mister_a:0.127	¿Qué es «eso»?\nClaro, tengo un poco.\n¡No tome eso!
+normal_mister_a:0.129	Argh... ¡Que alguien me dé\nun poco...!
+normal_mister_a:0.132	Me refiero a eso, ¡eso!\n¡Convierte el mundo en un paraíso!
+normal_mister_a:0.135	¿¡R-de verdad?!\n¡Deme un poco!
+normal_mister_a:0.137	...¡Eso no es más que\nestiércol de caballo! ¿Quién lo quiere?
+normal_mister_a:0.140	Ya lo sé... Pero lo necesito\npara huir de mi dolor.
+normal_mister_a:0.142	Deme un poco...
+normal_mister_a:0.145	N-no tengo nada de d-dinero,\nasí que no puedo comprarlo.\n¡Que alguien me dé un poco!
+normal_mister_a:0.149	Buenas.
+normal_mister_a:0.152	Como ve,\nestoy bastante sano.
+normal_mister_a:0.158	Me pregunto si los yakuza y\nlos magistrados acabarán\nenfrentándose algún día.
+normal_mister_a:0.160	Eso podría suponer\nel fin de este pueblo...
+normal_mister_a:0.161	Tendré que huir...
+normal_mister_a:0.165	Si los yakuza y los magistrados\nse enfrentan, Amahara está perdida.
+normal_mister_a:0.168	Que algo así pase en la fiesta...\n¡Esto es el fin!
+normal_mister_a:0.172	¡Yupi!\n¡Yupi!
+normal_mister_a:0.173	Quizá sea por la fiesta,\npero...
+normal_mister_a:0.174	Últimamente me siento\nmuy animado.
+normal_mister_a:0.178	¡Yupiii!
+normal_mister_a:0.185	No tengo ganas de hacer\nnada...
+normal_mister_a:0.189	Estoy harto de la vida...
+normal_mister_a:0.195	¡Qué buen aspecto tiene hoy!
+normal_mister_a:0.200	Un extranjero me acaba de\nenseñar una palabra suya.
+normal_mister_a:0.202	¡Gud dam!
+normal_mister_a:0.203	Dice que es una especie\nde saludo.
+normal_mister_a:0.212	¡Ai kill yuu!
+normal_mister_a:0.213	Dice que es una expresión\nde agradecimiento.
+normal_mister_a:0.223	Hoy hace bastante sol.
+normal_mister_a:0.225	Y hace tanto calor...
+normal_mister_a:0.229	Ojalá el dios del sol\nse tomara un descanso...
+normal_mister_a:0.236	Perdí a mi familia en la fiesta,\ny ahora no tengo ganas\nde hacer nada.
+normal_mister_a:0.240	Quizá me vaya del pueblo...
+normal_mister_a:2.16	¡Ah!\n¡%s!
+normal_mister_b:0.53	El precio de la verdura ha subido\nmucho últimamente. Quizá sea\npor tanto sol...
+normal_mister_b:0.57	Cada vez cuesta más ganarse\nla vida con tanta inflación.
+normal_mister_b:0.59	%s, ¿no cree que\nel precio de la verdura\nha subido?
+normal_mister_b:0.61	Quizá sea por el sol\nque está haciendo.
+normal_mister_b:0.67	Hoy en día es muy peligroso.\nLes digo a mis hijos que\nno jueguen en la calle.
+normal_mister_b:0.69	Claro, nunca me hacen caso...
+normal_mister_b:0.73	Me preocupan mis hijos,\ncon el pueblo como está...
+normal_mister_b:0.75	Sigue siendo muy peligroso.\nLes digo a mis hijos que\nno jueguen fuera.
+normal_mister_b:0.81	¿Se baña usted con frecuencia?
+normal_mister_b:0.82	Cuide la higiene si quiere\ncaer bien.
+normal_mister_b:0.86	Tiene buena planta,\nasí que debería cuidar\nsu aseo también.
+normal_mister_b:0.88	Eh, %s,\n¿se baña con frecuencia?
+normal_mister_b:0.93	Hay tantos ronin andrajosos\npor ahí últimamente...
+normal_mister_b:0.96	Perdone, veo que también\nes ronin.
+normal_mister_b:0.100	Hay demasiados ronin sucios\npor aquí. Ensucian\ntodo el pueblo...
+normal_mister_b:0.102	Ah, no hablo de usted,\n%s.
+normal_mister_b:0.108	¿Qué pretenden los yakuza\ny los magistrados con Amahara?
+normal_mister_b:0.109	Me conformo con tener\ntres comidas al día...
+normal_mister_b:0.113	Me pregunto qué será\nde Amahara...
+normal_mister_b:0.115	La maravillosa fiesta acabó\nconvertida en un baño de sangre...
+normal_mister_b:0.121	Ese Danpachi es un hombre\nmuy a la moda.
+normal_mister_b:0.123	Me recuerda a mí mismo\ncuando era joven...
+normal_mister_b:0.127	Yo fui todo un galán\nde joven.
+normal_mister_b:0.129	Usted también va a la moda,\n%s.
+normal_mister_b:0.132	Danpachi fue elegante\nhasta el final...
+normal_mister_b:0.137	¿Conoce a esa chica, Nami,\nde la posada Amakaze?
+normal_mister_b:0.138	A mí me parece una\nauténtica extranjera.
+normal_mister_b:0.141	¿Usted qué cree?
+normal_mister_b:0.143	Es extranjera.\nEs japonesa de pura cepa.\n¿Quién?
+normal_mister_b:0.145	¿No la conoce?
+normal_mister_b:0.148	¿Usted también lo cree, eh?
+normal_mister_b:0.151	Pero supongo que aunque sea\nextranjera, es de los nuestros.
+normal_mister_b:0.152	¡Tiene la misma alma\nque todos nosotros!
+normal_mister_b:0.154	No soporto que la gente\nse emocione cuando ve\na los extranjeros...
+normal_mister_b:0.156	¡Todo son tonterías!
+normal_mister_b:0.161	Pero, pero...\n¡Tiene el pelo rubio\ny los ojos azules!
+normal_mister_b:0.164	¿Quiere decir que lo que cuenta\nes lo que lleva en el corazón?
+normal_mister_b:0.167	¿Es que no la conoce?
+normal_mister_b:0.169	Bueno, ya lo verá cuando la vea.\nParece una extranjera.
+normal_mister_b:0.172	¿Cree que tienen los ojos azules\nporque comen cosas distintas?
+normal_mister_b:0.175	Pero supongo que se murió\nde repente hace un tiempo...
+normal_mister_b:0.182	Esa Chiyo que trabaja en la\nclínica del doctor Genan...
+normal_mister_b:0.183	es una muchacha muy\nagradable.
+normal_mister_b:0.187	Ojalá fuera mi hija...
+normal_mister_b:0.190	Hace tiempo que no veo\na Chiyo por aquí...
+normal_mister_b:0.192	¿Y si se fue de Amahara\npara estar con su novio?
+normal_mister_b:2.14	¿¡Ese es %s,\nel terrible!?
+normal_mister_b:2.16	¡T-tú!
