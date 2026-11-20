@@ -1,0 +1,228 @@
+# 11_main: personajes principales (main_genan1, main_goshiro1, main_kasumi1, main_kasumi_runaway, main_kurikichi1).
+# Genan tutea al protagonista y a Chiyo, usted a los pacientes; Goshiro tutea al protagonista y trata de usted a Kuroha y a Nakamura;
+# Kasumi (femenina) tutea al protagonista; Kurikichi (anciano) trata de usted al protagonista; las opciones groseras van de tú.
+# «OJO» de main_genan1:7.27 (¡Idiota!) y de main_kasumi1:0.120 (Venga, lárgate de aquí.): formas neutras.
+main_genan1:0.160	Bueno, ¿ya has conseguido\nenseñar a leer a esa niña?
+main_genan1:0.161	No es asunto tuyo.\nUn poco más...\nSe me olvidó eso...
+main_genan1:0.163	Hum.\nSe te nota en la cara\nque no va bien.
+main_genan1:0.164	Bueno, suerte...\nLa vas a necesitar.
+main_genan1:0.167	Hum.\nBueno, ¡a por ello de todos modos!
+main_genan1:0.169	Debe de ser una tarea difícil.
+main_genan1:0.173	Seguro que hay gente a tu alrededor\nque no aprueba lo que haces.
+main_genan1:0.174	Pero se lo demostrarás, ¿no?
+main_genan1:0.176	Dicen que «un samurái nunca\nfalta a su palabra».
+main_genan1:0.180	Vaya, vaya.\nEres todo un personaje.
+main_genan1:0.181	Aunque tú lo olvides,\nesa niña no lo hará.
+main_genan1:0.183	Te está esperando.
+main_genan1:0.184	Espera cada día\nque le enseñes a leer.
+main_genan1:0.192	Bueno, ¡a por ello!
+main_genan1:0.194	Demuéstrales de qué pasta\nestá hecho un verdadero samurái.
+main_genan1:0.196	Esa niña te está esperando.
+main_genan1:0.204	Sayo lo está haciendo\nmuy bien.
+main_genan1:0.205	Hasta yo tengo que reconocer\nque aprende muy deprisa.
+main_genan1:0.206	Bueno, la he enseñado...\nCuídala bien.\nMe quedaré con la mitad de su paga.
+main_genan1:0.208	Nunca te entenderé...
+main_genan1:0.211	No te des tanta importancia.
+main_genan1:0.213	Todo es mérito suyo.\nTú solo le abriste la puerta.
+main_genan1:0.215	Claro que es verdad que nosotros\nni siquiera pudimos hacer eso por ella...
+main_genan1:0.220	Claro que lo haremos.
+main_genan1:0.221	Cuídate tú también.
+main_genan1:0.223	No queremos que Sayo se preocupe tanto\nque no pueda trabajar bien.
+main_genan1:0.228	¿Qué estás diciendo, idiota?
+main_genan1:0.230	Supongo que eres igual que\ntodos los samuráis asesinos...
+main_genan1:0.238	Pero no te pongas chulo.
+main_genan1:0.240	Cuídate.
+main_genan1:0.242	Idiota...
+main_genan1:0.244	Qué tipo más extraño...
+main_genan1:0.247	No creo que tengamos mucho trabajo\nel día de la fiesta, así que...
+main_genan1:0.257	Es un poco pronto,\npero aquí tienes tu paga.
+main_genan1:0.261	Cómprate algo bonito.
+main_genan1:0.262	Habrá muchísimas tiendas\nen la fiesta.
+main_genan1:0.270	La fiesta de Amahara\nempezará pronto.
+main_genan1:0.271	Supongo que es tu primera vez\nen la fiesta, ¿no?
+main_genan1:0.272	Sí...\nNo me interesa.\n¿Me estás invitando?
+main_genan1:0.274	No pareces muy interesado.\nPero la niña sí.
+main_genan1:0.276	Si Sayo te invita a ir,\nmás te vale no negarte.
+main_genan1:0.280	Sayo tiene muchas ganas\nde ir contigo a la fiesta.
+main_genan1:0.282	Más te vale no ir invitando\na otras chicas.
+main_genan1:0.286	A ti puede que no te interese,\npero a ella sí.
+main_genan1:0.292	¡No digas tonterías!
+main_genan1:0.294	Estaré aquí el día de la fiesta,\ncomo siempre.
+main_genan1:0.295	Los médicos no tenemos días libres,\n¿sabes?
+main_genan1:0.303	Recuérdalo...
+main_genan1:0.307	No tengo tiempo para tus bromas.
+main_genan1:0.315	¡Fuera! ¡Aquí no necesitamos\nasesinos!
+main_genan1:0.316	¡Y yo no necesito un médico!\n¡Voy donde me da la gana!\nTengo dolor de barriga...
+main_genan1:0.319	¡Fuera!
+main_genan1:0.324	¡Pues qué haces aquí!\n¡Vete!
+main_genan1:0.329	¡Esta es mi clínica!\n¡Yo decido quién entra aquí!
+main_genan1:0.333	Si has podido llegar hasta aquí,\nno necesitas mi medicina.
+main_genan1:0.336	¡Pues hierve un poco de hierba\nde la cuneta y bébetela!
+main_genan1:0.342	¿Qué pasó con tu promesa\nde enseñar a leer a la niña?
+main_genan1:0.343	Lo siento...\nMe he rendido.\nEra mentira.
+main_genan1:0.347	Acabas haciendo daño a la gente\nsi no cumples tus promesas.
+main_genan1:0.348	Recuérdalo.
+main_genan1:0.352	Disculparte conmigo no sirve de nada.\nLa que sufrió fue la niña.
+main_genan1:0.360	Vago irresponsable...
+main_genan1:0.361	Ella sigue pensando que le vas\na enseñar a leer.
+main_genan1:0.363	Si te rindes tan fácil,\nno deberías haber hecho la promesa.
+main_genan1:0.367	Si es una broma, no tiene gracia.
+main_genan1:0.369	¿Y también le vas a decir eso?\n¿Que todo fue mentira?
+main_genan1:0.371	¡Maldito desgraciado!\n¡Qué necio fui al confiar\nen un asesino!
+main_genan1:0.379	Disculparte conmigo no sirve de nada.
+main_genan1:0.389	¿Qué quieres...?
+main_genan1:0.390	Nada.\nTraigo incienso para Sayo.\nTengo que hablar con ella.
+main_genan1:0.393	Pues lárgate de aquí...
+main_genan1:0.394	No quiero más muertes por aquí.
+main_genan1:0.398	El incienso de una mano\nmanchada de sangre no sirve de nada.
+main_genan1:0.400	Si quieres que descanse en paz,\nlo mejor es que te vayas\ndel pueblo.
+main_genan1:0.404	No puedes hablar con los muertos.
+main_genan1:0.406	Tendremos que vivir con lo que\nnunca llegamos a decirle...
+main_genan1:0.413	Más te vale irte...
+main_genan1:7.17	¡Asesino!
+main_genan1:7.25	¡Maldito desgraciado!
+main_genan1:7.27	¡Idiota!
+main_genan1:7.33	¡Estoy intentando trabajar!
+main_genan1:7.35	¡Hacedlo fuera!
+main_genan1:8.10	¿Es este el castigo del cielo...?
+main_goshiro1:0.58	Que Nakamura te haya cogido cariño\nno te da derecho a subirte a la parra.
+main_goshiro1:0.59	No me subo a la parra.\nHago lo que me da la gana.\n¿Son celos?
+main_goshiro1:0.61	¿Por qué no dices nada?\n¿Te preocupa algún secreto?
+main_goshiro1:0.63	Lo mejor es desahogarte...
+main_goshiro1:0.64	Así podré mandarte al infierno,\ndonde te corresponde.
+main_goshiro1:0.68	Ah, no sé yo.
+main_goshiro1:0.70	En cualquier caso, si das\nun paso en falso,\nte cortaré yo mismo.
+main_goshiro1:0.71	La próxima vez no le daré a Nakamura\nla oportunidad de pararme.
+main_goshiro1:0.75	Si piensas así,\nquizá yo empiece a hacer lo mismo.
+main_goshiro1:0.76	Como des un paso en falso,\nte cortaré yo mismo.
+main_goshiro1:0.83	¡¿Q-qué dices?!\n¡Solo de pensarlo me pone enfermo!
+main_goshiro1:0.85	¡Me da igual qué clase de relación\ntengas con Nakamura!
+main_goshiro1:0.87	¡Pervertido! ¡No me vuelvas a decir\nalgo así!
+main_goshiro1:0.95	Te vas a enterar.
+main_goshiro1:0.99	Pervertido.
+main_goshiro1:0.105	¿Qué quieres de mí?
+main_goshiro1:0.109	Nada.\nEs por el magistrado jefe...\n¿Quién es ese tal Yasuno?
+main_goshiro1:0.111	¿Por qué no dices algo?\n¿Me estás tomando el pelo?
+main_goshiro1:0.115	No me hables si no tienes\nnada que decir. Estoy ocupado.
+main_goshiro1:0.118	¿Qué intentas averiguar?
+main_goshiro1:0.120	¿Crees que te voy a soltar secretos?\nSi ni siquiera te conozco.
+main_goshiro1:0.121	Escucha, no te metas\nen nada raro.
+main_goshiro1:0.123	Así acabarás muerto...
+main_goshiro1:0.127	De ese hombre no sale nada bueno.
+main_goshiro1:0.128	Eso es todo lo que puedo decir.
+main_goshiro1:0.140	No hables de eso\ntan a la ligera...
+main_goshiro1:0.142	Nunca sabes quién puede\nestar escuchando...
+main_goshiro1:0.143	Además, todavía no sé\nsi puedo fiarme de ti.
+main_goshiro1:0.147	¡Es el peor gusano que hay!
+main_goshiro1:0.148	Como el shogun lo respalda,\ncree que puede hacer lo que quiera.
+main_goshiro1:0.150	Pero no puedo consentir esto\nmucho más...
+main_goshiro1:0.152	Me encargaré de él yo mismo,\ntarde o temprano.
+main_goshiro1:0.164	¿Qué tienes en mente...?
+main_goshiro1:0.166	¡No creas que no sé de tus tratos\ncon el hampa!
+main_goshiro1:0.167	Como des un paso en falso,\nte cortaré sin pensarlo dos veces.
+main_goshiro1:0.169	¡No lo olvides!
+main_goshiro1:0.173	No deberías preguntarme eso...
+main_goshiro1:0.174	Escucha...
+main_goshiro1:0.176	¡No voy a dejar que tú y Yasuno\nsigáis así mucho más tiempo!
+main_goshiro1:0.187	No me hables si no tienes\nnada que decir...
+main_goshiro1:0.202	Todavía no sé si puedo fiarme de ti.
+main_goshiro1:0.204	No puedo consentir esto...
+main_goshiro1:0.225	No quería obligarte a hacer\neste tipo de trabajo...
+main_goshiro1:0.226	Déjamelo a mí.\nLuego me invitas a un trago.\nHazle compañía a Nakamura.
+main_goshiro1:0.228	Di algo... Sería más fácil\nsi me gritaras...
+main_goshiro1:0.232	A veces te envidio, sin ataduras\nde reglas ni leyes...
+main_goshiro1:0.234	Ojalá pudiera estar allí contigo.
+main_goshiro1:0.238	No hay problema.
+main_goshiro1:0.239	Te invito al mejor sake\nque hayas probado.
+main_goshiro1:0.243	¡¿Qu-qué?! ¿Cómo puedes decir algo así\nen un momento como este?
+main_goshiro1:0.248	¡Qué maravilla, Goshiro!
+main_goshiro1:0.249	Puedes quedarte aquí conmigo, ¿eh?
+main_goshiro1:0.251	¡Señor Nakamura!\n¡Seguro que está de broma...!
+main_goshiro1:0.259	¡Dales una paliza!
+main_goshiro1:0.263	De verdad que no soy así...
+main_goshiro1:0.265	Sería más fácil si me gritaras...
+main_goshiro1:3.31	Te pillaré la próxima vez...
+main_goshiro1:5.5	¡Así que muestras tu verdadera cara!
+main_goshiro1:5.11	Hum. Qué precipitado...
+main_goshiro1:8.11	Tantos... remordimientos...
+main_kasumi1:0.58	Tienes un arma bastante bonita.
+main_kasumi1:0.59	Supongo que usas eso\npara matar a la gente, ¿no?
+main_kasumi1:0.60	Las espadas se hicieron para matar.\nSolo si no queda otro remedio.
+main_kasumi1:0.62	¿Qué? ¿No sabes qué contestar?
+main_kasumi1:0.66	Supongo que eres igual\nque todos esos matones.
+main_kasumi1:0.71	Vaya.
+main_kasumi1:0.73	Eres distinto de los otros samuráis.
+main_kasumi1:0.74	Me sorprende un poco.
+main_kasumi1:0.81	Odio a gente como tú,\nque usa la fuerza para hacer daño.
+main_kasumi1:0.82	No me hables.\n¡Me das asco!
+main_kasumi1:0.85	Tienes bastante juicio\npara ser samurái.\nMe sorprende un poco.
+main_kasumi1:0.90	No creía que Hanzaemon\nllegara tan lejos.
+main_kasumi1:0.92	Soy una deshonra para la memoria\nde mi difunto padre...
+main_kasumi1:0.96	Si yo fuera lo bastante fuerte,\nlo habría detenido...
+main_kasumi1:0.101	Desde luego, se te da bien la espada.
+main_kasumi1:0.103	Pero nunca aceptaré a quienes...
+main_kasumi1:0.104	usan su fuerza para aprovecharse\nde los débiles.
+main_kasumi1:0.108	Lárgate. No quiero volver\na verte la cara.
+main_kasumi1:0.113	Otomi es como una madre para mí.
+main_kasumi1:0.114	Mi madre de verdad murió\ncuando yo era muy pequeña.
+main_kasumi1:0.115	Otomi me crio.
+main_kasumi1:0.117	Para mí vale más\nque mi madre de verdad.
+main_kasumi1:0.118	...¿Por qué te estoy contando\ntodo esto?
+main_kasumi1:0.120	Venga, lárgate de aquí.
+main_kasumi1:0.123	¿Aún tienes algo que hacer aquí?
+main_kasumi1:0.125	Si no, ya puedes irte.
+main_kasumi1:3.4	¡Pelead en otra parte!
+main_kasumi1:5.5	¿Tienes algún asunto conmigo?
+main_kasumi1:7.7	¡Eres terrible!
+main_kasumi1:8.10	Papá...
+main_kasumi_runaway:0.36	Así que has venido a capturarme...
+main_kasumi_runaway:0.41	¿Te crees que voy a dejar que gente\ncomo tú me capture?!
+main_kasumi_runaway:2.6	¡No va a ser fácil capturarme!
+main_kasumi_runaway:7.7	¡¿Me está siguiendo alguien?!
+main_kurikichi1:0.38	Llevo viajando mucho tiempo.
+main_kurikichi1:0.39	Pero creo que ha llegado el momento\nde poner fin a mi viaje.
+main_kurikichi1:0.41	Ya soy demasiado viejo\npara seguir.
+main_kurikichi1:0.43	Envejecer es muy triste.\n¿Cuántos años tiene?\n¿Cómo se llama?
+main_kurikichi1:0.46	Soy del paso de Rokkotsu.
+main_kurikichi1:0.47	¿Está cerca de Edo?\n¿Cuántos años tiene?\nDígame su nombre.
+main_kurikichi1:0.50	Mi familia tiene un restaurante.
+main_kurikichi1:0.51	Todo el mundo en el paso de Rokkotsu\nconoce el restaurante «Amaguri».
+main_kurikichi1:0.52	Parece que está un poco sordo.\n¿Está senil, verdad?\nNo me escucha...
+main_kurikichi1:0.55	Ha sido muy popular desde que abrió.\nEs una experiencia gastronómica nueva.
+main_kurikichi1:0.56	Lo publicaron en los periódicos de Edo:\n«Colas para el nuevo restaurante...»
+main_kurikichi1:0.57	Vaya...\nSuena muy bien.\nQué aburrido...
+main_kurikichi1:0.60	Dejé el restaurante a mi hijo\nhace años y me eché a los caminos.
+main_kurikichi1:0.61	Deben de estar preocupados por mí.
+main_kurikichi1:0.62	Sí, seguro.\nSu hijo debe de estar furioso.\nMe pica la espalda...
+main_kurikichi1:0.65	Debió de ser mucho trabajo\npara mi hijo...
+main_kurikichi1:0.66	Soy un padre terrible...
+main_kurikichi1:0.67	No es verdad.\nNo puedo negarlo.\nTengo hambre...
+main_kurikichi1:0.70	Por cierto, ¿quién es usted?\n¿Cuánto tiempo lleva ahí?
+main_kurikichi1:0.71	Nadie especial...\n¿Con quién hablaba?\n¡Tranquilícese!
+main_kurikichi1:0.74	Me vuelvo a casa,\na Rokkotsu.
+main_kurikichi1:0.75	Si alguna vez va a Rokkotsu,\npase por nuestro restaurante.
+main_kurikichi1:0.77	El nombre es...
+main_kurikichi1:0.78	Eh...
+main_kurikichi1:0.81	Parece que se me ha olvidado...
+main_kurikichi1:0.82	Dijo «Amaguri».\nCreo que era «Furikuri».\n¿No era «Itchykitchy»?
+main_kurikichi1:0.85	¡Eso es! ¡Eso es! ¡«Amaguri»!
+main_kurikichi1:0.86	Si alguna vez va a Rokkotsu,\npase por «Amaguri» a tomar un bocado.
+main_kurikichi1:0.89	¡Eso es! ¡Eso es! ¡«Furikuri»!
+main_kurikichi1:0.90	Si alguna vez va a Rokkotsu,\npase por «Furikuri» a tomar un bocado.
+main_kurikichi1:0.93	¡Eso es! ¡Eso es! ¡«Itchykitchy»!
+main_kurikichi1:0.94	Si alguna vez va a Rokkotsu,\npase por «Itchykitchy»\na tomar un bocado.
+main_kurikichi1:0.100	Le voy a contar la historia de Kurikichi.
+main_kurikichi1:0.102	Lo atacaron sin motivo durante el viaje.\nPor suerte, sobrevivió.
+main_kurikichi1:0.103	Cuando sane, pienso llevarlo\na casa, al paso de Rokkotsu.
+main_kurikichi1:0.107	Perdió a sus hijos mayores de hambre,\ny a su mujer por enfermedad.
+main_kurikichi1:0.108	Dejó el restaurante a su hijo menor\ny se fue de viaje.
+main_kurikichi1:0.112	Creo que sus heridas son\nmucho más profundas que las\nque le hicieron sus atacantes...
+main_kurikichi1:1.10	¡Uy, vaya!
+main_kurikichi1:1.12	¡Ups!
+main_kurikichi1:7.16	¡Ghaa!
+main_kurikichi1:7.18	¡Aaah!
+main_kurikichi1:7.20	¡Ay!
+main_kurikichi1:7.63	¡Hasta el gusano se revuelve!
+main_kurikichi1:7.65	¡Al que madruga,\nDios le ayuda!
+main_kurikichi1:7.67	¡He visto la luz!
+main_kurikichi1:7.69	¡Es un monstruo!
