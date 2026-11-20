@@ -1,0 +1,214 @@
+# 12_main: personajes principales (main_kusaburo1, main_master1, main_mitsugo1).
+# Kusaburo (vendedor de medicinas, hombre) usa usted al protagonista, que le tutea en las opciones; Tessho (maestro del dojo) usa usted; los matones de los Aoto (Mitsugo) tutean.
+main_kusaburo1:0.53	¡Oh, hola!\nGracias por su ayuda\nde hace un tiempo.
+main_kusaburo1:0.54	Me has engañado.\n¿De verdad eres un espía?\nNo te acerques a mí.
+main_kusaburo1:0.55	¿Eh?\n¿Quiere decir que no quiere\nhablar conmigo?
+main_kusaburo1:0.57	Bueno, no puedo decir\nque le culpe.
+main_kusaburo1:0.58	Me pregunto qué le habrá\npasado por la cabeza a ese magistrado...
+main_kusaburo1:0.62	¡¿Qué?! ¡Ni mucho menos!\n¡No diga algo así!
+main_kusaburo1:0.64	Le pido disculpas por haber\nsalido corriendo así...
+main_kusaburo1:0.65	¿Pero qué otra cosa podía hacer?
+main_kusaburo1:0.67	¡Tenía la espada en alto,\npreparado para matarme!
+main_kusaburo1:0.70	Ja, ja.\n¿De qué diablos está hablando?
+main_kusaburo1:0.71	¿Cree que alguien querría\na un espía como yo?
+main_kusaburo1:0.77	Supongo que no soy muy\npopular por aquí.
+main_kusaburo1:0.78	Pero no puedo decir\nque le culpe. Ese magistrado\nestaba hecho una furia...
+main_kusaburo1:0.80	Pero yo también fui una víctima.\n¡Entiéndalo, por favor!
+main_kusaburo1:0.88	Lo siento mucho.\nTiene que creerme.
+main_kusaburo1:0.97	Supongo que no puedo culparle\npor estar enfadado.
+main_kusaburo1:0.102	¡Eh, eh! Yo también lo vi.\nEse magistrado corrupto...
+main_kusaburo1:0.103	Esta ciudad está en problemas\nsi ni siquiera se puede confiar\nen la ley.
+main_kusaburo1:0.104	¿Estabas allí?\nAh, claro...\nPareces bastante contento.
+main_kusaburo1:0.105	Debería pensárselo\nbien.
+main_kusaburo1:0.107	¿De verdad la Magistratura\nestá del lado de la justicia\ny del bien?
+main_kusaburo1:0.111	Bueno, no se preocupe\npor eso...
+main_kusaburo1:0.113	El problema es que los magistrados,\ntan severos con la gente...
+main_kusaburo1:0.114	hacen la vista gorda ante los delitos\nde uno de los suyos.
+main_kusaburo1:0.116	¿Adónde va a parar este mundo?
+main_kusaburo1:0.119	Por el bien del pueblo,\nla Magistratura debería\nrendir cuentas.
+main_kusaburo1:0.123	¡Je, je! ¿De qué me está hablando?
+main_kusaburo1:0.124	¡Estoy tremendamente indignado!
+main_kusaburo1:0.125	¡Este pueblo se va al garete!
+main_kusaburo1:0.133	¡Vaya mundo en el que vivimos!
+main_kusaburo1:0.140	¡Este pueblo se va\nal garete!
+main_kusaburo1:0.143	Debería pensárselo\nseriamente.
+main_kusaburo1:0.148	¿Conoce a la niña que trabajaba\nen la clínica?
+main_kusaburo1:0.149	Me pregunto qué será de ella ahora...
+main_kusaburo1:0.151	Ojalá alguna buena persona\nla acogiera.
+main_kusaburo1:0.161	Me pregunto si de verdad\nhabía que matar al doctor...
+main_kusaburo1:0.162	¿Qué va a ser de este pueblo?
+main_kusaburo1:0.164	Me preocupa muchísimo.
+main_kusaburo1:3.2	¡Oho!
+main_kusaburo1:5.4	¡¿Q-qué quiere?!
+main_kusaburo1:7.7	¡Cómo ha podido!
+main_kusaburo1:8.9	Creo que estoy acabado...
+main_master1:0.30	Bienvenido a mi dojo.\nMe llamo Tessho.
+main_master1:0.31	Este dojo es para quienes dudan\nde cómo vivir en Amahara...
+main_master1:0.32	o para quienes quieren\naprender a luchar como samuráis.
+main_master1:0.33	Si quiere saber algo, seguro que\nmis alumnos pueden ayudarle.
+main_master1:0.35	Y si algo no le queda claro,\npásese por el dojo y pregunte.
+main_master1:0.36	Bueno, ¿en qué puedo ayudarle\nesta vez?
+main_master1:0.40	¡Bienvenido, %s!\n¿En qué puedo ayudarle esta vez?
+main_master1:0.41	Quiero que me enseñe.\n¡Quiero retarle!\nNo, da igual.
+main_master1:0.44	De acuerdo... Le enseñaré\na luchar contra varios\nenemigos a la vez.
+main_master1:0.45	Combate contra varios enemigos:
+main_master1:0.48	Puede que se enfrente a varios\nenemigos sueltos a la vez,\no a muchos en grupo.
+main_master1:0.49	Cuando esté en inferioridad,\nlance golpes letales de un tajo.
+main_master1:0.51	Cuando mate a un enemigo, sus\namigos se lanzarán enseguida\na vengarse.
+main_master1:0.52	Derribe al siguiente rival\ndel mismo modo.
+main_master1:0.54	Y entonces el siguiente\nrival vendrá a atacarle.
+main_master1:0.55	Pero no entre en pánico solo\nporque vengan todos a por usted.
+main_master1:0.56	Los enemigos que le atacan\nestarán furiosos, y sus\nataques serán más simples.
+main_master1:0.58	Puede saber qué ataque\nva a hacer un rival por su postura.
+main_master1:0.59	Si va a cortar en vertical\no en horizontal.
+main_master1:0.60	Si mantiene la calma y analiza\nsu postura, ¡podrá vencerlos!
+main_master1:0.62	Da igual cuántos enemigos\nle ataquen a la vez.
+main_master1:0.63	¡Lance una ráfaga de golpes letales\ny acabe con todos!
+main_master1:0.65	¡Disfrute del peligro!
+main_master1:0.67	Sin embargo...
+main_master1:0.69	Si no mata a su enemigo de un golpe,\nlos demás atacarán con calma.
+main_master1:0.70	El éxito al luchar contra varios\ndepende de...
+main_master1:0.71	de lo bien que sepa usar\nsus golpes letales. ¡No lo olvide!
+main_master1:0.72	Hasta aquí la lección.
+main_master1:0.74	¿Quiere practicar combates\ncontra varios rivales?
+main_master1:0.75	Déjeme practicar.\nNo, estoy bien.
+main_master1:0.81	Bueno, al menos tiene\nagallas.
+main_master1:0.82	Si logra vencerme,\nle daré un premio.
+main_master1:0.83	Claro que me contendré,\npero...
+main_master1:0.85	Si acaba muerto en algún accidente,\n¡no venga a perseguirme!
+main_master1:0.86	Retar al maestro
+main_master1:0.90	¡Tenga un poco de piedad\ncon un viejo!
+main_master1:0.92	...Bueno, vuelva\ncuando quiera.
+main_master1:0.95	¿No? Bueno, si necesita algo,\nno dude en pasarse otra vez.
+main_master1:0.123	¡Dé lo mejor de sí! Pero, claro,\nseguro que es imposible...
+main_master1:0.125	¡Ataque con toda su fuerza!
+main_master1:0.127	¡Vamos!
+main_master1:0.129	¿Piensa esperar\ntodo el día?
+main_master1:0.131	¿Necesita ayuda?
+main_master1:0.133	De acuerdo, ¡vamos!
+main_master1:0.135	¡Ataque con todo\nlo que tenga!
+main_master1:0.137	¡Ataque!
+main_master1:0.139	¡Esta vez de verdad!
+main_master1:0.141	¡Ja!
+main_master1:0.165	¡Necio!
+main_master1:0.173	Has perdido contra el maestro...
+main_master1:0.182	Quizá me estoy haciendo\ndemasiado viejo para esto...
+main_master1:0.184	Su esgrima\nno está mal...
+main_master1:0.186	No está mal...
+main_master1:0.188	Todavía le falta\nexperiencia...
+main_master1:0.190	¡Empiece desde\nel principio!
+main_master1:0.196	¡M-me ha vencido!
+main_master1:0.199	¡Has vencido al maestro!
+main_master1:0.200	Bien hecho...
+main_master1:0.202	¿Todavía necesita algo?
+main_master1:0.205	Ha sido un ejemplo brillante\nde esgrima.
+main_master1:0.208	Aquí tiene su premio...
+main_master1:0.215	¡Has conseguido una bola de arroz!
+main_master1:0.219	¡Has conseguido un pergamino!
+main_master1:0.223	¡Has obtenido un pergamino especial!
+main_master1:0.227	¡Has obtenido un pergamino secreto!
+main_master1:0.230	Pero parece que ya tiene demasiadas\ncosas de este tipo...
+main_master1:0.231	Tiraré una.\nNo necesito ningún premio.
+main_master1:0.234	¿Hm?\n¿Así es?
+main_master1:0.239	¡Siga entrenando!
+main_master1:0.242	¡Todos!
+main_master1:0.283	¡Dadle lecciones!
+main_master1:0.337	Es bueno...
+main_master1:0.339	Fuerte...
+main_master1:0.341	¡Puedes hacerlo!
+main_master1:0.343	¡Un poco más!
+main_master1:0.350	¿Tiene miedo?
+main_master1:0.356	Has perdido contra\nlos alumnos...
+main_master1:0.357	¿Estás bien? ¡Eh!
+main_master1:0.363	¡Has vencido a los alumnos!
+main_master1:0.370	Has empatado con los\nalumnos...
+main_master1:0.371	No te esfuerces demasiado.
+main_master1:0.409	Busca un punto débil\ny lanza un golpe letal.
+main_master1:0.411	Guion de la batalla en grupo 1
+main_master1:0.416	Hay que superar las defensas\ndel rival para asestar un golpe letal.
+main_master1:0.418	Guion de la batalla en grupo 2
+main_master1:0.423	¡Mira su postura!\n¿Será un tajo horizontal\no vertical?
+main_master1:0.425	Guion de la batalla en grupo 3
+main_master1:0.431	¡No te relajes solo porque\nhayas vencido a uno!
+main_master1:0.433	Guion de la batalla en grupo 4
+main_master1:1.8	Basta ya de tanto\nalboroto...
+main_master1:7.19	¡Eso duele!
+main_master1:7.25	¡Patético!
+main_master1:7.27	¿Qué pretende?
+main_master1:7.33	¡Escoria!
+main_master1:7.35	¿Cuál es su problema...?
+main_master1:7.37	¿Es usted una especie de\nasesino?!
+main_master1:7.41	¡P-pare...!
+main_master1:7.43	¡Mocoso insolente!
+main_master1:7.45	Ya basta de eso...
+main_master1:7.47	Joven insensato...
+main_master1:8.4	Magnífico...
+main_master1:8.6	Déjame... descansar un rato....
+main_master1:8.8	Pelea conmigo... otra vez....
+main_mitsugo1:0.187	Si te apetece, ¿por qué no\npasas luego por nuestra banda?
+main_mitsugo1:0.188	Podemos ponerte a trabajar\ncomo soldado.
+main_mitsugo1:0.196	Así que, %s.\nMe han dicho que tú también\nte uniste a los Aoto.
+main_mitsugo1:0.197	¡Vas a trabajar como un burro!\n¡Disfrútalo!
+main_mitsugo1:0.201	¡Disfrútalo!
+main_mitsugo1:0.205	Me han dicho que te has unido\na la banda Aoto.
+main_mitsugo1:0.206	¡Je, je! ¡Contamos contigo!
+main_mitsugo1:0.210	¡Contamos contigo!
+main_mitsugo1:0.217	¿Qué?\nNo tenemos nada contra ti.
+main_mitsugo1:0.218	¡Lárgate!
+main_mitsugo1:0.220	¿O te ayudamos a\n... desaparecer?
+main_mitsugo1:0.226	Oye, %s.\nNo tenemos nada contra ti.
+main_mitsugo1:0.233	Supongo que ya te habrás dado cuenta:\n¡la banda Aoto es la mejor!
+main_mitsugo1:0.234	Más te vale no estorbarnos.
+main_mitsugo1:0.236	Si no quieres acabar como\nlos magistrados...
+main_mitsugo1:0.240	Más te vale no meterte\nen nuestro camino.
+main_mitsugo1:0.243	Oye, %s.
+main_mitsugo1:0.248	¡Je, je!
+main_mitsugo1:0.249	¡Nunca he visto a nadie con una\ncabeza tan grande como la tuya!
+main_mitsugo1:0.250	D-dicen que los que fanfarronean\nsolo tapan su falta de destreza...
+main_mitsugo1:0.258	Quizá ya lo sepas, pero los\nmiembros veteranos están arriba.
+main_mitsugo1:0.259	Así que cuando nos h-hables...
+main_mitsugo1:0.260	¡Háblanos siempre\ncon respeto!
+main_mitsugo1:0.264	¡Con respeto! ¿Entendido?
+main_mitsugo1:0.268	Oye, %s.\nEn la banda, los más fuertes\nestán arriba.
+main_mitsugo1:0.269	Adelante, mándanos\nlo que quieras.
+main_mitsugo1:0.270	No te cortes.
+main_mitsugo1:0.274	Adelante.\nNo te cortes.
+main_mitsugo1:0.281	T-me estás cabreando.\n¿P-por qué no vas a jugar a otra parte?
+main_mitsugo1:0.282	¿O q-quieres pelear\ncon nosotros?
+main_mitsugo1:0.287	¿Quieres pelear con nosotros?
+main_mitsugo1:0.289	Me estás cabreando.\n%s.\nVete a jugar a otra parte.
+main_mitsugo1:0.296	Ahora que hemos vencido\na los magistrados, ya no\nvivimos con miedo.
+main_mitsugo1:0.297	Podemos robar y chantajear\nlo que queramos.
+main_mitsugo1:0.299	¡Ja, ja, ja, ja!
+main_mitsugo1:0.303	¡Es el p-paraíso!
+main_mitsugo1:0.311	¡¿No te dije que te largaras?!
+main_mitsugo1:0.312	Si sigues rondando por aquí,\n¡te voy a dar una paliza!
+main_mitsugo1:0.320	La verdad, no me apetece\ntrabajar con alguien como tú...
+main_mitsugo1:0.321	Pero tengo órdenes del jefe,\nasí que no me queda otra.
+main_mitsugo1:0.323	¡Pero no te cruces en mi camino!
+main_mitsugo1:0.327	¡Solo no te cruces en mi camino!
+main_mitsugo1:0.331	¡Je, je!\n¡Contamos contigo!
+main_mitsugo1:0.342	¿Qué? ¿Tienes algún problema?
+main_mitsugo1:0.343	Más te vale largarte.
+main_mitsugo1:0.345	Si te metes con nosotros,\nalguien va a salir herido.
+main_mitsugo1:0.349	Lárgate.
+main_mitsugo1:0.351	%s...\n¿Tienes algún problema o qué?
+main_mitsugo1:0.358	¿Seguro que no quieres volver\na la banda Aoto?
+main_mitsugo1:0.359	Ahora hay un montón\nde ventajas.
+main_mitsugo1:0.361	Claro, te haremos\ntrabajar hasta reventar...
+main_mitsugo1:0.365	Piensa en las ventajas...
+main_mitsugo1:0.368	Oye, %s...
+main_mitsugo1:0.396	¡Me largo... por ahora!
+main_mitsugo1:0.398	¡Argh!
+main_mitsugo1:0.400	¡Ya te pillaré la próxima vez!
+main_mitsugo1:1.8	¡A-ay!
+main_mitsugo1:1.17	¡¿Qué miras?!
+main_mitsugo1:1.19	¡O-oye, eso duele!
+main_mitsugo1:1.21	¿No vas a pedir perdón?
+main_mitsugo1:5.6	¡Ven a por mí!
+main_mitsugo1:5.10	¿Buscas pelea?
+main_mitsugo1:7.10	¿Qué haces?
+main_mitsugo1:7.14	¡¿Quieres pelearte conmigo?!
+main_mitsugo1:8.15	M-mierda...
+main_mitsugo1:8.22	N-no quiero morir...
+main_mitsugo1:8.29	Duele...
