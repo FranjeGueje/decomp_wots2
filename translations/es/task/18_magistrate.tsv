@@ -1,0 +1,213 @@
+# 18_magistrate: Magistratura y patrullas (magistoka_control_a–d, magistoka_enter_a): patrulleros que tutean al protagonista (de amenaza o de confianza), %s = nombre del jugador.
+# Magistrado jefe Kuroha ya muerto; Nakamura usa usted en 13_main. Sin líneas propias por género: el hablante es masculino en todas las tareas.
+magistoka_control_a:0.54	Oye, ¿eres forastero?
+magistoka_control_a:0.62	Si prefieres trabajar en vez de\nno hacer nada, pásate por\nla Magistratura.
+magistoka_control_a:0.65	¿Qué tal el trabajo?\n¿Por qué no coges algún\ntrabajo más?
+magistoka_control_a:0.68	Trabajas bastante.\nSe te nota en la cara.\n¡Sigue así!
+magistoka_control_a:0.71	Pareces bastante cansado.\nNo te mates trabajando.\nDescansa un poco.
+magistoka_control_a:0.74	Trabajas mucho.\n¿Te importa más el dinero\nque tu salud?
+magistoka_control_a:0.77	El dinero no lo es todo.
+magistoka_control_a:0.79	Ah, así que eres\n%s, ¿no?
+magistoka_control_a:0.83	Oye,\n%s...
+magistoka_control_a:0.93	Algunos en la Magistratura\nya van a por ti...
+magistoka_control_a:0.94	Yo no haría más\nmaldades, si fuera tú...
+magistoka_control_a:0.97	Vivir en Amahara se ha\nvuelto difícil.
+magistoka_control_a:0.98	Procura no llamar la atención\nsi quieres seguir vivo.
+magistoka_control_a:0.101	Me han dicho que lo estás\nhaciendo muy bien últimamente.
+magistoka_control_a:0.102	Espero que sigas trabajando\nduro por nosotros y por Amahara.
+magistoka_control_a:0.105	Los patrulleros han estado\nhablando de ti últimamente...
+magistoka_control_a:0.106	Ojalá tuviéramos a alguien\ncomo tú con nosotros...
+magistoka_control_a:0.109	Tienes muchos partidarios\nen la Magistratura...
+magistoka_control_a:0.110	¡Te seguiría a cualquier parte!
+magistoka_control_a:0.113	¡Eres el mejor!
+magistoka_control_a:0.118	Oye, tú.\nSamurái forastero...
+magistoka_control_a:0.120	¿Estás satisfecho\ncon tu armero?
+magistoka_control_a:0.122	Ni de lejos es lo bastante grande.\nMe encanta.\n¿Qué es un armero?
+magistoka_control_a:0.124	¿Y bien?
+magistoka_control_a:0.126	Ya me lo imaginaba.\nDéjame darte un consejo.
+magistoka_control_a:0.128	Aquí hay un carpintero que\nte la ampliará.
+magistoka_control_a:0.129	Si no lo encuentras...
+magistoka_control_a:0.131	prueba a buscarlo\na otra hora del día...
+magistoka_control_a:0.134	¿Ah, sí?
+magistoka_control_a:0.135	¿Entonces tienes muchas espadas\npara meter ahí?
+magistoka_control_a:0.138	¿No sabes nada?
+magistoka_control_a:0.139	El armero es un sitio donde guardar\nlas espadas que no puedes llevar.
+magistoka_control_a:0.140	Puedes llegar desde\nla pantalla del mapa de Amahara.
+magistoka_control_a:0.142	Las espadas son cosas misteriosas...
+magistoka_control_a:0.144	Quieres coleccionarlas aunque\nno las uses...
+magistoka_control_a:0.153	La fiesta de Amahara se celebrará\nen el santuario el día 26 de este mes.
+magistoka_control_a:0.155	Vendrá mucha gente de fuera,\nasí que tendremos que estar alerta.
+magistoka_control_a:0.158	Todos los años da bastantes problemas.
+magistoka_control_a:0.160	La fiesta del santuario de Amahara\nes mañana...
+magistoka_control_a:0.164	¿Cómo ha podido pasar\nestando nosotros allí?
+magistoka_control_a:0.169	¿Cómo es posible?\nMaldita sea...
+magistoka_control_a:2.10	¡Eres %s,\n¿verdad?!
+magistoka_control_a:2.12	¿Eres\n%s?!
+magistoka_control_a:2.14	¡Te encontré!
+magistoka_control_a:2.38	Pronto...
+magistoka_control_a:2.40	...¡Es nuestra oportunidad!
+magistoka_control_a:2.42	¡Ya!
+magistoka_control_a:2.44	¡Bien!
+magistoka_control_a:2.60	¡Ven sin armar jaleo!
+magistoka_control_a:2.62	¡Ya puedes pensarlo en la cárcel!
+magistoka_control_a:2.66	¡Ven con nosotros!
+magistoka_control_a:3.7	¿Qué estás haciendo?
+magistoka_control_a:3.9	¡Eh, tú!
+magistoka_control_a:3.11	¿¡Por qué?!
+magistoka_control_a:3.13	¿¡Qué ha pasado?!
+magistoka_control_a:3.37	¡Ven conmigo!
+magistoka_control_a:3.44	¿Qué estás haciendo,\n%s...?
+magistoka_control_a:3.46	¡%s...!
+magistoka_control_a:3.48	%s,\nlo siento...
+magistoka_control_a:3.50	Me has decepcionado,\n%s...
+magistoka_control_a:3.64	¿¡Qué estabas tramando?!
+magistoka_control_a:3.97	¡Estamos en una misión oficial!
+magistoka_control_a:3.124	Rayos...
+magistoka_control_a:3.142	¡Quitaos de en medio!
+magistoka_control_a:3.144	¡Paso!
+magistoka_control_a:3.146	¡Te tenemos!
+magistoka_control_a:3.148	¡Espera!
+magistoka_control_a:3.162	Mantenemos la paz\nen Amahara.
+magistoka_control_a:3.166	Trabajo, trabajo...
+magistoka_control_a:3.168	¿Eh?\nEstorbas en mi\ndeber de patrulla.
+magistoka_control_a:3.170	No hagas nada raro.\n¡Te encerraremos a ti también!
+magistoka_control_a:3.182	Estoy de servicio ahora,\n%s.\nQuizá más tarde.
+magistoka_control_a:3.184	Hoy en día hay tanto tipo raro\nsuelto por ahí...
+magistoka_control_a:5.9	¿¡Te resistes al arresto?!
+magistoka_control_a:5.11	¿¡Quieres pelear?!
+magistoka_control_a:5.13	¡Espada desenvainada!
+magistoka_control_a:7.11	¿¡Qué?! ¿¡Qué?!
+magistoka_control_a:7.13	¿¡Quieres pelear con nosotros?!
+magistoka_control_b:0.55	Estos delincuentes van por ahí\ncomo si fueran los dueños del pueblo...
+magistoka_control_b:0.56	Cuando vivía el jefe de la banda,\nno estaba tan mal.
+magistoka_control_b:0.61	Parece que los matones se han\ndescontrolado desde que murió.
+magistoka_control_b:0.63	%s...\nAmahara está en apuros,\n¿no crees?
+magistoka_control_b:0.66	Claro que hablo del jefe de antes,\nno de Hanzaemon.
+magistoka_control_b:0.71	Amahara solía ser un sitio donde\nlas mujeres y los niños estaban a salvo.
+magistoka_control_b:0.74	Pero ahora... Bueno,\nno sirve de nada quejarse...
+magistoka_control_b:0.78	¡Hay que volver a hacer de Amahara\nun lugar seguro para mujeres\ny niños!
+magistoka_control_b:0.81	Bueno, no sirve de nada quejarse...\n¡Trabajemos para arreglar la situación!
+magistoka_control_b:0.87	¿De dónde vienes?\n¿Qué asuntos tienes aquí?
+magistoka_control_b:0.89	Si piensas armar algún lío,\n¡no lo consentiré! ¿Entendido?
+magistoka_control_b:0.93	¡Nací y me crié aquí, y voy a\nproteger este pueblo!
+magistoka_control_b:0.95	%s...\n¿De dónde vienes?\n¿Qué haces aquí?
+magistoka_control_b:0.96	¿Intentas colarte en el favor\nde los magistrados?
+magistoka_control_b:0.101	Parece que los yakuza están\nreclutando a muchos samuráis capaces...
+magistoka_control_b:0.102	Seguro que no piensan declararle\nla guerra a la Magistratura...
+magistoka_control_b:0.107	Seguro que no piensan\nhacer una guerra de verdad\na la Magistratura...
+magistoka_control_b:0.109	¿Qué opinas,\n%s?
+magistoka_control_b:2.10	¿%s?
+magistoka_control_b:2.38	¿Lo hacemos...?
+magistoka_control_b:2.40	¡Es nuestra oportunidad!
+magistoka_control_b:2.42	¡Vamos!
+magistoka_control_b:2.44	Ya basta...
+magistoka_control_b:2.62	¡Vienes con nosotros!
+magistoka_control_b:2.64	¡No te resistas!
+magistoka_control_b:2.66	¡Ya tenemos uno!
+magistoka_control_b:3.44	%s...\n¿Qué demonios...?
+magistoka_control_b:3.50	%s...\nLo siento.
+magistoka_control_b:3.162	¿Entiendes lo que pasa\nsi te enfrentas a nosotros?
+magistoka_control_b:3.166	Hoy va todo bien...
+magistoka_control_b:3.168	Hay tantos locos sueltos...
+magistoka_control_b:3.170	¿Quieres que te detengamos\na ti también?
+magistoka_control_b:3.177	Lo hemos hecho bastante bien,\n¿verdad?
+magistoka_control_b:3.180	No podemos perder,\n%s...
+magistoka_control_b:3.182	Hay tantos locos sueltos...\n¿Verdad,\n%s?
+magistoka_control_b:3.184	¿Quieres que te detengamos\na ti también, %s?
+magistoka_control_b:5.9	¡Eh!\n¿¡Quieres pelear?!
+magistoka_control_b:5.11	¡Eh! ¿Te apetece pelear?!
+magistoka_control_b:5.13	¡Eh, eso es peligroso!
+magistoka_control_b:5.15	¡No te muevas!
+magistoka_control_b:5.76	%s...\n¿Pero qué...?
+magistoka_control_b:6.41	Vamos allá...
+magistoka_control_b:7.13	¿Quieres ganarte\nnuestra enemistad?
+magistoka_control_b:7.15	¿En qué estás pensando?
+magistoka_control_b:7.17	¿Quieres pelear, escoria?!
+magistoka_control_c:0.54	Hace un tiempo, nuestro trabajo\nera bastante fácil...
+magistoka_control_c:0.55	Buscar niños perdidos,\nocuparse de los perros salvajes.
+magistoka_control_c:0.59	Pero hoy en día solo hay\nviolencia horrible y sangre.\nLo odio...
+magistoka_control_c:0.62	No se lo cuentes a nadie, pero\nestoy un poco cansado...
+magistoka_control_c:0.69	No me corresponde decirlo, pero\nel magistrado jefe Kuroha es\nun gran hombre.
+magistoka_control_c:0.71	Le daría hasta la camisa\nque llevo puesta.
+magistoka_control_c:0.75	¡Hombre, hasta le daría\nmis calzoncillos!
+magistoka_control_c:0.78	%s...\nEl magistrado jefe es un gran\nhombre, ¿verdad?
+magistoka_control_c:0.81	El magistrado jefe Kuroha...\nPerdimos a un gran hombre.
+magistoka_control_c:0.86	Me mato trabajando, pero el crimen\nnunca se acaba...
+magistoka_control_c:0.90	Pero seguiré luchando.\nMe encanta este pueblo.
+magistoka_control_c:0.93	Tú también, ¿verdad?
+magistoka_control_c:0.99	Quizá me lo imagine, pero hay muchos\ntipos raros últimamente.
+magistoka_control_c:0.100	No me creo que estén cuerdos.\n¿Qué pasa?
+magistoka_control_c:0.104	No entiendo qué vuelve locos a todos.\n¿Qué puede ser?
+magistoka_control_d:0.55	Ten cuidado con Kyojiro,\nde la banda Aoto. Está loca.
+magistoka_control_d:0.56	Ni siquiera le asusta\nenfrentarse a nosotros, los magistrados.
+magistoka_control_d:0.60	¡Cuidado con Kyojiro,\nde la banda Aoto!
+magistoka_control_d:0.64	Hace un tiempo, cuando patrullaba\npor la Puerta Otemon...
+magistoka_control_d:0.65	Vi a una desconocida con una\nmirada helada y terrible.
+magistoka_control_d:0.67	En cuanto la miré a los ojos,\nsentí que iba a morir.
+magistoka_control_d:0.71	No había tenido tanto miedo\ndesde que vi a Kagenuma Kyojiro.
+magistoka_control_d:0.76	Estoy orgulloso de Amahara.\nSoy magistrado porque quiero protegerla.
+magistoka_control_d:0.78	¡Por eso no voy a permitir que esta\nescoria se apodere de ella!
+magistoka_control_d:0.83	Con el tiempo entenderás\nlo grande que es Amahara.
+magistoka_control_d:0.86	Lo entiendes, ¿verdad?\nAmahara es un gran pueblo...
+magistoka_control_d:0.91	Peleas, peleas y más peleas.\nEso es todo lo que hay cada día.
+magistoka_control_d:0.92	¿Cómo pudo convertirse la hermosa\nAmahara en un pueblo así?
+magistoka_control_d:0.96	La hermosa Amahara\nse ha convertido en un lugar horrible.
+magistoka_control_d:0.99	Ojalá pudiera enseñarte la verdadera\nAmahara, %s.
+magistoka_control_d:0.104	Amahara no es más que un\nmuladar de ronin, matones y mendigos...
+magistoka_control_d:0.107	Qué triste...
+magistoka_control_d:0.113	Así ha quedado Amahara, %s.\n¿No se puede hacer algo?
+magistoka_control_d:2.8	¡%s!\n¡Delincuente!
+magistoka_control_d:2.10	¡%s!\n¡Asesino!
+magistoka_control_d:2.40	¿¡Ahora?!
+magistoka_control_d:2.42	¡Vamos allá!
+magistoka_control_d:2.44	¡Se acabó!
+magistoka_control_d:2.64	¡Cuéntaselo al juez!
+magistoka_control_d:2.66	¡Esto se nos está\nyendo de las manos!
+magistoka_control_d:3.7	¿¡Qué es todo esto?!
+magistoka_control_d:3.11	¡Una pelea!
+magistoka_control_d:3.13	¡Eh, vosotros!
+magistoka_control_d:3.37	¡Esto se nos está\nyendo de las manos!
+magistoka_control_d:3.44	¿¡Por qué lo harías...!?
+magistoka_control_d:3.48	¿¡Pero por qué...!?
+magistoka_control_d:3.50	%s...\nLo siento...
+magistoka_control_d:3.145	¡Fuera!\n¡Fuera!
+magistoka_control_d:3.163	¡No podemos caer ante\nunos matones de tres al cuarto!
+magistoka_control_d:3.166	¡Caso cerrado!
+magistoka_control_d:3.168	¡No podemos pasar por alto\ntus crímenes!
+magistoka_control_d:3.170	Compórtate si no quieres\nacabar detenido.
+magistoka_control_d:3.180	¡Caso cerrado! Yo me encargo\nde aquí en adelante.
+magistoka_control_d:3.182	No te preocupes por eso,\n%s.
+magistoka_control_d:3.184	¡Trabajamos duro, igual que tú,\n%s!
+magistoka_control_d:5.11	¿¡Qué?!\n¿¡Quieres pelear?!
+magistoka_control_d:5.13	¡Este tipo es peligroso!
+magistoka_control_d:5.80	¿Qué ha pasado...?
+magistoka_control_d:6.92	¡Oye, tú, ahí!
+magistoka_control_d:7.11	¡Tienes agallas!
+magistoka_control_d:7.15	¡Maldita sea,\n¿qué estás haciendo?!
+magistoka_enter_a:0.65	¡Mantenemos la paz en Amahara!
+magistoka_enter_a:0.70	No te preocupes.\nEstamos aquí para mantener\nla paz en Amahara.
+magistoka_enter_a:0.75	Tranquilo. Estamos aquí\npara mantener la paz en Amahara.
+magistoka_enter_a:0.84	Déjalo en nuestras manos...
+magistoka_enter_a:0.87	Nos jugaremos la vida...
+magistoka_enter_a:0.94	Nakamura te estaba buscando\nen la Magistratura.
+magistoka_enter_a:0.104	Nakamura quiere verte en\nla Magistratura. Más te vale ir...
+magistoka_enter_a:0.110	Vaya, eres tú,\n%s.
+magistoka_enter_a:0.111	Te han citado en la Magistratura.
+magistoka_enter_a:0.115	Ve a la Magistratura.
+magistoka_enter_a:0.128	Hanzaemon es el nuevo jefe\nde la banda Aoto.
+magistoka_enter_a:0.131	Tenemos que hacer algo...
+magistoka_enter_a:0.134	¿Lo has oído?
+magistoka_enter_a:0.136	Hanzaemon es el nuevo jefe\nde la banda Aoto...
+magistoka_enter_a:0.143	No... El magistrado jefe...
+magistoka_enter_a:0.144	¿¡Qué será de Amahara?!
+magistoka_enter_a:0.154	¿¡Fuiste tú quien mató al\nmagistrado jefe, verdad?!
+magistoka_enter_a:0.155	¡Lo sé!\n¡Fuiste tú!
+magistoka_enter_a:3.7	¿Eres un alborotador?
+magistoka_enter_a:3.82	¿¡Eres un alborotador!?
+magistoka_enter_a:5.9	¡Un duelo a espada!
+magistoka_enter_a:5.40	¡Estás detenido!
+magistoka_enter_a:5.63	¡Te pillé!
+magistoka_enter_a:6.72	%s...\nTú...
+magistoka_enter_a:7.11	¡Infiel!
+magistoka_enter_a:7.17	¿¡Empiezas una pelea?!
+magistoka_enter_a:7.62	¡Venga, vamos!
