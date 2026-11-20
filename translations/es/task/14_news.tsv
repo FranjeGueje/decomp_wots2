@@ -1,0 +1,232 @@
+# 14_news: rumores y novedades de Amahara (news_amabou_1, news_boy1, news_bushido1, news_carpenter_1, news_carpenter_assi_1, news_doshin1, news_madam1).
+# Usted de vecinos, carpinteros y la señora al protagonista; tú de la banda y de los dōshin; la señora habla en femenino.
+news_amabou_1:0.33	¿Mmm?\n¿Es usted el que me mencionó Danpachi?
+news_amabou_1:0.34	Así es.\n¿De qué me está hablando?
+news_amabou_1:0.38	¡Ajá!\n¡Lo sabía!
+news_amabou_1:0.39	Póngase cómodo aquí.
+news_amabou_1:0.41	¿Le explico lo importante que es\ndescansar bien en casa?
+news_amabou_1:0.43	¿Su nombre es\n%s, verdad?
+news_amabou_1:0.47	Bueno, en todo caso, esta habitación\nestá libre ahora mismo.
+news_amabou_1:0.49	Puede usarla hasta que encuentre\na alguien que la alquile.
+news_amabou_1:0.50	...No tiene otro sitio\nadónde ir, ¿verdad?
+news_amabou_1:0.52	Mi padre siempre decía que había\nque ayudar a los necesitados...
+news_amabou_1:0.54	¡Y supongo que una ruina como esta\ntampoco atraerá a muchos inquilinos!
+news_amabou_1:0.55	Así que póngase cómodo.
+news_amabou_1:0.59	Claro, explíquese.\nMejor no, por favor.
+news_amabou_1:0.61	¿Eh? Es usted un poco frío, ¿no?
+news_amabou_1:0.68	Puede descansar en casa cuando\nesté cansado.
+news_amabou_1:0.69	Cuando se quede sin energía de tanto\nandar por Amahara...
+news_amabou_1:0.71	vuelva aquí y descanse bien.\n¡No hay nada mejor!
+news_amabou_1:0.73	Si sigue trabajando aunque\nno le queden fuerzas...
+news_amabou_1:0.75	¡se desplomará sin más!
+news_amabou_1:0.77	¡Pasará un día entero\nantes de que despierte!
+news_amabou_1:0.79	Así que, antes de que le pase,\n¡asegúrese de descansar bien!
+news_amabou_1:0.80	Pero no es difícil de verdad.\nSolo tiene que volver a casa\ny descansar de noche.
+news_amabou_1:0.82	¡Facilísimo!
+news_amabou_1:0.84	Sus heridas también sanarán\ncuando descanse.
+news_amabou_1:0.85	Descansar nunca le ha hecho\ndaño a nadie.
+news_amabou_1:0.86	Dicen que el tiempo es dinero...
+news_amabou_1:0.88	¡Pero la salud vale más que la riqueza!
+news_amabou_1:0.89	Ah, hay otra forma de usar su casa\npara descansar...
+news_amabou_1:0.91	Eso es descansar cuando no\ntiene nada mejor que hacer.
+news_amabou_1:0.92	No es lo más provechoso, pero...
+news_amabou_1:0.94	Si no puede esperar a que llegue el día\nde la fiesta, por ejemplo...
+news_amabou_1:0.95	Puede que no pueda concentrarse\nen nada más.
+news_amabou_1:0.97	Así que podría volver a casa y dormir.
+news_amabou_1:0.98	Cuanto más descanse, más sanarán\nsus heridas y más se recuperarán\nsus fuerzas.
+news_amabou_1:0.100	«¡Todo llega a quien sabe esperar!»
+news_amabou_1:0.101	Bueno, eso es todo lo que tengo\nque decir sobre descansar en casa.
+news_amabou_1:0.103	Mi siguiente tema es «El buen uso\nde la posada Amakaze».
+news_amabou_1:0.104	Este es algo largo, ¿de acuerdo?
+news_amabou_1:0.108	Ya veo... Bueno, de todos modos\nno tenía ganas de hablar de ello...
+news_amabou_1:0.109	Qué lástima...
+news_amabou_1:0.113	¡Suena genial!\n¡No veo la hora!\nBasta ya...
+news_amabou_1:0.115	¿No? Pero aquí es donde\nse pone interesante...
+news_amabou_1:0.119	Solo bromeaba.
+news_amabou_1:0.127	Ya veo. Qué lástima.
+news_amabou_1:0.134	Es usted bastante frío...
+news_amabou_1:0.136	Quizá debería haber dicho\n«A la cama temprano,\ny arriba temprano...»
+news_amabou_1:5.4	¿¡Q-qué es eso!?
+news_boy1:0.36	Creo que Sayo estaba buscándote.
+news_boy1:0.37	Quizá deberías esperarla\nen tu habitación.
+news_boy1:0.41	Sayo te está buscando.\nDeberías esperarla en tu habitación.
+news_bushido1:0.42	Dicen que los magistrados se han lanzado\ncontra la banda Aoto con todo...
+news_bushido1:0.43	Antes siempre hacían la vista gorda\ncon ellos. ¿Qué ha pasado?
+news_bushido1:0.52	Parece que la banda Aoto está\nreclutando soldados.
+news_bushido1:0.53	Si buscas trabajo, quizá te convenga\nprobar allí.
+news_bushido1:0.57	¡Puede que sea la oportunidad perfecta\npara un vagabundo como tú!
+news_bushido1:1.9	¡Cuidado!
+news_carpenter_1:0.41	¿Eh? No le había visto por estos\nbarrios antes, samurái.
+news_carpenter_1:0.42	Supongo que es nuevo en Amahara.
+news_carpenter_1:0.44	¿Yo? Solo soy la pobre mujer\nde un carpintero, como puede ver.
+news_carpenter_1:0.45	Trabajo aquí noche tras noche\npara ayudar a mi marido.
+news_carpenter_1:0.47	Me parece que le vendría bien\nagrandar su armero.
+news_carpenter_1:0.48	¿Le interesa?
+news_carpenter_1:0.49	¿Qué es un armero?\nQuizá más tarde.\n¿Y por qué solo de noche?
+news_carpenter_1:0.54	¡Pues es un armero para\nguardar espadas, hombre!
+news_carpenter_1:0.55	Se accede desde la pantalla\ndel mapa de Amahara.\nDebería probarlo.
+news_carpenter_1:0.56	Es muy útil para guardar las espadas\nque no puede llevar encima.
+news_carpenter_1:0.58	Pero hay un límite de espadas\nque puede guardar...
+news_carpenter_1:0.59	Así que si quiere juntar muchas\nespadas, debería ampliarlo.
+news_carpenter_1:0.61	Una vez ampliado, podrá usarlo\ndesde entonces.
+news_carpenter_1:0.62	A ver... ampliar un armero...\nLe hago un descuento: 500 mon.
+news_carpenter_1:0.67	Una vez ampliado, podrá usarlo\ndesde entonces... Es un buen trato.
+news_carpenter_1:0.71	¡Ay, qué preguntas hace...!
+news_carpenter_1:0.72	Entonces, ¿qué le parece\nampliar su armero?
+news_carpenter_1:0.75	De acuerdo, hágalo.\nTodavía no.\nUn descuento mayor, por favor.
+news_carpenter_1:0.77	...Bueno, vuelva cuando se decida.
+news_carpenter_1:0.84	Has pagado 500 mon...
+news_carpenter_1:0.85	¡Estupendo! ¡Déjelo en nuestras manos!\n¡Mi marido es el mejor carpintero\ndel pueblo!
+news_carpenter_1:0.86	¡Este trabajo es pan comido!
+news_carpenter_1:0.88	El máximo de espadas del armero\nha pasado de 20 a 30!
+news_carpenter_1:0.91	Qué lástima.\n¡Vuelva si cambia de opinión!
+news_carpenter_1:0.95	¡No puedo bajar más que eso!
+news_carpenter_1:0.98	Ah, usted otra vez.
+news_carpenter_1:0.99	Veo que quiere volver a\nampliar su armero.
+news_carpenter_1:0.100	Así es.\nSolo estaba de paso.\nHe venido a verla.
+news_carpenter_1:0.102	¿Eh? Es usted un tipo raro...
+news_carpenter_1:0.105	¿¡De verdad?!
+news_carpenter_1:0.108	¿De verdad? Por la noche las calles\nson peligrosas. Tenga cuidado.
+news_carpenter_1:0.111	Qué zalameros son los samuráis.
+news_carpenter_1:0.120	Seguro que mi marido también\nse alegrará mucho.
+news_carpenter_1:0.121	Esta vez, su armero pasará de guardar\n30 espadas a 40.
+news_carpenter_1:0.122	No es tan difícil,\nasí que solo le cobraré 1000 mon.
+news_carpenter_1:0.124	Esta vez, su armero pasará de guardar\n40 espadas a 50.
+news_carpenter_1:0.125	Es uno de nuestros mejores clientes,\nasí que para usted serán 1600 mon.
+news_carpenter_1:0.127	Gracias por su confianza.
+news_carpenter_1:0.128	Esta vez, su armero pasará de guardar\n50 espadas a 60.
+news_carpenter_1:0.129	Tendremos que encargar piezas\nespeciales, así que serán 2400 mon.
+news_carpenter_1:0.131	Esta vez, su armero pasará de guardar\n60 espadas a 70.
+news_carpenter_1:0.132	Quizá haya que reforzar\nlos cimientos de la casa...\nSerán 3600 mon.
+news_carpenter_1:0.134	Todo este trabajo le viene muy bien\na mi marido...
+news_carpenter_1:0.135	Esta vez, su armero pasará de guardar\n70 espadas a 80.
+news_carpenter_1:0.136	Es un trabajo gordo: hay que\nuntar al casero.\n5000 mon.
+news_carpenter_1:0.138	Esta vez, su armero pasará de guardar\n80 espadas a 90.
+news_carpenter_1:0.139	Ni mi marido ha hecho nunca\nun trabajo tan grande.\nSerán 6600 mon...
+news_carpenter_1:0.141	¡Gracias por ser un cliente tan fiel!
+news_carpenter_1:0.142	Es la última vez que lo hacemos...\nSu armero tendrá cabida\npara 100 espadas.
+news_carpenter_1:0.143	Le hago el mejor precio posible:\n¡solo 8400 mon!
+news_carpenter_1:0.145	De acuerdo, hágalo.\nAhora ando un poco justo de dinero...\n¿Y un descuento?
+news_carpenter_1:0.147	Hable conmigo otra vez\nsi decide lo que quiere.
+news_carpenter_1:0.152	Qué lástima.\nVuelva cuando tenga dinero suficiente.
+news_carpenter_1:0.157	...¡No, no puedo hacerlo!
+news_carpenter_1:0.170	Has pagado 1000 mon...
+news_carpenter_1:0.171	¡De acuerdo, déjelo en nuestras manos!\n¡Ya le dije que mi marido es el mejor!
+news_carpenter_1:0.172	¡Estará listo en un abrir\ny cerrar de ojos!
+news_carpenter_1:0.174	El máximo de espadas del armero\nha pasado de 30 a 40!
+news_carpenter_1:0.181	¡Déjelo en nuestras manos!\nPara mi marido, ¡este trabajo\nes pan comido!
+news_carpenter_1:0.182	En realidad es tan bueno\nque es la tarta entera.
+news_carpenter_1:0.184	El máximo de espadas del armero\nha pasado de 40 a 50!
+news_carpenter_1:0.190	Has pagado 2400 mon...
+news_carpenter_1:0.191	¡Déjelo en nuestras manos!\nEl gran sentido artístico\nde mi marido...
+news_carpenter_1:0.192	...convertirá su armero\nen una auténtica obra de arte.
+news_carpenter_1:0.194	El máximo de espadas del armero\nha pasado de 50 a 60!
+news_carpenter_1:0.200	Has pagado 3600 mon...
+news_carpenter_1:0.201	¡Déjelo en nuestras manos! Mi marido\nrinde mejor bajo presión.
+news_carpenter_1:0.202	¡Su armero renacerá\ncomo algo espectacular!
+news_carpenter_1:0.204	El máximo de espadas del armero\nha pasado de 60 a 70!
+news_carpenter_1:0.210	Has pagado 5000 mon...
+news_carpenter_1:0.211	¡Déjelo en nuestras manos!\nMi marido es el mejor de Amahara.\n¡No, de todo Japón!
+news_carpenter_1:0.212	Debe de sentirse muy honrado\nde que un carpintero tan bueno\ntrabaje para usted.
+news_carpenter_1:0.214	El máximo de espadas del armero\nha pasado de 70 a 80!
+news_carpenter_1:0.220	Has pagado 6600 mon...
+news_carpenter_1:0.221	¡Déjelo en nuestras manos!\n¡Mi marido es prácticamente\nun dios de la carpintería!
+news_carpenter_1:0.222	¡Su armero será una reliquia de familia!
+news_carpenter_1:0.224	El máximo de espadas del armero\nha pasado de 80 a 90!
+news_carpenter_1:0.230	Has pagado 8400 mon...
+news_carpenter_1:0.232	¡Déjelo en nuestras manos! ¡Su armero\npor fin está terminado!
+news_carpenter_1:0.233	Este será el último trabajo\nde mi marido para usted...\n¡Disfrútelo!
+news_carpenter_1:0.235	El máximo de espadas del armero\nya es 100!
+news_carpenter_1:0.238	¡Oiga, no tiene dinero suficiente!
+news_carpenter_1:0.241	Gracias a usted, por fin\nestoy satisfecha.
+news_carpenter_1:0.243	Ya no me queda ningún remordimiento...
+news_carpenter_1:5.4	¿¡Q-qué hace?!
+news_carpenter_assi_1:0.34	Hum... Los rumores son rumores...
+news_carpenter_assi_1:0.35	¿Y-usted no será por casualidad\n%s?
+news_carpenter_assi_1:0.36	Así es.\n¿Cómo está su mujer?\nSe equivoca.
+news_carpenter_assi_1:0.40	¡Lo sabía!
+news_carpenter_assi_1:0.42	¡Gracias por su confianza!
+news_carpenter_assi_1:0.44	¿Eh? Me refiero a que yo le he\nconstruido el armero.
+news_carpenter_assi_1:0.45	Le he puesto alma y corazón.
+news_carpenter_assi_1:0.47	¡Ahora le toca a usted llenarlo!
+news_carpenter_assi_1:0.50	¿Mi mujer?
+news_carpenter_assi_1:0.51	Bueno, la verdad es que...
+news_carpenter_assi_1:0.54	Murió hace un año\nde una enfermedad terrible.
+news_carpenter_assi_1:0.56	Siempre estaba llena de vida.\nTodavía no me lo creo.
+news_carpenter_assi_1:0.57	Pero entonces no tenía mucho trabajo...
+news_carpenter_assi_1:0.58	y las cosas le fueron muy duras.
+news_carpenter_assi_1:0.61	Maldita sea...
+news_carpenter_assi_1:0.63	¡Ojalá pudiera ver lo bien\nque me va ahora!
+news_carpenter_assi_1:0.68	Oh... Perdone que le haya molestado.
+news_carpenter_assi_1:0.75	¡Vuelva pronto!
+news_carpenter_assi_1:0.82	Parece que no están por aquí, supongo.
+news_doshin1:0.81	Me pregunto qué será de Amahara...
+news_doshin1:0.87	¡Tú...!\n¡Todo esto es culpa tuya!
+news_doshin1:0.93	Supongo que pronto tendré que salir\nde ronda. No podemos dejar a la yakuza\ncampar a sus anchas.
+news_doshin1:0.97	¡No te necesito para nada!\n¡Lárgate!
+news_doshin1:0.103	Nakamura y Goshiro se han enzarzado\nen una pelea en la oficina.
+news_doshin1:0.104	Parece que hubo un traidor en el ataque.
+news_doshin1:0.108	Me pregunto quién podría ser...
+news_doshin1:0.113	Hace un rato, Nakamura y Goshiro\ntuvieron una bronca tremenda.
+news_doshin1:0.114	Ya ha pasado. Pero parece que\nhay un traidor entre nosotros...
+news_doshin1:0.118	¿Quién iba a pensar que\nuno de los nuestros\npodría traicionarnos?
+news_doshin1:0.123	Creo que Hanzaemon se trae\nalgo entre manos.
+news_doshin1:0.125	¿Has oído algo?
+news_doshin1:0.129	No te guardes nada, ¿eh?
+news_doshin1:0.132	Tienes la misma calaña que Hanzaemon.\n¿Has oído algo?
+news_doshin1:0.138	Hablabas con Kyojiro, de la banda Aoto...
+news_doshin1:0.140	Es toda una luchadora,\nincluso comparada con los otros\nmiembros de la banda.
+news_doshin1:0.142	¡Ojo con ella, no te fíes!
+news_doshin1:0.146	¡Esa Kyojiro es un tipo peligroso!\n...Perdón, ¿un tipo? ¿O una tipa?
+news_doshin1:0.149	Supongo que los dos sois\ntal para cual, ¿eh?
+news_doshin1:0.155	El jefe ha fallecido...
+news_doshin1:0.156	¿Qué vamos a hacer ahora?
+news_doshin1:0.159	Por favor... ¡dímelo!
+news_doshin1:0.166	¡Jefe...!
+news_doshin1:0.169	Tú...\nHoy no me molestes...
+news_madam1:0.148	Me han dicho que va a enseñar a leer\na la pequeña sin nombre.
+news_madam1:0.149	¿Pero ha pedido permiso a Danpachi?
+news_madam1:0.153	Si quiere enseñarle a leer,\ntendrá que pedir permiso\na Danpachi.
+news_madam1:0.158	Me han dicho que quiere enseñar a leer\na la niña.
+news_madam1:0.159	Tendrá que preguntárselo\na Maikaze, ¿no?
+news_madam1:0.161	Dicen que es muy tozuda. Tenga cuidado.
+news_madam1:0.165	Si quiere enseñarle a leer,\ntendrá que preguntarle\na Maikaze.
+news_madam1:0.170	¿Ha visto a Sayo?
+news_madam1:0.171	Preguntaba por usted...
+news_madam1:0.175	Si espera en su habitación,\nseguro que vendrá a verle.
+news_madam1:0.179	¡Ah! Si la clínica se ha quemado,\n¿qué le ha pasado al doctor Genan?!
+news_madam1:0.184	¿Lo ha oído?\n¡Los magistrados han invadido\nAmakaze!
+news_madam1:0.190	Oiga, ¿ha pasado algo?
+news_madam1:0.191	Goshiro ha ido a la Magistratura\nmuy enfadado...
+news_madam1:0.195	Me pregunto qué pasará ahora\nen la Magistratura...
+news_madam1:0.201	El doctor Genan está de mal humor.
+news_madam1:0.202	¿Le ha faltado al respeto?
+news_madam1:0.206	Claro que nunca lo he visto\nde buen humor...
+news_madam1:0.212	¡%s!\n¿Le ha hecho algo\nal doctor Genan, verdad?!
+news_madam1:0.218	Hace tiempo que no veo\na esa pequeña sin nombre\npor aquí.
+news_madam1:0.221	Hace tiempo que no veo\na la pequeña Sayo por aquí.
+news_madam1:0.225	¡%s!\n¡Es usted un criminal!
+news_madam1:0.227	¡Y-yo no le tengo miedo!
+news_madam1:0.234	Me pregunto si la señorita\nKasumi estará bien...
+news_madam1:0.236	Si la conoce, debería tomarse un rato\npara escuchar sus problemas.
+news_madam1:0.240	Estoy preocupada por\nla señorita Kasumi...
+news_madam1:0.248	Hasta un criminal como usted\npodría consolarla un poco.
+news_madam1:0.254	Hace un rato han pasado por aquí\nunos magistrados de aspecto severo.
+news_madam1:0.255	¿Qué habrá pasado?
+news_madam1:0.259	Han pasado tantas cosas raras.\n¿Qué será de Amahara?
+news_madam1:0.264	Doctor Genan... ¿Qué será de Amahara?
+news_madam1:0.268	¿¡%s?!\n¡Es usted un monstruo!
+news_madam1:0.270	¡Y-usted es el responsable de la muerte\ndel doctor Genan, ¿verdad?!
+news_madam1:0.276	Me han dicho que protegió a Sayo\ndurante aquel lío.
+news_madam1:0.278	Debería haber sido magistrado.
+news_madam1:0.282	Qué pena lo de la fiesta...
+news_madam1:0.285	Supongo que no es tan malo\ncomo dice la gente.
+news_madam1:0.292	Me han dicho que la pequeña\nSayo ha fallecido.
+news_madam1:0.293	Se metió en tratos de la yakuza...\nQué pena.
+news_madam1:0.301	¿¡Lo hizo usted!?
+news_madam1:0.303	¿Así que la sin nombre de Amakaze\nha muerto, eh?
+news_madam1:0.308	He oído un rumor hace poco...
+news_madam1:0.309	que en la clínica fabricaban soma.
+news_madam1:0.312	Quién lo hubiera dicho del doctor Genan.\n¡Qué mundo este...!
+news_madam1:0.316	Y la fiesta se ha estropeado...\nNo lo entiendo...
+news_madam1:0.319	¡Seguro que usted empezó\nesas falsas acusaciones\ncontra el doctor Genan!
