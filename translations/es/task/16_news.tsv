@@ -1,0 +1,225 @@
+# 16_news: rumores de los NPC corrientes. Dojo (news_pupil4, news_pupil5: los alumnos tutean al protagonista, como entre iguales de la banda del dojo; el de «Esto se te da bien» y los comentarios para sí no llevan trato);
+# ronin (news_ronin1: tú); mujer (news_woman1: «probablemente mujer», habla de usted al protagonista y en femenino: «estoy segura»);
+# yakuza (news_yakuza_a1: tú, con Hanzaemon y los Aoto).
+# Género: el protagonista es masculino; Kasumi, Kyojiro y Sayo, femeninas (la guardaespaldas, la jefa, la niña); los matones y el enemigo, «él».
+
+# ===== tarea news_pupil4 =====
+news_pupil4:0.43	A ti esto se te da bien.
+news_pupil4:0.53	¿Hum?!
+news_pupil4:0.56	¡Lo básico lo es todo!\n¿Quieres que te hable de\nlos fundamentos del combate?
+news_pupil4:0.57	Sobre desenvainar.\nSobre la defensa.\nSobre los movimientos especiales.
+news_pupil4:0.60	Déjame explicarte\ncómo desenvainar la espada.
+news_pupil4:0.61	Sobre desenvainar la espada.
+news_pupil4:0.64	Puedes sacar la espada pulsando\nel botón L1.
+news_pupil4:0.65	A esto lo llamamos desenvainar.
+news_pupil4:0.66	Si no desenvainas la espada,\nno podrás atacar con ella.
+news_pupil4:0.68	No olvides desenvainar\nantes de meterte en una pelea.
+news_pupil4:0.70	Si pulsas L1 con la espada\ndesenvainada, la envainarás.
+news_pupil4:0.71	Desenvainar y envainar\nes muy importante.
+news_pupil4:0.72	Pero ten cuidado al desenvainar\ndelante de la gente.
+news_pupil4:0.74	No se les puede culpar\nsi malinterpretan tus intenciones.
+news_pupil4:0.75	¡Los samuráis siempre deben\nresponsabilizarse de sus actos!
+news_pupil4:0.76	Se acabó la explicación.
+news_pupil4:0.78	¿Quieres probar a desenvainar?
+news_pupil4:0.79	Déjame practicar, por favor.\nNo, gracias.
+news_pupil4:0.85	Si mantienes pulsado R1\ncon la espada desenvainada...
+news_pupil4:0.86	Puedes defenderte de\nlos ataques enemigos.
+news_pupil4:0.87	Sobre la defensa...
+news_pupil4:0.89	No puedes esperar ganar\nsi solo atacas todo el rato...
+news_pupil4:0.91	¡y no prestas atención\na la defensa!
+news_pupil4:0.94	Pero no puedes defenderte de\ntodos los ataques.
+news_pupil4:0.96	Las patadas y los lanzamientos\nno se pueden defender.
+news_pupil4:0.97	También hay ataques\n«rompedefensas».
+news_pupil4:0.99	No puedes relajarte\npor estar a la defensiva.
+news_pupil4:0.102	¿Quieres probar a defenderte\nde un ataque?
+news_pupil4:0.107	Desenvaina y defiéndete\nde mi ataque...
+news_pupil4:0.111	Déjame explicarte\nlos movimientos especiales.
+news_pupil4:0.112	Sobre los movimientos especiales...
+news_pupil4:0.115	Primero, empecemos por los pasos.
+news_pupil4:0.116	Solo puedes dar pasos con la espada\ndesenvainada y en combate.
+news_pupil4:0.117	Si pulsas rápido la palanca\nizquierda o la cruceta...
+news_pupil4:0.118	Darás un paso en la dirección\nque hayas pulsado.
+news_pupil4:0.120	Los pasos sirven sobre todo\npara moverte rápido...
+news_pupil4:0.121	O para esquivar un ataque enemigo.
+news_pupil4:0.123	Si das un paso al costado, podrás\nesquivar el ataque y contraatacar.
+news_pupil4:0.124	Pero los enemigos no siempre\natacan de frente.
+news_pupil4:0.126	No confíes demasiado en esta técnica.
+news_pupil4:0.127	Pulsando R2 mientras te mueves,\npuedes correr incluso en combate.
+news_pupil4:0.128	Si te ves en apuros, prueba a huir.
+news_pupil4:0.130	Pero eso solo si quieres tirar\npor la borda tu orgullo de samurái...
+news_pupil4:0.133	¿Quieres practicar\nlos movimientos especiales?
+news_pupil4:0.138	Prueba los movimientos que te\nexpliqué mientras esquivas mis ataques.
+news_pupil4:0.144	¡Desenvaina con el botón L1!
+news_pupil4:0.149	¡Ahora envaina con el botón L1!
+news_pupil4:0.154	¡Otra vez, desenvaina con el botón L1!
+news_pupil4:0.159	¡Y por último,\nenvaina otra vez con el botón L1!
+news_pupil4:0.164	Eso es todo.
+news_pupil4:0.168	¿Le habrá parecido demasiado\nduro el entrenamiento?
+news_pupil4:0.190	¡A ver qué sabes hacer!
+news_pupil4:0.192	¡A ver si me ganas!
+news_pupil4:0.223	¡Oye! ¿Buscas pelea?!
+news_pupil4:0.227	¡Ay!... ¡Perdona, perdona!
+news_pupil4:0.229	Puede que me haya pasado un poco.
+news_pupil4:0.233	¡Tú ganas!
+news_pupil4:0.235	Eres bastante hábil...
+news_pupil4:0.241	¡Eso es todo!
+news_pupil4:0.243	¿Entiendes lo básico de la defensa?
+news_pupil4:0.257	Con la espada desenvainada,\n¡defiéndete con R1!
+news_pupil4:0.259	¡Pulsa rápido la palanca izquierda\no la cruceta para dar un paso!
+news_pupil4:0.264	Si sigues defendiéndote,\n¡llegará tu oportunidad de atacar!
+news_pupil4:0.266	Con la espada desenvainada,\n¡pulsa R2 para correr!
+news_pupil4:0.271	¡Cuando encuentres un hueco\nen el enemigo, ataca con la espada!
+news_pupil4:0.273	¡Usa los pasos para esquivar\nlos ataques y ve a por el golpe letal!
+news_pupil4:0.281	¡Si te ves en apuros,\npulsa R2 y huye!
+news_pupil4:7.16	¿Y tú quién te crees que eres?!
+news_pupil4:7.18	¿Quieres pelear?!
+news_pupil4:7.20	¡No voy a consentir esto!
+
+# ===== tarea news_pupil5 =====
+news_pupil5:0.26	¡Ahora no es momento de hablar!
+news_pupil5:0.36	¿Hum?!
+news_pupil5:0.40	Las técnicas lo son todo...\n¿Quieres que te hable\nde técnicas avanzadas?
+news_pupil5:0.41	Sobre las paradas.\nSobre los lanzamientos.\nSobre los golpes rompedefensas.
+news_pupil5:0.44	Adelantarte al ataque del rival\ny bloquearlo con la espada...
+news_pupil5:0.46	¡A eso se le llama parada!
+news_pupil5:0.47	Sobre las paradas...
+news_pupil5:0.49	Tienes que distinguir si el ataque\nes vertical u horizontal.
+news_pupil5:0.50	Con la espada desenvainada, puedes\nlanzar un ataque vertical con ③.
+news_pupil5:0.52	Y un ataque horizontal, con ②.
+news_pupil5:0.53	Cuando hayas defendido un ataque\nenemigo, ¡es tu oportunidad de parar!
+news_pupil5:0.54	Si el ataque era vertical,\npulsa la palanca izquierda hacia delante.
+news_pupil5:0.55	Si era horizontal, pulsa hacia atrás.
+news_pupil5:0.56	Así puedes parar el ataque.
+news_pupil5:0.58	Puedes distinguir el tipo de ataque\npor las estelas que deja el arma.
+news_pupil5:0.60	Si un rival sigue lanzando\nataques sencillos, ¡páralos!
+news_pupil5:0.61	Claro, si repites siempre el mismo tipo\nde ataque...
+news_pupil5:0.63	Al rival le resultará más fácil\npararlos.
+news_pupil5:0.64	Intenta variar tus ataques.
+news_pupil5:0.66	Si paras un ataque enemigo, ¡puedes\nintentar un golpe letal!
+news_pupil5:0.67	Si atacas a un enemigo\ncuya postura se ha roto...
+news_pupil5:0.69	¡puedes matarlo aunque le queden\nmuchos PV!
+news_pupil5:0.70	¡Tras parar, pulsa rápido ③ o ②!
+news_pupil5:0.72	¡No desaproveches una oportunidad así!
+news_pupil5:0.74	Pero algunos enemigos no mueren\nsi los atacas con la postura rota.
+news_pupil5:0.75	Con estos, tienes que parar\ncon un tiempo muy preciso.
+news_pupil5:0.76	Si pulsas la palanca izquierda justo\nal defenderte de un ataque...
+news_pupil5:0.78	¡Así le harás una herida\naún más profunda!
+news_pupil5:0.80	Con enemigos débiles, puedes\ndefenderte y pulsar la palanca siempre...
+news_pupil5:0.81	Tienes que decidir si quieres\nganar fácilmente...
+news_pupil5:0.82	O entrenar para rivales más fuertes...
+news_pupil5:0.83	Tú decides.
+news_pupil5:0.86	¿Quieres probar a parar?
+news_pupil5:0.90	¡A ver si puedes parar\nmis muchos ataques!
+news_pupil5:0.94	Ahora te explicaré los lanzamientos.
+news_pupil5:0.95	Sobre los lanzamientos...
+news_pupil5:0.97	Si pulsas ③ mientras mantienes R1\n(es decir, mientras te defiendes)...
+news_pupil5:0.98	Puedes agarrar al rival\ny lanzarlo.
+news_pupil5:0.100	Eso se llama técnica de lanzamiento.
+news_pupil5:0.102	Puedes lanzar al rival aunque\nse esté defendiendo.
+news_pupil5:0.104	Si lanzas a un enemigo contra otro\ncuando te rodean...
+news_pupil5:0.105	puede que derribes a varios\na la vez.
+news_pupil5:0.107	Si los enemigos se agrupan,\n¡prueba un lanzamiento!
+news_pupil5:0.110	¿Quieres practicar los lanzamientos?
+news_pupil5:0.115	Desenvaina y prueba a lanzarme...
+news_pupil5:0.119	Ahora te explicaré los ataques\nrompedefensas...
+news_pupil5:0.120	Sobre los ataques rompedefensas...
+news_pupil5:0.123	¡Los ataques rompedefensas\nderriban la defensa del rival!
+news_pupil5:0.124	Se usa la palanca izquierda.\nEl movimiento básico es:\natrás, adelante + ataque...
+news_pupil5:0.125	Dicho de otro modo...
+news_pupil5:0.127	Pulsa alejándote del enemigo,\nluego hacia él, y ataca.
+news_pupil5:0.129	Según tu arma, puede que solo\npuedas usar ataques verticales...
+news_pupil5:0.130	O horizontales, para los rompedefensas.
+news_pupil5:0.131	Pero hay armas que sirven para ambos.
+news_pupil5:0.132	Revisa las técnicas disponibles\npara cada una de tus armas.
+news_pupil5:0.134	Es algo de trabajo, pero merece la pena.
+news_pupil5:0.135	Algunas armas solo usan los\nrompedefensas en ciertas combinaciones.
+news_pupil5:0.137	Si logras romper la defensa del rival,\n¡ve a por el golpe letal!
+news_pupil5:0.140	¡morirá aunque le queden\nmuchos PV!
+news_pupil5:0.142	Pero hay enemigos que no\npueden morir así.
+news_pupil5:0.143	Así que ten cuidado...
+news_pupil5:0.146	¿Quieres practicar\nun ataque rompedefensas?
+news_pupil5:0.151	Bien, intenta romper mis defensas...
+news_pupil5:0.174	¡Intenta un golpe letal!
+news_pupil5:0.176	¡Mándalo a la luna!
+news_pupil5:0.178	¡No te cortes!\n¡Prueba tu ataque rompedefensas!
+news_pupil5:0.209	Hum.\n¿No quieres probar?
+news_pupil5:0.213	...¿Estás bien?
+news_pupil5:0.215	Perdona, me he emocionado un poco.
+news_pupil5:0.219	¡T-tú ganas!
+news_pupil5:0.229	Uf... Descansemos un poco...
+news_pupil5:0.233	Un breve descanso.
+news_pupil5:0.244	Para el ataque enemigo pulsando\nla palanca izquierda al defenderte.
+news_pupil5:0.246	¡Pulsa ③ mientras te defiendes\ncon R1 para lanzar!
+news_pupil5:0.248	¡El rompedefensas es:\natrás, adelante + ③\no atrás, adelante + ②!
+news_pupil5:0.254	¡Para con la palanca izquierda!\n¡Adelante si es horizontal,\natrás si es vertical!
+news_pupil5:0.256	¡Cuando el enemigo se defienda,\nprueba un lanzamiento!
+news_pupil5:0.258	¡Cuando el enemigo se defienda,\nprueba un rompedefensas!
+news_pupil5:0.264	¡Si consigues parar,\nve a por el golpe letal!
+news_pupil5:0.275	¡Pulsa siempre la palanca izquierda\nal defenderte para parar!
+news_pupil5:0.277	¡Prueba varios ataques,\ncomo cortes y lanzamientos!
+news_pupil5:0.279	¡El rompedefensas también sirve\ncomo trampa a media distancia!
+news_pupil5:7.16	¡Oye, ¿qué pasa?!
+
+# ===== tarea news_ronin1 =====
+news_ronin1:0.53	¿No sabrás dónde puede uno\nmatar el hambre?
+news_ronin1:0.58	Los magistrados al este,\nlos Aoto al oeste.
+news_ronin1:0.59	No puedes ignorarlos\nsi piensas quedarte en Amahara.
+news_ronin1:0.63	Si eres ronin, acabarás trabajando\npara unos o para otros.
+news_ronin1:0.68	A Kasumi la han nombrado jefa\nde los Aoto...
+news_ronin1:0.70	pero dicen que alguien se volvió loco\nen la ceremonia.
+news_ronin1:0.71	Más de la mitad de los miembros\nde la banda murieron. Terrible, terrible...
+news_ronin1:0.76	Amahara desde luego te tiene en vilo...
+news_ronin1:0.81	...¡Tú!
+news_ronin1:0.86	¿Kyojiro, la guardaespaldas de los Aoto?
+news_ronin1:0.88	No, no la he visto.
+news_ronin1:0.92	Si eres ronin, lo entenderás.
+news_ronin1:0.93	Somos como el viento...\nTenemos que ser libres...
+news_ronin1:0.98	¡Le has ganado a Hanzaemon!
+news_ronin1:0.100	¡Debes de ser buen luchador\npara plantarle cara!
+news_ronin1:0.105	¡Enséñame algo cuando tengas ocasión!
+news_ronin1:0.108	Ojo por ojo...
+news_ronin1:0.110	Supongo que hace falta un monstruo\ncomo tú para matar a alguien\ncomo Hanzaemon.
+
+# ===== tarea news_woman1 (probablemente mujer; habla de usted al protagonista) =====
+news_woman1:0.67	Me han dicho que hay que\npagar 1000 mon...
+news_woman1:0.68	para enseñarle a leer a esa niña\nde Amakaze.
+news_woman1:0.70	Deberían dejarla estudiar\nsin ser tan tacaños...
+news_woman1:0.74	¡Ánimo! Seguro que consigue\nesos 1000 mon en un santiamén.
+news_woman1:0.79	Tenía que quedar con Sayo\nen la fiesta, ¿no?
+news_woman1:0.80	Tiene que ser duro ser\ntan popular... ¡Ji, ji!
+news_woman1:0.84	Sayo tiene muchas ganas.
+news_woman1:0.85	¡No llegue tarde a la fiesta!
+news_woman1:0.89	¡Ayude al doctor Genan, por favor!
+news_woman1:0.92	¡Un magistrado está montando\nun lío tremendo!\nMe pregunto qué pasará...
+news_woman1:0.98	Me han dicho que Kasumi ha ido sola\nal cuartel de los Aoto.
+news_woman1:0.99	No creo que tenga muchas\nposibilidades...
+news_woman1:0.103	¡Ay, solo de pensar en que te capturen\nlos yakuza me pongo a temblar!
+news_woman1:0.109	Me han dicho que la pequeña Sayo,\nde Amakaze, ha muerto.
+news_woman1:0.110	Se metió en una pelea de yakuza,\npobrecilla.
+news_woman1:0.115	Y nuestra maravillosa fiesta\nse ha estropeado...
+news_woman1:0.118	...¿¡Fue usted quien lo hizo!?
+news_woman1:0.120	Me han dicho que la sin nombre\nde Amakaze ha muerto.
+news_woman1:0.125	Esa muchacha de la casa grande\nsí que es valiente...
+news_woman1:0.126	No como yo.
+news_woman1:0.130	Me han dicho que su padre era\nun famoso maestro de kendo.
+
+# ===== tarea news_yakuza_a1 (tú; Hanzaemon, los Aoto) =====
+news_yakuza_a1:0.79	Oye, pásate por aquí\ny te buscamos algo de trabajo, ¿eh?
+news_yakuza_a1:0.82	¡¿Trabajas de guardia para los Aoto?!\n¡No voy a consentirlo!
+news_yakuza_a1:0.87	Oye, %s,\nel jefe Hanzaemon te anda\nbuscando.
+news_yakuza_a1:0.89	Me han dicho que quiere\nofrecerte un trabajo, ¿por qué no\nte pasas a verlo?
+news_yakuza_a1:0.93	Hanzaemon te anda buscando.\n¿Por qué no pasas a verlo?
+news_yakuza_a1:0.98	¡Je, je!\nMe lo ha contado todo Yasuno.
+news_yakuza_a1:0.99	Supongo que el único que no lo sabe\nes Hanzaemon.
+news_yakuza_a1:0.103	Hoy y mañana celebran la ceremonia\nde nombramiento del nuevo jefe.
+news_yakuza_a1:0.105	Todo está planeado.\nVe directo a la sala principal.
+news_yakuza_a1:0.110	Oye, Ichikichi y sus hermanos\nacaban de irse a Shikano-cho.
+news_yakuza_a1:0.111	No son muy listos.\nNo saben cuándo parar.
+news_yakuza_a1:0.113	Solo espero que no le hagan daño\na la jovencita...
+news_yakuza_a1:0.117	Me preocupa un poco dejarles\nel asunto a ellos. Ve a echarles un ojo.
+news_yakuza_a1:0.122	¿Dónde anda Kyojiro?
+news_yakuza_a1:0.123	Pues creo recordar que no le gustaban\nlas multitudes.
+news_yakuza_a1:0.125	Quizá deberías mirar en sitios\nsin mucha gente.
+news_yakuza_a1:0.129	Creo recordar que a Kyojiro\nno le gustaban las multitudes.
+news_yakuza_a1:0.134	¡Maldita sea!\n¡Me faltó poco para liquidar\na un magistrado!
+news_yakuza_a1:0.138	¡Nosotros mandaremos si el\nmagistrado jefe desaparece del mapa!
