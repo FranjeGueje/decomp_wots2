@@ -1,4 +1,4 @@
-# 34_normal: muestra del paso 6 (normal_stall_a); el resto de la tanda, sin traducir.
+# 34_normal: vecinos y gente corriente de Amahara (normal_shopper_a, normal_stall_a, normal_walk_a, normal_walk_b, normal_walk_boy_a). Usted al protagonista (vecinos, tenderos, paseantes); el niño de normal_walk_boy_a tutea. «OJO» de hombres y mujeres: Hahaha/Hahahaha/Hahahahaha en neutro («¡Ja, ja, ja!»).
 normal_stall_a:0.39	¡Bienvenido!\n¿Le apetecen unos\nfideos soba?
 normal_stall_a:0.41	¡Nuestros fideos soba caseros\nsolo cuestan 60 mon!
 normal_stall_a:0.45	La soba es buena para\nla tensión alta.\n¡Pruebe un poco!
@@ -19,3 +19,197 @@ normal_stall_a:0.95	¿Es que no está bueno?
 normal_stall_a:0.97	¡Gane todo el dinero\nque pueda mientras\ntenga ocasión!
 normal_stall_a:0.101	¿Qué se traerán entre\nmanos esos magistrados?
 normal_stall_a:0.103	Antes todo iba\nmucho mejor...
+normal_shopper_a:0.29	¿Qué voy a hacer...
+normal_shopper_a:0.33	Es un momento decisivo\nen mi vida...
+normal_shopper_a:0.41	Me da un poco de vergüenza\npreguntarle esto, pero ya\nno sé qué hacer.
+normal_shopper_a:0.42	Verá, estoy pensando\nen marcharme de Amahara.
+normal_shopper_a:0.43	Ya no es fácil vivir aquí\ncomo antes.
+normal_shopper_a:0.45	Estoy pensando en ir a un\nsitio nuevo y empezar\nuna vida nueva.
+normal_shopper_a:0.48	...Pero ¿es lo mejor que\npuedo hacer?
+normal_shopper_a:0.49	Empiece una vida nueva.\nNo se puede huir.
+normal_shopper_a:0.51	Supongo que tengo que\ndecidirlo yo solo...
+normal_shopper_a:0.53	¡Sí, lo pensaré bien\ny decidiré por mi cuenta!
+normal_shopper_a:0.55	Tiene razón.\nNo tiene sentido esperar más.
+normal_shopper_a:0.57	¡Me iré de Amahara y\nbuscaré una vida nueva!
+normal_shopper_a:0.60	Tiene razón.\nHuir nunca soluciona nada.
+normal_shopper_a:0.62	¡Me quedaré en Amahara\ny haré lo posible por aguantar!
+normal_shopper_a:0.71	Esos matones de los Aoto\nno paran de insistirme para\nque me una a ellos.
+normal_shopper_a:0.73	Nunca he empuñado una espada,\naunque sí sé usar la azada.
+normal_shopper_a:0.76	No tengo intención de unirme\na los yakuza.
+normal_shopper_a:0.78	Solo quiero vivir tranquilo\ncomo campesino.
+normal_shopper_a:0.82	Tengo un problema...
+normal_shopper_a:0.84	Últimamente esos matones de\nlos Aoto no me dejan en paz\npara que me una a ellos.
+normal_shopper_a:0.85	Debería darles una lección, %s.
+normal_shopper_a:0.89	¿Es pedir demasiado?
+normal_shopper_a:0.95	No debí jugar con esos\nmatones de los yakuza...
+normal_shopper_a:0.97	Me lo quitaron todo.\nMi dinero, mi casa...
+normal_shopper_a:0.101	¡Ahhh!
+normal_shopper_a:0.103	¿Y ahora qué hago?\n¡No me queda nada!
+normal_shopper_a:0.104	Lo único que se me ocurre es\nunirme yo también a los yakuza...
+normal_shopper_a:0.106	Apostar no trae nada bueno, %s.
+normal_shopper_a:2.11	Supongo que echaré un vistazo\na los puestos de la calle...
+normal_shopper_a:2.48	Me llevo uno.
+normal_shopper_a:2.53	¿Eh? ¿Qué pasa?
+normal_shopper_a:2.54	Yo también me llevo uno.\nAbandone esta tienda.
+normal_shopper_a:2.59	¡Gracias por su compra!
+normal_shopper_a:2.66	¡¿Q-de qué habla?!
+normal_shopper_a:2.70	....Lo siento.\nLo dejaré.
+normal_shopper_a:2.75	¡Tiene usted la lengua muy larga!
+normal_shopper_a:2.78	¿Qué le pasa, %s?
+normal_shopper_a:2.80	¡Déjeme en paz, %s!
+normal_stall_a:5.4	Dame el dinero.\nNada.
+normal_stall_a:5.5	Y-ha sacado la espada,\nme ha asustado un poco...
+normal_stall_a:5.18	...¡Un ladrón!\n¡Lo sabía!
+normal_walk_a:0.73	¡%s........!
+normal_walk_a:0.81	¡Por favor, déjeme en paz!\nSoy un pobre infeliz\ny un debilucho.
+normal_walk_a:0.82	Da igual lo que gane,\nlos yakuza siempre me lo quitan.
+normal_walk_a:0.83	Día tras día.
+normal_walk_a:0.86	Hablando de eso... ¿2 ryo?\n¡Qué poco espíritu tienes!
+normal_walk_a:0.88	Claro, usted no tendrá nada\nque decirle a alguien como yo...
+normal_walk_a:0.91	¡Se lo ruego, perdóneme!\n¡No se puede sacar sangre\nde una piedra!
+normal_walk_a:0.93	Bueno, usted es samurái,\nasí que es normal que sea fuerte...
+normal_walk_a:0.96	Qué envidia...
+normal_walk_a:0.98	Son tiempos duros los que\nvivimos...
+normal_walk_a:0.102	Déjeme en paz, %s.\nSoy débil y patético.
+normal_walk_a:0.111	Qué gracioso... No tengo\nni un mon a mi nombre...
+normal_walk_a:0.123	¡Oiga, usted es forastero!
+normal_walk_a:0.124	¡Y encima samurái!\n¡Me da asco!
+normal_walk_a:0.126	¡Quítese de mi vista!
+normal_walk_a:0.129	¡No le diré por qué odio\na los forasteros!
+normal_walk_a:0.131	¡Los odio porque sí!\n¡¿Tiene algún problema?!
+normal_walk_a:0.137	Ah, espere. Usted es %s.
+normal_walk_a:0.138	Perdone. No me haga caso...
+normal_walk_a:0.141	¡Qué buen aspecto tiene, %s!\n¡Como siempre!
+normal_walk_a:0.146	Creo que las autoridades\nse han pasado de la raya...
+normal_walk_a:0.147	Hay gente que ha sido detenida...
+normal_walk_a:0.149	solo por pasear cerca de\nla Magistratura...
+normal_walk_a:0.153	Lo detienen si se comporta\nun poco sospechoso.
+normal_walk_a:0.155	Tengo tanto miedo que ni me\natrevo a ir a trabajar.
+normal_walk_a:0.157	Tenga cuidado también, %s.
+normal_walk_a:0.162	¿Es usted mercader, verdad?\n¡Véndame algo de eso!
+normal_walk_a:0.164	¡Soy samurái, idiota!\nCreo que se equivoca.
+normal_walk_a:0.166	No se quede ahí parado.\n¡Diga algo!
+normal_walk_a:0.169	¡No se haga el inocente!\nSé que es vendedor de soma.\n¡Véndame un poco!
+normal_walk_a:0.171	¡Haría lo que fuera por ello!
+normal_walk_a:0.176	Vamos, ¡saque la mercancía!
+normal_walk_a:0.178	¡Por favor! Lleva encima\nalgo de medicina, ¿verdad?
+normal_walk_a:0.183	Fue un festival terrible.
+normal_walk_a:0.185	Han muerto varios de mis\namigos...
+normal_walk_a:0.189	¡Tanto los magistrados como\nlos yakuza están podridos!
+normal_walk_b:0.63	No me hable...
+normal_walk_b:0.69	Usted....
+normal_walk_b:0.75	Trabajar demasiado\nes malo para la salud.
+normal_walk_b:0.77	¡No olvide descansar\nde vez en cuando!
+normal_walk_b:0.80	Quizá me vaya a la Posada\nAmakaze a descansar un poco...
+normal_walk_b:0.84	¿Quiere acompañarme?
+normal_walk_b:0.89	No le había visto antes.
+normal_walk_b:0.90	¿Cómo se llama?
+normal_walk_b:0.92	Me llamo......\nAh, no soy nadie especial...\n¡Déjame en paz!
+normal_walk_b:0.94	Oiga, ¿me escucha?
+normal_walk_b:0.97	¿Es que no sabe ni hablar?
+normal_walk_b:0.101	¡Muy bien!
+normal_walk_b:0.103	Sí, es un buen nombre.
+normal_walk_b:0.106	Qué temple tiene.
+normal_walk_b:0.107	Me encantaría poder decir\nalgo así, aunque fuera una vez.
+normal_walk_b:0.110	¿Cuál es su problema?
+normal_walk_b:0.111	Solo tenía curiosidad.
+normal_walk_b:0.114	A ver si está a la altura\nde su nombre.
+normal_walk_b:0.118	Oiga, ¿no es usted %s?
+normal_walk_b:0.119	¿De paseo?
+normal_walk_b:0.120	Le acompañaré un rato.
+normal_walk_b:0.126	¿Por qué no descansamos\njuntos un rato?
+normal_walk_b:0.131	¡Uiiii! ¡Eh!!
+normal_walk_b:0.133	¡Huele a vino!\n¿Se encuentra bien?\n¡Apártese, borracho!
+normal_walk_b:0.135	¡Uiiii!
+normal_walk_b:0.137	¡A beber!
+normal_walk_b:0.139	¡Acompáñeme a beber!
+normal_walk_b:0.141	Estoy biiien...
+normal_walk_b:0.143	Muchas graciaaas.
+normal_walk_b:0.147	¡¿Qué es eso?!
+normal_walk_b:0.149	¡Lo siento! ¡Perdóneme!
+normal_walk_b:0.163	¡Señor!
+normal_walk_b:0.169	¿Ha oído hablar de la cortesana\nMaikaze? ¡Es toda una mujer!
+normal_walk_b:0.171	Si tuviera dinero, la visitaría\ncada día...
+normal_walk_b:0.174	Maikaze... Maikaze...\nQuisiera poder comprarle\nla libertad...
+normal_walk_b:0.179	Hace un rato le vi entrar\nen la Posada Amakaze.
+normal_walk_b:0.180	¡Espero que lo haya pasado bien!
+normal_walk_b:0.188	¡Bah, ja, ja!
+normal_walk_b:0.190	¡Ja, ja, ja!
+normal_walk_b:0.192	¡Ja, ja, ja, ja, ja!
+normal_walk_b:0.195	No se preocupe, solo me acuerdo\nde algo gracioso.
+normal_walk_b:0.199	Vaya, si es el famoso %s...
+normal_walk_b:0.201	Parece que ya se ha acostumbrado\na la vida en Amahara.
+normal_walk_b:0.209	Los ronin como usted solo traen\nproblemas cuando vienen\na nuestro pueblo...
+normal_walk_b:0.211	Por su culpa, Amahara se ha\nvuelto tan peligroso que ni se pasea.
+normal_walk_b:0.214	Están volviendo peligroso este\npueblo. Ojalá se marchen todos...
+normal_walk_b:0.217	Vaya, vaya, si es %s.
+normal_walk_b:0.219	Gracias a usted, este pueblo\nvuelve a tener un poco de vida.
+normal_walk_b:0.227	Oiga, ¿qué cree que pasará\ncon Amahara?
+normal_walk_b:0.229	Quizá sea mejor marcharse\nmientras se pueda...
+normal_walk_b:0.232	Puede que mañana me lleve a mi\nmujer y a mis hijos y me vaya...
+normal_walk_b:0.237	Quizá debería montar\nun negocio nuevo...
+normal_walk_b:0.239	Amahara solo puede mejorar\nen el futuro.
+normal_walk_b:0.242	¡El futuro de Amahara\nse ve brillante!
+normal_walk_b:0.247	L-los m-miembros de la banda\nA-aoto son t-todos gente\nestupenda...
+normal_walk_b:0.249	R-de verdad.\nNo t-tengo n-nada de miedo...
+normal_walk_b:0.252	La banda A-aoto trabaja duro\npor el b-bien de Amahara.
+normal_walk_b:0.255	¡La banda Aoto está llena\nde matones zafios!
+normal_walk_b:0.257	¡Son terribles!
+normal_walk_b:0.260	¡A la escoria de los Aoto\nno le importa nada este pueblo!
+normal_walk_b:0.265	Amahara ha cambiado mucho,\npero no solo Amahara, ¿verdad?
+normal_walk_b:0.267	Todo el mundo está cambiando.\n¿No cree?
+normal_walk_b:0.269	Algunas cosas no cambian.\nDesde luego, está cambiando.\nNo me importa.
+normal_walk_b:0.271	Si tiene que cambiar, espero\nque se vuelva algo interesante...
+normal_walk_b:0.274	¿No está de acuerdo...?
+normal_walk_b:0.276	¿De verdad? Hasta el corazón\nde la gente está cambiando.
+normal_walk_b:0.278	Así son las cosas hoy en día.
+normal_walk_b:0.281	Dentro de cien años quizá\nya no existan los samuráis.
+normal_walk_b:0.284	Supongo que los cambios del mundo\nno afectan mucho a los ronin...
+normal_walk_b:0.286	Al final, el mundo seguirá\ncambiando pase lo que pase.
+normal_walk_b:0.290	El tiempo fluye como un río...
+normal_walk_b:0.291	No lo malgaste...
+normal_walk_b:0.295	Está perdiendo el tiempo\nhablando conmigo.
+normal_walk_b:0.296	Seguro que tiene cosas\nmejores que hacer...
+normal_walk_b:0.303	¡Todos murieron en el festival!
+normal_walk_b:0.307	¡No lo voy a consentir!
+normal_walk_boy_a:0.53	¡Por favor, hazme tu alumno!
+normal_walk_boy_a:0.55	Busca a otro.\nSería un maestro muy duro.\n¿Puedes pagar?
+normal_walk_boy_a:0.57	¡Venga! ¡No me ignores!
+normal_walk_boy_a:0.61	¡No soporto el trabajo duro!
+normal_walk_boy_a:0.62	¿Me presentas a un maestro fácil?
+normal_walk_boy_a:0.65	¿Crees que intentaría ser tu\nalumno si tuviera dinero?
+normal_walk_boy_a:0.66	¡Bah!
+normal_walk_boy_a:0.68	Pensaba que me darías\ncomida y techo gratis...
+normal_walk_boy_a:0.72	%s... ¡Hazme tu alumno!
+normal_walk_boy_a:0.79	Oye, samurái, ¿es verdad que\nlos samuráis no se mojan\nen la cama?
+normal_walk_boy_a:0.81	¿Y yo qué sé?\nEs verdad.\nEs mentira.
+normal_walk_boy_a:0.83	Seguro que sí...
+normal_walk_boy_a:0.88	¡Entonces nunca podré\nser samurái!
+normal_walk_boy_a:0.91	Ya lo sabía. Hasta los\nsamuráis se mojan.
+normal_walk_boy_a:0.92	¡Uf!
+normal_walk_boy_a:0.94	¡Voy a ir a contárselo a todos\nque tú también te mojas!
+normal_walk_boy_a:0.97	¡Pero yo quería ser samurái\nde verdad!
+normal_walk_boy_a:0.99	%s, ¿es verdad que los\nsamuráis no se mojan en la cama?
+normal_walk_boy_a:0.104	¡Uf, tengo que iiiir!
+normal_walk_boy_a:0.106	iiiiiir\niiiiir\niiiiiir
+normal_walk_boy_a:0.110	¡Tengo que irme!!!!\n¡Me voy a hacer pis encima!
+normal_walk_boy_a:0.116	Conozco a uno que dice que los\nmercaderes van a mandar pronto.
+normal_walk_boy_a:0.117	¡Así que seré el mejor\nmercader de todo Japón!
+normal_walk_boy_a:0.122	¿Por qué no dejas de ser samurái\ny te vienes conmigo?
+normal_walk_boy_a:0.124	¿Por qué no dejas de ser samurái\ny te vienes conmigo, %s?
+normal_walk_boy_a:0.132	¿Es verdad que eres amigo de la\nsin nombre de Amakaze?
+normal_walk_boy_a:0.134	Nunca he oído hablar de ella.\nSí, es verdad.\n¡Es una sucia mentira!
+normal_walk_boy_a:0.136	No tienes que responder si no quieres.
+normal_walk_boy_a:0.140	¿En serio? ¡Qué raro debes de ser\npara juntarte con ella!
+normal_walk_boy_a:0.143	¿En serio? Me pregunto...\nAunque tampoco me importa...
+normal_walk_boy_a:0.145	Es muy rara, ¿verdad?
+normal_walk_boy_a:0.147	%s?\n¿De verdad eres amigo\nde la sin nombre?
+normal_walk_boy_a:0.153	No te pongas chulo solo porque\nle enseñaste a leer a Sayo.
+normal_walk_boy_a:0.155	Yo sé mucho más de ella que tú.
+normal_walk_boy_a:0.156	Mucho.
+normal_walk_boy_a:0.160	No te la lleves a ningún sitio...
+normal_walk_boy_a:0.162	Yo sé mucho más de ella que tú, %s.
+normal_walk_boy_a:0.170	¡Mi papá murió en el festival!
+normal_walk_boy_a:1.11	¡Uaaah!
+normal_walk_boy_a:2.16	¡Das miedo!
+normal_walk_boy_a:2.18	¡Mamá!\n¡Es %s!
