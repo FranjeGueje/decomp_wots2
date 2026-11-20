@@ -31,6 +31,28 @@ u32 name_hash(const std::string& path) {
     return h;
 }
 
+// Whether the name stored after `e`'s data ("Us\\script\\CTX\\TimeC\\C01B3x.sx",
+// NUL included in nameLen) is `full`, ignoring case and the kind of slash.
+bool stored_name_is(const Entry& e, const std::string& full) {
+    if (!g_file || e.nameLen == 0)
+        return false;
+    std::string stored(e.nameLen, '\0');
+    if (fseek(g_file, (long)g_dataStart + e.storedEnd, SEEK_SET) != 0 ||
+        fread(&stored[0], 1, stored.size(), g_file) != stored.size())
+        return false;
+    stored.resize(strlen(stored.c_str()));
+    if (stored.size() != full.size())
+        return false;
+    for (size_t i = 0; i < full.size(); i++) {
+        char a = (char)toupper((unsigned char)stored[i]), b = (char)toupper((unsigned char)full[i]);
+        if (a == '/') a = '\\';
+        if (b == '/') b = '\\';
+        if (a != b)
+            return false;
+    }
+    return true;
+}
+
 bool starts_with_nocase(const std::string& s, const char* prefix) {
     size_t n = strlen(prefix);
     if (s.size() < n)
@@ -264,8 +286,17 @@ bool read(const std::string& path, std::vector<u8>& out) {
 
     u32 hash = name_hash(full);
     const Entry* e = nullptr;
-    for (const Entry& cand : g_entries)
-        if (cand.hash == hash) { e = &cand; break; }
+    for (const Entry& cand : g_entries) {
+        if (cand.hash != hash)
+            continue;
+        // Two names can share a hash (flag 1): the game then compares the name
+        // stored after the entry's data, as 0x141530 does.  Without that,
+        // CTX/TimeC/C01B3x would read C01AFx's script, C01C3x C01BFx's.
+        if ((cand.flags & 1) != 0 && !stored_name_is(cand, full))
+            continue;
+        e = &cand;
+        break;
+    }
     if (!e || !g_file) {
         fprintf(stderr, "[archive] not found: %s\n", full.c_str());
         return false;
