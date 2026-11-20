@@ -1,0 +1,130 @@
+# 17_news: rumores de la banda Aoto (news_yakuza_*) y de las cortesanas (news_yujo1). Los matones y la banda tutean al protagonista; las cortesanas también tutean (decisión de esta tanda); Sayo es femenina.
+news_yakuza_b1:0.84	Nunca se sabe cuándo\nhabrá trabajos nuevos\npara ti.
+news_yakuza_b1:0.85	Pásate a menudo.
+news_yakuza_b1:0.88	¡Pequeño lameculos!\nAhora no hay trabajo\npara ti.
+news_yakuza_b1:0.93	Nunca me gustó ese\nHanzaemon.
+news_yakuza_b1:0.95	No vale para jefe.
+news_yakuza_b1:0.97	Eres el único que puede\nhacerse cargo de esta\nbanda, %s.
+news_yakuza_b1:0.101	Puedes hacerlo, %s.
+news_yakuza_b1:0.106	¿Kasumi?\nVive en Shikano-cho.
+news_yakuza_b1:0.107	Ve a Shikano-cho y\npregunta por allí.
+news_yakuza_b1:0.111	Kasumi vive en\nShikano-cho.
+news_yakuza_b1:0.116	Kasumi y Hanzaemon\ntuvieron una pelea terrible\nhace un tiempo.
+news_yakuza_b1:0.117	Creo que Kasumi llevaba\nla peor parte...
+news_yakuza_b1:0.122	Últimamente hay muchas\npeleas.
+news_yakuza_b1:0.125	...¿Eh? ¿No eres %s?!
+news_yakuza_b1:0.127	¡No te emociones demasiado!
+news_yakuza_b1:0.131	No te desanimes.\nLa próxima vez, esfuérzate más.
+news_yakuza_b1:0.135	¡Ahora la banda Aoto\npuede hacer lo que quiera!
+news_yakuza_c1:0.54	¡Je, je! Si Hanzaemon\nsupiera lo que va a pasar,\n¡se quedaría de piedra!
+news_yakuza_c1:0.58	¡Maldita sea!\nSi no se hubiera cruzado\nen mi camino...
+news_yakuza_c1:0.62	¡No lo soporto!
+news_yakuza_cashcase1:0.33	¡Oye, me han dicho que\nhas hecho un gran trabajo\nliquidando al magistrado jefe!
+news_yakuza_cashcase1:0.34	El jefe Hanzaemon me\ndijo que te diera esto.
+news_yakuza_cashcase1:0.36	Es tu recompensa.
+news_yakuza_cashcase1:0.40	¡Has recibido una caja de 100 ryo!
+news_yakuza_cashcase1:0.43	¡Sabía que lo lograrías!
+news_yakuza_ev:0.76	Lo siento, pero ya no tengo\ntrabajo para gente como tú.
+news_yakuza_ev:0.79	¿¡Qué dices!?\n¡Te voy a moler a palos!
+news_yakuza_ev:0.85	Eh, tú...
+news_yakuza_ev:0.87	¡Zenjiro sigue en perfecta salud!
+news_yakuza_ev:0.88	Sabía que no debía fiarme\nde los vagabundos...
+news_yakuza_ev:0.100	¡Eh! ¡Se suponía que ibas\na cobrar el dinero de Nishino!
+news_yakuza_ev:0.103	¡Por Buda...!
+news_yakuza_ev:0.104	Eras tan lento que\nmandé a otro a hacer\nel trabajo...
+news_yakuza_ev:0.108	Inútil de mierda...
+news_yakuza_ev:0.111	Veo que tenían razón.\nNo se puede confiar en ti.
+news_yakuza_ev:0.116	¡Eh! Tuve que mandar\na otro a cobrarle a Otomi.
+news_yakuza_ev:0.118	Te esfumaste sin más...
+news_yakuza_ev:0.123	No tengo nada\npara ti...
+news_yakuza_ev:0.126	En serio... tenían razón\nlos rumores. Eres inútil.\nNo vuelvas.
+news_yakuza_ev:0.131	Esos magistrados se creían\nla gran cosa...
+news_yakuza_ev:0.133	¡No pueden hacer frente\na la gran banda Aoto!
+news_yakuza_ev:0.138	Pero si tuvieran a alguien\nmás fuerte que yo, las cosas\npodrían haber sido distintas.
+news_yakuza_ev:0.141	¡Eh, %s!\nTe patearé el culo si\nte pasas de la raya.
+news_yakuza_ev:0.146	Mañana se elige oficialmente\nal nuevo jefe.
+news_yakuza_ev:0.148	Claro que será Kasumi.
+news_yakuza_ev:0.153	No veo la hora de que llegue mañana...
+news_yakuza_ev:0.156	Eh, %s. Es una ceremonia\nimportante.\n¡Nada de armar líos!
+news_yakuza_ev:0.161	Nishino está en Shikano-cho.\n¡Cuento contigo!
+news_yakuza_ev:0.164	Nishino está en Shikano-cho.\n¡Ve ya mismo!
+news_yakuza_ev:0.168	Ah, pero si es %s...
+news_yakuza_ev:0.170	¿Tu paga?
+news_yakuza_ev:0.171	¿Lo dices en broma? No puedes\ndejar que el tipo se escape\ny esperar que te paguen.
+news_yakuza_ev:0.174	En serio...
+news_yakuza_ev:0.175	Si tanto quieres dinero,\nve a pedir trabajo a algún\nmatón callejero.
+news_yakuza_ev:0.179	Empieza por lo pequeño\ny mejora tus habilidades.
+news_yakuza_ev:0.180	Luego podrás optar\na los trabajos gordos.
+news_yakuza_ev:0.183	Hmph. Tal como decían.\nNo se puede confiar en ti\ncon el dinero.
+news_yakuza_ev:0.188	Otomi está en Numata-cho.\nVe a cobrar lo que debe.
+news_yakuza_ev:0.191	Otomi está en Numata-cho.\n¡Muévete hasta allí!
+news_yakuza_ev:0.196	No puedes ser tan exigente\ncon los trabajos si quieres\nsubir de rango.
+news_yakuza_ev:0.199	Hmph... Gusano\nsin agallas...
+news_yakuza_ev:0.204	¿En serio?\n¿Kasumi?
+news_yakuza_ev:0.206	Bueno, no hay remedio.\nLo dejaré para otro día.
+news_yakuza_ev:0.208	...¿Pagarte?
+news_yakuza_ev:0.211	Me temo que no.
+news_yakuza_ev:0.218	Anda ya, bribón...
+news_yakuza_ev:3.3	¡Nada de peleas aquí!
+news_yakuza_ev:7.6	¿Quieres jugar?
+news_yakuza_line3a:0.41	Eh, pásate por el cuartel\nde los Aoto. Tienen un asunto\ncontigo...
+news_yakuza_line3a:0.45	%s --\nEl jefe quiere que vayas\nal cuartel de los Aoto.
+news_yakuza_line3a:0.49	%s --\nEl jefe te espera en\nel cuartel de los Aoto.
+news_yakuza_line3a:0.53	Eh, tú. Pásate un momento\npor el cuartel de los Aoto.
+news_yakuza_line3a:1.11	¿Mmm?
+news_yakuza_line4a:0.41	¡Enhorabuena,\n%s!
+news_yakuza_line4a:0.45	...¿Kyojiro? Creo que\nella no anda por aquí...
+news_yakuza_line4a:0.49	Creo que Kyojiro no anda\npor aquí, %s.
+news_yakuza_line4a:0.53	¡Te seguiré toda la vida,\n%s!
+news_yakuza_line4b:0.41	¡Sabía que serías un buen\njefe desde el principio!
+news_yakuza_line4b:0.45	...¿Dónde anda Kyojiro?\n¿Quizá donde huela a sangre?
+news_yakuza_line4b:0.49	¿Kyojiro? Hace tiempo que\nno la veo, ahora que lo dices.
+news_yakuza_line4b:0.53	¡%s!\n¡Creo en ti!
+news_yakuza_posse_a:0.41	No.\nNo está aquí.
+news_yakuza_posse_a:0.44	Creo que no está aquí,\n%s.
+news_yakuza_posse_a:0.49	¿Dónde se habrá metido\nKasumi...?
+news_yakuza_posse_a:0.57	¿Has visto a Kasumi?!
+news_yakuza_posse_a:0.60	¿Anda Kasumi por aquí?!
+news_yakuza_posse_a:0.63	¡Kasumi!!
+news_yakuza_posse_a:3.8	¡Que venga alguien, rápido!
+news_yakuza_posse_b:0.41	No anda por aquí...
+news_yakuza_posse_b:0.44	Ya he mirado por aquí,\n%s...
+news_yakuza_posse_b:0.49	¿Dónde? ¿Dónde? ¿Dónde?
+news_yakuza_posse_b:0.57	Kasumi...\nEsa alborotadora.
+news_yakuza_posse_b:0.60	Kasumi...\nQué patética...
+news_yakuza_posse_b:0.63	¡Kasumi!
+news_yakuza_posse_b:0.68	¡Te quiero!
+news_yakuza_posse_b:3.6	¡Dios mío!
+news_yakuza_posse_b:3.8	¿Qué pasa aquí?
+news_yujo1:0.82	Dicen que no existe un huevo\ncuadrado ni una cortesana honrada.
+news_yujo1:0.83	¿No es terrible?
+news_yujo1:0.87	Significa que todas las\ncortesanas son unas mentirosas.
+news_yujo1:0.90	......¡No miento!
+news_yujo1:0.96	¡Pero aún somos mejores\nque tú, %s!
+news_yujo1:0.101	Se acerca la fiesta.\nLa pequeña sin nombre, digo,\nSayo, está muy emocionada.
+news_yujo1:0.102	Dijo que iría contigo.
+news_yujo1:0.104	Me da envidia.
+news_yujo1:0.108	Parece que te tiene mucho cariño.
+news_yujo1:0.111	Puede que no seas muy popular,\npero si a ella le caes bien,\ndebes de ser buen hombre.
+news_yujo1:0.117	Sayo quiere ir a la fiesta\ncontigo.
+news_yujo1:0.118	Te esperaba en tu casa.\n¿No la viste?
+news_yujo1:0.120	Quizá te la perdiste por poco.
+news_yujo1:0.124	Pobre Sayo...
+news_yujo1:0.129	Sayo se fue con Beniya.
+news_yujo1:0.130	Ya no oiré el sonido de sus\npasitos. Qué triste...
+news_yujo1:0.134	No estaba muy unida a\nSayo, pero...
+news_yujo1:0.135	La echo de menos ahora\nque se ha ido.
+news_yujo1:0.140	¡Unos magistrados vinieron\ny se llevaron a Sayo!
+news_yujo1:0.142	¿Qué creían que había hecho\nuna niña como ella?!
+news_yujo1:0.146	Estoy preocupada por Sayo.
+news_yujo1:0.151	Sayo aún no ha vuelto\na casa.
+news_yujo1:0.153	Me pregunto qué habrá pasado\nen la Magistratura.
+news_yujo1:0.157	Quizá no vuelva a ver\na Sayo...
+news_yujo1:0.162	Hace tiempo que no veo a\nSayo. ¿Sabes dónde está?
+news_yujo1:0.166	Me pregunto dónde podrá estar...
+news_yujo1:0.171	Sayo estaba tan orgullosa\ncuando me dijo su nombre.
+news_yujo1:0.172	Sayo...\nQué nombre tan bonito,\n¿verdad?
+news_yujo1:0.181	¡Me han dicho que los yakuza\nbuscan a Sayo!
+news_yujo1:0.183	Ojalá fuera yo\nen su lugar...
+news_yujo1:0.184	¡De verdad!
+news_yujo1:0.188	Estoy muy preocupada por Sayo.
