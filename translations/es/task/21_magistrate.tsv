@@ -1,0 +1,123 @@
+# 21_magistrate: magistrate_observer_b (observadores de la Magistratura), magistrate_prisoner_a (presos de la cárcel) y magistrate_room_a (guardias de la sala).
+# Los guardias y observadores de la Magistratura tutean al protagonista (autoridad hostil o condescendiente); no hay jefes con usted en esta tanda.
+# Los presos tutean (gente corriente o matones). El protagonista es masculino (opciones en primera persona).
+magistrate_observer_b:0.46	¡Oye, viajero!
+magistrate_observer_b:0.48	Has llegado a Amahara\nen mal momento.
+magistrate_observer_b:0.49	Seguro que no quieres\nmeterte en ningún\nlío.
+magistrate_observer_b:0.51	¿Por qué no descansas un\nrato y luego sales\nde la ciudad?
+magistrate_observer_b:0.54	Ten cuidado\nal salir de la ciudad.
+magistrate_observer_b:0.57	%s,\n¿cómo estás?
+magistrate_observer_b:0.59	No hay nada nuevo por aquí.
+magistrate_observer_b:0.62	Tengo unos nervios extraños.
+magistrate_observer_b:0.64	Solo espero que no pase\nnada malo...
+magistrate_observer_b:0.69	¡Hmph! Se te ve a la legua\nque eres un tipo sospechoso.
+magistrate_observer_b:0.72	Qué trato más brusco...\nLo mismo te digo, amigo...
+magistrate_observer_b:0.74	¿Eh...?
+magistrate_observer_b:0.75	Mirándote mejor, veo que\nno eres más que un\nmendigo cualquiera.
+magistrate_observer_b:0.79	¡No puedo dejar pasar eso!
+magistrate_observer_b:0.82	Engreído...
+magistrate_observer_b:0.83	¡Te arresto y te pongo\nen el potro!
+magistrate_observer_b:0.84	¿Y tú eres magistrado?\n¿Y con qué ejército?
+magistrate_observer_b:0.88	¡L-lárgate de aquí!\n¡Y no montes más\nlíos!
+magistrate_observer_b:0.92	¡Maldito...!
+magistrate_observer_b:0.93	Esta vez lo dejo pasar,\npero como causes problemas,\n¡te atraparé!
+magistrate_observer_b:0.94	¿¡Me has entendido?!
+magistrate_observer_b:0.98	¡Qué gracioso eres!
+magistrate_observer_b:0.107	¡Q-qué...?!\n¿Qué quieres?!
+magistrate_observer_b:0.110	Ah, eres tú,\n%s.\nTienes buena cara.
+magistrate_observer_b:0.112	Pero no bajes la guardia.\nLa banda Aoto anda\nmoviéndose...
+magistrate_observer_b:0.115	A veces eres un poco\nimpetuoso.
+magistrate_observer_b:0.117	Pero no te arriesgues\nsin necesidad.
+magistrate_observer_b:0.118	¿Entiendes,\n%s?
+magistrate_observer_b:0.179	Si te metes en una pelea\ncon la yakuza...
+magistrate_observer_b:0.180	pide ayuda al magistrado\nmás cercano.
+magistrate_observer_b:0.182	Te ayudaremos.
+magistrate_observer_b:0.185	Puedes estar tranquilo,\nporque estamos de guardia.
+magistrate_observer_b:0.190	Manejas bastante bien\nla espada.
+magistrate_observer_b:0.191	A lo mejor me das\nalgún consejo.
+magistrate_observer_b:0.194	Dicen que la espada\nde un hombre refleja\nsu corazón.
+magistrate_observer_b:0.196	Tu espada está afilada,\npero tiene cierta calidez.
+magistrate_observer_b:0.201	Hay inquietud en\nAmahara.
+magistrate_observer_b:0.203	Por eso todos los\nmagistrados andamos\ncon los nervios de punta.
+magistrate_observer_b:0.206	Ten cuidado.
+magistrate_observer_b:0.209	%s
+magistrate_observer_b:0.211	Te veo algo pálido.
+magistrate_observer_b:0.213	Deberías irte a casa\na descansar.
+magistrate_observer_b:0.216	Si trabajas demasiado,\nte pondrás enfermo.
+magistrate_observer_b:0.218	Yo me encargo de aquí.\nVete a casa.
+magistrate_observer_b:0.224	Me temía que llegaría\neste día.
+magistrate_observer_b:0.225	El futuro de la\nMagistratura pinta\nmuy negro.
+magistrate_observer_b:0.229	¿Qué vamos a hacer...?
+
+magistrate_prisoner_a:0.29	¿Qué haces aquí?\n¿No pretenderás colarte\nen la cárcel...?
+magistrate_prisoner_a:0.30	No me hagas caso.\nQuizá la próxima vez...\nNecesito un castigo...
+magistrate_prisoner_a:0.33	¡Pues date prisa y lárgate!
+magistrate_prisoner_a:0.35	No te preocupes.\nPronto sacaremos a la luz\ntus fechorías.
+magistrate_prisoner_a:0.39	¿Lo dices en serio?
+magistrate_prisoner_a:0.42	Si no eres un criminal,\nno tienes nada que hacer aquí.
+magistrate_prisoner_a:0.44	¡Q-qué...?!\n¿Quieres acabar\nen la cárcel?
+magistrate_prisoner_a:0.46	Fuera no logro relajarme.\nBromeaba.
+magistrate_prisoner_a:0.49	Qué gracioso...\n¡Y ahora lárgate!
+magistrate_prisoner_a:0.51	No te preocupes. Pronto\nsacaremos a la luz tus\nfechorías.
+magistrate_prisoner_a:0.55	¿Estás borracho o qué?
+magistrate_prisoner_a:0.56	Ni siquiera tenemos celdas\npara borrachos como tú.
+magistrate_prisoner_a:0.58	¡Pero con mucho gusto\nte complaceré!
+magistrate_prisoner_a:0.74	El magistrado jefe...
+magistrate_prisoner_a:0.75	¿Quién pudo matar\nal magistrado jefe\ny a Goshiro...?
+magistrate_prisoner_a:0.78	Los llevaré ante la justicia...
+magistrate_prisoner_a:0.85	¡Jefe!
+magistrate_prisoner_a:0.88	Tú...\nHoy no me hables...
+magistrate_prisoner_a:5.4	¡Guarda esa espada!
+magistrate_prisoner_a:7.10	¡Basta ya!
+magistrate_prisoner_a:7.22	¡Ya está bien!
+
+magistrate_room_a:0.80	Sé la verdad. Lo mataste\ntú, ¿verdad?
+magistrate_room_a:0.81	Te voy a desenmascarar...
+magistrate_room_a:0.85	¿Has venido hasta aquí?\nHay que tener agallas.
+magistrate_room_a:0.86	La Magistratura\nno confía en ti en absoluto.
+magistrate_room_a:0.88	De hecho, les encantaría\nsacar a la luz tus\nfechorías.
+magistrate_room_a:0.89	¡Solo hablar contigo\nme revuelve el estómago!\n¡Lárgate!
+magistrate_room_a:0.93	Esto queda entre nosotros,\npero la Magistratura\nduda de ti...
+magistrate_room_a:0.94	Si quieres que confíen\nen ti, tienes que cumplir\ncon tus trabajos.
+magistrate_room_a:0.98	La mejor forma de ganarse\nla confianza en Amahara\nes cumplir trabajos.
+magistrate_room_a:0.99	Si te ganas la confianza\nde la gente, te dan\nmejores trabajos.
+magistrate_room_a:0.101	Acaba muchos trabajos si\nquieres convertirte en\nun hombre de verdad.
+magistrate_room_a:0.105	Últimamente has trabajado\nduro. La Magistratura lo\nreconoce.
+magistrate_room_a:0.106	Pronto deberías poder\nconseguir trabajos nuevos.
+magistrate_room_a:0.108	En fin, sigue así.
+magistrate_room_a:0.112	El nombre de %s\nes muy conocido en la\nMagistratura.
+magistrate_room_a:0.113	Debes de estar sacando\nbuenos trabajos. Me da envidia.
+magistrate_room_a:0.115	En fin, todos esperamos\ngrandes cosas de ti.
+magistrate_room_a:0.119	Lo estás haciendo muy bien\núltimamente. Todo el mundo\nlo dice.
+magistrate_room_a:0.120	Sigue así.\nLa Magistratura te necesita.
+magistrate_room_a:0.126	Todos en la Magistratura\nconocen tu nombre.
+magistrate_room_a:0.127	Ojalá me contaras cómo\nte has labrado\nesa reputación.
+magistrate_room_a:0.129	¡Eres nuestro héroe!
+magistrate_room_a:0.134	Goshiro busca al fabricante\ndel Soma.
+magistrate_room_a:0.135	Dice que el Soma es una\nclase de medicina...
+magistrate_room_a:0.139	Si el Soma desapareciera,\nlas cosas mejorarían\nen Amahara.
+magistrate_room_a:0.146	Nakamura y Muto\nse estaban gritando\nhasta hace un momento.
+magistrate_room_a:0.148	Algo sobre un traidor\nen la fiesta.
+magistrate_room_a:0.152	Pues yo estoy con Nakamura\npase lo que pase.
+magistrate_room_a:0.161	Así que tú eres el traidor,\n¿eh?
+magistrate_room_a:0.163	¡Ajá! ¡Bingo!
+magistrate_room_a:0.169	La ceremonia para nombrar\njefe de la banda a Hanzaemon\nha terminado.
+magistrate_room_a:0.170	Ahora su liderazgo\nes oficial...
+magistrate_room_a:0.172	¿Qué pasará ahora?
+magistrate_room_a:0.176	Esto complica aún más\nlas cosas...
+magistrate_room_a:0.182	¿Kagenuma Kyojiro?
+magistrate_room_a:0.184	No lo sé, pero si es guardia\nde la banda Aoto, estará\nen su cuartel.
+magistrate_room_a:0.188	¿Por qué no vas al cuartel\nde los Aoto y\npreguntas?
+magistrate_room_a:0.193	No tengo ni idea.\n¡Lárgate!
+magistrate_room_a:0.199	Todos no paran de llorar\npor la pérdida del jefe...
+magistrate_room_a:0.200	Es patético.
+magistrate_room_a:0.202	¿No pueden hacer nada\npor sí mismos?
+magistrate_room_a:0.206	Pero hay que reconocer que\nperder al jefe y a Muto\nes un golpe terrible.
+magistrate_room_a:1.11	¡Ay!
+magistrate_room_a:5.4	No te pongas así...
+magistrate_room_a:7.29	¿¡Qué pretendes hacer!?
+magistrate_room_a:7.37	¿¡Qué demonios te pasa!?
+magistrate_room_a:7.39	¿¡Eres un asesino, o qué?!
+magistrate_room_a:7.45	¡Miserable insolente!
+magistrate_room_a:7.47	¡Alto ahí!
+magistrate_room_a:7.49	¡Jovenzuelo insensato!
