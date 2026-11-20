@@ -1,0 +1,222 @@
+# 36_normal: vecinos y gente corriente de Amahara (normal_walk_girl_c, normal_walk_madam_a/b, normal_walk_nonjap_a/b). La niña tutea al protagonista; las señoras usan usted y van en femenino en primera persona; los extranjeros hablan un castellano torpe y formal (sin género en la primera persona). Salida: id|español (se convierte en tabulador).
+normal_walk_girl_c:0.44	Papá se está portando\nraro últimamente...
+normal_walk_girl_c:0.46	A veces hasta me pega\ny parece que no me reconoce...
+normal_walk_girl_c:0.49	Espero que papá esté bien.\nOjalá vuelva a ser\ncomo era...
+normal_walk_girl_c:0.54	Crecer hasta ser una\npersona normal aquí,\nen Amahara, es imposible.
+normal_walk_girl_c:0.56	Los mayores se pasan el día\ncon una medicina rara...
+normal_walk_girl_c:0.58	¿A quién vamos a tomar\nde ejemplo?
+normal_walk_girl_c:0.61	Siempre somos los niños\nlos que sufrimos...
+normal_walk_girl_c:0.68	Mamá me dice que no hable\ncon gente que no conozco.
+normal_walk_girl_c:0.71	Últimamente hay tanta violencia\nque mamá me dice que no hable\ncon desconocidos.
+normal_walk_girl_c:0.74	¿Por qué te hiciste samurái,\n%s?
+normal_walk_girl_c:0.76	No lo entenderías.\nPara protegerte.\nPorque mola.
+normal_walk_girl_c:0.86	Entonces, ¿por qué no molas,\n%s?
+normal_walk_girl_c:0.88	Me aburro...
+normal_walk_girl_c:0.93	Todos mis amigos se mudaron,\nasí que estoy sola...
+normal_walk_girl_c:0.96	Todos mis amigos se han ido,\nasí que estoy sola...
+normal_walk_girl_c:0.101	¡Odio a los samuráis!
+normal_walk_girl_c:0.103	¡Los samuráis mataron a mi familia!
+normal_walk_girl_c:0.105	Eres fuerte.\nSeré tu familia.\n¡Yo maté a tu familia!
+normal_walk_girl_c:0.109	¡Quiero que mi familia vuelva!
+normal_walk_girl_c:0.111	¿Qué?\n¿Yo?
+normal_walk_girl_c:0.117	¿D-de verdad?\n¿Serás mi familia?
+normal_walk_girl_c:0.128	Me esforzaré y seré\naún más fuerte,\n¡%s!
+normal_walk_girl_c:0.130	¡Haré que mamá y papá,\ndesde el cielo, se sientan\norgullosos de mí!
+normal_walk_girl_c:0.132	Odio a los samuráis,\npero tú me caes bien,\n¡%s!
+normal_walk_girl_c:0.137	¿Has visto mi pelota roja?\nNo la encuentro por ninguna parte.
+normal_walk_girl_c:0.139	Últimamente hay mucho robo,\nasí que a lo mejor\nalguien me la ha robado...
+normal_walk_girl_c:0.142	¡Un ladrón me robó la pelota!\n¡Buaaa! ¡Buaaa!
+normal_walk_girl_c:0.149	¡Ja, ja, ja!
+normal_walk_girl_c:0.151	Pareces muy contenta.\n¿Qué es tan gracioso?\n¡Deja de reírte!
+normal_walk_girl_c:0.156	¡Acabas de pisar\ncaca de perro!
+normal_walk_girl_c:0.159	¡Estás pisando\ncaca de perro,\n%s!
+normal_walk_girl_c:0.162	Pffff... ¡Ja, ja!
+normal_walk_girl_c:0.165	¡Eh!\n¡Genial! ¡Eso da buena suerte!\n¡Voy a matar a ese perro!
+normal_walk_girl_c:0.169	¡Ja, ja, ja, ja!\n¡Ja, ja, ja, ja!
+normal_walk_girl_c:0.173	¿Pisar caca da\nbuena suerte?
+normal_walk_girl_c:0.177	¡No te acerques!\n¡Apestas!
+normal_walk_girl_c:0.180	Eres gracioso,\n%s!
+normal_walk_girl_c:0.185	¡Uy, uy!\n¡Es un samurái raro!
+normal_walk_girl_c:0.187	¡Corre!
+normal_walk_girl_c:0.191	¡Ja, ja, ja!
+normal_walk_girl_c:0.196	Cuando sea mayor, voy a ser\nmaestra de esgrima.
+normal_walk_girl_c:0.198	Tengo que empezar\na practicar ya.
+normal_walk_girl_c:0.201	¡Bienvenido,\n%s!
+normal_walk_girl_c:0.203	Primero practicaremos\nla conversación.
+normal_walk_girl_c:0.204	Inténtalo.
+normal_walk_girl_c:0.206	¿Así?\nNo lo entiendo.\n¿Puedo irme a casa?
+normal_walk_girl_c:0.207	¿Qué?\n¿Demasiado difícil?
+normal_walk_girl_c:0.210	Eso es.
+normal_walk_girl_c:0.212	Lo estás haciendo bien.
+normal_walk_girl_c:0.215	Así que has vuelto,\n%s.
+normal_walk_girl_c:0.217	No todo el mundo puede\ntener un final feliz.
+normal_walk_girl_c:0.218	Si dudas, se acaba\nantes de que te des cuenta.
+normal_walk_girl_c:0.219	Tus actos quizá puedan\ncambiar las cosas...
+normal_walk_girl_c:0.220	Pero también puede que no...
+normal_walk_girl_c:0.221	O quizá sí...
+normal_walk_girl_c:0.223	¿Cuál de las dos?\nYa veo.\n¿Puedo irme ya?
+normal_walk_girl_c:0.225	Bueno, vuelve cuando quieras.
+normal_walk_girl_c:0.226	Si tienes alguna pregunta.
+normal_walk_girl_c:0.227	Rezo por tu buena suerte.
+normal_walk_girl_c:0.230	Todo depende de ti,\n%s...
+normal_walk_girl_c:0.232	El poder de las personas\nes limitado.
+normal_walk_girl_c:0.236	No eres muy divertido\npara hablar contigo...
+normal_walk_girl_c:0.239	¿Te parezco una maestra?
+normal_walk_girl_c:0.241	Me pregunto si podré\nser una buena maestra...
+normal_walk_girl_c:2.20	¿Es %s?!
+normal_walk_madam_a:0.56	¡Es %s!!\n¡Nos van a matar!
+normal_walk_madam_a:0.58	¡Es %s!!\n¡Que alguien me ayude!
+normal_walk_madam_a:0.60	¡Es %s!!\n¡Que venga alguien rápido!
+normal_walk_madam_a:0.62	¡Es %s!!\n¡Que alguien lo detenga!
+normal_walk_madam_a:0.72	Mi hija ya está en edad\nde casarse, pero tiene\nun genio muy violento...
+normal_walk_madam_a:0.73	No creo que llegue\na casarse nunca.
+normal_walk_madam_a:0.74	¿Conoce a alguien\nque quisiera casarse con ella?
+normal_walk_madam_a:0.76	No, lo siento.\nYo me casaré con ella.
+normal_walk_madam_a:0.78	Quizá no le interese a un samurái\ncomo usted. Perdone...
+normal_walk_madam_a:0.81	Ya me lo imaginaba...
+normal_walk_madam_a:0.84	¡Qué bromista...!
+normal_walk_madam_a:0.86	Ojalá alguien se casara\ncon mi hija.
+normal_walk_madam_a:0.87	Alguien amable, que supiera\napreciar las buenas cualidades\nde mi hija...
+normal_walk_madam_a:0.94	Oiga, no me hable.
+normal_walk_madam_a:0.95	No quiero meterme\nen ningún lío.
+normal_walk_madam_a:0.99	Venga, váyase.
+normal_walk_madam_a:0.104	Últimamente hay mucha\nviolencia por aquí.
+normal_walk_madam_a:0.105	Ojalá todo el mundo\nfuera como usted.
+normal_walk_madam_a:0.109	Tenga cuidado,\n%s.
+normal_walk_madam_a:0.111	Podría acabar muerto\nsi se mete en estas\nriñas de poca monta.
+normal_walk_madam_a:0.112	No vale la pena.
+normal_walk_madam_a:0.118	Hoy en día hay muchos\nextranjeros por Amahara.
+normal_walk_madam_a:0.119	Son tan altos y tienen\nlos ojos tan grandes... Me dan\nun poco de miedo.
+normal_walk_madam_a:0.124	Me pregunto si vendrán\nmuchos más extranjeros\na Japón...
+normal_walk_madam_a:0.126	Me pregunto si usted es\nmás fuerte que ellos...
+normal_walk_madam_a:0.132	¿Qué voy a preparar\npara cenar esta noche...?
+normal_walk_madam_a:0.133	El trabajo de la mujer\nnunca se acaba.
+normal_walk_madam_a:0.138	Tengo muchos hijos en edad\nde crecer, y la compra\nme sale carísima.
+normal_walk_madam_a:0.140	¿Cómo le va últimamente,\n%s?
+normal_walk_madam_a:0.145	Pensar que nuestra fiesta\npodría estropearse así...
+normal_walk_madam_a:0.147	Amahara ha cambiado mucho...
+normal_walk_madam_a:0.151	No creo que podamos\naguantar mucho más...
+normal_walk_madam_a:2.9	Es un extranjero...
+normal_walk_madam_a:2.39	¡Sí, es un extranjero!\n¡Es increíble verlo tan de cerca!
+normal_walk_madam_a:2.41	Vaya...
+normal_walk_madam_a:2.43	¡Oiga, extranjero, cuénteme\ncómo es su tierra!
+normal_walk_madam_a:2.44	¡Por favor, cuénteme!
+normal_walk_madam_a:2.47	¡Cuéntemelo también a mí!\nNo acose al extranjero.
+normal_walk_madam_a:2.49	¡Vamos, vamos!
+normal_walk_madam_a:2.53	¡Sí, usted también quiere oírlo, verdad!
+normal_walk_madam_a:2.55	¡Por favor, cuéntenos!
+normal_walk_madam_a:2.57	......Mi tierra está al otro lado\ndel mar, y tiene paisajes\nmuy hermosos.
+normal_walk_madam_a:2.59	La gente es alegre\ny activa. Es\nmaravilloso.
+normal_walk_madam_a:2.61	...Pero, por desgracia,\nes también un país\nen guerra constante.
+normal_walk_madam_a:2.62	No muy distinto de este país...
+normal_walk_madam_a:2.64	¿¡De verdad!?\n¿Paisajes hermosos?
+normal_walk_madam_a:2.66	¡Qué envidia!
+normal_walk_madam_a:2.70	...Perdone, creo que\nme he dejado llevar un poco.
+normal_walk_madam_a:2.72	Perdone, extranjero.
+normal_walk_madam_b:0.53	¡Es %s!\n¡Me va a matar!
+normal_walk_madam_b:0.55	¡Es %s!\n¡Que alguien me ayude!
+normal_walk_madam_b:0.57	¡Es %s!\n¡Rápido, que venga alguien!
+normal_walk_madam_b:0.59	¡Es ese %s!!\n¡Que alguien lo detenga!
+normal_walk_madam_b:0.70	Tengo hambre y estoy de mal\nhumor, así que no me hable.
+normal_walk_madam_b:0.73	Me estorba...\n¿Eh?\nPruebe a comer espinas de pescado.
+normal_walk_madam_b:0.75	Eso es. Cierre\nla boca, nada más.
+normal_walk_madam_b:0.80	¡Le he dicho que no me hable,\n¿es que no me ha oído?!
+normal_walk_madam_b:0.84	¡Los pobres ni podemos\npagarnos las espinas de pescado!
+normal_walk_madam_b:0.86	Perdone...\n¡No voy a consentir eso!\nEs usted tan hermosa...
+normal_walk_madam_b:0.92	Bueno, si lo siente...\nSinceramente, estos\nsamuráis de hoy...
+normal_walk_madam_b:0.95	¿Cómo cree que me siento?
+normal_walk_madam_b:0.99	¿De verdad...?\nBueno, supongo que no\npuede evitarlo.
+normal_walk_madam_b:0.101	Estoy de un humor de perros.
+normal_walk_madam_b:0.104	Hoy en día no venden\nnada decente de comer,\ny no paro de adelgazar.
+normal_walk_madam_b:0.107	No me interesa...\nNo lo parece...\nCon razón se la ve tan bien.
+normal_walk_madam_b:0.109	¿Tanta belleza le ha dejado\nsin palabras, verdad?
+normal_walk_madam_b:0.114	¿De qué habla?\n¡No soy más que piel y huesos!
+normal_walk_madam_b:0.119	Sabe, de joven\nme llamaban la señorita Amahara.
+normal_walk_madam_b:0.121	Ya es usted toda una señora.\nMe está tapando el sol.\nSupongo que tiene razón...
+normal_walk_madam_b:0.123	¿Qué significa ese silencio...?
+normal_walk_madam_b:0.127	¡Los samuráis de hoy\nno tienen modales!
+normal_walk_madam_b:0.130	Perdone, yo...\n¡Eh! ¡Qué grosero!
+normal_walk_madam_b:0.134	¡Eh!\n¡No me mire así!\n¡Pervertido!
+normal_walk_madam_b:0.140	Ahora que soy mayor\nno paro de pensar\nlo mismo...
+normal_walk_madam_b:0.141	Ojalá hubiera trabajado\nmás de joven.
+normal_walk_madam_b:0.142	Bueno, el pasado\nno se puede cambiar.
+normal_walk_madam_b:0.147	Pero, pensándolo bien, solo\nlo entiendo porque soy\nvieja...
+normal_walk_madam_b:0.148	Supongo que mi juventud\nno se malgastó del todo...
+normal_walk_madam_b:0.150	Procure no tener\narrepentimientos,\n%s.
+normal_walk_madam_b:0.157	El Soma es una\nmedicina realmente aterradora.
+normal_walk_madam_b:0.158	Puede arruinar a una persona\nsin que se dé cuenta.
+normal_walk_madam_b:0.159	La mujer llamada Otomi,\nque vive por aquí cerca,\nha caído en sus garras.
+normal_walk_madam_b:0.161	Ahora está prácticamente\npostrada en la cama.
+normal_walk_madam_b:0.165	¡Ni se le ocurra probar\nel Soma!
+normal_walk_madam_b:0.168	Dicen que Otomi ha conseguido\ndejar el Soma.
+normal_walk_madam_b:0.170	Supongo que hace falta\nmucha fuerza de voluntad\npara dejarlo.
+normal_walk_madam_b:0.171	Me pregunto cómo lo habrá hecho...
+normal_walk_madam_b:0.175	En fin, es una gran noticia\nque haya podido dejarlo.
+normal_walk_madam_b:0.182	Los Aoto han cambiado\ndesde que murió el viejo\njefe de la banda.
+normal_walk_madam_b:0.183	Todo era mucho mejor\nentonces...
+normal_walk_madam_b:0.187	Era la personificación\nde la caballerosidad.
+normal_walk_madam_b:0.188	Era un hombre muy\nperspicaz.
+normal_walk_madam_b:0.190	Nunca habría sacado\ndinero de...
+normal_walk_madam_b:0.191	gente débil como nosotros...
+normal_walk_madam_b:0.199	Quizá me estoy haciendo vieja.\nÚltimamente estoy agotada.
+normal_walk_madam_b:0.200	Me gustaría vivir en un sitio\ndonde no hubiera nadie...
+normal_walk_madam_b:0.205	La vida en Amahara es\ntan confusa y ajetreada.
+normal_walk_madam_b:0.207	¿Conoce algún buen sitio\npara vivir, %s?
+normal_walk_nonjap_a:0.38	Dicen que los samuráis\nse hacen harakiri, ¿no?
+normal_walk_nonjap_a:0.39	¡Me gustaría verlo,\nsolo una vez!
+normal_walk_nonjap_a:0.45	¡Invíteme la próxima vez\nque haga el harakiri!
+normal_walk_nonjap_a:0.55	El paisaje de Japón es muy\nbonito y elegante.
+normal_walk_nonjap_a:0.56	¡Me encanta este país!
+normal_walk_nonjap_a:0.58	Pero no me acabo de acostumbrar\na comer pescado crudo...
+normal_walk_nonjap_a:0.62	¡Quiero contar a mis\ncompatriotas mi amor\npor la cultura japonesa!
+normal_walk_nonjap_a:0.67	¡Las japonesas son muy\npequeñas y monas!
+normal_walk_nonjap_a:0.69	No sabía que hubiera\ntantas mujeres bonitas\nen Asia.
+normal_walk_nonjap_a:0.73	¡Las mujeres de pelo\nnegro son tan misteriosas\ny bonitas!
+normal_walk_nonjap_a:0.75	¡Me gustaría llevarme\na una a casa!
+normal_walk_nonjap_a:0.80	¡He venido a Japón para\naprender el camino\ndel samurái!
+normal_walk_nonjap_a:0.82	Es usted samurái...\n¿Podría hacerme\nun favor?
+normal_walk_nonjap_a:0.83	¿Me haría el favor\nde aceptarme como alumno?
+normal_walk_nonjap_a:0.85	Soy un maestro muy duro...\nNo acepto alumnos.
+normal_walk_nonjap_a:0.87	¡Diga algo, por favor!
+normal_walk_nonjap_a:0.90	¡Es justo lo que\nesperaba!
+normal_walk_nonjap_a:0.92	¡Le seguiré a donde sea,\nmaestro!
+normal_walk_nonjap_a:0.96	¡Oh, qué lástima!
+normal_walk_nonjap_a:0.98	Quería probar a usar\nuna espada japonesa...
+normal_walk_nonjap_a:0.101	Los samuráis son\ngente misteriosa, ¿verdad?
+normal_walk_nonjap_a:0.102	Distintos de los\ncaballeros de Europa...
+normal_walk_nonjap_a:0.107	¡La fiesta fue increíble!
+normal_walk_nonjap_a:0.109	¡Fue muy emocionante!
+normal_walk_nonjap_a:0.113	¡Yo también vendré el año que viene!
+normal_walk_nonjap_a:1.15	¡Oh!
+normal_walk_nonjap_b:0.30	¡Vaya, las ciudades japonesas\nson tan pequeñas y apretadas!
+normal_walk_nonjap_b:0.31	Y la gente de las calles\npasa tan ajetreada...
+normal_walk_nonjap_b:0.32	¡Así no puedo relajarme!
+normal_walk_nonjap_b:0.36	¿Por qué los japoneses\nestán siempre tan ocupados?
+normal_walk_nonjap_b:0.43	Konnichiwa!
+normal_walk_nonjap_b:0.45	¡Estoy estudiando japonés!
+normal_walk_nonjap_b:0.49	Watashi ichiban!
+normal_walk_nonjap_b:0.52	Hace buen tiempo, ¿verdad?
+normal_walk_nonjap_b:0.54	Estoy estudiando japonés.
+normal_walk_nonjap_b:0.56	Pero es muy difícil.
+normal_walk_nonjap_b:0.57	Es muy desalentador...
+normal_walk_nonjap_b:0.61	Pero seguiré intentándolo.
+normal_walk_nonjap_b:0.64	Hola, ¿qué tal está\nen este día tan bonito?
+normal_walk_nonjap_b:0.66	Sabe, después de estudiar\njaponés durante mucho tiempo\nme he dado cuenta de...
+normal_walk_nonjap_b:0.68	que es un idioma muy\nexpresivo y lleno de emoción.
+normal_walk_nonjap_b:0.69	Hace falta mucho trabajo\npara entender cada matiz.
+normal_walk_nonjap_b:0.78	Los pasteles que se venden\naquí, en Amahara...
+normal_walk_nonjap_b:0.79	los trajeron a Japón hace\nmucho mis compatriotas.
+normal_walk_nonjap_b:0.81	Pero saben bastante distinto\na los nuestros...
+normal_walk_nonjap_b:0.82	De hecho, se podría decir...
+normal_walk_nonjap_b:0.83	que son salados.
+normal_walk_nonjap_b:0.87	Los japoneses son muy buenos\nadaptando las cosas a su gusto.
+normal_walk_nonjap_b:0.92	¡Oh, samurái!
+normal_walk_nonjap_b:0.94	¿Lleva esa espada porque\nva a atacar a alguien?
+normal_walk_nonjap_b:0.96	¡Sí... a su país!\nEs solo para protegerme.
+normal_walk_nonjap_b:0.98	¿Es un secreto?
+normal_walk_nonjap_b:0.103	¡Mi pobre familia!
+normal_walk_nonjap_b:0.108	Esa espada tiene una pinta\nbuenísima.
+normal_walk_nonjap_b:0.109	¿Sabe dónde puedo\nconseguir una?
+normal_walk_nonjap_b:0.112	Mis antepasados eran caballeros.
+normal_walk_nonjap_b:0.113	Seguro que sí...
+normal_walk_nonjap_b:0.116	¿¡Todavía no ha llegado\nel próximo barco!?
