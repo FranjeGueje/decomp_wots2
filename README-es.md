@@ -11,7 +11,7 @@ Respecto a la rama principal (`master`), la rama `espanol` solo **añade** archi
 
 | Qué                               | Archivos                                                                                                                                |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Traducciones (`translations/es/`) | 165: menús, scripts, datos, tareas NPC y el glosario                                                                                    |
+| Traducciones (`translations/es/`) | 190: menús, scripts, datos, tareas NPC (37 tandas) y el glosario                                                                        |
 | Herramientas (`tools/`)           | 6: `spanish_font.py`, `spanish_text.py`, `spanish_script.py`, `spanish_data.py`, `spanish_task.py` y `font_info.py` (analiza la fuente) |
 | Documentación (`docs/spanish/`)   | 6 archivos, del `01` al `06`                                                                                                            |
 | `.gitignore`                      | única modificación de algo existente                                                                                                    |
@@ -24,11 +24,11 @@ Respecto a la rama principal (`master`), la rama `espanol` solo **añade** archi
 - **Datos:** objetos y accesorios, títulos de rango, frases de tienda, roles de personajes,
   tarjeta de memoria, teclado de nombre (con ñ, tildes y `¡ ¿`) y la narración de la intro y los finales.
 - **Fuente:** se añaden `¿`, `»` y `º` (el juego ya trae las vocales acentuadas, `ñ`, `ü`, `¡` y `«`).
-- **Conversaciones con NPC y trabajos:** una parte (las tandas `01_work` a `10_main`, unas 2.100 de 7.600 cadenas). El resto sale en inglés por ahora.
+- **Conversaciones con NPC y trabajos** (`alltask`): las 7.596 cadenas de las tareas en uso, en 37 tandas: trabajos (`work_*`), personajes principales (`main_*`), rumores (`news_*`), magistrados, matones (`evil_*`) y vecinos (`normal_*`).
 
 ### Qué no está traducido
 
-- Conversaciones de NPC de las tandas `11` a `37` (personajes principales, rumores, magistrados, matones y vecinos).
+- Las 14 cadenas de tareas sin uso (`38_sin_uso`) y 221 cadenas en japonés de tareas que el juego nunca muestra.
 - Los rótulos dibujados en texturas (menú del título, «PAUSE», «Settings», letreros de tienda…).
 - La página «Enhancements» del port, los nombres de espadas y técnicas (romanizados, a propósito) y los créditos (son vídeo).
 
@@ -37,7 +37,8 @@ El estado exacto de las tareas de NPC se ve con `python3 -I tools/spanish_task.p
 ## Requisitos
 
 - Tu copia del juego, y el port compilado y funcionando (ver más abajo).
-- `python3` (las herramientas no necesitan dependencias externas; ejecútalas con `python3 -I`).
+- `python3` **3.10 o superior** y **NumPy** (`pip install numpy` o `sudo apt install python3-numpy`): es la única librería de terceros. Ejecuta las herramientas con `python3 -I`.
+- El disco extraído en `extracted/VOLUME.DAT` dentro de la raíz del repositorio (ver el paso 1). Sin él, las herramientas fallan con `FileNotFoundError`.
 - `cmake` y un compilador, para compilar el port (y para que `check` construya `solc`, el compilador de scripts Sol, si no existe aún).
 
 ## Paso 1 — Compilar el port

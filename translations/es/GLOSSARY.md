@@ -182,3 +182,10 @@ Lugares: Amahara, Amakaze, Shikano-cho… (ver «Lugares»).
 - Nami (camarera): femenina. Soma sin artículo en diálogo. Interjecciones: «¡Iiih!» (grito femenino), «¡Aaaah!», «¡Ja, ja!», «¡Je, je!». «escoria de los Aoto», «samurái molesto». Beniya: nombre propio.
 - Kasumi es «la nueva jefa de la banda» (boss) tras D02D1x. Nami tutea al protagonista; Kuroha tutea (plural) a sus soldados. «carta de triunfo» (trump card), «gobierno del shogun».
 - Kakube (mercader y luego espía del shogunato): usted al protagonista. «espía del shogunato», «tapadera», «perro del gobierno», «escoria yakuza», «hacerse con Amahara», «encargo» (job). Kyojiro: «mad dog» → «perra rabiosa».
+
+## Decisiones de las tareas NPC (tandas 11–37)
+
+- **Tratamiento por grupo:** vecinos, tenderos, monjes, señoras y mayores tratan de usted al protagonista; matones, yakuza, ronin, niños y cortesanas lo tutean; los magistrados y guardias lo tutean con tono hostil (los jefes como Nakamura, de usted); Genan, Chiyo, Goshiro y Kasumi lo tutean; Kusaburo, Tessho y Kurikichi, de usted. Los alumnos del dojo: `news_pupil1-3` de usted; `news_pupil4-5`, `normal_pupil_*` de tú.
+- **Frases heredadas (dedup global):** cada frase se tradujo una vez y la heredan las demás tareas; las que no encajan con otro hablante quedan en forma neutra o con línea propia. A revisar al jugar: «¡Eh, samurái!», «Recuérdalo», «Come along quietly!», «Estoy en un lío…», «¿Es usted %s?», «No me haga caso…».
+- **Términos:** «patrullero», «golpe letal» (instant-kill), «rompedefensas», «parada», «pilla-pilla», «sin blanca», «pardillo», «pasta», «currar», «escoria ronin», «el potro» (tortura), «Paso de Rokkotsu», «baile Bon», «Destripador», «baile»/«chonmage» (se deja). Soma sin artículo. Frases japonesas de los extranjeros («Konnichiwa!», «Watashi ichiban!») se dejan.
+- **Avisos del HUD** en segunda persona de tú: «¡Has recibido N mon!», «Has entregado…».
