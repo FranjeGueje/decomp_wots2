@@ -1,0 +1,208 @@
+# 24_evil: matones y maleantes de la banda Aoto (evil_mug_a: atracadores; evil_pick_a: carterista; evil_room_a y evil_room_b: matones de guardia en la sala del cuartel).
+# Los matones y la banda tutean al protagonista (hostiles, vulgares, callejeros). Las víctimas y los transeúntes que suplican hablan de usted al protagonista.
+# El protagonista es masculino (opciones en primera persona). Los rótulos «%s» son el nombre del jugador.
+# evil_room_a:7.45 («How rude!») lo dicen hombres y mujeres: forma neutra.
+
+# ===== tarea evil_mug_a (atracadores de la calle) =====
+evil_mug_a:0.35	¡Eh, tú!\n¿Quién te ha dado permiso\npara andar por esta calle?
+evil_mug_a:0.37	¡No necesito permiso de nadie!\nMe largo ahora mismo.
+evil_mug_a:0.38	¿Qué pasa? ¿Te crees demasiado\nbueno para hablar conmigo?
+evil_mug_a:0.42	A lo mejor te enseño yo\na tener un poco de respeto.
+evil_mug_a:0.45	¿¡Cómo dices!? ¿Quieres\nbroncas con la banda Aoto?
+evil_mug_a:0.52	Lo siento, colega, ni hablar.\nTengo que cobrarte el\nimpuesto de la calle.
+evil_mug_a:0.53	Son...eh...50 mon.
+evil_mug_a:0.55	¡No te voy a pagar nada!\nPues vale.
+evil_mug_a:0.58	Bien, bien.\nSe ve que no eres tonto.
+evil_mug_a:0.59	¡D-dame los 50 mon!
+evil_mug_a:0.63	Has entregado 50 mon...
+evil_mug_a:0.69	¡O-oye! ¡T-tú ni siquiera\ntienes 50 mon!
+evil_mug_a:0.70	¡Joder! ¡Suelta lo que\nlleves encima!
+evil_mug_a:0.73	Has entregado todo\ntu dinero...
+evil_mug_a:0.77	¡O-oye! ¡T-tú no tienes\nni un mon!
+evil_mug_a:0.78	Bueno, no te pongas triste.\nYa mejorarán las cosas.
+evil_mug_a:0.86	¡Je, gracias!
+evil_mug_a:0.90	No soy ningún gran\nespadachín como tú.
+evil_mug_a:0.91	Así que cobro el impuesto\nde la calle a los que pasan.
+evil_mug_a:0.92	Cuando oyen que estoy con\nla banda Aoto, todos pagan\nsin rechistar.
+evil_mug_a:0.95	Por eso no puedo\ndejarlo así como así...
+evil_mug_a:2.14	¡Eh, tú! ¿Quién te ha dado\npermiso para pisar esta calle?
+evil_mug_a:2.25	¿¡Cómo dices!? ¿Buscas\nbroncas con la banda Aoto?
+evil_mug_a:2.32	Lo siento, colega. Ni hablar.\nTengo que cobrarte el\nimpuesto de la calle.
+evil_mug_a:2.52	Has entregado todo tu dinero...
+evil_mug_a:2.57	Bueno, no te lo tomes a mal.\nPronto te irá mejor.
+evil_mug_a:2.66	Así que cobro el impuesto\nde la calle a los que pasan\npor aquí.
+evil_mug_a:2.70	Así que no puedo\ndejarlo, qué le vamos a hacer.
+evil_mug_a:2.116	¿Crees que puedes cabrear\na la yakuza y largarte\ncomo si nada?
+evil_mug_a:2.118	¡Ahhh!\n¡Por favor, no me haga daño!
+evil_mug_a:2.120	¿Qué haces?\nDéjame entrar en la fiesta.
+evil_mug_a:2.121	Ahora sí que se pone\ninteresante...
+evil_mug_a:2.123	¡Ahhh!\n¡Socorro, por favor!
+evil_mug_a:2.125	¡Este tipo se ha reído\nen mis propias narices!
+evil_mug_a:2.127	¡N-no diga tonterías!\n¡Yo nunca haría algo así!
+evil_mug_a:2.128	¡Ni hablar, que te vi\nhacerlo con mis propios ojos!
+evil_mug_a:2.130	¡Me miraste a la cara\ny te reíste!
+evil_mug_a:2.133	¡Cierra el pico y lárgate\nde aquí!
+evil_mug_a:2.135	Es una cara graciosa...\nDéjalo en paz.
+evil_mug_a:2.137	¿Nada que decir? Esto no es asunto\ntuyo, así que ¡fuera de aquí!
+evil_mug_a:2.140	¡¿Qué dices?! ¿Buscas pelea?!
+evil_mug_a:2.150	¡Cállate! ¿A ti qué te importa?\n¡Vete a la mierda!
+evil_mug_a:2.153	¿Adónde crees que vas?\nTodavía tenemos asuntos\npendientes...
+evil_mug_a:2.166	Este tío parece que busca\nguerra... ¡pues la va a tener!
+evil_mug_a:2.167	¡Te voy a enseñar cómo\nhay que tratar a la yakuza,\nchaval!
+evil_mug_a:2.170	Eres un tipo duro...\nPero este es mi territorio.
+evil_mug_a:2.173	¿Crees que puedes reírte de la\nyakuza y largarte sin más?
+
+# ===== tarea evil_pick_a (el carterista) =====
+evil_pick_a:0.56	¡No te creas que puedes mirarme\npor encima del hombro solo\nporque estoy abajo del todo!
+evil_pick_a:0.57	¡Yo también tengo sueños,\n¿sabes?!
+evil_pick_a:0.58	Algún día seré el jefe\nde la banda. Y entonces...\neh... y entonces...
+evil_pick_a:0.62	En fin, ¡tengo que currármelo\npara subir en la vida!
+evil_pick_a:0.65	¡Eh, %s!\n¿Qué tal?
+evil_pick_a:0.67	Yo me las apaño\nbastante bien, la verdad.
+evil_pick_a:0.68	Si hago bien mi trabajo,\nquizá el jefe se fije\nen mí...
+evil_pick_a:0.72	¡Me estoy haciendo un\nhueco en la vida!
+evil_pick_a:0.79	¡Eh, qué tal!
+evil_pick_a:0.80	Dicen que «el dinero\nmueve el mundo».
+evil_pick_a:0.82	Ese es mi lema.\nNos vemos.
+evil_pick_a:0.85	Tú también deberías\ncurrar duro...
+evil_pick_a:0.87	No puede salir mal nada\nsi tienes suficiente pasta,\n¿verdad?
+evil_pick_a:0.96	Se nota que eres un\nsamurái sin un duro.
+evil_pick_a:0.97	Pero antes fuiste\nsamurái, ¿no?
+evil_pick_a:0.99	¿Nunca te dan ganas de\nvolver a esa vida?
+evil_pick_a:0.100	No hay nada mejor que\nservir a tu señor...
+evil_pick_a:0.103	Pero supongo que no\npodemos vivir del pasado...
+evil_pick_a:0.112	Estoy jodido...
+evil_pick_a:0.113	Creo que aún estoy\nconmocionado.
+evil_pick_a:0.115	Un puto carterista\nme acaba de robar todo\nel dinero.
+evil_pick_a:0.120	¡Contaba con ese dinero!\n¡Y ahora se ha ido!\n¡Joder! ¡Joder!
+evil_pick_a:0.122	Estoy jodidísimo...\nAh, eres tú, %s.
+evil_pick_a:0.127	¡Je! Todos hablaban de\nque habían herido a un\nmagistrado.
+evil_pick_a:0.129	Pero yo estoy un\npeldaño por encima de esa calaña.
+evil_pick_a:0.130	Una vez, cuando\nestaba peleando...
+evil_pick_a:0.132	¡Le robé la cartera\na un magistrado\nen plena pelea!
+evil_pick_a:0.133	A veces soy tan bueno\nque me asusto a mí mismo.
+evil_pick_a:0.137	¿Muto? Cuando lo encontré,\nya estaba muerto.
+evil_pick_a:2.25	Estoy trabajando.\nNo me molestes.
+evil_pick_a:2.57	Te faltan 200 mon de la bolsa...\n¡Te han robado!
+evil_pick_a:2.59	Te faltan 350 mon de la bolsa...\n¡Te han robado!
+evil_pick_a:2.61	Te faltan 500 mon de la bolsa...\n¡Te han robado!
+evil_pick_a:2.74	Uy...
+evil_pick_a:2.91	Maldito samurái de mierda.
+evil_pick_a:2.95	¿Te pasa algo?
+evil_pick_a:2.96	¡No te hagas el inocente, ladrón!\nNo, nada en absoluto.
+evil_pick_a:2.97	Bueno, pues me voy,\nentonces...
+evil_pick_a:2.100	¡¿Qué?! ¡No puedes\nacusarme así como así!
+evil_pick_a:2.103	¿No? Pues me largo...
+evil_pick_a:2.105	¡Ya te enseñaré, canalla!\nLo siento.
+evil_pick_a:2.106	Mmm, vaya bicho raro...
+evil_pick_a:2.109	Vale, vale, te devuelvo\nel dinero. ¡No me hagas\ndaño!
+evil_pick_a:2.112	V-vale...\nPero no lo vuelvas a hacer.
+evil_pick_a:2.114	¡Es imperdonable!\nBueno, vale.
+evil_pick_a:2.120	Aquí tienes.\n¿Con esto basta, no?
+evil_pick_a:2.128	¡Has recibido 50 mon!
+evil_pick_a:2.132	¡Has recuperado 200 mon!
+evil_pick_a:2.135	¡Has recuperado 350 mon!
+evil_pick_a:2.138	¡Has recuperado 500 mon!
+evil_pick_a:2.153	Hoy no es mi día...
+evil_pick_a:2.156	O-oh, eres tú,\n%s.
+evil_pick_a:2.158	¿Me has visto hace un momento?
+evil_pick_a:2.159	Dame lo mío, nada más.\n¿A qué te refieres?
+evil_pick_a:2.160	Bueno, me tengo que ir.\nSoy un hombre muy ocupado, ¿sabes?
+evil_pick_a:2.166	Vale, vale. Pero no tengo\nmucho, la verdad.
+evil_pick_a:2.173	Me refiero a mi\nhabilidad de carterista.
+evil_pick_a:2.174	Este trabajo va mejor\npara alguien como yo.
+evil_pick_a:5.9	¿Quieres empezar algo?
+evil_pick_a:7.6	¡Eh, eh, eh!
+evil_pick_a:7.13	¿Crees que me voy a quedar\nde brazos cruzados\ny aguantar esta mierda?
+
+# ===== tarea evil_room_a (matones de guardia en la sala) =====
+evil_room_a:0.41	¡Lo sabía!\n¡Tú eres el que lo mató!
+evil_room_a:0.42	¡Algún día te mataré,\nsea como sea!
+evil_room_a:0.44	¿Tú?
+evil_room_a:0.46	Debes de tener ganas de\nmorir para venir por aquí.
+evil_room_a:0.47	¡Nadie en la banda Aoto\nconfía en ti!
+evil_room_a:0.49	De hecho, algunos de los\nmás jóvenes quieren liquidarte.
+evil_room_a:0.50	Si no quieres morir,\nmás te vale largarte\ncomo el perro que eres.
+evil_room_a:0.54	Esto queda entre tú y yo,\npero a los demás no les caes\nnada bien.
+evil_room_a:0.55	Si quieres que la gente confíe\nen ti, esfuérzate en el trabajo\ny sé sincero.
+evil_room_a:0.59	Trabajar es la forma más\nrápida de ganarse la\nconfianza en Amahara.
+evil_room_a:0.60	Y si la gente confía en ti,\nte darán mejores trabajos.
+evil_room_a:0.62	¡Sigue trabajando y\nconviértete en un yakuza de verdad!
+evil_room_a:0.66	¡Últimamente estás muy\nentusiasmado! Todos están\nmuy impresionados.
+evil_room_a:0.67	Pronto te darán\nnuevo trabajo también.
+evil_room_a:0.69	¡Sigue así, lo estás haciendo bien!
+evil_room_a:0.73	Creo que la mayoría de la\nbanda ya conoce el nombre\nde %s.
+evil_room_a:0.74	¿Te están saliendo buenos\ntrabajos? ¡Je, je! Me das envidia.
+evil_room_a:0.76	¡Tienes un futuro\nbrillante!
+evil_room_a:0.80	Últimamente eres muy popular.\nTodo el mundo confía mucho\nen ti.
+evil_room_a:0.81	¡Sigue así, por el bien de\nla banda!
+evil_room_a:0.87	Todos en la banda\nte idolatran.
+evil_room_a:0.88	Ojalá supiera cómo hacer\nque todos me quieran así...
+evil_room_a:0.90	¡Eres el mejor!
+evil_room_a:1.15	Uf.
+evil_room_a:5.4	Aquí hay que guardar silencio...
+evil_room_a:7.29	¡Que te den!
+evil_room_a:7.39	¿Eres una especie de asesino?!
+evil_room_a:7.43	¡P-para ya!
+evil_room_a:7.45	¡Qué falta de educación!
+
+# ===== tarea evil_room_b (matones de guardia en la sala, charla) =====
+evil_room_b:0.55	El jefe ha salido.
+evil_room_b:0.56	¿Qué tal los negocios?\n¿Tienes alguna información nueva?
+evil_room_b:0.58	¿Necesitas algo más?
+evil_room_b:0.60	El jefe no está aquí.
+evil_room_b:0.81	No tengo información\npara gente como tú.
+evil_room_b:0.85	Si quieres ser yakuza, lo primero\nde lo que tienes que cuidarte...
+evil_room_b:0.86	son los magistrados.
+evil_room_b:0.88	Sí, son los que patrullan la\nciudad intentando mantener\nla paz.
+evil_room_b:0.89	No pueden callarse si ven\nalguna clase de delito.
+evil_room_b:0.91	Vienen y te detienen\nal momento.
+evil_room_b:0.92	Y si te detienen, acabas en\nla cárcel en un santiamén.
+evil_room_b:0.94	Puedes huir de la ciudad\no amenazarlos con la espada\npara librarte del arresto.
+evil_room_b:0.95	Claro, si te dan una paliza\nte detienen igual.
+evil_room_b:0.97	Lo mejor es no dejarse pillar\ndesde el principio. ¡Ja, ja!
+evil_room_b:0.98	¿Eh? ¿Y qué se considera\ndelito, me preguntas?
+evil_room_b:0.100	Pues, la violencia...\neh... y...
+evil_room_b:0.102	¡Pues averígualo tú\nmismo!
+evil_room_b:0.106	Hay tres grandes grupos\nen Amahara.
+evil_room_b:0.107	Primero, los vecinos.\nNos encantan.
+evil_room_b:0.109	Y luego están los\nmagistrados...
+evil_room_b:0.111	¡Y por último, nosotros,\nla banda Aoto!
+evil_room_b:0.112	Estos tres grupos luchan\nentre ellos por el control\nde Amahara.
+evil_room_b:0.114	La banda Aoto quiere\nhacerse con toda Amahara.
+evil_room_b:0.115	Así que tenemos que aumentar\nel poder de la banda y\ndebilitar a los demás.
+evil_room_b:0.116	¿Sabes cómo se aumenta\nel poder de una banda?
+evil_room_b:0.118	Eso es. Basta con que cada uno\nbrille en sus trabajos.
+evil_room_b:0.120	¿Y debilitar una banda?\n¿Sabes cómo se hace?
+evil_room_b:0.121	Lo que pasa es que\nhay que...
+evil_room_b:0.123	¡Pues lo demás tendrás que\ndescubrirlo tú solo!
+evil_room_b:0.127	Nada en particular.
+evil_room_b:0.128	La banda entera anda\nchiflada...
+evil_room_b:0.130	...tras los últimos\nproblemas.
+evil_room_b:0.141	Las cosas van de mal\nen peor...
+evil_room_b:0.145	No te va muy bien.
+evil_room_b:0.149	Te va bastante bien.
+evil_room_b:0.153	¡Vas genial!
+evil_room_b:0.157	¡Estás haciendo un trabajo\nfantástico!
+evil_room_b:0.166	Ah, por cierto...
+evil_room_b:0.167	Vi a Kasumi el día\nde la fiesta. Me dio\nlástima, la verdad.
+evil_room_b:0.169	Lo tiene bastante difícil.
+evil_room_b:0.174	Los magistrados parecen\nbastante activos últimamente.
+evil_room_b:0.176	Es preocupante...
+evil_room_b:0.180	Ah, puede que ya lo sepas,\npero...
+evil_room_b:0.182	Hace un tiempo nos\nenfrentamos a un grupo\nde magistrados.
+evil_room_b:0.183	Fue una buena pelea, pero\nconseguimos repelerlos.\n¡Fue por poco!
+evil_room_b:0.185	Si hubieran tenido a alguien\nque pudiera con Kyojiro, nos\nhabría ido mal...
+evil_room_b:0.190	La ceremonia es mañana.
+evil_room_b:0.192	Así que estoy ocupado.\nVuelve otro día.
+evil_room_b:0.196	¿Información?\n¿Sobre Kyojiro?
+evil_room_b:0.199	Puede que esté escondida\nmuy cerca... ¡Je, je, je!
+evil_room_b:0.203	Bueno, no sé si esto cuenta\ncomo «información», pero...
+evil_room_b:0.204	Pronto va a pasar algo\nmuy interesante...
+evil_room_b:0.206	Hasta entonces, quédate\ncon la banda Aoto.
+evil_room_b:5.4	¿Qué? ¿Ahora presumes de espada?
+evil_room_b:7.29	¡Eh, cálmate!
+evil_room_b:7.35	¡Cabrón!
+evil_room_b:7.39	¿Eres una especie de\nasesino?
+evil_room_b:7.41	Maldito...
+evil_room_b:7.43	¡P-para!
