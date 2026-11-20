@@ -1,0 +1,203 @@
+# 13_main: personajes principales (main_nakamura1, main_nakamura_around1, main_oboro1, main_sayo1, main_sayo1sub, main_shinobikusa1, main_tsubohachi1).
+# Nakamura (magistrado, varón) usa usted con el protagonista; Oboro (mujer) usa usted; Chiyo y los personajes de Sayo tutean; Tsubohachi (organizador de peleas) tutea y es informal; Sayo es «la niña».
+main_nakamura1:0.99	Todo parece tan\nsombrío últimamente.
+main_nakamura1:0.100	Si tuviera algo alegre\nde lo que hablar...
+main_nakamura1:0.102	¡Ay, estoy tan deprimido!
+main_nakamura1:0.106	Me pregunto qué le\npasará a Amahara...
+main_nakamura1:0.111	Oh, hola.\n¿Querías algo de mí...?
+main_nakamura1:0.112	No, nada en particular.\nQuiero un trabajo.\n¿Cómo es Goshiro?
+main_nakamura1:0.114	¿Tanto le impresiona mi\nbelleza que no sabe qué decir?
+main_nakamura1:0.116	No hay prisa.\nMe gusta que la gente se tome\nsu tiempo conmigo...
+main_nakamura1:0.120	¡Entonces ha venido solo para\nverme a mí, pobre de mí!
+main_nakamura1:0.122	¡Qué maravilla!
+main_nakamura1:0.126	Ah, pensaba que quizá había\nvenido a verme...
+main_nakamura1:0.127	Bueno, pues...
+main_nakamura1:0.129	Si quiere trabajo, vaya a\npreguntarle al hombre de la puerta.
+main_nakamura1:0.132	¿Goshiro?\nEs recto como una flecha,\nsi me entiende...
+main_nakamura1:0.134	Pero a veces\nes demasiado recto.\nNo admite ningún compromiso.
+main_nakamura1:0.136	Sobre todo, tiende a\npasarse un poco\ncuando está de servicio.
+main_nakamura1:0.137	Y eso me pone\nnervioso...
+main_nakamura1:0.145	¡Hoy ha sido un día maravilloso!
+main_nakamura1:0.147	El hombre de la puerta\npuede tener algún trabajo para usted...
+main_nakamura1:0.149	Aunque es buen hombre,\neso sí...
+main_nakamura1:0.151	Tómese...su...tiempo.\n¿Sabe?
+main_nakamura1:0.156	Ah, hola.\n¿Querías algo de mí...?
+main_nakamura1:0.157	No, nada en particular.\nQuiero un trabajo.\n¿Quién es ese tal Yasuno?
+main_nakamura1:0.171	Ah, pensaba que quizá\nhabía venido a verme...
+main_nakamura1:0.177	¡Dios mío!\n¿Ya se ha topado con él?
+main_nakamura1:0.179	Lo ha puesto aquí el shogun,\nasí que hace prácticamente\nlo que le da la gana.
+main_nakamura1:0.181	Siempre me preocupa un poco\nque Goshiro pierda los estribos\ny lo ataque...
+main_nakamura1:0.182	Bien podría hacerlo, ¿sabe...?
+main_nakamura1:0.194	Hoy estoy un poco\nnervioso...
+main_nakamura1:0.201	Ese viejo asqueroso de Yasuno\npasa casi todo el tiempo\nen el restaurante.
+main_nakamura1:0.202	Si se pasa por allí esta noche,\nquizá lo encuentre...
+main_nakamura1:0.204	Debería dejar de hablar solo\nasí...
+main_nakamura1:0.207	Solo hablaba conmigo mismo...\nNo quería decir nada...
+main_nakamura1:0.209	Pero creo que Yasuno está\nllamado a encontrarse esta noche\ncon algún valiente samurái...
+main_nakamura1:0.214	Creo que Yasuno empieza\na sospechar de nosotros.
+main_nakamura1:0.215	Ya no pasa mucho tiempo\nen el restaurante que solía\nfrecuentar.
+main_nakamura1:0.217	Quizá hayamos perdido\nla oportunidad...
+main_nakamura1:0.221	¡Maldita sea!\n¡Estábamos tan cerca!
+main_nakamura1:0.226	¡Ay, si hubiera venido\nun poco antes!
+main_nakamura1:0.227	La redada contra la banda\nAoto ya ha terminado.
+main_nakamura1:0.229	Acabó en tablas...
+main_nakamura1:0.238	Me pregunto si algún ángel\nme ha oído hablar solo.
+main_nakamura1:0.239	Todavía hay esperanza\npara Amahara.
+main_nakamura1:0.243	Si consiguiéramos librarnos\nde Soma, Amahara sería\nmucho mejor...
+main_nakamura1:0.248	Ah, ha venido,\n%s.
+main_nakamura1:0.249	Yasuno ya no está, y el\nproblema de Soma está\nresuelto.
+main_nakamura1:0.250	Supongo que lo único que\nqueda es esa horrible\nbanda Aoto...
+main_nakamura1:0.252	¡Sí, por fin ha llegado la hora\nde llevar a cabo nuestra redada\ncontra la banda Aoto!
+main_nakamura1:0.253	Venga a la Magistratura\nmañana al amanecer.
+main_nakamura1:0.255	Hágalo por mí, ¿de acuerdo?
+main_nakamura1:1.6	Qué animado está hoy,\n%s.
+main_nakamura1:1.9	¿Quiere algo...?
+main_nakamura1:3.2	¡Dios mío!
+main_nakamura1:3.22	¡No!\n¡No puedo hacer esto!
+main_nakamura1:5.4	Si anda por ahí con eso a la vista,\nlo detendrán...
+main_nakamura1:7.7	Vaya, así que le van los\njuegos duros, ¿eh?
+main_nakamura1:8.9	Qué raro...\nTodo el cuerpo me arde\nde repente...
+main_nakamura_around1:0.45	Así que ha venido...
+main_nakamura_around1:0.47	Llevaba tiempo queriendo\nacercarme mucho a usted...
+main_nakamura_around1:0.52	Quiero decir en un combate,\npor supuesto...
+main_nakamura_around1:0.57	¡%s!\n¡Enemigo de los magistrados!
+main_nakamura_around1:0.62	Lo siento por esto...
+main_nakamura_around1:0.68	Vaya, ¿qué hace usted por ahí\na estas horas?
+main_nakamura_around1:0.70	Nada en particular.\n¿Y usted qué hace?
+main_nakamura_around1:0.76	¡Así que ha salido solo para\nverme a mí, pobre de mí!
+main_nakamura_around1:0.84	¿P-por qué...? Solo doy\nun paseo.\nEso es todo.
+main_nakamura_around1:0.86	Ah, %s.\n¿Qué hace usted por ahí\na estas horas?
+main_nakamura_around1:0.88	¿Adónde iba ahora...?
+main_nakamura_around1:2.7	Por fin le he encontrado.
+main_nakamura_around1:2.9	No puedo dejar que\nsiga viviendo.
+main_nakamura_around1:7.10	¡Ah, es usted!
+main_nakamura_around1:7.12	¿Es usted %s,\n¿no?!
+main_nakamura_around1:7.14	¡Eh!\n¿Qué está haciendo?!
+main_oboro1:0.30	No debería haberse\ninterpuesto en mi camino...
+main_oboro1:0.34	¡Me temo que tendrá\nque pagarlo con su vida!
+main_oboro1:2.5	¡Su vida me pertenece!
+main_oboro1:7.7	¿Quién demonios es usted?!
+main_sayo1:0.160	Aah. Ooh.
+main_sayo1:0.163	¡Oooh!
+main_sayo1:0.168	¡Ahh! ¡Ooh!
+main_sayo1:0.169	Ya te enseñaré luego.\n¿Qué estás diciendo?\n¡No me señales!
+main_sayo1:0.176	¡Ooh! ¡Ooh!
+main_sayo1:0.180	¡Ooh! ¡Aah!
+main_sayo1:0.199	Ooh...
+main_sayo1:0.202	Ooh.
+main_sayo1:0.210	Sayo....
+main_sayo1:0.212	Entiendo que te alegres,\npero no olvides que\nestamos ocupados.
+main_sayo1:0.215	Lo estás haciendo bien, Sayo.\nQué patético.\nNo me avergüences.
+main_sayo1:0.236	Te crees muy grande, pero\nella es mucho mejor persona que tú.
+main_sayo1:0.241	¡Se esfuerza al máximo\npara que te sientas orgulloso!
+main_sayo1:0.266	No estorbes a la gente.
+main_sayo1:0.268	Intenta decirte algo.
+main_sayo1:0.269	Estudia con mucho empeño.
+main_sayo1:0.281	Te protegeré.\n¿Quieres ir a ver a los yakuza?\n¿Tienes ganas de hacer pipí?
+main_sayo1:0.286	¡Ooh!
+main_sayo1:0.296	No deberías bromear\nasí...
+main_sayo1:0.300	Ooh. Ooh.
+main_sayo1:0.306	¿Quieres algo?\nSiento haberte hecho daño.\n¡Lárgate, me molestas!
+main_sayo1:0.307	Ooh.....  Ooooh.....
+main_sayo1:0.325	¡Aoooh.....!!
+main_sayo1:1.5	¿Ooh?
+main_sayo1sub:0.21	Me pregunto dónde podrá estar\nBeniya...
+main_sayo1sub:0.24	Vendo telas.
+main_sayo1sub:0.25	He venido a negociar con\nBeniya, el hombre de negocios\nmás importante de Amahara.
+main_sayo1sub:2.34	Te he dicho que quiero ver a Beniya,\njovencita. Vive en este pueblo, ¿no?
+main_sayo1sub:2.38	Hablar con ella no sirve de nada.\nBeniya está por allí.\nPruebe en otro sitio.
+main_sayo1sub:2.42	¡Bah, déjelo! Solo dice ahh ooh.\n¡No hay quien la entienda!
+main_sayo1sub:2.45	Lo mínimo que podría hacer\nes hablarme...
+main_sayo1sub:2.51	Hum.\nNo sirve de mucho, ¿verdad?
+main_sayo1sub:2.58	Ya veo.\nDisculpe las molestias.
+main_sayo1sub:2.61	Ooh. ¡Ooh!
+main_sayo1sub:2.65	Ah. Si usted lo dice,\nmi buen samurái.
+main_sayo1sub:2.68	Hmph.
+main_sayo1sub:5.3	Ooh... ¿Qué pasa?
+main_sayo1sub:5.4	Dame tu dinero.\nAh, nada.
+main_sayo1sub:5.5	Hmph.\nIntente no asustar\na la gente así.
+main_sayo1sub:5.14	¡Ay!\n¡Socorro!
+main_sayo1sub:7.6	¡Ladrón!!!
+main_shinobikusa1:0.30	El castigo para quienes no\ncumplen con su deber...
+main_shinobikusa1:0.34	¡es la muerte!
+main_shinobikusa1:2.5	¡Hora de morir!
+main_tsubohachi1:0.59	Eh, qué buena cara tienes,\namigo mío.
+main_tsubohachi1:0.61	¿Y ese pelo?
+main_tsubohachi1:0.63	Eh, qué buena cara tienes,\ncompañero.
+main_tsubohachi1:0.65	Eh, ¿te encuentras bien,\nchaval?
+main_tsubohachi1:0.67	Eh, guapo, ¿qué tal\nte va hoy?
+main_tsubohachi1:0.69	H-hola... eh...
+main_tsubohachi1:0.71	Eh, ¿no deberías estar\nen la escuela?
+main_tsubohachi1:0.73	Eh, forastero.\n¿Ya te acostumbras a Amahara?
+main_tsubohachi1:0.75	Eh, creo que te he visto la\ncara en algún sitio.
+main_tsubohachi1:0.79	Si estás libre, ¿por qué no\npruebas tu habilidad?
+main_tsubohachi1:0.80	Suena bien.\n¡Que vengan!\nYo paso.
+main_tsubohachi1:0.82	¿Eh?\n¿Te da miedo hablar?
+main_tsubohachi1:0.85	¡Bien!
+main_tsubohachi1:0.86	Si ganas, te daré\nun premio en dinero.
+main_tsubohachi1:0.88	Bastará...
+main_tsubohachi1:0.90	¿No?\nBueno, quizá la próxima vez.
+main_tsubohachi1:0.93	Si te sobra energía, ¿por qué\nno pruebas con un trabajo\nhonrado?
+main_tsubohachi1:0.97	Hace un momento has dado pena.
+main_tsubohachi1:0.98	¿Qué pasa?\n¿Quieres otra oportunidad?
+main_tsubohachi1:0.101	Eh, %s.\nQué buena cara tienes.
+main_tsubohachi1:0.115	¡Participar cuesta\n50 mon!
+main_tsubohachi1:0.119	¡Participar cuesta\n80 mon!
+main_tsubohachi1:0.123	¡Participar cuesta\n110 mon!
+main_tsubohachi1:0.127	¡Participar cuesta\n140 mon!
+main_tsubohachi1:0.131	¡Participar cuesta\n170 mon!
+main_tsubohachi1:0.135	¡Participar cuesta\n200 mon!
+main_tsubohachi1:0.139	¡Participar cuesta\n230 mon!
+main_tsubohachi1:0.143	¡Participar cuesta\n260 mon!
+main_tsubohachi1:0.147	¡Participar cuesta\n290 mon!
+main_tsubohachi1:0.151	¡Participar cuesta\n500 mon!
+main_tsubohachi1:0.154	Esta vez te enfrentarás a...
+main_tsubohachi1:0.244	¡Oemaru! Es amable pero\nfuerte, y muy metódico.
+main_tsubohachi1:0.246	¡Rakusui! Empeñó su espada\nfavorita para reunir dinero\npara su negocio.
+main_tsubohachi1:0.248	Parece mi guardaespaldas, pero\nen realidad ¡es el asesino Taronosuke!
+main_tsubohachi1:0.250	Un visitante del sur cuyo sueño\nes llegar a ser señor feudal...\n¡El Conde!
+main_tsubohachi1:0.252	¡Manju, el hombre misterioso!
+main_tsubohachi1:0.265	¡Has entregado 50 mon!
+main_tsubohachi1:0.268	¡Has entregado 80 mon!
+main_tsubohachi1:0.271	¡Has entregado 110 mon!
+main_tsubohachi1:0.274	¡Has entregado 140 mon!
+main_tsubohachi1:0.277	¡Has entregado 170 mon!
+main_tsubohachi1:0.280	¡Has entregado 200 mon!
+main_tsubohachi1:0.283	¡Has entregado 230 mon!
+main_tsubohachi1:0.286	¡Has entregado 260 mon!
+main_tsubohachi1:0.289	¡Has entregado 290 mon!
+main_tsubohachi1:0.292	¡Has entregado 500 mon!
+main_tsubohachi1:0.305	¡Oemaru! ¡Sal ya,\nOemaru!
+main_tsubohachi1:0.307	¡Rakusui! ¡Sal ya,\nRakusui!
+main_tsubohachi1:0.309	¡Taronosuke! ¡Sal ya,\nTaronosuke!
+main_tsubohachi1:0.311	¡El Conde! ¡Sal ya!
+main_tsubohachi1:0.313	¡Señor Manju! ¡Sal ya,\nseñor Manju!
+main_tsubohachi1:0.322	Si no prestas atención,\n¡puedes salir herido!
+main_tsubohachi1:0.324	Eh, ¿qué pasa?
+main_tsubohachi1:0.326	¿Estás bien?\nParece que vas perdiendo\nun poco de ritmo.
+main_tsubohachi1:0.328	¡Eh, no puedes\nsalir corriendo!
+main_tsubohachi1:0.333	¡Desde luego, eres\nmuy hábil!
+main_tsubohachi1:0.334	Úsalo para mejorar tu\narmamento. Puedes volverte\naún más fuerte.
+main_tsubohachi1:0.347	¡Has ganado 100 mon\nen premio!
+main_tsubohachi1:0.350	¡Has ganado 160 mon\nen premio!
+main_tsubohachi1:0.353	¡Has ganado 220 mon\nen premio!
+main_tsubohachi1:0.356	¡Has ganado 280 mon\nen premio!
+main_tsubohachi1:0.359	¡Has ganado 340 mon\nen premio!
+main_tsubohachi1:0.362	¡Has ganado 400 mon\nen premio!
+main_tsubohachi1:0.365	¡Has ganado 460 mon\nen premio!
+main_tsubohachi1:0.368	¡Has ganado 520 mon\nen premio!
+main_tsubohachi1:0.371	¡Has ganado 580 mon\nen premio!
+main_tsubohachi1:0.374	¡Has ganado 1000 mon\nen premio!
+main_tsubohachi1:0.379	Eres muy hábil, como\nesperaba, %s.
+main_tsubohachi1:0.384	¡Eres fuerte!\nMe encantaría que te unieras\na mis hombres.
+main_tsubohachi1:0.385	No, gracias.\nMe encantaría.\nPelea conmigo la próxima vez.
+main_tsubohachi1:0.387	Sí, lo imaginaba.\nEncaja con tu carácter...
+main_tsubohachi1:0.391	Por desgracia, ahora no tengo\nninguna plaza libre.
+main_tsubohachi1:0.395	Rakusui parece haber\ndesaparecido por algún motivo.
+main_tsubohachi1:0.397	Pero seguimos siendo amigos.\nTodos lo buscan. ¿Dónde\npuede estar?
+main_tsubohachi1:0.400	¿Eh? Aún no estás\npreparado para mí...
+main_tsubohachi1:0.403	¡Quizá cuando crezca un poco!
+main_tsubohachi1:0.405	¡Eres fuerte, %s!\nMe encantaría contratarte.
+main_tsubohachi1:1.5	¿Buscas pelea?
+main_tsubohachi1:3.4	¡No peleen delante de mí!
+main_tsubohachi1:5.4	¡Eh, ¿quieres pelea?!
