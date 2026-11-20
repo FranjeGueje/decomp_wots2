@@ -1,0 +1,214 @@
+# 32_normal: vecinos y gente corriente de Amahara (normal_priest_c, normal_pupil_a, normal_pupil_yard_a). El monje (normal_priest_c) habla de usted al protagonista; los alumnos del dojo (normal_pupil_a, normal_pupil_yard_a), de tú, como news_pupil4 y news_pupil5. Frases repetidas en otras tareas con neutral (De acuerdo, No me haga caso..., ¡Déjame ayudar!).
+# ===== tarea normal_priest_c =====
+normal_priest_c:0.45	Escuche,\n%s...
+normal_priest_c:0.46	Una nube negra está a punto\nde cubrir este pueblo...
+normal_priest_c:0.47	Morirá mucha gente...
+normal_priest_c:0.51	Si hay alguien a quien quiera\nproteger, quédese a su lado...
+normal_priest_c:0.55	La codicia excesiva puede\nhacer que uno pierda de vista\nel verdadero camino...
+normal_priest_c:0.56	No se deje distraer\npor el mundo material.
+normal_priest_c:0.60	No soy codicioso... Solo quiero\nun poco de ofrenda\npara un pobre monje...
+normal_priest_c:0.65	Hm... %s...
+normal_priest_c:0.66	Parece que algo le preocupa.
+normal_priest_c:0.67	Cuénteme.
+normal_priest_c:0.70	No tengo preocupaciones.\nTengo problemas de dinero.\nAnímeme.
+normal_priest_c:0.71	¿No quiere hablar de ello?
+normal_priest_c:0.72	Está bien.
+normal_priest_c:0.74	¡No debe ignorarlas!
+normal_priest_c:0.79	Entonces, tome esto...
+normal_priest_c:0.82	Has recibido 10 mon.
+normal_priest_c:0.83	Tenemos que ayudarnos\nunos a otros.
+normal_priest_c:0.85	Ahora, váyase.
+normal_priest_c:0.89	Apriete los dientes...
+normal_priest_c:0.90	¡Hiyaaaa!
+normal_priest_c:0.99	Dicen que un verdadero\nsamurái corta corazones,\nno personas.
+normal_priest_c:0.101	Pero ¿qué es lo que corta?
+normal_priest_c:0.103	Corazones malvados.\n¡Usted!\nNo lo entiendo.
+normal_priest_c:0.106	Un samurái encuentra el\nverdadero camino reflexionando\nmucho y con calma.
+normal_priest_c:0.108	¿Ni siquiera quiere escucharme?\nAún le queda mucho\ncamino por recorrer.
+normal_priest_c:0.112	Si lo hubiera sabido antes...
+normal_priest_c:0.115	No pudo matarme...
+normal_priest_c:0.118	Quizá esto haya sido\ndemasiado para usted...
+normal_priest_c:0.126	¡Hiyaaaaaaa!!!
+normal_priest_c:0.129	No me haga caso...
+normal_priest_c:0.133	%s?\n¿Es usted?
+normal_priest_c:0.135	¿Perdone, quién es usted?\nNo le conozco.\nVáyase.
+normal_priest_c:0.137	Nos enfrentamos el otro día\ny perdí.
+normal_priest_c:0.138	Pensé que moriría, pero por\nsuerte logré salir adelante...
+normal_priest_c:0.139	Pero su ataque me despertó.
+normal_priest_c:0.140	He decidido hacerme monje\ny viajar en busca de la iluminación.
+normal_priest_c:0.142	Gracias,\n%s.
+normal_priest_c:0.145	¡Espere, no se vaya,\n%s!
+normal_priest_c:0.147	No soy un extraño...\n¡Espere!
+normal_priest_c:0.152	Mi combate con usted\nperdurará en mi memoria,\n%s.
+normal_priest_c:0.157	Mirar al cielo y contemplar\nlas nubes puede ser interesante.
+normal_priest_c:0.159	Por cierto,\n%s...
+normal_priest_c:0.160	¿No le gustaría escuchar\nlos espléndidos sonidos de\nmi flauta shakuhachi?
+normal_priest_c:0.162	Lo siento, estoy ocupado.\nPor favor, toque.
+normal_priest_c:0.163	¿No le gusta la música\nde flauta?
+normal_priest_c:0.165	Qué pena.\nQuizá la próxima vez.
+normal_priest_c:0.167	Cuesta 5000 mon.\n¿Le parece bien?
+normal_priest_c:0.168	Por favor, toque.\n¿Está de broma?
+normal_priest_c:0.169	¡Vale cada mon!
+normal_priest_c:0.174	L-lo siento. No sé ni\ntocar la flauta.
+normal_priest_c:0.175	Y no creí que llevara\n5000 mon encima.
+normal_priest_c:0.177	Tenga, le doy 100 mon\npara que se olvide de todo.
+normal_priest_c:0.178	No necesito su dinero.\nGracias.
+normal_priest_c:0.180	Es usted una buena persona.
+normal_priest_c:0.186	Has recibido 100 mon.
+normal_priest_c:0.190	No tienes suficiente dinero.
+normal_priest_c:0.191	No parece tener\nsuficiente dinero.
+normal_priest_c:0.199	Hace un gran trabajo\npor el bien de Amahara.
+normal_priest_c:0.200	Permítame darle\nun buen consejo.
+normal_priest_c:0.201	Puede que se sienta fuerte\nandando con esa espada al cinto,
+normal_priest_c:0.202	pero la verdadera fuerza no\nviene de las espadas ni de\nlas técnicas de combate...
+normal_priest_c:0.203	¡La verdadera fuerza viene de\ndominarse a uno mismo!
+normal_priest_c:0.205	¡Recuérdelo!\n¡No tome el camino equivocado!
+normal_priest_c:0.209	Siga.
+normal_priest_c:0.210	No encontrará la\nrespuesta quedándose aquí.
+normal_priest_c:0.213	No se preocupe. Va\npor buen camino.
+normal_priest_c:0.219	No se llega a ser un verdadero\nsamurái solo por matar.
+normal_priest_c:0.220	Vivir y morir...
+normal_priest_c:0.221	Dejar vivir a unos\nmientras se mata a otros.
+normal_priest_c:0.222	No hasta que comprenda\nplenamente este ciclo\nde la vida...
+normal_priest_c:0.224	Entonces podrá considerarse\nun verdadero samurái.
+normal_priest_c:0.228	¡No se crea más de lo que es!
+normal_priest_c:0.237	No debe matar...
+normal_priest_c:0.238	Sean cuales sean\nsus creencias...
+normal_priest_c:0.242	Valorar la vida...\n¡Es muy fácil!
+# ===== tarea normal_pupil_a =====
+normal_pupil_a:0.62	¿Te enseño lo de las paradas?
+normal_pupil_a:0.64	¿Nada mejor que hacer?\nSí, por favor.\nNo, te enseño yo a ti.
+normal_pupil_a:0.67	Bueno, no diría yo eso\nexactamente...
+normal_pupil_a:0.70	De acuerdo.
+normal_pupil_a:0.72	La parada consiste en romper la\npostura de combate del rival...
+normal_pupil_a:0.73	cuando te has defendido de uno\nde sus ataques.
+normal_pupil_a:0.74	Si el ataque es vertical, empujas\nhacia el enemigo...
+normal_pupil_a:0.75	y si es horizontal,\nempujas hacia ti.
+normal_pupil_a:0.77	Si te fijas bien en las estelas\nque dejan las armas,\nverás la diferencia.
+normal_pupil_a:0.82	Bueno, al menos hablas\ncomo un profesional...
+normal_pupil_a:0.84	Practica las paradas\ntodos los días.
+normal_pupil_a:0.86	Oye, %s,\n¿te enseño lo de las paradas?
+normal_pupil_a:0.92	Se nota que quieres saber\nde los ataques letales, ¿verdad?
+normal_pupil_a:0.94	No especialmente.\nEnséñame, por favor.\n¿Quieres que te pruebe uno?
+normal_pupil_a:0.97	Creo que me equivoqué.
+normal_pupil_a:0.102	Cuando la postura de tu rival\nse rompe, ¡esa es tu oportunidad!
+normal_pupil_a:0.103	Hay dos formas de romper\nposturas: rompedefensas\ny paradas.
+normal_pupil_a:0.104	Una vez rota su postura, solo\ntienes que atacarle una vez.
+normal_pupil_a:0.106	A no ser que sea muy fuerte,\n¡acabará criando malvas!
+normal_pupil_a:0.111	...¡Ese es el espíritu!
+normal_pupil_a:0.113	El esfuerzo constante\nal final da sus frutos...
+normal_pupil_a:0.121	Hay una relación entre las\nparadas y los golpes letales...
+normal_pupil_a:0.123	No me interesa.\nCuéntame más...\nDa igual.
+normal_pupil_a:0.126	¿De verdad?\nNo es nada de lo que avergonzarse.
+normal_pupil_a:0.131	Puedes romper la postura de tu\nrival parando su ataque.
+normal_pupil_a:0.132	Pero hay paradas buenas\ny malas.
+normal_pupil_a:0.133	No debes empezar la parada antes\nde recibir el ataque enemigo.
+normal_pupil_a:0.134	La mejor parada se inicia justo\ncuando el enemigo te alcanza.
+normal_pupil_a:0.135	Si paras así, hacer un golpe\nletal no será ningún problema.
+normal_pupil_a:0.137	Las malas paradas a veces no\nte permiten dar un golpe letal.
+normal_pupil_a:0.142	No seas tan indeciso.
+normal_pupil_a:0.144	Entrenar nunca viene mal.
+normal_pupil_a:0.152	¿Sabes cuál es el secreto para\nsobrevivir al ataque de varios\nrivales a la vez?
+normal_pupil_a:0.154	Lo sé.\nDime, por favor.\n«Huir.» ¿Verdad?
+normal_pupil_a:0.157	Ya veo. Entonces no hace falta\nque te lo diga.
+normal_pupil_a:0.162	El secreto para sobrevivir a un\nataque en grupo está en cómo paras\ntodos los ataques.
+normal_pupil_a:0.163	Tienes que parar el ataque de un\nenemigo mientras vigilas al siguiente.
+normal_pupil_a:0.164	Pero los ataques de un grupo\nson más sencillos que los de\nun enemigo solo.
+normal_pupil_a:0.165	Vigila a tu rival mientras\nte ataca.
+normal_pupil_a:0.167	Quizá notes cosas que\nnormalmente no verías...
+normal_pupil_a:0.172	¡¿Cómo no se me ocurrió antes?!
+normal_pupil_a:0.174	Tienes que pensar bien,\nincluso durante una pelea.
+normal_pupil_a:0.182	¿Alguna vez te has preguntado\npara qué usas esa espada?
+normal_pupil_a:0.184	Por la justicia, claro.\nPara proteger a los débiles.\nLas espadas no sirven de nada.
+normal_pupil_a:0.186	No es una pregunta fácil\nde responder.
+normal_pupil_a:0.189	Ya veo...\nUn samurái vive y muere\npor la justicia.
+normal_pupil_a:0.192	Entonces, proteger a los débiles\nes la misión del samurái... Ya veo.
+normal_pupil_a:0.195	¡¿De verdad?! Entonces, ¿cómo\ndebería ser el verdadero camino\ndel samurái...?
+normal_pupil_a:0.197	¿No crees que cada vez es más\ndifícil vivir como samurái?
+normal_pupil_a:0.199	¿Alguna vez te has preguntado\npara qué usas esa espada, %s?
+normal_pupil_a:0.207	Tengo información interesante sobre\nla lista de técnicas de espada...
+normal_pupil_a:0.209	Díselo a alguien que le importe.\nDímelo, por favor.\nNada de información falsa, por favor.
+normal_pupil_a:0.212	Hmph. Ya veo.\nPerdona la molestia.
+normal_pupil_a:0.217	Esto quizá ya lo sepas, pero\nalgunas técnicas están\nescritas en azul.
+normal_pupil_a:0.218	Eso quiere decir que la pausa\ntras ejecutar el movimiento\nes muy corta.
+normal_pupil_a:0.219	Dicho de otro modo, puedes hacer\notro movimiento justo después\nde uno azul.
+normal_pupil_a:0.222	Algunos movimientos amarillos\nsolo pueden seguirse con\nciertos movimientos.
+normal_pupil_a:0.223	Y otros te permiten empezar\nrápido a defender o a saltar.
+normal_pupil_a:0.225	Hay muchos tipos, así que\nrecuerda probarlos.
+normal_pupil_a:0.230	Escuchar no cuesta nada...
+normal_pupil_a:0.232	Conocer las técnicas te permite\nmejorar tus habilidades de combate.
+normal_pupil_a:0.240	¿Te interesa un buen cotilleo\nde la lista de técnicas de espada?
+normal_pupil_a:0.242	No, gracias.\nDímelo, por favor.\n¿Nada mejor que hacer?
+normal_pupil_a:0.245	Ya veo... Qué pena.
+normal_pupil_a:0.250	En la lista de técnicas hay algunas\ncuyos bordes siguen en amarillo.
+normal_pupil_a:0.251	Estos movimientos pueden\ndesarrollarse todavía más...
+normal_pupil_a:0.252	Tenía movimientos así, pero el otro\ndía uno de ellos cambió...
+normal_pupil_a:0.254	¡El enemigo al que atacaba salió\nvolando como ninguno que hubiera visto!
+normal_pupil_a:0.255	Ahí fue cuando entendí el verdadero\nvalor del entrenamiento.
+normal_pupil_a:0.260	No... Estoy muy ocupado,\nde verdad...
+normal_pupil_a:0.262	Te digo que estoy muy ocupado.
+normal_pupil_a:0.264	Dominar las técnicas de combate\nes el secreto para dominar tu espada.
+normal_pupil_a:1.15	¡¿Ni siquiera una disculpa?!
+normal_pupil_a:1.21	¿Has venido a desafiar al maestro?!
+normal_pupil_a:1.51	Dudo que sea muy buen\nrival...
+normal_pupil_a:1.57	Estoy perdido...
+normal_pupil_a:2.13	¡Tú...!
+normal_pupil_a:2.17	¡Prueba mi espada!
+normal_pupil_a:3.13	¡Déjame ayudar!
+normal_pupil_a:3.15	¡Esto es entrenamiento!
+normal_pupil_a:3.17	¿Estás entrenando\npara una pelea de verdad?
+normal_pupil_a:3.19	¡Me muero de ganas de luchar!
+normal_pupil_a:5.17	¿Eres un retador?!
+normal_pupil_a:5.21	¡Un retador!
+normal_pupil_a:7.19	¿Me estás retando?!
+normal_pupil_a:7.21	¡Te enseñaré!
+normal_pupil_a:7.23	¿Eres un r-retador?!
+# ===== tarea normal_pupil_yard_a =====
+normal_pupil_yard_a:0.81	¿Qué hace una escoria como tú\nen nuestro sagrado dojo?
+normal_pupil_yard_a:0.82	Estás interrumpiendo\nnuestro entrenamiento.\n¡Lárgate!
+normal_pupil_yard_a:0.84	...Pensándolo mejor...
+normal_pupil_yard_a:0.87	¡Te mataré yo mismo!
+normal_pupil_yard_a:0.91	Este no es lugar para\nun ronin pobretón como tú.
+normal_pupil_yard_a:0.92	Al menos, esa es\nmi primera impresión.
+normal_pupil_yard_a:0.94	Pero si de verdad te interesa\nmejorar tus habilidades... bienvenido.
+normal_pupil_yard_a:0.98	No tienes las cualificaciones\npara entrar en el dojo de Amahara.
+normal_pupil_yard_a:0.99	Pero no podemos rechazar a nadie\nque de verdad quiera superarse...
+normal_pupil_yard_a:0.103	Últimamente he oído mucho de ti.\nLo haces bien para ser forastero.
+normal_pupil_yard_a:0.104	Puedes usar el dojo para\nentrenarte para lo que venga.
+normal_pupil_yard_a:0.108	¿Qué tal te va el trabajo?\nDicen que eres un trabajador\nrápido y eficaz.
+normal_pupil_yard_a:0.109	Quizá puedas practicar combates\ncon nuestros alumnos algún día...
+normal_pupil_yard_a:0.113	Todo el pueblo confía en ti.
+normal_pupil_yard_a:0.114	¿Vienes a entrenar otra vez hoy?\nA nuestros alumnos les encanta\ncuando vienes...
+normal_pupil_yard_a:0.116	Enséñales una cosa\no dos sobre combate.
+normal_pupil_yard_a:0.120	¡Es un honor tenerte aquí!
+normal_pupil_yard_a:0.122	El maestro te espera.\n¡Pasa, pasa!
+normal_pupil_yard_a:0.130	Vi entrar a un tatuador\nen casa de Kasumi.
+normal_pupil_yard_a:0.132	Sabía que esto pasaría\nalgún día...
+normal_pupil_yard_a:0.133	Una mujer solo se tatúa\ncuando ha tomado una decisión\nmuy importante.
+normal_pupil_yard_a:0.135	Eres amigo de ella, ¿no?\nAyúdala.
+normal_pupil_yard_a:0.139	El viejo jefe de la banda me\nsacó de apuros muchas veces...
+normal_pupil_yard_a:0.141	Y, por supuesto, conozco a Kasumi\ndesde que era una niña pequeña.
+normal_pupil_yard_a:0.142	Estoy un poco preocupado...
+normal_pupil_yard_a:0.151	Por desgracia, no puedo hacer nada\npara ayudarla...
+normal_pupil_yard_a:0.158	Creo que Kasumi te espera\ndelante de la sede de la banda Aoto.
+normal_pupil_yard_a:0.160	Sabía que este día llegaría,\ntarde o temprano...
+normal_pupil_yard_a:0.162	¡Por favor, ayuda a Kasumi!
+normal_pupil_yard_a:0.169	Es una buena chica...
+normal_pupil_yard_a:0.170	Hazla feliz...
+normal_pupil_yard_a:0.176	Odio tener que pedirte nada...
+normal_pupil_yard_a:0.178	Pero, por favor, intenta\nayudarla.
+normal_pupil_yard_a:0.184	¡A Kasumi la han capturado\nla banda Aoto!
+normal_pupil_yard_a:0.185	...Pero no puedo hacer nada\npara ayudarla...
+normal_pupil_yard_a:0.187	Estoy... impotente...
+normal_pupil_yard_a:0.196	Supongo que Amahara ya está\nen las garras de Hanzaemon...
+normal_pupil_yard_a:0.197	Kasumi nunca se recuperará\nde esto.
+normal_pupil_yard_a:0.199	¿Por qué tuvo que pasar esto?
+normal_pupil_yard_a:0.208	Parece que Kasumi se hará\ncargo de la banda Aoto como jefa.
+normal_pupil_yard_a:0.209	Pensar que una joven tan delicada\npudiera vencer a Hanzaemon...
+normal_pupil_yard_a:0.211	Tiene la sangre de su padre.
+normal_pupil_yard_a:0.217	Tengo que darte las gracias,\n%s...
+normal_pupil_yard_a:0.220	Supongo que debería\ndarte las gracias...
+normal_pupil_yard_a:0.223	¡Muchísimas gracias,\n%s!
+normal_pupil_yard_a:1.5	La entrada está\npor allí...
+normal_pupil_yard_a:3.2	¡Nada de peleas\ndelante del dojo!
+normal_pupil_yard_a:5.3	¡¿Quieres pelear conmigo?!
