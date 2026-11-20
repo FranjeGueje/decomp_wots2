@@ -1,0 +1,247 @@
+# 29_normal: vecinos y gente corriente de Amahara (normal_dutiful_assi_a, normal_gambler_a, normal_gossip_a, normal_gossip_assi_a, normal_gyosho_a). Usted al protagonista; el jugador de azar y el vendedor ambulante, de usted. Frases repetidas en otras tareas con neutral (Espera..., Ya no puedo más..., ¡Oh, %s...!).
+normal_dutiful_assi_a:0.19	¡Ah, qué aire!\nQué gusto estar\nal aire libre.
+normal_dutiful_assi_a:0.21	He estado enfermo en la\ncama hasta hace poco.
+normal_dutiful_assi_a:0.22	Pero ya estoy lo bastante\nbien para salir.
+normal_dutiful_assi_a:0.24	También podré reanudar\nmis entrenamientos\nde esgrima.
+normal_dutiful_assi_a:0.25	No soy samurái, pero puedo\nproteger a la gente\nque me importa.
+normal_dutiful_assi_a:0.27	O eso espero, al menos.
+normal_dutiful_assi_a:0.31	Por cierto, mi hija me ha\ncontado que había un\nsamurái...
+normal_dutiful_assi_a:0.32	que se preocupó por mí\ntodo el tiempo que\nestuve enfermo.
+normal_dutiful_assi_a:0.33	Me gustaría conocerle.
+normal_dutiful_assi_a:0.35	Me gustaría tener una buena\nconversación de hombre a\nhombre con él.
+normal_gambler_a:0.52	¿Esto es Amahara?
+normal_gambler_a:0.54	Es la primera vez que vengo,\npero este pueblo tiene un\nambiente extraño...
+normal_gambler_a:0.55	La gente tiene\nla mirada apagada.
+normal_gambler_a:0.61	Me da mala espina\neste sitio...
+normal_gambler_a:0.65	He oído que un samurái\nllamado %s...
+normal_gambler_a:0.67	anda haciendo grandes cosas\naquí, en Amahara.
+normal_gambler_a:0.68	He venido a ver qué clase\nde persona es...
+normal_gambler_a:0.75	ha detenido a muchos\ndelincuentes últimamente.
+normal_gambler_a:0.76	He venido a ver qué clase\nde persona es...
+normal_gambler_a:0.83	ha andado por el pueblo\nsembrando el caos.
+normal_gambler_a:0.87	Parece que usted también\nes samurái...
+normal_gambler_a:0.89	Pero... no, desde luego no\nparece la persona de la\nque oí hablar.
+normal_gambler_a:0.93	Me pregunto dónde\npodrá estar...
+normal_gambler_a:0.98	Recorro el país en busca de\ncomidas deliciosas.
+normal_gambler_a:0.101	Dicen que la especialidad\nde Amahara es un plato\nllamado Soma.
+normal_gambler_a:0.103	Me pregunto a qué sabrá...
+normal_gambler_a:0.106	Mañana debería despejar...
+normal_gambler_a:0.108	Tras tanto viajar, he\naprendido a leer el cielo.
+normal_gambler_a:0.112	Aún debería despejar\nun buen rato...
+normal_gambler_a:0.117	He pasado por muchos\npueblos en mi vida...
+normal_gambler_a:0.119	Pero ninguno ha sido\ntan duro como Amahara...
+normal_gambler_a:0.123	Debería salir de este pueblo\ncuanto antes...
+normal_gambler_a:0.128	¿Por qué viajo?
+normal_gambler_a:0.130	Porque hay un camino.
+normal_gambler_a:0.135	¿Por qué es usted samurái?
+normal_gambler_a:0.138	Porque existe el mal.\nPorque hay guerra.\nPorque hay un camino.
+normal_gambler_a:0.139	Piénselo bien...
+normal_gambler_a:0.144	Así que usa la espada para\ncombatir las fuerzas del mal...
+normal_gambler_a:0.145	¡Es magnífico!
+normal_gambler_a:0.148	Así que ha nacido para\nluchar, ¿eh?
+normal_gambler_a:0.149	¡Qué inspirador!
+normal_gambler_a:0.152	Ah, ¿se refiere al\n«camino del samurái», eh?
+normal_gambler_a:0.153	Qué profundo...
+normal_gambler_a:0.158	Yo seguiré con mi\nviaje.
+normal_gambler_a:0.159	Usted siga su viaje\ncomo samurái.
+normal_gambler_a:0.161	Seguro que habrá muchos\nbaches por el camino...
+normal_gambler_a:0.163	¡Pero los dos llegaremos\nal final del camino\nalgún día!
+normal_gambler_a:0.169	¡Vaya pueblo!
+normal_gambler_a:0.171	¡No llevaba media hora aquí\ny ya me habían robado\nel dinero!
+normal_gambler_a:0.174	¡Y esos magistrados\nholgazanes!
+normal_gambler_a:0.176	¡Me han robado!
+normal_gambler_a:0.177	¡Deberían hacer algo\nal respecto!
+normal_gambler_a:0.184	Amahara...
+normal_gambler_a:0.186	Es un lugar bastante bonito.
+normal_gambler_a:0.189	Sí, es un buen pueblo.
+normal_gambler_a:0.194	Este pueblo se está\nmuriendo.
+normal_gambler_a:0.196	Usted es viajero. Seguro\nque lo entiende.
+normal_gambler_a:0.197	No hay vida en este pueblo\ncomparado con otros\nlugares que he visto.
+normal_gambler_a:0.201	Me iré pronto...
+normal_gambler_a:0.204	¿Es usted %s,\nde quien tanto he oído hablar?
+normal_gambler_a:0.206	Hace un rato le pregunté a\nun crío por el camino, y\nme dijo...
+normal_gambler_a:0.207	que usted era el orgullo\nde Amahara.
+normal_gambler_a:0.210	Es muy popular.\n¡Qué envidia!
+normal_gambler_a:0.216	Las cosas están bastante\nfeas por aquí...
+normal_gambler_a:0.218	Este pueblo tiene problemas.
+normal_gambler_a:0.219	Hay tantos\nproblemas aquí...
+normal_gambler_a:0.222	Por cierto, ¿quién es usted?
+normal_gambler_a:0.224	No parece un samurái\ncualquiera...
+normal_gambler_a:0.226	Tiene algo distinto\nen la cara...
+normal_gambler_a:0.229	¡Pues esfuércese!
+normal_gambler_a:0.233	Llegué a Amahara\nhace unos días.
+normal_gambler_a:0.235	Cuando me desplomé junto a\nla Puerta Otemon...
+normal_gambler_a:0.236	una niña salió de la nada...
+normal_gambler_a:0.237	y me dio parte de\nsu bola de arroz.
+normal_gambler_a:0.240	«¿Qué miras? ¡Lárgate!»,\nle dije.
+normal_gambler_a:0.242	Y la espanté.
+normal_gambler_a:0.243	Me pregunto qué\nhabrá sido de ella...
+normal_gambler_a:0.258	Soy el viento.
+normal_gambler_a:0.259	No hable con el viento.
+normal_gambler_a:0.263	Déjeme en paz.
+normal_gambler_a:0.267	Creo que me quedaré en\neste pueblo un tiempo.
+normal_gambler_a:0.269	Hay que trabajar para\nvivir, ¿verdad?
+normal_gambler_a:0.270	¿Hay algún sitio por aquí\ndonde pueda encontrar\ntrabajo?
+normal_gambler_a:0.272	Pruebe en la posada Amakaze.\nPruebe en la Magistratura.\nPruebe con la banda Aoto.
+normal_gambler_a:0.273	Encontrar trabajo en este\npueblo no es fácil...
+normal_gambler_a:0.277	¿La posada Amakaze?\nLo probaré.
+normal_gambler_a:0.282	¿La Magistratura?\nLo probaré.
+normal_gambler_a:0.283	Muchas gracias.
+normal_gambler_a:0.287	¿La banda Aoto?\nEntendido.
+normal_gambler_a:0.288	Me ha sido de gran ayuda.
+normal_gambler_a:0.291	Iré enseguida.
+normal_gambler_a:0.293	Veré qué encuentro.
+normal_gambler_a:0.299	Vuelvo a Amahara después de\ntres años...
+normal_gambler_a:0.301	¿Qué le ha pasado\na este pueblo?
+normal_gambler_a:0.302	El olor a sangre\nlo invade todo.
+normal_gambler_a:0.306	Cuesta creer que el buen\nviejo jefe de la banda Aoto\npermita esto.
+normal_gambler_a:0.307	¿No le habrá pasado algo\nal viejo jefe yakuza?!
+normal_gambler_a:0.314	Parece que la sombra que\ncubría Amahara se está\ndisipando.
+normal_gambler_a:0.316	Poco a poco, la vida\nvuelve a este pueblo.
+normal_gambler_a:0.317	Todo se debe a cierto\nsamurái...
+normal_gambler_a:0.322	Bueno, una vez que se empieza\nalgo...
+normal_gambler_a:0.323	hay que llevarlo\nhasta el final.
+normal_gambler_a:0.326	Todos le están mirando.
+normal_gambler_a:0.328	¡Tiene que demostrarles\nlo que es un samurái\nde verdad!
+normal_gambler_a:0.330	A su manera.
+normal_gambler_a:1.15	¡Ay!
+normal_gambler_a:1.17	Perdón. Perdón.
+normal_gambler_a:7.17	No, no, no, no...
+normal_gambler_a:7.19	¡Estoy harto de pelear!
+normal_gambler_a:7.21	¡Es igual que\ntodos los demás!
+normal_gambler_a:7.74	Acabemos con\neste disparate...
+normal_gambler_a:7.76	Espera...
+normal_gambler_a:7.78	Ya no puedo más...
+normal_gambler_a:7.80	Alguien podría salir\nherido...
+normal_gossip_a:0.115	Qué pena lo del muchacho\nde Amakaze.
+normal_gossip_a:0.119	¿Verdad que sí?
+normal_gossip_a:0.125	Qué pena.
+normal_gossip_a:0.130	Hoy en día todo es\ntan violento.
+normal_gossip_a:0.131	¡Sobre todo\n%s!
+normal_gossip_a:0.132	Pues, por lo que me cuentan...
+normal_gossip_a:0.133	¡Roban, atacan a las mujeres\ny matan a la gente a la\nmínima!
+normal_gossip_a:0.137	Qué miedo...
+normal_gossip_a:0.143	¿Adónde vamos\na parar?
+normal_gossip_a:0.148	¿Ha oído lo de la mujer\nque se mudó aquí al lado?
+normal_gossip_a:0.149	¡Dicen que manda en casa\ncon mano de hierro!
+normal_gossip_a:0.150	Y yo creía que mandaba\nsu marido.
+normal_gossip_a:0.154	Quién lo diría...
+normal_gossip_a:0.160	No se puede juzgar a la gente\npor su aspecto.
+normal_gossip_a:0.165	Las verduras están carísimas\ny en las tiendas no hay\nbuena comida.
+normal_gossip_a:0.166	Amahara no era así\nantes.
+normal_gossip_a:0.167	¿Se podrá hacer\nalgo al respecto?
+normal_gossip_a:0.171	Si al menos mejorase\nla economía...
+normal_gossip_a:0.177	Ojalá alguien ayudara\na mejorar la economía.
+normal_gossip_a:0.182	Oiga, ¿lo ha oído?
+normal_gossip_a:0.183	Esa mujer que se mudó\naquí al lado...
+normal_gossip_a:0.184	¡Se metió en la pelea de la\nfiesta y ayer murió!
+normal_gossip_a:0.194	¡Los magistrados y los yakuza\nestán podridos los dos!
+normal_gossip_a:0.200	Oiga, ¿qué fue de aquel\nchico simpático de la Magistratura?
+normal_gossip_a:0.201	Dicen que se enredó con esa\nmedicina de la que habla todo el mundo.
+normal_gossip_a:0.202	¿Por qué iba a hacer\nalgo así?
+normal_gossip_a:0.206	Quizá tenga problemas\nen el trabajo.
+normal_gossip_a:0.212	Pero huir de la realidad\nno es bueno...
+normal_gossip_a:0.219	Sabe, hace un tiempo...
+normal_gossip_a:0.220	Había una mujer guapísima\nplantada delante de esa casa.
+normal_gossip_a:0.221	Supongo que la persona\nque esperaba nunca llegó.
+normal_gossip_a:0.225	Quizá la dejaron plantada.
+normal_gossip_a:0.231	Qué pena, pero esas cosas\npasan cuando uno es joven.
+normal_gossip_a:0.239	Oiga, ¿es usted\n%s?
+normal_gossip_a:0.241	Esa chica, ¿cómo se llamaba...?
+normal_gossip_a:0.243	¡Kasumi, eso es!\nEstá esperando delante del\ncuartel de los Aoto.
+normal_gossip_a:0.247	¿Por fin va a hacerlo?
+normal_gossip_a:0.253	¡Acabe con Hanzaemon\npor nosotros!
+normal_gossip_a:0.262	La pequeña Sayo estuvo\nesperando delante de esa casa\nmucho rato.
+normal_gossip_a:0.273	De verdad quería ir\na la fiesta.
+normal_gossip_a:0.280	Hace un rato un matón me\npreguntaba por la pequeña Sayo.
+normal_gossip_a:0.281	Era muy pesado...
+normal_gossip_a:0.283	¡Así que al final le di un\nempujón para quitármelo\nde encima!
+normal_gossip_a:0.287	¡Vaya genio tiene usted!
+normal_gossip_a:0.293	Pero me pregunto qué querrán\nlos yakuza de Sayo...
+normal_gossip_a:0.300	La pequeña Sayo se fue\ncon Beniya hace un rato.
+normal_gossip_a:0.301	La echaré de menos\npor aquí...
+normal_gossip_a:0.302	Pero supongo que es\nlo mejor.
+normal_gossip_a:0.306	¡Sí, y es rico también!
+normal_gossip_a:0.318	No ha visto a la pequeña\nSayo por aquí últimamente,\n¿verdad?
+normal_gossip_a:0.319	Me pregunto si estará\nenferma o algo...
+normal_gossip_a:0.323	Sí, me pregunto adónde habrá ido...
+normal_gossip_a:0.329	¿No la habrán secuestrado?!
+normal_gossip_a:0.335	Lo de la fiesta fue\nterrible, ¿verdad?
+normal_gossip_a:0.337	Y la pequeña sin nombre\nmurió en la pelea.
+normal_gossip_a:0.338	Qué horror.
+normal_gossip_a:0.348	¡Era tan joven!
+normal_gossip_a:0.352	Y la pequeña Sayo murió\nen la pelea.
+normal_gossip_a:5.3	¡Tengo que largarme!!
+normal_gossip_assi_a:0.47	Asesino....
+normal_gossip_assi_a:0.51	Usted... Voy a decirlo\nsin rodeos...
+normal_gossip_assi_a:0.54	¡Sí! ¡Eso es!\n¡Es usted un bicho!
+normal_gossip_assi_a:0.55	¡Un bicho que anida\nen Amahara!
+normal_gossip_assi_a:0.58	¡Debería probar a trabajar,\npara variar!
+normal_gossip_assi_a:0.61	¿Ha descubierto los placeres\nde trabajar para\nganarse la vida?
+normal_gossip_assi_a:0.64	Parece que ya se va\nacostumbrando a trabajar.\n¡Siga así!
+normal_gossip_assi_a:0.67	Sí, por fin tiene\ncara de trabajador.
+normal_gossip_assi_a:0.70	¡Vaya trabajador!\n¡No se mate a trabajar!
+normal_gossip_assi_a:0.73	¡Lo está haciendo muy bien!\n¡Ya es uno de nosotros!
+normal_gossip_assi_a:0.76	¡Increíble! ¡Está\ntrabajando demasiado!
+normal_gossip_assi_a:0.77	¿Quizá debería\ndescansar un poco?
+normal_gyosho_a:0.39	...Eh... Hola...\nEh.......
+normal_gyosho_a:0.42	Eh, esto... Perdone.
+normal_gyosho_a:0.46	No sirvo para comerciante,\n%s...
+normal_gyosho_a:0.48	No sirvo para comerciante.
+normal_gyosho_a:0.49	De verdad quería ser\nmagistrado...
+normal_gyosho_a:0.54	¡Oh, %s...!
+normal_gyosho_a:0.56	¡Oh, samurái...!
+normal_gyosho_a:0.58	Buenas.
+normal_gyosho_a:0.62	No tenemos nada\nque pueda venderle,\n%s.
+normal_gyosho_a:0.64	No tenemos nada\nque pueda venderle,\nsamurái.
+normal_gyosho_a:0.70	Ay, perdone...
+normal_gyosho_a:0.73	Perdone, ¿podría apartarse?
+normal_gyosho_a:0.77	Perdone, ¿podría hablar\nconmigo más tarde?
+normal_gyosho_a:0.79	Estoy algo ocupado.\n¿Podría hablar conmigo más tarde?
+normal_gyosho_a:0.85	¿Qué? Tendrá que ir\na otra parte.
+normal_gyosho_a:0.87	Ya no me queda nada,\nasí que cierro\nla tienda.
+normal_gyosho_a:0.93	Aquí no vendo nada\nsospechoso...
+normal_gyosho_a:0.95	Oh, %s...\nQué buen aspecto tiene.
+normal_gyosho_a:0.99	¡Tiene que creerme!\n¡No vendo Soma!
+normal_gyosho_a:0.101	Le creo.\nAlgo huele a chamusquina...
+normal_gyosho_a:0.104	Sabía que lo entendería,\n%s!
+normal_gyosho_a:0.107	¡Ja, ja!\nQué chiste más bueno,\n%s...
+normal_gyosho_a:0.111	Me pregunto qué será\nde Amahara en el\nfuturo...
+normal_gyosho_a:0.113	Ojalá llegue el día en que\npueda hacer negocios\nen paz.
+normal_gyosho_a:0.115	Llegará.\nNo pierda la esperanza.
+normal_gyosho_a:0.117	Cuento con usted,\n%s!
+normal_gyosho_a:0.119	¡Usted es el único que\npuede cambiar Amahara!
+normal_gyosho_a:0.122	N-no diga eso,\n¡por favor!
+normal_gyosho_a:0.125	En fin, tengo que volver\nal trabajo...
+normal_gyosho_a:0.131	Me juego la vida viniendo a\nAmahara, con cómo están\nlas cosas...
+normal_gyosho_a:0.132	¡Hace poco atacaron y mataron\na un amigo mío!
+normal_gyosho_a:0.134	Huir es lo mejor\nque se puede hacer\nen esa situación.
+normal_gyosho_a:0.138	Tengo que tener cuidado\npara que no me roben\nlas ganancias...
+normal_gyosho_a:0.141	¿Será cosa de mi imaginación?
+normal_gyosho_a:0.143	Parece que Amahara está\nmás segura estos últimos\ndías.
+normal_gyosho_a:0.147	Bueno, a trabajar...
+normal_gyosho_a:0.153	Hoy en día hay mucha\ngentuza por ahí...
+normal_gyosho_a:0.154	Cada vez es más difícil\nhacer negocios. Hay tantos\nladrones y matones.
+normal_gyosho_a:0.158	Es muy difícil llevar un\nnegocio en Amahara.
+normal_gyosho_a:0.161	¡Bienvenido!\n¿En qué puedo ayudarle?
+normal_gyosho_a:0.170	¡Me saca de quicio!\n¡Es competencia desleal,\nvaya que sí!
+normal_gyosho_a:0.171	Tenía el monopolio de toda\nla medicina que se vende\nen Amahara, ¡y ahora esto!
+normal_gyosho_a:0.175	Un recién llegado llamado\nKusaburo me está quitando\nel terreno!
+normal_gyosho_a:0.178	Entre nosotros...
+normal_gyosho_a:0.180	Llevo años viniendo a\nAmahara como vendedor\nambulante...
+normal_gyosho_a:0.181	Pero la verdad es que\nsoy un espía del\ngobierno del shogunato...
+normal_gyosho_a:0.183	Cuéntemelo.\nNo debería mentir.\n¡Un perro del gobierno! ¡Muera!
+normal_gyosho_a:0.185	¡Era broma!
+normal_gyosho_a:0.189	¿No se lo habrá creído en serio?
+normal_gyosho_a:0.193	¿Qué me ha delatado?
+normal_gyosho_a:0.196	¡Y-yo solo b-bromeaba!
+normal_gyosho_a:0.197	¡No se lo tome en serio!
+normal_gyosho_a:0.199	Je, je, je.
+normal_gyosho_a:0.205	Dicen que una medicina llamada\nSoma está corriendo por\nAmahara...
+normal_gyosho_a:0.206	Parece que hay mucha demanda.\nQuizá sea buen negocio...
+normal_gyosho_a:0.210	Me gustaría conseguir un\npoco de ese Soma. ¿Sabe\ndónde puedo encontrarlo?
+normal_gyosho_a:0.214	Siempre tiene buen aspecto,\n%s.
+normal_gyosho_a:0.215	Pero no se mate a trabajar.
+normal_gyosho_a:0.217	Acabará en la tumba\nantes de tiempo.
+normal_gyosho_a:0.221	No se mate a trabajar.
+normal_gyosho_a:1.15	¿En qué puedo ayudarle?
