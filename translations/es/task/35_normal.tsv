@@ -1,0 +1,194 @@
+# 35_normal: niños y niñas paseantes de Amahara (normal_walk_boy_b, normal_walk_girl_a, normal_walk_girl_b).
+# El niño y las niñas tutean al protagonista (lenguaje infantil); las niñas, en femenino; el protagonista, masculino.
+# Las frases que dicen hombres y mujeres (p. ej. «¡Ya están aquí!») van en forma neutra.
+normal_walk_boy_b:0.46	Mamá dice que no puedo\njugar en la calle.
+normal_walk_boy_b:0.48	¡Pero es muy aburrido! Así que\nme escapo de casa\ncuando no me mira.
+normal_walk_boy_b:0.51	Ojalá pudiera jugar\nfuera con mis amigos.
+normal_walk_boy_b:0.57	%s,\n¿puedo preguntarte algo?
+normal_walk_boy_b:0.59	Háblame de tu nombre,\n%s.
+normal_walk_boy_b:0.61	Me lo acabo de inventar.\nUna rosa con cualquier otro nombre...\nEs Dragón Mítico.
+normal_walk_boy_b:0.62	Es tu nombre...\n¿Verdad?
+normal_walk_boy_b:0.64	%s...\n¿Estás ocupado?
+normal_walk_boy_b:0.66	Sí...
+normal_walk_boy_b:0.68	Quizá deberías\nhaberlo pensado un poco más...
+normal_walk_boy_b:0.70	Eh, sí.
+normal_walk_boy_b:0.72	Yo solo soy un crío,\nasí que no entiendo\nbien todo eso...
+normal_walk_boy_b:0.75	¿Seguro que no te ha dado\nuna insolación?\nEstás hablando sin sentido.
+normal_walk_boy_b:0.76	Quizá deberías volver\na casa a descansar.
+normal_walk_boy_b:0.78	Oye, %s,\n¿me das un nombre?
+normal_walk_boy_b:0.79	Toyoko Enzen.\nBobo.\nMagdalena.
+normal_walk_boy_b:0.80	¡Estás tardando demasiado!
+normal_walk_boy_b:0.82	¡Vaya!
+normal_walk_boy_b:0.85	¡Qué nombre tan bonito!\n¡Me encanta!
+normal_walk_boy_b:0.91	Eso no es un nombre de verdad,\n¿verdad...?
+normal_walk_boy_b:0.95	¡Oye, espera un momento!
+normal_walk_boy_b:0.99	Me llamo Toyoko Enzen...
+normal_walk_boy_b:0.101	Genial.
+normal_walk_boy_b:0.103	Me llamo Bobo...
+normal_walk_boy_b:0.105	Sigue sin sonarme bien...
+normal_walk_boy_b:0.107	Me llamo Magdalena...
+normal_walk_boy_b:0.109	¡No, me van a dar una paliza!
+normal_walk_boy_b:0.114	Los magistrados pueden\ndetener a los malos, ¿verdad?\n¡Qué pasada!
+normal_walk_boy_b:0.116	¡Cuando sea mayor, también\nvoy a atrapar a todos\nesos malvados!
+normal_walk_boy_b:0.119	Quiero hacerme grande y\nser magistrado. Quizá\nel año que viene...
+normal_walk_boy_b:0.122	Tu espada parece muy\nfuerte, %s.
+normal_walk_boy_b:0.124	Supongo que podría matarme\nde un solo golpe.
+normal_walk_boy_b:0.126	Sí, podría.\nNo, no puede.\n¿Probamos?
+normal_walk_boy_b:0.131	Eso probablemente dolería.
+normal_walk_boy_b:0.133	¡Ah, ya veo!
+normal_walk_boy_b:0.135	¡Tu espada solo mata\na los malos! ¿Verdad,\n%s?
+normal_walk_boy_b:0.137	¡Genial!
+normal_walk_boy_b:0.140	O-oye, no digas\ncosas así.
+normal_walk_boy_b:0.142	Me estás asustando.
+normal_walk_boy_b:0.144	¡No eres fuerte por tu espada!
+normal_walk_boy_b:0.146	¡Tienes un corazón fuerte!
+normal_walk_boy_b:0.147	Eso es lo que dice mi papá.
+normal_walk_boy_b:0.152	Oye, abuelo,\n¿eres fuerte?
+normal_walk_boy_b:0.154	Claro que soy fuerte.\nQuizá...\n¿Viejo... yo...?
+normal_walk_boy_b:0.156	Si ni siquiera\nsabes responder, no\ndebes de ser muy fuerte.
+normal_walk_boy_b:0.158	¡No me ignores!
+normal_walk_boy_b:0.160	¿De verdad? Creo que los\nque dicen ser fuertes\nsuelen no serlo.
+normal_walk_boy_b:0.162	No me engañas.\nApuesto a que eres muy fuerte,\n¿a que sí?
+normal_walk_boy_b:0.164	¿Qué te pasa?\nEstás temblando...
+normal_walk_boy_b:0.166	¡Un samurái que no es\nfuerte no es nada!
+normal_walk_boy_b:0.171	¡Oye, %s!\n¡Mira, mira!
+normal_walk_boy_b:0.178	Tienes mucha energía.\nNo des patadas a la gente.\nApártate de mi camino.
+normal_walk_boy_b:0.182	¿Quieres jugar?
+normal_walk_boy_b:0.194	¡Cuando sea mayor, me\nharé un samurái genial\ncomo tú!
+normal_walk_boy_b:0.196	¡Por eso entreno\nmis patadas!
+normal_walk_boy_b:0.198	¡Te odio, %s!
+normal_walk_boy_b:0.205	Últimamente los mayores\nparecen tan serios\ny tan temibles.
+normal_walk_boy_b:0.207	Quizá les duelan\nlas muelas. ¿O quizá\nla barriga?
+normal_walk_boy_b:0.210	Me pregunto por qué los\nmayores están tan tristes.
+normal_walk_boy_b:0.214	¿Me prometes que no\nte enfadarás pase lo\nque haga?
+normal_walk_boy_b:0.216	No me enfadaré.\nQuizá me enfade.\n¡Te despedazaré!
+normal_walk_boy_b:0.221	Aunque haga esto...
+normal_walk_boy_b:0.227	No eres un samurái muy\nde mente abierta...
+normal_walk_boy_b:0.229	¡Eres un malo!
+normal_walk_boy_b:0.232	Nunca pensé que fueras\nasí, %s!
+normal_walk_boy_b:0.239	Yo, eh... me meo en la cama\ntodas las noches.
+normal_walk_boy_b:0.241	Tengo pesadillas,\nasí que no quiero levantarme\npara ir al baño.
+normal_walk_boy_b:0.244	Todas las noches tengo\npesadillas muy feas...
+normal_walk_boy_b:0.246	Por eso me meo\nen la cama...
+normal_walk_boy_b:0.251	¿Cómo puedo hacerme\nsamurái?
+normal_walk_boy_b:0.253	Ten un corazón justo.\nHiere a mucha gente.\nEres demasiado débil.
+normal_walk_boy_b:0.254	¿No lo sabes,\n%s?\n¡Eres un samurái!
+normal_walk_boy_b:0.257	Respuesta equivocada...
+normal_walk_boy_b:0.261	Supongo que incluso tú\na veces dices cosas buenas,\n%s.
+normal_walk_boy_b:0.264	Y yo pensaba que tendrías\nuna buena respuesta para mí...
+normal_walk_boy_b:0.265	Supongo que eres otro\nde esos samuráis\ninútiles.
+normal_walk_boy_b:0.269	Si fuera samurái,\n¡te mataría, %s!
+normal_walk_boy_b:0.271	¡Quiero ser samurái!
+normal_walk_boy_b:2.16	¡Ya están aquí!
+normal_walk_boy_b:2.18	¡Te van a matar!
+normal_walk_boy_b:2.22	¡Es el malvado\n%s!
+normal_walk_girl_a:0.85	Oye, samurái...\n¿Quieres jugar?
+normal_walk_girl_a:0.87	No tengo tiempo para eso.\nSí, por favor...
+normal_walk_girl_a:0.89	Aquí no queremos\nmirones.
+normal_walk_girl_a:0.92	Qué aburrido...
+normal_walk_girl_a:0.95	Bueno, tú puedes hacer\nde viejo enfermo.
+normal_walk_girl_a:0.97	Déjamelo a mí.\nQuiero ser el marido.\n¡Yo no quiero ponerme enfermo!
+normal_walk_girl_a:0.100	¡Ah, ya veo! ¡Ya estás\nmetido en el papel!
+normal_walk_girl_a:0.103	Papá......\n¡Tus gachas están listas!
+normal_walk_girl_a:0.109	No, no. Ya estoy prometida\ncon un tal Tamekichi.
+normal_walk_girl_a:0.110	Estoy esperando a que\nvuelva por mí...
+normal_walk_girl_a:0.113	Bueno, ¿y qué tal un padre\nsano y trabajador?
+normal_walk_girl_a:0.114	¡Dale a tu buena hija\nsu paga!
+normal_walk_girl_a:0.117	Se ha llevado 1 mon...
+normal_walk_girl_a:0.120	¡Oh, gracias, papá!
+normal_walk_girl_a:0.121	...¡Eso es todo!\n¡Vuelve a jugar otra vez!
+normal_walk_girl_a:0.126	¡Eres un samurái\npobretón!
+normal_walk_girl_a:0.128	Qué buena eres conmigo...\n¿Quieres que me coma esto?!\n¿Tienes algo más?
+normal_walk_girl_a:0.130	¿Qué te pasa, papá?
+normal_walk_girl_a:0.131	¿Por qué no dices nada?\n¿Papá?\n¡Papá!
+normal_walk_girl_a:0.133	¡Papá!\n¡Papá, no!\n¡No!!!!
+normal_walk_girl_a:0.135	¡Está muerto!!!
+normal_walk_girl_a:0.141	¡Espero que te mejores\npronto, papá!
+normal_walk_girl_a:0.147	¡Waaah! ¡El samurái\nse ha enfadado!!
+normal_walk_girl_a:0.150	Qué difícil eres,\npapá.
+normal_walk_girl_a:0.159	¡Iiih!\n¡Un samurái!\n¡Tengo miedo!
+normal_walk_girl_a:0.161	Pues apártate de mí.\nNo doy miedo.
+normal_walk_girl_a:0.163	¡Tengo miedo!
+normal_walk_girl_a:0.167	¡Mentira!\n¡Das muchísimo miedo!
+normal_walk_girl_a:0.169	¡Que no doy miedo!!!\nLo demostraré.
+normal_walk_girl_a:0.175	¡Iiih!\n¡Sabía que dabas miedo!
+normal_walk_girl_a:0.178	...¿Una prueba?
+normal_walk_girl_a:0.180	Iré a matar a un matón.\nMírame a los ojos.\nTe daré algo de dinero.
+normal_walk_girl_a:0.182	Ves, no puedes demostrarlo...
+normal_walk_girl_a:0.190	¡Iiih!\n¡El samurái me está\nmirando!!
+normal_walk_girl_a:0.197	¿Eso es todo...?
+normal_walk_girl_a:0.202	¡Iiiih!\n¡Eres pobre!
+normal_walk_girl_a:0.204	¡Pues devuélvelo!\nLos samuráis también tienen problemas.\nToma otros 5 mon.
+normal_walk_girl_a:0.211	¡Has recuperado 1 mon!
+normal_walk_girl_a:0.213	¡Iiih!\n¡El samurái me ha robado\nel dinero!!
+normal_walk_girl_a:0.217	¡Qué horror! Robar a una\npobre niña.
+normal_walk_girl_a:0.221	Pobre samurái...
+normal_walk_girl_a:0.228	¡Has entregado 5 mon!
+normal_walk_girl_a:0.230	¡Gracias! Eres un samurái\namable, ¿verdad?
+normal_walk_girl_a:0.239	¡Iiih!\n¡Das miedo!
+normal_walk_girl_a:0.242	Los dos tenemos que trabajar duro.
+normal_walk_girl_a:0.249	Salí a dar un paseo\ncon mi hermanito,\npero lo he perdido de vista.
+normal_walk_girl_a:0.251	Los niños desaparecen si\nles quitas el ojo de\nencima un segundo...
+normal_walk_girl_a:0.261	Si no me doy prisa en la\nverdulería, ¡me meteré en un lío!
+normal_walk_girl_a:0.262	¡No tengo tiempo para jugar!
+normal_walk_girl_a:0.269	¡Parece que no tienes\nmucho que hacer!
+normal_walk_girl_a:0.275	Oye, samurái...\n¿Vas a comprar medicina?
+normal_walk_girl_a:0.276	Yo también quiero, pero\nno tengo dinero...
+normal_walk_girl_a:0.278	Mi madre podría morirse,\npero no puedo pagar\nla medicina...
+normal_walk_girl_a:0.279	Yo la compro. Deja de llorar.\nAsí es la vida.
+normal_walk_girl_a:0.282	Lo siento, esto no tiene\nnada que ver contigo...
+normal_walk_girl_a:0.289	¡Nunca olvidaré esto!
+normal_walk_girl_a:0.290	¡Volveré a darte las gracias\ncuando mi madre se cure!
+normal_walk_girl_a:0.296	Has entregado 100 mon...
+normal_walk_girl_a:0.300	Has entregado\ntodo tu dinero...
+normal_walk_girl_a:0.304	...¡No te queda ni un mon,\n¿verdad?!
+normal_walk_girl_a:0.309	Supongo que sí...
+normal_walk_girl_a:0.310	Somos pobres, y mi madre\nse pone enferma.\nEs cosa del destino.
+normal_walk_girl_a:0.311	Pero si alguien tiene que\nmorir, ojalá fuera yo\nen vez de mamá...
+normal_walk_girl_a:0.313	Madre... Lo siento...
+normal_walk_girl_a:0.330	Tú también eres pobre.\nLos dos tenemos nuestros problemas...
+normal_walk_girl_a:0.332	Oye, %s...\n¿Vas a comprar medicina?
+normal_walk_girl_a:0.334	¿¡De verdad?! ¡Gracias,\n%s!
+normal_walk_girl_a:0.339	Siempre vengo aquí a mirar\na todas las mujeres.
+normal_walk_girl_a:0.340	Son todas tan guapas\ncon sus kimonos y\nsus adornos del pelo...
+normal_walk_girl_a:0.345	Son tan guapas...
+normal_walk_girl_a:0.347	Claro, tú también eres\nbastante guapo,\n%s.
+normal_walk_girl_a:0.348	Como princesas...
+normal_walk_girl_a:0.353	¿Sabes?, a la ropa que lleva\nuna novia la llaman «uchikake».
+normal_walk_girl_a:0.354	Es de un blanco puro y muy\nbonito. Quiero casarme\npronto.
+normal_walk_girl_a:0.356	¿Estás casado?
+normal_walk_girl_a:0.358	Claro que sí.\nNo me puedo atar a nadie.
+normal_walk_girl_a:0.360	¿Por qué te has quedado\nde repente callado?
+normal_walk_girl_a:0.363	¡Oh! ¡Qué bonito!
+normal_walk_girl_a:0.366	¡Eres un adulto! ¡No puedes\njugar toda la vida!
+normal_walk_girl_a:0.367	Por cierto, ¿a qué juegan\nlos adultos?
+normal_walk_girl_a:0.368	¿Al escondite?
+normal_walk_girl_a:0.370	Quiero casarme pronto.
+normal_walk_girl_a:0.372	¿Estás casado,\n%s?
+normal_walk_girl_a:2.18	¡Papá! ¡Es\n%s!
+normal_walk_girl_a:2.20	¡Iiih!\n¿%s?!
+normal_walk_girl_b:0.41	¡Ay!!! ¡Se me ha roto la\ncorrea de las sandalias! Ojalá\npudiera comprar unas nuevas.
+normal_walk_girl_b:0.43	Te compro unas.\nVuelve a casa.
+normal_walk_girl_b:0.45	¿Qué hago...?
+normal_walk_girl_b:0.48	¿Qué? ¡No las quiero!\n¡Papá me va a regañar!
+normal_walk_girl_b:0.50	Siempre dice que no acepte\nregalos de desconocidos.
+normal_walk_girl_b:0.54	¡Eres un maleducado!
+normal_walk_girl_b:0.55	¡No soporto a los samuráis\nmaleducados! ¡Vete de aquí!
+normal_walk_girl_b:0.59	Hasta tú, %s.
+normal_walk_girl_b:0.65	Puedo comprar lo que quiera\nen la fiesta. Caramelos\no un molinillo...
+normal_walk_girl_b:0.66	¿Qué le pido a mamá...?\nQuizá un juguete bonito...
+normal_walk_girl_b:0.75	Pensaba que en la fiesta\npodría conseguir lo que quisiera...
+normal_walk_girl_b:0.77	Pero mamá no me compró\nnada al final...
+normal_walk_girl_b:0.79	No debí contar mis huevos\nantes de... eh... ya sabes.
+normal_walk_girl_b:0.83	¿Antes de que los revuelvan?
+normal_walk_girl_b:0.88	Mamá dice que no debo\nhablar con desconocidos.
+normal_walk_girl_b:0.91	¡Uy! ¡Te he hablado!
+normal_walk_girl_b:0.96	He hablado con un desconocido,\npero no se lo digas a mamá.
+normal_walk_girl_b:0.98	Tú tampoco deberías hablar\ncon desconocidos,\n%s.
+normal_walk_girl_b:0.100	Pero ¿quién es un desconocido\ny quién no lo es...?
+normal_walk_girl_b:0.106	¡Waaaah!\n¡Me he perdido...!
+normal_walk_girl_b:0.110	Ya está....
+normal_walk_girl_b:0.111	Se acabó mi práctica para\ncuando me pierda en la fiesta...
+normal_walk_girl_b:0.114	¡Espera! ¡Ahora sí que me he perdido!\n¡Waaah!
+normal_walk_girl_b:2.18	¡Papá! ¡Es\n%s!
+normal_walk_girl_b:2.20	¡Ah! ¡%s!
