@@ -1,0 +1,202 @@
+# 19_magistrate: magistoka_enter_b, magistrate_arrest_a, magistrate_beginner_a, magistrate_control_a y magistrate_control_b.
+# Los guardias y magistrados tutean al protagonista (tono autoritario y hostil). Frases neutras en género: magistoka_enter_b:0.93 y magistrate_beginner_a:0.63.
+# Frases neutras en género (magistoka_enter_b:0.93 y magistrate_beginner_a:0.63 las dicen hombres y mujeres).
+magistoka_enter_b:0.65	No voy a dejar pasar a\nningún sospechoso.
+magistoka_enter_b:0.68	¿Tú, eh...?
+magistoka_enter_b:0.70	Tranquilo, no dejaré pasar\na ningún sospechoso.
+magistoka_enter_b:0.75	Déjamelo a mí. No voy a dejar\npasar a ningún sospechoso.
+magistoka_enter_b:0.84	Tranquilo...
+magistoka_enter_b:0.87	Me juego la vida en ello.
+magistoka_enter_b:0.93	Ah, hola, %s.
+magistoka_enter_b:0.94	Nakamura te está buscando.\nVe a la Magistratura.
+magistoka_enter_b:0.98	Nakamura quiere verte.\nVe a la Magistratura.
+magistoka_enter_b:0.104	Nakamura te está buscando.\n¡Ve a la Magistratura enseguida!
+magistoka_enter_b:0.115	Te han citado.
+magistoka_enter_b:0.121	Te han citado en la Magistratura.\nVe para allá.
+magistoka_enter_b:0.128	Parece que Hanzaemon se ha\nhecho el jefe oficial de la banda Aoto.
+magistoka_enter_b:0.132	¡No podemos permitir esto!
+magistoka_enter_b:0.144	Maldita sea...\nGoshiro...
+magistoka_enter_b:0.145	¿Cómo pudo pasarle algo así\na un hombre tan bueno...?
+magistoka_enter_b:0.155	¿Fuiste tú el que mató a Goshiro?!
+magistoka_enter_b:0.157	¡Habla!\nSi hablas, te lo pondré fácil...
+magistrate_arrest_a:0.19	¡Vamos, vamos!
+magistrate_arrest_a:0.21	¡%s!\n¡Persigo a un sospechoso!
+magistrate_arrest_a:2.67	Vaya, así que tenemos un estorbo...
+magistrate_arrest_a:2.71	¡Quedas detenido!
+magistrate_arrest_a:2.73	Qué asunto más desafortunado...
+magistrate_arrest_a:7.7	¡No te interpongas en mi deber!
+magistrate_arrest_a:7.25	Ya casi...
+magistrate_arrest_a:7.41	Me equivoqué contigo,\n%s...
+magistrate_beginner_a:0.39	Trabajamos todos los días...
+magistrate_beginner_a:0.41	para ampliar la influencia\nde la Magistratura.
+magistrate_beginner_a:0.43	¿Nos ayudarás a trabajar\npor el bien de Amahara?
+magistrate_beginner_a:0.44	Cuando demuestres que podemos\nfiarnos de ti, te daremos\ntrabajos más importantes.
+magistrate_beginner_a:0.46	Por supuesto, tu paga también\nsubirá.
+magistrate_beginner_a:0.50	No puedo fiarme de alguien que\ndeja un trabajo que ya ha aceptado.
+magistrate_beginner_a:0.54	Pareces bastante hábil.
+magistrate_beginner_a:0.56	Estamos reclutando espías\naquí, en la Magistratura.
+magistrate_beginner_a:0.58	Pásate cuando quieras\nsi te interesa.
+magistrate_beginner_a:0.60	Seguro que se te daría bien.
+magistrate_beginner_a:0.63	Te estoy esperando.
+magistrate_beginner_a:3.146	¡Que nadie se meta!
+magistrate_beginner_a:3.162	Mientras estemos nosotros,\nla ley y el orden de Amahara\nestarán protegidos.
+magistrate_beginner_a:3.166	Un paso en falso y te detendremos.
+magistrate_beginner_a:3.168	No podemos dejar libres\na los que hacen daño al pueblo.
+magistrate_beginner_a:3.170	Hoy en día hay tantos\ndelincuentes...
+magistrate_beginner_a:3.177	Mientras estemos aquí,\nla ley de Amahara es absoluta.
+magistrate_beginner_a:3.180	Déjalo en nuestras manos.\n¡Siempre estamos de servicio!
+magistrate_beginner_a:3.182	No podemos dejar libres a los\nque hacen daño al pueblo, %s.
+magistrate_beginner_a:3.184	Hoy en día hay tantos\ndelincuentes, %s...
+magistrate_beginner_a:3.190	¿Qué le pasa a este...?
+magistrate_beginner_a:5.9	¡Hmph!\n¡Silencio!
+magistrate_beginner_a:5.11	¡Hmph!\nTe lo estás buscando...
+magistrate_beginner_a:5.15	¡Hmph!\n¡Calma, calma!
+magistrate_beginner_a:5.63	¡Resistirse es inútil!
+magistrate_beginner_a:5.65	¡Acepta tu destino!
+magistrate_beginner_a:5.69	¡Asume las consecuencias\nde tus actos!
+magistrate_beginner_a:5.76	%s...\n¿Pero cómo...?
+magistrate_beginner_a:5.82	%s,\n¿nos estás traicionando?
+magistrate_beginner_a:7.15	¡Canalla!
+magistrate_beginner_a:7.17	¡Escoria!
+magistrate_control_a:0.54	La situación en Amahara empeora\ncada vez más. Es muy triste.
+magistrate_control_a:0.58	Para mantener la paz en Amahara,\ntendremos que trabajar aún más.
+magistrate_control_a:0.60	%s, la situación en Amahara\nempeora cada vez más.
+magistrate_control_a:0.65	Últimamente llegan muchos\nforasteros raros a Amahara.
+magistrate_control_a:0.66	¡Hay que meter en cintura\na esa gentuza!
+magistrate_control_a:0.71	¡Hay que meter en cintura\na esos forasteros!
+magistrate_control_a:0.74	Bueno, reconozco que algunos\nson buena gente, como tú...
+magistrate_control_a:0.80	¿A qué has venido? Tienes\npinta de sospechoso...\nNo armes ningún lío.
+magistrate_control_a:0.81	Si no tienes nada que hacer\nen Amahara, ¡lárgate!
+magistrate_control_a:0.85	La Magistratura no tolera\nningún alboroto, ¿entendido?
+magistrate_control_a:0.90	Has hecho mucho por la\nMagistratura, pero...
+magistrate_control_a:0.91	Seguro que no has venido\na Amahara solo para eso...
+magistrate_control_a:0.93	Te agradecemos tu ayuda, pero...
+magistrate_control_a:0.95	Bueno, cuídate.
+magistrate_control_a:0.99	Eres todo un samurái.
+magistrate_control_a:0.105	Últimamente llegan muchos ronin\nde poca monta como tú.
+magistrate_control_a:0.106	Huelen una pelea y quieren\nentrar en la acción, pero solo\nson un estorbo.
+magistrate_control_a:0.110	¡No podemos dejar que arruinen\nnuestra hermosa ciudad!\n¡Hay que protegerla!
+magistrate_control_a:0.112	Últimamente llegan muchos ronin\nsospechosos a Amahara.
+magistrate_control_a:0.117	Últimamente, unos matones se\ncomportan como si Amahara\nfuera suya...
+magistrate_control_a:0.118	Pero no durará mucho.\n¡Nosotros, los magistrados,\nlos echaremos de aquí!
+magistrate_control_a:0.123	Nosotros devolveremos a Amahara\nsu paz y su tranquilidad.
+magistrate_control_a:0.126	¡Y devolverle su antigua gloria!
+magistrate_control_a:0.131	Cómo te comportas, esa mirada\npenetrante...
+magistrate_control_a:0.132	Eres todo un ejemplar.
+magistrate_control_a:0.138	Si eres tan bueno, ¡ven a\ntrabajar a la Magistratura!
+magistrate_control_a:0.141	¡Vaya! No te había reconocido,\n%s. ¡Perdona!
+magistrate_control_a:0.143	Tener a alguien como tú\ntrabajando con nosotros\nnos anima mucho.
+magistrate_control_a:0.144	Espero trabajar más\ncontigo en el futuro.
+magistrate_control_a:0.149	Ciudadanos egoístas, criminales\nsin moral, mercaderes codiciosos...
+magistrate_control_a:0.150	Nuestra misión es guiar\na esa gente por el buen camino.
+magistrate_control_a:0.155	¡Guiar a la gente por el buen\ncamino es la auténtica senda\ndel samurái!
+magistrate_control_a:0.157	¿No crees?
+magistrate_control_a:0.163	La moral de la gente hoy\nes terrible, ¿no crees?
+magistrate_control_a:0.165	No me interesa...\n¡Tienes toda la razón!\nEso está bien.
+magistrate_control_a:0.167	Si eres samurái, deberías\nfijarte más en el mundo.
+magistrate_control_a:0.170	¿Y te llamas samurái?\n¡Qué triste!
+magistrate_control_a:0.173	¡Sí! ¡Los samuráis debemos\nguiar a la gente por el buen camino!
+magistrate_control_a:0.176	¿Qué dices?\n¡No puedes hablar en serio!
+magistrate_control_a:0.178	¡Solo los samuráis podemos\nsanar Amahara... y el mundo!
+magistrate_control_a:0.180	La moral de hoy es terrible.\n¿Qué opinas tú, %s?
+magistrate_control_a:0.185	Dicen que no se valora algo\nhasta que se pierde...
+magistrate_control_a:0.190	¡Jefe!
+magistrate_control_a:0.194	¡¡Jefe!!!
+magistrate_control_a:2.12	¡Te encontré,\n%s!
+magistrate_control_a:2.16	¿Tú?!
+magistrate_control_a:2.52	Se acabó...
+magistrate_control_a:2.72	¡Vas a acabar en la cárcel!
+magistrate_control_a:2.76	¡Se acabó para ti!
+magistrate_control_a:2.78	¡Llorarás en la cárcel!
+magistrate_control_a:3.13	¡Oye, tú!\n¿Qué estás haciendo?!
+magistrate_control_a:3.15	¡Un momento!
+magistrate_control_a:3.60	¡Lo siento...!
+magistrate_control_a:3.62	Me has decepcionado...!
+magistrate_control_a:3.158	¡Perdón!
+magistrate_control_a:3.182	No podemos dejar libres\na los criminales...
+magistrate_control_a:3.185	No podemos dejar que hagas\nlo que quieras en Amahara.
+magistrate_control_a:3.187	Estoy de servicio.\nNo me hables.
+magistrate_control_a:3.189	Da igual cuántos detengamos,\nsiguen llegando...
+magistrate_control_a:3.203	No podemos dejar que los criminales\nhagan lo que quieran en Amahara.
+magistrate_control_a:3.205	Estoy de servicio.\nYa hablaremos más tarde.
+magistrate_control_a:3.207	Uno tras otro...\nEstos criminales nunca\nparecen rendirse.
+magistrate_control_a:5.13	¿Te atreves a resistirte?!
+magistrate_control_a:5.19	¡Tendremos que usar la fuerza!
+magistrate_control_a:6.240	Uno tras otro...\nNunca parecen rendirse.
+magistrate_control_a:7.15	¿Qué quieres?!
+magistrate_control_a:7.17	¿¡Enemigo de los magistrados!?
+magistrate_control_a:7.19	¿Eres de esa banda?!
+magistrate_control_b:0.53	La moral de la gente\nempeora cada vez más.
+magistrate_control_b:0.56	¿Qué será de Amahara...\ny de Japón...?
+magistrate_control_b:0.60	¿Qué será de Amahara?
+magistrate_control_b:0.62	%s, ¿qué va a ser de este\npaís...?
+magistrate_control_b:0.67	Los magistrados nos matamos\na trabajar para cumplir\nel plan del jefe.
+magistrate_control_b:0.68	El jefe es una gran persona.\n¡Dedicaré mi vida a él!
+magistrate_control_b:0.73	El jefe es una gran persona.\n¡Me entregué a él! ¡Tú deberías\nhacer lo mismo!
+magistrate_control_b:0.76	El jefe es una gran persona.\nMe entregué a él. ¿Y tú?
+magistrate_control_b:0.82	¿Qué tal se te da la esgrima?\nYo no tengo mucha confianza...
+magistrate_control_b:0.83	Aunque aún hay tiempo\npara empezar a entrenar...
+magistrate_control_b:0.87	Me pregunto si hay alguna\nforma de hacerse fuerte rápido...
+magistrate_control_b:0.89	Pareces muy buen espadachín...\nYo no tengo nada de confianza...
+magistrate_control_b:0.95	Mientras estés en Amahara,\nrecuerda que los magistrados vigilan.
+magistrate_control_b:0.96	¡No hagas nada malo!\n¿Entendido?!
+magistrate_control_b:0.100	La Magistratura tiene ojos\npor todas partes. ¡Recuérdalo!
+magistrate_control_b:0.102	%s,\npodemos fiarnos un poco de ti,\npero no te subas a la parra.
+magistrate_control_b:0.103	Si cometes un delito,\n¡te detenemos enseguida!
+magistrate_control_b:0.108	Últimamente hay tantas peleas,\nrobos y asesinatos...
+magistrate_control_b:0.110	Así que trabajamos de sol a sol.\nNo lo aguanto...
+magistrate_control_b:0.114	Ha habido tantos altercados\nque no tenemos tiempo para\ndescansar.
+magistrate_control_b:0.117	Así que trabajamos de sol a sol.\n¿Qué horror, verdad...?
+magistrate_control_b:0.123	Llevo bastante tiempo yendo\nal dojo de Shikano-cho.
+magistrate_control_b:0.124	Pero el maestro de allí\nes un auténtico monstruo.
+magistrate_control_b:0.126	Deberías probarlo alguna vez.
+magistrate_control_b:0.130	No tengo ganas de volver...
+magistrate_control_b:0.133	Oye, %s, ¿qué tal\nva tu entrenamiento?
+magistrate_control_b:0.138	¿El más fuerte de la Magistratura?
+magistrate_control_b:0.142	Bueno, Muto se entrega mucho,\npero...
+magistrate_control_b:0.143	El jefe es el mejor.
+magistrate_control_b:0.148	Aunque en técnica, Nakamura\nes bastante fuerte también...
+magistrate_control_b:0.150	Tienes una fuerza salvaje,\npero...
+magistrate_control_b:0.153	Perdona, no me acuerdo...
+magistrate_control_b:0.155	Yo también tengo que entrenar...
+magistrate_control_b:0.161	El jefe ya está bastante mayor...
+magistrate_control_b:0.163	Si el jefe muere, ¿quién traerá\nla paz a Amahara?
+magistrate_control_b:0.165	Yo, claro.\n¡Tiene que ser tú!\n¿El intermediario de trabajos?
+magistrate_control_b:0.167	¿Qué pasará...?
+magistrate_control_b:0.170	¡No seas tonto! ¡Tú nunca\npodrías ocupar el puesto del jefe!
+magistrate_control_b:0.174	¿Yo?! Hmm... Pues tiene sentido...
+magistrate_control_b:0.178	¿Yo?
+magistrate_control_b:0.181	¿Él?
+magistrate_control_b:0.184	Dicen que en sus tiempos fue\nun gran luchador, así que\nquizá pueda hacerlo.
+magistrate_control_b:0.185	Me pregunto qué hace en Amahara...
+magistrate_control_b:0.187	¿Qué haríamos...?
+magistrate_control_b:0.189	Quizá alguien como tú...
+magistrate_control_b:0.192	Pero ahora que el jefe ha\nmuerto, ¿quién protegerá\nAmahara?
+magistrate_control_b:0.195	...¿Somos tan débiles\nque tenemos que depender de\nun muerto para que nos guíe?
+magistrate_control_b:0.199	El jefe ha muerto...\nGoshiro también ha muerto...
+magistrate_control_b:0.201	Podríamos estar en apuros.
+magistrate_control_b:0.205	Quizá debería preparar a mi\nfamilia para irse de la ciudad...
+magistrate_control_b:2.12	¡Es %s!
+magistrate_control_b:2.14	¿%s?!
+magistrate_control_b:2.18	¡Eres un descarado...!
+magistrate_control_b:2.74	¡Ven con nosotros!
+magistrate_control_b:2.76	¡Ven a la cárcel!
+magistrate_control_b:2.78	¡La cárcel te vendrá bien!
+magistrate_control_b:3.17	¿Qué pasa?!
+magistrate_control_b:3.58	%s...\n¿Por qué?!
+magistrate_control_b:3.60	¡Solo hago mi trabajo!
+magistrate_control_b:3.62	Dime que es un error...
+magistrate_control_b:3.182	¡No podemos dejar libres\na los que alteran la paz!
+magistrate_control_b:3.185	¡Me das asco, criminal!
+magistrate_control_b:3.187	¡No puedes escapar de nosotros!
+magistrate_control_b:3.189	El crimen no descansa, y nosotros\ntampoco...
+magistrate_control_b:3.203	¡No soporto a los criminales!
+magistrate_control_b:3.205	¿Lo ves?\n¡No puedes escapar de nosotros!
+magistrate_control_b:3.207	El crimen no descansa,\ny nosotros tampoco...
+magistrate_control_b:5.17	¡Parece que quieres pelea!
+magistrate_control_b:5.19	¡Te haré frente!
+magistrate_control_b:5.52	¡Ahora es nuestra oportunidad!
+magistrate_control_b:6.195	¡Te tenemos!
+magistrate_control_b:7.17	¡Menudo recibimiento!
+magistrate_control_b:7.19	¡Parece que buscas morir!
+magistrate_control_b:7.21	¡Eso es inadmisible!
