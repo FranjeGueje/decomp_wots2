@@ -1,0 +1,223 @@
+# 20_magistrate: magistrados y funcionarios de la Magistratura (magistrate_control_night_a, magistrate_invite_a, magistrate_observer_a).
+# Los magistrados tutean al protagonista con tono autoritario y hostil; el protagonista habla seco (opciones en tú, sin «usted»). «Hola, %s.» y «Oh, %s...» son neutros: los dicen hombres y mujeres.
+magistrate_control_night_a:0.56	¿Qué haces merodeando\npor aquí?
+magistrate_control_night_a:0.57	No me digas que\nte has perdido...
+magistrate_control_night_a:0.60	Buen trabajo...
+magistrate_control_night_a:0.61	¿Qué tal te va el trabajo?\n¿Ya te has acostumbrado?
+magistrate_control_night_a:0.64	Trabajas muy duro.\n¡Sigue así!
+magistrate_control_night_a:0.67	Vaya, trabajas hasta tarde,\n¿no?
+magistrate_control_night_a:0.68	Pero no te pases.\nTe vas a enfermar.
+magistrate_control_night_a:0.71	Eres el que más trabaja\nen la Magistratura.
+magistrate_control_night_a:0.72	¿Hay algún motivo para\nque te mates tanto\ntrabajando?
+magistrate_control_night_a:0.75	Es tarde.\nVete a casa a descansar.
+magistrate_control_night_a:0.77	Vaya, eres tú,\n%s.
+magistrate_control_night_a:0.91	He oído mucho de\ntus hazañas en Amahara.
+magistrate_control_night_a:0.93	Tienes ojos\nde asesino...
+magistrate_control_night_a:0.95	Seré yo el que\nte derribe.
+magistrate_control_night_a:0.96	¡Que nadie te mate\nantes que yo,\n%s!
+magistrate_control_night_a:0.98	¡Lárgate de Amahara!
+magistrate_control_night_a:0.100	Esto es una advertencia oficial.\n¡Amahara no es para ti!
+magistrate_control_night_a:0.103	Parece que ahora\nte portas bien.
+magistrate_control_night_a:0.105	Pero seguro que\nvuelve tu sed de sangre.
+magistrate_control_night_a:0.106	¡Te tengo echado el ojo!
+magistrate_control_night_a:0.108	No te confíes,\n%s...
+magistrate_control_night_a:0.109	Sé que tarde o temprano\nmostrarás tu verdadera cara.
+magistrate_control_night_a:0.111	Si haces algo\nmínimamente sospechoso...
+magistrate_control_night_a:0.112	Te mataré...
+magistrate_control_night_a:0.114	No creas que puedes\nocultarlo para siempre...
+magistrate_control_night_a:0.116	Sé que estás podrido\nhasta la médula...
+magistrate_control_night_a:0.117	Descubriré\ntus verdaderas intenciones...
+magistrate_control_night_a:0.119	Mira Amahara...\nComo olas de mar embravecido,\nel mal nunca descansa...
+magistrate_control_night_a:0.120	Pero yo no estoy\nen posición de sermonearte...
+magistrate_control_night_a:0.122	Así que por ahora te ayudaré.
+magistrate_control_night_a:0.123	Pero si nos traicionas,\nte cortaré sin pensarlo\ndos veces.
+magistrate_control_night_a:0.124	No lo olvides nunca...
+magistrate_control_night_a:0.130	¡No me hables!
+magistrate_control_night_a:0.131	Sigo a un sospechoso.
+magistrate_control_night_a:0.135	... ¡Lo he perdido!
+magistrate_control_night_a:0.148	¿Adónde se habrá ido?!
+magistrate_control_night_a:0.154	La noche en Amahara\nes peligrosa.
+magistrate_control_night_a:0.156	Es porque por ahí de noche\nandan sueltos bichos raros\ncomo tú.
+magistrate_control_night_a:0.159	¿Sigues aquí?
+magistrate_control_night_a:0.160	¡Vete a casa a dormir!
+magistrate_control_night_a:0.163	Hola, %s.
+magistrate_control_night_a:0.165	La noche es peligrosa,\nasí que ten cuidado.
+magistrate_control_night_a:0.168	Deja las calles de noche\nen nuestras manos.
+magistrate_control_night_a:0.173	Oye, tú... Sospechoso...
+magistrate_control_night_a:0.176	¿Qué haces por ahí\ntan tarde?
+magistrate_control_night_a:0.177	No soy sospechoso.\nVoy de matanza por ahí.\nSolo hablo con el viento.
+magistrate_control_night_a:0.179	Sospechoso... Tienes pinta.\n¿Vienes conmigo a la\nMagistratura?
+magistrate_control_night_a:0.182	¡Espera!\n¡Responde a mi pregunta!
+magistrate_control_night_a:0.185	Pues sigue tu camino.
+magistrate_control_night_a:0.188	¡Ja, ja, ja!\n¿Eso crees?
+magistrate_control_night_a:0.190	¡Pues ven y mátame!
+magistrate_control_night_a:0.192	¡Basta ya de bromas!
+magistrate_control_night_a:0.193	¡Deja de hacer el tonto\ny vete a casa!
+magistrate_control_night_a:0.196	Qué poético para\nun samurái...
+magistrate_control_night_a:0.197	Pero vete a casa antes\nde que te confundan\ncon un criminal.
+magistrate_control_night_a:0.200	Si no te vas ahora,\nte llevaré a la Magistratura.
+magistrate_control_night_a:0.203	Vaya, %s...
+magistrate_control_night_a:0.205	Deberías irte a casa\nya, antes de que te\nataque un criminal.
+magistrate_control_night_a:0.208	Pero supongo que sabrás\ncuidar de ti,\n%s.
+magistrate_control_night_a:0.214	Esta tarde hubo un asesinato\naquí mismo.
+magistrate_control_night_a:0.216	Dicen que el culpable siempre\nvuelve al lugar\ndel crimen.
+magistrate_control_night_a:0.217	Por eso estoy aquí\nesperándolo.
+magistrate_control_night_a:0.220	...No serás tú,\n¿verdad?
+magistrate_control_night_a:0.230	Déjamelo a mí.
+magistrate_control_night_a:0.235	La gente se pone un poco\nloca con la luna llena.
+magistrate_control_night_a:0.237	Siempre hay crímenes\nextraños en las noches de luna.
+magistrate_control_night_a:0.240	Hay luna llena\nesta noche...
+magistrate_control_night_a:0.242	Espero que no pase\nnada malo.
+magistrate_control_night_a:0.245	La gente se vuelve\nun poco loca con la luna llena.
+magistrate_control_night_a:0.259	Me gustaría ver un fantasma,\nal menos una vez.
+magistrate_control_night_a:0.261	Si anduviera asustando\na la gente...
+magistrate_control_night_a:0.262	Lo arrestaría\ny lo metería en la cárcel.
+magistrate_control_night_a:0.263	¡Ja, ja, ja!
+magistrate_control_night_a:0.266	Últimamente mis compañeros\nno paran de tomarme el pelo.
+magistrate_control_night_a:0.268	No me saludan,\nno me hablan,\nni me miran a la cara.
+magistrate_control_night_a:0.270	No sé qué les pasa...
+magistrate_control_night_a:0.273	Desde que enfermé\nel año pasado...
+magistrate_control_night_a:0.274	todos me ignoran.
+magistrate_control_night_a:0.276	Qué solo me siento...
+magistrate_control_night_a:0.280	%s,\n¿me acompañas a charlar\nun rato?
+magistrate_control_night_a:0.282	Tengo prisa.\nClaro.
+magistrate_control_night_a:0.283	No tienes por qué...
+magistrate_control_night_a:0.286	Bueno, otra vez será.
+magistrate_control_night_a:0.288	Quizá no lo sepas...
+magistrate_control_night_a:0.290	pero antes había un agente\nque hasta Nakamura y Muto\nrespetaban.
+magistrate_control_night_a:0.291	Pero el año pasado enfermó\nde gravedad y murió.
+magistrate_control_night_a:0.293	A veces la gente ve\nsu fantasma...
+magistrate_control_night_a:0.295	Eso dicen.
+magistrate_control_night_a:0.297	Sería un buen fantasma.\nNo existen esas cosas.
+magistrate_control_night_a:0.299	¡Eh! ¿Qué te pasa?
+magistrate_control_night_a:0.300	¡Estás pálido!
+magistrate_control_night_a:0.303	Oh, no te preocupes.
+magistrate_control_night_a:0.304	Solo es un rumor.
+magistrate_control_night_a:0.307	Sí.
+magistrate_control_night_a:0.308	Espero que sea un buen fantasma\nque proteja Amahara.
+magistrate_control_night_a:0.311	Estoy de acuerdo.
+magistrate_control_night_a:0.312	Pero mientras los criminales\nlo crean...
+magistrate_control_night_a:0.314	Hace un calor pegajoso\nesta noche.
+magistrate_control_night_a:0.316	Era un buen magistrado.
+magistrate_control_night_a:2.16	¿Eres %s?!
+magistrate_control_night_a:2.18	¡Te he estado buscando!
+magistrate_control_night_a:2.46	¿Lo hacemos?!
+magistrate_control_night_a:2.48	¡Sí!
+magistrate_control_night_a:2.52	En ese caso...
+magistrate_control_night_a:2.72	¡Esto se nos está\nyendo de las manos!
+magistrate_control_night_a:3.54	¿%s...?!
+magistrate_control_night_a:3.56	Lo siento, %s...
+magistrate_control_night_a:3.174	Hicimos bien en vigilarte...
+magistrate_control_night_a:3.177	De día o de noche, no podemos\ndejar que los criminales\nse salgan con la suya.
+magistrate_control_night_a:3.179	Estamos de servicio...
+magistrate_control_night_a:3.181	Hacen sus fechorías\nen la sombra...\nLos criminales son todos iguales.
+magistrate_control_night_a:3.192	Menos mal que estábamos\nvigilando...
+magistrate_control_night_a:3.195	De día o de noche,\nlos magistrados nunca\ndescansamos.
+magistrate_control_night_a:3.197	%s...\nAhora mismo estamos\nen un caso...
+magistrate_control_night_a:3.199	Todos los criminales piensan igual.
+magistrate_control_night_a:5.17	¡Una espada desenvainada...!
+magistrate_control_night_a:5.19	No me queda otra...
+magistrate_control_night_a:6.41	¡Vamos!
+magistrate_control_night_a:7.17	¿Nos apuntas con\nla espada?!
+magistrate_control_night_a:7.21	¿Eres un asesino?!
+magistrate_invite_a:0.46	Hoy en día quedan pocos\njóvenes con agallas...
+magistrate_invite_a:0.47	¿Qué haces?\nApártate de mi camino.
+magistrate_invite_a:0.49	¿Tienes algo que decirme?\nSi no, me voy.
+magistrate_invite_a:0.53	Oh, perdona.
+magistrate_invite_a:0.57	La banda Aoto es cada vez\nmás fuerte.
+magistrate_invite_a:0.58	Así que también necesitamos\nreclutar más gente de\nnuestro lado.
+magistrate_invite_a:0.60	Pareces capaz de\nmanejar una espada.
+magistrate_invite_a:0.61	¿Qué tal si trabajas\npara los magistrados?
+magistrate_invite_a:0.63	No me interesa.\nQuizá sea interesante.\nNo soy el perro de ningún magistrado.
+magistrate_invite_a:0.65	¿Qué? ¿Por qué no\ndices algo?
+magistrate_invite_a:0.69	Creía que serías\nun buen magistrado...
+magistrate_invite_a:0.72	¿De verdad?\n¿Lo harás?
+magistrate_invite_a:0.73	¡Trabajemos juntos\npor el bien de Amahara\ny por el plan del jefe!
+magistrate_invite_a:0.78	¿Qué? ¡No voy a consentir\nque te burles de la\nMagistratura!
+magistrate_invite_a:0.83	¡Espero grandes\ncosas de ti!
+magistrate_invite_a:0.88	Quedan muy pocos buenos\nluchadores que no estén\nmanchados por la yakuza.
+magistrate_invite_a:0.89	¿Qué haces?\nTrabajas duro.
+magistrate_invite_a:0.91	Si no tienes nada que\ntratar conmigo, me voy.\nEstoy muy ocupado.
+magistrate_invite_a:0.95	Estoy reclutando magistrados.
+magistrate_invite_a:0.96	La banda Aoto es cada vez\nmás fuerte, así que\nnecesitamos más hombres.
+magistrate_invite_a:0.100	Todo es por el bien\nde Amahara.
+magistrate_invite_a:0.101	Si mis esfuerzos mejoran\neste pueblo, es lo mínimo\nque puedo hacer.
+magistrate_invite_a:0.104	Ya sabes, reclutar es\nmuy difícil...
+magistrate_invite_a:2.18	Pareces un joven\ncon agallas...
+magistrate_invite_a:2.21	Creo que me equivoqué...
+magistrate_invite_a:2.25	Oh, perdona.
+magistrate_invite_a:2.29	Ahora que la banda Aoto\nes cada vez más fuerte...
+magistrate_invite_a:2.30	Pensé que deberíamos empezar\na reclutar nuevos\nmagistrados.
+magistrate_invite_a:2.32	Pareces un luchador\ncapaz...
+magistrate_invite_a:2.33	¿Por qué no trabajas por\nel bien de Amahara como\nmagistrado?
+magistrate_invite_a:2.50	¿Qué?! ¡No voy a permitir\nque te burles de la\nMagistratura!
+magistrate_invite_a:2.71	Todo es por el bien de\nAmahara.
+magistrate_invite_a:2.109	La Magistratura busca\nbuenos luchadores.
+magistrate_invite_a:2.110	¿Vas a contribuir al\nbien público como\nmagistrado?
+magistrate_invite_a:2.112	Debe de ser duro para un\nsamurái no tener señor\nal que servir.
+magistrate_invite_a:2.114	¿Reclutando, eh?\nNo es lo mío.
+magistrate_invite_a:2.116	Ser magistrado es\nmuy gratificante.
+magistrate_invite_a:2.117	Puedes sentirte orgulloso\nde proteger el pueblo.
+magistrate_invite_a:2.119	Oye, ¿te interesaría\ntrabajar en la Magistratura?
+magistrate_invite_a:2.122	Me entrego a Amahara y\nal magistrado jefe.
+magistrate_invite_a:2.128	Pues desaparece\nde mi vista.
+magistrate_invite_a:2.135	Estoy reclutando magistrados.\nLa banda Aoto es cada vez\nmás fuerte...
+magistrate_invite_a:2.138	Parece que mucha gente\nno está de acuerdo con\nlas políticas del jefe.
+magistrate_invite_a:2.139	Pocos están interesados\nen alistarse.
+magistrate_invite_a:2.141	Trabajamos por la justicia,\npero parece que la gente nos odia.
+magistrate_invite_a:2.151	¡Ajá!\n¡Ahí estás!
+magistrate_invite_a:2.155	¿Eres %s?
+magistrate_invite_a:2.179	Allá voy...
+magistrate_invite_a:7.11	¿Quieres cruzar espadas con nosotros?!
+magistrate_observer_a:0.46	Eres nuevo por aquí,\n¿verdad?
+magistrate_observer_a:0.48	Este pueblo está bajo el\nestricto control de\nla Magistratura.
+magistrate_observer_a:0.49	No vayas a armar\nningún lío.
+magistrate_observer_a:0.50	Los forasteros como tú\nsolo dan problemas.
+magistrate_observer_a:0.52	Hoy hay calma.\n¿Qué será de Amahara?
+magistrate_observer_a:0.53	Si no tienes nada de\nque hablar, no me\nmolestes.
+magistrate_observer_a:0.56	Claro que sí.
+magistrate_observer_a:0.57	El orden en este pueblo\nlo mantenemos\nnosotros, los magistrados.
+magistrate_observer_a:0.60	Nada cambiará mientras\nsigamos las órdenes\ndel jefe.
+magistrate_observer_a:0.62	No causes problemas\naquí.
+magistrate_observer_a:0.65	Oye, %s.\n¿Estás de ronda? Sigue\nasí, buen trabajo.
+magistrate_observer_a:0.67	Lo mismo digo.\n¿Qué será de Amahara?
+magistrate_observer_a:0.69	Si no tienes nada de\nque hablar, aún tengo\ntrabajo, así que...
+magistrate_observer_a:0.72	No, lo debemos todo\nal plan del jefe.
+magistrate_observer_a:0.73	No podemos rendirnos hasta\nque devolvamos la paz\na Amahara.
+magistrate_observer_a:0.78	Buen trabajo, así se hace.
+magistrate_observer_a:0.85	Buen trabajo.\n¿Has visto a alguien sospechoso?
+magistrate_observer_a:0.86	Si no tienes nada que\nhacer conmigo, ¡no me\nhables!
+magistrate_observer_a:0.89	¿Quién te crees que eres?
+magistrate_observer_a:0.92	Sí, vi uno...
+magistrate_observer_a:0.94	Plantado justo aquí,\ndelante de mí...
+magistrate_observer_a:0.96	Apártate de mi camino...
+magistrate_observer_a:0.98	Era broma.\n¡Creo que soy yo!
+magistrate_observer_a:0.99	¿Demasiado asustado para hablar, eh?
+magistrate_observer_a:0.102	¡No tengo tiempo que perder\ncon tus bromas!
+magistrate_observer_a:0.105	Pero qué irrespetuoso...
+magistrate_observer_a:0.106	¡Te voy a arrestar!
+magistrate_observer_a:0.112	¡Venga ya!\nSeguro que estás de broma.
+magistrate_observer_a:0.114	Como no intentas\ndefenderte, supongo\nque tenía razón...
+magistrate_observer_a:0.115	¡Arrestaré a cualquier\nindividuo sospechoso como tú!
+magistrate_observer_a:0.122	¡Yo soy el que necesita un descanso!
+magistrate_observer_a:0.130	Puedes tomártelo a broma,\npero mide mejor tus palabras.
+magistrate_observer_a:0.137	Si tienes algo que\ntratar conmigo, ¡hazlo\nmás tarde!
+magistrate_observer_a:0.143	¡Todavía no he visto\na nadie así!
+magistrate_observer_a:0.145	¡Estoy alerta!
+magistrate_observer_a:0.208	Déjame preguntarte algo.
+magistrate_observer_a:0.209	¿Hay algo por lo que\ndarías la vida?
+magistrate_observer_a:0.211	Claro que lo hay.\nNo, nada.
+magistrate_observer_a:0.213	No debería haber preguntado.\nOlvídalo...
+magistrate_observer_a:0.217	No pierdas esa convicción...
+magistrate_observer_a:0.220	¿Nada que merezca protegerse?
+magistrate_observer_a:0.221	Quizá sea mejor si\nquieres hacerte\npoderoso.
+magistrate_observer_a:0.223	Cuando veo a la gente\nque camina por las calles\nde este pueblo...
+magistrate_observer_a:0.225	me doy cuenta de que\nson lo que debo proteger.
+magistrate_observer_a:0.233	¿Otro forastero?
+magistrate_observer_a:0.234	No te preocupes,\nestamos de servicio aquí.
+magistrate_observer_a:0.236	No dejaremos que esos\nyakuza hagan lo que les dé la gana.
+magistrate_observer_a:0.239	Procura no meterte\nen líos.
+magistrate_observer_a:0.245	¿Cómo ha podido pasar esto?
+magistrate_observer_a:0.247	Nunca imaginé que\nGoshiro también acabaría\nmuerto.
+magistrate_observer_a:0.251	Este es el fin de\nla Magistratura...
+magistrate_observer_a:6.41	¡Lo haremos!
