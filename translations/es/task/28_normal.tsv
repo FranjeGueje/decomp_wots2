@@ -1,0 +1,219 @@
+# 28_normal: vecinos cumplidores, cobardes y heridos de Amahara (normal_cowardice_a, normal_cowardice_night_a, normal_damage_a, normal_dutiful_a). Usted al protagonista; el protagonista es masculino. Avisos del HUD impersonales.
+normal_cowardice_a:0.52	Hola.
+normal_cowardice_a:0.54	¿Qué tal el trabajo?
+normal_cowardice_a:0.55	¡Trabajar duro es el secreto\npara llegar a ser un\nverdadero profesional!
+normal_cowardice_a:0.57	¡Le apoyo en todo lo\nque haga!
+normal_cowardice_a:0.61	Hablando de profesionales...
+normal_cowardice_a:0.62	Por aquí han pasado varios\nespadachines muy hábiles\nen el pasado...
+normal_cowardice_a:0.63	Pero por alguna razón\nsiempre desaparecen\nal cabo de un tiempo...
+normal_cowardice_a:0.65	¿Quizá reciben mejores\nofertas de otros sitios\ncuando se hacen famosos?
+normal_cowardice_a:0.67	Hola, %s...
+normal_cowardice_a:0.74	Hay mucho tipo sospechoso\npor aquí en Amahara.\nTenga cuidado.
+normal_cowardice_a:0.75	Los carteristas son\nespecialmente peligrosos.
+normal_cowardice_a:0.77	Si cree que le han robado,\ndetenga al ladrón\nen el acto!
+normal_cowardice_a:0.81	Carteristas, extorsión,\nviolencia... Me preocupa\nel futuro de Amahara...
+normal_cowardice_a:0.83	Oh, buenas,\n%s...
+normal_cowardice_a:0.88	Tiene una espada\nbastante bonita.
+normal_cowardice_a:0.90	Pero las espadas están\nhechas para matar personas.
+normal_cowardice_a:0.91	Si quiere que la gente\nde Amahara confíe en usted...
+normal_cowardice_a:0.93	No la desenvaine\nsalvo que sea necesario.
+normal_cowardice_a:0.97	Piense en cómo se sentiría\nla otra persona.
+normal_cowardice_a:0.99	Tiene una espada muy bonita,\n%s.
+normal_cowardice_a:0.106	Debe de haberle sido\nun buen susto llegar aquí...
+normal_cowardice_a:0.107	La gente de Amahara no se\ninmuta al ver cadáveres.
+normal_cowardice_a:0.108	Se acostumbrará\nal cabo de un tiempo...
+normal_cowardice_a:0.112	Los asesinatos son\nmoneda corriente en Amahara.
+normal_cowardice_a:0.113	Es más fácil encontrar\nun cadáver que\nuna buena comida.
+normal_cowardice_a:0.120	Hola, samurái...
+normal_cowardice_a:0.122	Hace poco hice amistad\ncon un extranjero.
+normal_cowardice_a:0.123	Le he estado dando pescado\ncrudo y natto: ¡me lo paso\nen grande!
+normal_cowardice_a:0.125	¡Me encanta verle intentar\ncomer lo que le\nparece asqueroso!
+normal_cowardice_a:0.129	¿Qué le doy de comer\nhoy...?
+normal_cowardice_a:0.130	Supongo que tendrá que ser\nalgo de comer...
+normal_cowardice_a:0.132	Hola, %s.
+normal_cowardice_a:0.139	¡Escúcheme, por favor!\n¡Los matones de los Aoto\nson terribles!
+normal_cowardice_a:0.140	¡Me exigen 100 mon\nque nunca les pedí\nprestados!
+normal_cowardice_a:0.142	Al negarme, volvieron y\ndijeron que los intereses\n¡ya eran 5000 mon!
+normal_cowardice_a:0.143	Es terrible.\nYo se lo pagaré.
+normal_cowardice_a:0.150	G-g-g-g....
+normal_cowardice_a:0.152	¡G-g-gracias!!!
+normal_cowardice_a:0.156	No, no puedo aceptarlo.\nPero le agradezco\nel detalle.
+normal_cowardice_a:0.157	Nunca cambiaré si sigo\ndependiendo de la gente.
+normal_cowardice_a:0.159	¡Le agradezco mucho\nsu amable ofrecimiento!
+normal_cowardice_a:0.169	¡Ja, ja, ja! Tiene agallas,\npara ofrecer dinero\n¡que ni tiene!
+normal_cowardice_a:0.174	¿Tiene algún problema,\nsamurái?
+normal_cowardice_a:0.175	Claro que sí.\nPara nada.
+normal_cowardice_a:0.178	Lo sabía...
+normal_cowardice_a:0.180	Pero es a través de los\nproblemas y el sufrimiento...
+normal_cowardice_a:0.181	que crecemos como personas.
+normal_cowardice_a:0.183	Si lo cree, incluso el peor\nproblema solo le hará\nmás fuerte.
+normal_cowardice_a:0.187	¿De verdad...?
+normal_cowardice_a:0.188	Qué envidia me da.
+normal_cowardice_a:0.192	Mi problema es el gato\nde la familia...
+normal_cowardice_a:0.193	No para de escaparse.
+normal_cowardice_a:0.195	¡Hace un rato creí que\nlo habían secuestrado!
+normal_cowardice_a:0.197	¿Tiene algún problema,\n%s?
+normal_cowardice_a:0.202	Oiga, samurái…
+normal_cowardice_a:0.204	¿Sabe cuál es el secreto\npara sobrevivir en\nAmahara?
+normal_cowardice_a:0.205	Pues, si me pregunta...
+normal_cowardice_a:0.207	El secreto es no\nllamar la atención.
+normal_cowardice_a:0.211	No se meta en\nningún lío.
+normal_cowardice_a:0.212	Limítese a lo suyo.
+normal_cowardice_a:2.16	¡Aaah!\n¡%s!
+normal_cowardice_night_a:0.54	Esto queda entre usted\ny yo...
+normal_cowardice_night_a:0.56	Pero he oído que un samurái\nllamado %s\naterroriza el pueblo.
+normal_cowardice_night_a:0.60	¿Se lo puede creer?
+normal_cowardice_night_a:0.61	Un forastero como %s,\nviniendo aquí a\narmar lío.
+normal_cowardice_night_a:0.62	Ese %s\ndebe de ser un impresentable.
+normal_cowardice_night_a:0.64	Seguro que se equivoca.\nLo mismo le digo...\n¿Tengo algo en la cara?
+normal_cowardice_night_a:0.67	Bueno, solo es algo que\noí, así que no sé si\nes verdad o no...
+normal_cowardice_night_a:0.70	¡Será usted miserable,\nhijo de...!
+normal_cowardice_night_a:0.73	No, no veo nada\nen su...
+normal_cowardice_night_a:0.76	¡%s ----!
+normal_cowardice_night_a:0.77	¡Que alguien me ayude!
+normal_cowardice_night_a:0.83	Creo que me voy a casa.
+normal_cowardice_night_a:0.84	Antes de que %s\nme ataque...
+normal_cowardice_night_a:0.86	¡Por favor, no me haga daño!
+normal_cowardice_night_a:0.89	Ah, es usted.
+normal_cowardice_night_a:0.91	Corrían muchos rumores de\nque era un asesino o algo así...
+normal_cowardice_night_a:0.92	Pero en realidad es\nun guardia íntegro de Amahara.
+normal_cowardice_night_a:0.95	¡Siga así,\n%s!
+normal_cowardice_night_a:0.100	¡Puaj!!
+normal_cowardice_night_a:0.104	Hip... Sigo teniendo sed...
+normal_cowardice_night_a:0.108	Hola, %s.
+normal_cowardice_night_a:0.112	No conviene dormir sin ropa,\npor mucho calor que haga...
+normal_cowardice_night_a:0.113	Se va a resfriar.
+normal_cowardice_night_a:0.122	Qué buena noche hace.
+normal_cowardice_night_a:0.126	Pero desde luego hace calor.
+normal_cowardice_night_a:0.129	No puedo dormir en las noches\nde verano. Es horrible.
+normal_cowardice_night_a:0.137	¡Ah!
+normal_cowardice_night_a:0.138	¡A-asesino!
+normal_cowardice_night_a:0.140	No soy ningún asesino.\n¡Toma esto!
+normal_cowardice_night_a:0.141	¿Asesino...?
+normal_cowardice_night_a:0.146	Creo que me había equivocado.
+normal_cowardice_night_a:0.147	Perdone.
+normal_cowardice_night_a:0.155	Las calles no son seguras\npara andar de noche.
+normal_cowardice_night_a:0.157	¡S-solo no me mate!
+normal_cowardice_night_a:0.162	¡Es usted %s!\nEl famoso espadachín\nde Amahara!
+normal_cowardice_night_a:0.163	¡Es usted genial!
+normal_cowardice_night_a:0.165	¡Es usted una maravilla!
+normal_cowardice_night_a:0.168	Creo que me he enamorado\nde usted...
+normal_cowardice_night_a:0.174	¿Adónde va?
+normal_cowardice_night_a:0.176	Las calles son oscuras\nde noche, así que tenga cuidado.
+normal_cowardice_night_a:0.179	Debe de estar cansado\ntras un largo día de trabajo...
+normal_cowardice_night_a:0.184	¡Menudo tonto!
+normal_cowardice_night_a:0.185	¡No podría hacer nada\nsin su fuerza!
+normal_cowardice_night_a:0.187	¡No vaya paseando por el\npueblo con esos aires\ntan engreídos!
+normal_cowardice_night_a:0.192	¡Es %s!\nEl mesías de Amahara!
+normal_cowardice_night_a:0.194	¿Trabaja hasta tan tarde\npor el bien de los vecinos?
+normal_cowardice_night_a:0.199	Pero no trabaje demasiado.\n¡Es malo para la salud!
+normal_cowardice_night_a:0.200	Si cree que tiene algún problema,\n¡vaya a dormir un poco!
+normal_cowardice_night_a:0.210	¿Cree que existen\nlos fantasmas?
+normal_cowardice_night_a:0.211	Hay quien dice haberlos visto,\npero seguro que se equivoca.
+normal_cowardice_night_a:0.214	Por cierto...
+normal_cowardice_night_a:0.216	¿Ese samurái con armadura\nque tiene al lado es amigo\nsuyo?
+normal_cowardice_night_a:0.217	No ha dicho ni una palabra\nen todo este rato...
+normal_cowardice_night_a:0.220	Seguro que los fantasmas\nno existen.
+normal_cowardice_night_a:0.223	Oh, buenas noches,\n%s...
+normal_cowardice_night_a:0.230	Hola...
+normal_cowardice_night_a:0.231	Mi afición es escribir canciones.
+normal_cowardice_night_a:0.233	Pero últimamente no se me\nocurre ningún buen tema\npara escribir.
+normal_cowardice_night_a:0.238	He escrito una canción sobre\nusted. Escúchela, por favor.
+normal_cowardice_night_a:0.240	Estoy algo ocupado ahora.\nMe encantaría oírla.
+normal_cowardice_night_a:0.242	Si tiene prisa, nos vemos\nmás tarde.
+normal_cowardice_night_a:0.245	Pueeees....
+normal_cowardice_night_a:0.247	¡%s es\nun gran samurái!
+normal_cowardice_night_a:0.249	¡Un gran samurái!
+normal_cowardice_night_a:0.250	Tengo que irme...\nBasta ya...\n¡Un gran samurái!
+normal_cowardice_night_a:0.252	¡Salvador de Amahara!
+normal_cowardice_night_a:0.257	Tengo prisa...\nMejor siga con lo suyo.\n¡Un gran samurái!
+normal_cowardice_night_a:0.267	Ya...veo...\nQuizá otra vez...
+normal_cowardice_night_a:0.270	¡Pero si estoy\nen medio!
+normal_cowardice_night_a:0.279	La luna...es preciosa...
+normal_cowardice_night_a:0.282	Me lo he pasado\nen grande cantando.
+normal_cowardice_night_a:2.12	¡Tan tarde fuera,\n%s?!
+normal_damage_a:0.39	Soy un monje en formación.
+normal_damage_a:0.40	No me importa.\nSoy un samurái en formación.
+normal_damage_a:0.44	He superado muchas\nadversidades en mi peregrinaje\npor el país.
+normal_damage_a:0.45	Así aprendí la «técnica\npara soportar el dolor».
+normal_damage_a:0.47	¿Por qué no me ataca\ncon todo lo que tenga?
+normal_damage_a:0.49	Seguro que me vendría bien\nentrenar un poco...
+normal_damage_a:0.62	Llovió una lluvia\nde sangre...
+normal_damage_a:0.64	Fue casi como ver una\nvisión del futuro de Amahara...
+normal_damage_a:0.68	Dicen que todo tiene\nprincipio y fin...
+normal_damage_a:0.69	Solo rezo para que la sombra\nsobre Amahara se disipe pronto.
+normal_damage_a:5.4	¿Confía en su habilidad?
+normal_damage_a:7.22	¡Ni a una mosca le haría daño!\n...0 puntos.
+normal_damage_a:7.25	¿¡Qué ha sido eso!?\n...10 puntos.
+normal_damage_a:7.28	¿Eso es todo?\n...15 puntos.
+normal_damage_a:7.31	¡Ponga más empeño!\n...20 puntos.
+normal_damage_a:7.34	¡Con sentimiento!\n...28 puntos.
+normal_damage_a:7.37	¡Todo está en la muñeca!\n...35 puntos.
+normal_damage_a:7.40	Aún no es gran cosa...\n...40 puntos.
+normal_damage_a:7.43	¡No está mal...!\n...50 puntos.
+normal_damage_a:7.46	¡Un gran ataque!\n...56 puntos.
+normal_damage_a:7.49	¡Bien!\n...63 puntos.
+normal_damage_a:7.52	¡Siga así!\n...70 puntos.
+normal_damage_a:7.55	¡Lo hace muy bien!\n...80 puntos.
+normal_damage_a:7.58	¡Uf, por poco!\n...85 puntos.
+normal_damage_a:7.61	¡Me da algo de mareo!\n...90 puntos.
+normal_damage_a:7.71	Mis energías místicas\nse han agotado...
+normal_damage_a:8.2	¡Ese ha sido el golpe definitivo!
+normal_damage_a:8.4	No se olvide...\ncómo se hace...
+normal_dutiful_a:0.42	Oh, hola, samurái........
+normal_dutiful_a:0.44	Tiene mala cara.\nEstoy ocupado. Hasta luego.
+normal_dutiful_a:0.47	Pues, mi padre está\nenfermo...
+normal_dutiful_a:0.48	Tiene una enfermedad muy grave\ny no puede levantarse de la cama.
+normal_dutiful_a:0.49	Si pudiera comer\nuna bola de arroz, quizá\nse sentiría mejor.
+normal_dutiful_a:0.51	Es su comida favorita.
+normal_dutiful_a:0.52	Pero no tenemos dinero\npara comprar ninguna.
+normal_dutiful_a:0.59	Es terrible.\nLe doy la mía.\n¡No me lo pida!
+normal_dutiful_a:0.62	Es... Pero tengo que\nser fuerte.
+normal_dutiful_a:0.67	¡Mi padre se va a poner tan contento!
+normal_dutiful_a:0.72	Le ha dado su\nbola de arroz.
+normal_dutiful_a:0.85	Buenas noches, samurái.
+normal_dutiful_a:0.94	Puaj... Esta bola de arroz...\nestá podrida....
+normal_dutiful_a:0.105	Mi padre vuelve a estar enfermo...
+normal_dutiful_a:0.153	Seguro que mi padre se sentiría\nmejor si tuviera una bola de arroz...
+normal_dutiful_a:0.159	A mi padre le encanta el pescado seco.
+normal_dutiful_a:0.162	Los rábanos son suaves\npara el estómago, así que\nquisiera dárselo a mi padre...
+normal_dutiful_a:0.165	Creo que mi padre se sentiría\nmejor si tuviera unos dulces\nde alubia.
+normal_dutiful_a:0.168	Un extranjero me dijo que\nel ginseng es muy bueno\npara la salud...
+normal_dutiful_a:0.171	Creo que mi padre mejoraría\nsi tuviera unas sales aromáticas...
+normal_dutiful_a:0.174	Se me ha acabado la medicina\nque le daba a mi padre...
+normal_dutiful_a:0.177	¿Quizá el problema es que\nno tiene su querido sake...?
+normal_dutiful_a:0.180	Desde que enfermó, mi padre\nni ha podido usar polvo para espadas.
+normal_dutiful_a:0.183	Quizá sea porque perdió\nsu amuleto de la suerte...
+normal_dutiful_a:0.186	Leer pergaminos es una afición\nde mi padre...
+normal_dutiful_a:0.189	Mi padre no para de decir que\nquiere un rosario budista.
+normal_dutiful_a:0.192	Quizá lo único que le ayude\nsea un talismán.
+normal_dutiful_a:0.195	Si tuviera polvo de longevidad,\nmi padre quizá mejoraría...
+normal_dutiful_a:0.198	Desde que está enfermo, mi padre\nno ha podido pulir su espada...
+normal_dutiful_a:0.201	Quizá una muñeca Amagatsu\nlo protegiera de esta enfermedad...
+normal_dutiful_a:0.210	¡Quizá mi padre mejore\nun poco!
+normal_dutiful_a:0.212	¡Quizá mi padre esté\nmejor!
+normal_dutiful_a:0.214	¡Creo que mi padre está mejorando\npoco a poco!
+normal_dutiful_a:0.216	¡Gracias a usted, mi padre\nha mejorado mucho últimamente!
+normal_dutiful_a:0.218	¡Gracias a usted, mi padre\nya come con regularidad!
+normal_dutiful_a:0.220	¡Mi padre ya debería estar bien\npara salir afuera!\n¡Todo gracias a usted!
+normal_dutiful_a:0.243	Ha entregado\nuna bola de arroz.
+normal_dutiful_a:0.253	Ha entregado\nun pescado seco.
+normal_dutiful_a:0.258	Ha entregado\nun rábano.
+normal_dutiful_a:0.263	Ha entregado\nunos dulces de alubia.
+normal_dutiful_a:0.268	Ha entregado\nalgo de ginseng.
+normal_dutiful_a:0.273	Ha entregado\nunas sales aromáticas.
+normal_dutiful_a:0.278	Ha entregado\nunas medicinas.
+normal_dutiful_a:0.283	Ha entregado\nun poco de sake.
+normal_dutiful_a:0.288	Ha entregado\npolvo para espadas.
+normal_dutiful_a:0.293	Ha entregado\nun amuleto de la suerte.
+normal_dutiful_a:0.298	Ha entregado un pergamino.
+normal_dutiful_a:0.303	Ha entregado\nun rosario budista.
+normal_dutiful_a:0.308	Ha entregado\nun talismán.
+normal_dutiful_a:0.313	Ha entregado\npolvo de longevidad.
+normal_dutiful_a:0.318	Ha entregado\naceite para espadas.
+normal_dutiful_a:0.323	Ha entregado\nuna muñeca Amagatsu.
+normal_dutiful_a:0.327	Gracias a usted, mi padre\nse ha recuperado del todo.
+normal_dutiful_a:0.329	Seguramente está en el santuario\nahora. Le encanta ir allí.
+normal_dutiful_a:0.332	Creía que mi padre estaba\nbien del todo, pero no ha\nvuelto a casa...
+normal_dutiful_a:0.334	No lo habrá visto,\n¿verdad?
+normal_dutiful_a:0.337	...¿Está de broma?
