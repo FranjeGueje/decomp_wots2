@@ -1,0 +1,183 @@
+# 22_evil: matones y maleantes de la banda Aoto (evil_beginner_a, evil_executioner, evil_friendly_a/b, evil_hottemper_a). Tú a todos los matones; tono callejero y vulgar; el verdugo, seco y frío.
+evil_beginner_a:0.30	Oye, vaya arma\nllevas ahí.
+evil_beginner_a:0.32	¿Y por qué no la usas\npara la banda Aoto?
+evil_beginner_a:0.33	La banda Aoto es la yakuza\nque manda en Amahara.
+evil_beginner_a:0.35	Si quieres ser alguien aquí,\nmás te vale unirte a nosotros.
+evil_beginner_a:0.39	Solo procura no\ncruzarte con nosotros.
+evil_beginner_a:0.43	¡Vaya samurái\nmás asqueroso!
+evil_beginner_a:0.45	Pero esa arma no está\nmal del todo...
+evil_beginner_a:0.47	Oye, ¿buscas trabajo?\n¿Por qué no pruebas con\nla banda Aoto?
+evil_beginner_a:0.48	Seguro que podemos\nencontrarte algo\nque te venga bien.
+evil_beginner_a:0.52	¡Es tu oportunidad de formar\nparte del nuevo futuro\nde Amahara!
+evil_beginner_a:1.11	¡Ay!
+evil_beginner_a:1.13	¿Buscas bronca?
+evil_beginner_a:1.15	¡Venga, a por ti!
+evil_beginner_a:1.17	¿Qué miras?
+evil_beginner_a:1.42	¡Mierda!
+evil_beginner_a:1.44	¡Este tipo es fuerte!
+evil_beginner_a:3.16	¡Eh, se están peleando!
+evil_beginner_a:3.18	¡Están como locos!
+evil_beginner_a:3.20	¡Eh, chicos!
+evil_beginner_a:3.22	¿Me meto yo también?
+evil_beginner_a:3.65	¡N-no puede ser!
+evil_beginner_a:3.67	¡Joder!
+evil_beginner_a:3.69	¡Este es demasiado fuerte!
+evil_beginner_a:5.15	¿Quieres meterte conmigo?
+evil_beginner_a:5.17	¡Venga, ven!
+evil_beginner_a:5.19	¡V-venga!
+evil_beginner_a:5.21	¿Quieres pelear?
+evil_beginner_a:7.13	¡Joder, cómo duele!
+evil_beginner_a:7.15	¡Maldito hijo de...!
+evil_beginner_a:7.19	¡Te voy a pillar!
+evil_executioner:0.37	Las luciérnagas\nson muy bonitas.
+evil_executioner:0.40	Vaya, eres tú,\n%s.
+evil_executioner:0.42	Buenas noches.
+evil_executioner:0.43	Amahara es un buen sitio,\n¿verdad?
+evil_executioner:0.45	La verdad es que...
+evil_executioner:0.46	Tus malas artes son\nconocidas en toda Amahara.
+evil_executioner:0.48	Quizá hayas oído que me\nhan mandado a matarte.
+evil_executioner:0.50	Te has pasado de la raya.
+evil_executioner:0.55	Tranquilo, y\ndéjame hacer mi trabajo...
+evil_executioner:2.5	¿Ya has hecho el trabajo?
+evil_executioner:8.3	Tú sí que eres de verdad...
+evil_executioner:8.5	Un demonio en carne y hueso...
+evil_friendly_a:0.46	¿Eh?\nNo te veo mucho\npor aquí...
+evil_friendly_a:0.54	Bueno, no te entretengas\nmucho.\n¡A trabajar!
+evil_friendly_a:0.57	¿Te gusta tu trabajo?\nPues ponte a hacerlo,\n¡ya!
+evil_friendly_a:0.60	Lo estás haciendo muy bien.\nTienes cara de profesional.\n¡Sigue así!
+evil_friendly_a:0.63	Lo estás haciendo genial.\nPero no te mates a trabajar.\nVete a casa temprano y descansa.
+evil_friendly_a:0.66	Trabajas demasiado.\nTu cuerpo es tu templo.\nCuídalo.
+evil_friendly_a:0.69	Hay más en la vida que\nel dinero, dinero, dinero.\n¿Verdad?
+evil_friendly_a:0.71	¿Eh? Ah, eres tú,\n%s.
+evil_friendly_a:0.85	Te estás ganando una\nfama de mierda por aquí.
+evil_friendly_a:0.86	Menos mal que la mayoría\nno te conoce la cara,\no ya tendrías problemas.
+evil_friendly_a:0.89	Estoy mirando los nombres\nde todos los que han\nllegado a Amahara.
+evil_friendly_a:0.90	¡Tienes que aportar más\na la organización!\n¡Sube en la vida!
+evil_friendly_a:0.91	¡Vive a lo grande!
+evil_friendly_a:0.94	Últimamente lo estás\nhaciendo bastante bien.\nTu fama no está nada mal.
+evil_friendly_a:0.95	Sigue así, por el bien\nde la organización. ¿Vale?
+evil_friendly_a:0.98	Les caes muy bien a los\nmás jóvenes de la banda.
+evil_friendly_a:0.99	¡Sigue así! ¡Eres un\nejemplo para todos!
+evil_friendly_a:0.102	Dicen que alguien como tú\naparece cada diez años.
+evil_friendly_a:0.103	¡Haré lo posible por\nestar a tu altura!
+evil_friendly_a:0.106	¡Eres el puto amo!
+evil_friendly_a:0.110	Uf...
+evil_friendly_a:0.112	Me metí con un crío\nen el santuario...
+evil_friendly_a:0.113	y el muy cabrón acabó\ndándome una paliza a mí.
+evil_friendly_a:0.118	Y luego se metieron\nsus amigos...
+evil_friendly_a:0.120	¡Ve y dales una\nlección, %s!
+evil_friendly_a:0.125	Oye, tú...
+evil_friendly_a:0.127	¿Conoces a un magistrado\nllamado Nakamura Sosuke?
+evil_friendly_a:0.129	¿Ese?\n¿Quién es?
+evil_friendly_a:0.134	Sí, ese.
+evil_friendly_a:0.135	Por mucho que parezca\ny se comporte así...
+evil_friendly_a:0.138	Dicen que es un luchador\nbastante fuerte.
+evil_friendly_a:0.139	Un amigo de un amigo\nlo vio pelear una vez.
+evil_friendly_a:0.141	¡Decían que era\nun monstruo!
+evil_friendly_a:0.142	Claro, no sé si es verdad,\npero...
+evil_friendly_a:0.144	Decían que mandó volar\na tres tipos con un\nsolo movimiento.
+evil_friendly_a:0.146	Vale, eso es mentira...
+evil_friendly_a:0.148	¡Pero al parecer\nera bastante impresionante!
+evil_friendly_a:0.154	Es el magistrado raro\nde piel pálida. Va\nmaquillado hasta arriba... ¿verdad?
+evil_friendly_a:0.155	Pinta lo que pinta, pero\ndicen que es más fuerte\nque Goshiro.
+evil_friendly_a:0.157	Raro, ¿eh?
+evil_friendly_a:0.159	Creo que debería ir\nal dojo a entrenar...
+evil_friendly_a:0.165	Pues el magistrado jefe\ny Muto la han palmado.
+evil_friendly_a:0.167	Supongo que ahora la\nbanda Aoto manda en todo.
+evil_friendly_a:0.171	Lo que espero es que la\ncomida mejore a partir de ahora...
+evil_friendly_b:0.46	%s --
+evil_friendly_b:0.47	Has llegado justo a tiempo.
+evil_friendly_b:0.49	Déjame enseñarte la patada\nsecreta de la banda Aoto.
+evil_friendly_b:0.51	Enséñame tus movimientos.\nAhora estoy muy ocupado.
+evil_friendly_b:0.54	¡Vale!\n¡Fíjate bien!
+evil_friendly_b:0.58	Ah, ya veo...
+evil_friendly_b:0.60	¡Me costó dos años\naprender esta patada!
+evil_friendly_b:0.70	¡Eh, inútil!
+evil_friendly_b:0.72	¿No sabes ni trabajar\nun día decente, eh?
+evil_friendly_b:0.73	Eres un blandengue...
+evil_friendly_b:0.77	Tienes que currar más.
+evil_friendly_b:0.78	¡A trabajar!
+evil_friendly_b:0.80	Oye, %s.\nÚltimamente lo estás\nhaciendo bien.
+evil_friendly_b:0.81	Hasta la cara\nse te ve distinta.
+evil_friendly_b:0.83	Pareces más valiente.
+evil_friendly_b:0.85	Eres un buen currante.\nBuen trabajo.
+evil_friendly_b:0.87	He cambiado de opinión\nsobre ti.
+evil_friendly_b:0.89	Eres la cara nueva más\nimpresionante de la\nbanda Aoto.
+evil_friendly_b:0.91	Todos en la banda\nte respetan.
+evil_friendly_b:0.92	Esperamos que te quedes\ncon nosotros mucho tiempo.
+evil_friendly_b:0.94	Bueno,\nme toca trabajar.
+evil_friendly_b:0.100	Oye %s,\nescucha...
+evil_friendly_b:0.101	Y-yo... La verdad es que...
+evil_friendly_b:0.102	Estoy colado por\nKyojiro...
+evil_friendly_b:0.106	¡No se lo cuentes a nadie!
+evil_friendly_b:0.107	¿Vale?\n¡No se lo cuentes a nadie!
+evil_friendly_b:0.109	O-Kyo-san...
+evil_friendly_b:0.113	Dime qué le gusta\na Kyojiro.
+evil_friendly_b:0.114	Le gustan los currantes.\n¡Le gusta la sangre!\nMmm... ¿Flores?
+evil_friendly_b:0.115	Oye, a ti tampoco\nte gusta ella, ¿no?
+evil_friendly_b:0.117	¡Claro!
+evil_friendly_b:0.119	¡A partir de ahora\nme parto el lomo!
+evil_friendly_b:0.120	¡Gracias por tu ayuda,\n%s!
+evil_friendly_b:0.124	¡Uy!
+evil_friendly_b:0.125	Debí imaginármelo...
+evil_friendly_b:0.126	¿Sangre, eh?
+evil_friendly_b:0.128	Es... más femenina\nde lo que esperaba.
+evil_friendly_b:0.135	Eh.....
+evil_friendly_b:0.143	Me da un poco de vergüenza.
+evil_friendly_b:0.144	Es que no me gusta\nconocer a gente...
+evil_friendly_b:0.146	Bienvenido de vuelta,\n%s.
+evil_friendly_b:0.147	Obedeceré cualquier orden\nque me des, %s.
+evil_friendly_b:0.149	¡Dime qué tengo que hacer!
+evil_friendly_b:0.151	Reírse a carcajadas.\n¡Bailar!\n¡Una patada!
+evil_friendly_b:0.153	Vale, quizá\nla próxima vez.
+evil_friendly_b:0.161	¡Hola!
+evil_friendly_b:0.163	¡Bienvenido de vuelta!
+evil_friendly_b:0.168	No se lo cuentes a nadie.
+evil_friendly_b:0.170	Pero fui yo quien mató\nal magistrado jefe...
+evil_friendly_b:0.174	¡Y a Muto Goshiro también!
+evil_friendly_b:1.17	¡¿Qué miras?!
+evil_friendly_b:1.45	¡Joder!
+evil_friendly_b:1.47	¡E-eres demasiado fuerte!
+evil_friendly_b:7.64	¡Hostia!
+evil_hottemper_a:0.60	Je, je, je. ¿Sabes alguna\nbuena forma de sacar\nalgo de pasta?
+evil_hottemper_a:0.61	Debería haber un montón\nde formas en un pueblo\ncomo este...
+evil_hottemper_a:0.65	Je. En un pueblo como\neste tiene que haber mil\nformas de ganar pasta...
+evil_hottemper_a:0.67	Je, je.  %s,\n¿sabes alguna buena forma\nde ganar pasta?
+evil_hottemper_a:0.73	Amahara está llena de\ngentuza de todas partes.
+evil_hottemper_a:0.74	Igual me muero aquí,\nquién sabe.\nJe, je, je...
+evil_hottemper_a:0.78	Aquí he acabado\ntras una vida de delitos...\nJe, je, je...
+evil_hottemper_a:0.85	¿Qué? ¿Qué?\n¿Tengo algo en la cara?
+evil_hottemper_a:0.87	¡No me mires,\nsamurái de mierda!
+evil_hottemper_a:0.91	¡Eh, colega! ¡Deja de\nmirarme ahí plantado,\nsamurái de pacotilla!
+evil_hottemper_a:0.93	¡No me mires así,\n%s!
+evil_hottemper_a:0.99	Je, je.\n¿No habrá alguna forma fácil\nde ganar pasta?
+evil_hottemper_a:0.100	Uno pensaría que sí,\nen un pueblo como\nAmahara...
+evil_hottemper_a:0.104	Pasta fácil,\n¡ese es mi sueño!
+evil_hottemper_a:0.106	Je, je.  %s,\n¿no hay alguna forma fácil\nde ganar pasta?
+evil_hottemper_a:0.112	¡Los samuráis no me asustan!\nNo tengo pinta de nada,\n¡pero no me da miedo morir!
+evil_hottemper_a:0.113	Por llevar esa espada te\ncrees que puedes con todo,\n¡cabrón!
+evil_hottemper_a:0.117	¡Ni me vengas con esas!\n¡Basura de samurái!
+evil_hottemper_a:0.119	¡Eh, %s!\nÚltimamente te estás\ndando mucho pisto.
+evil_hottemper_a:0.120	Me da igual que seas\nsamurái. ¡Pero no te\nlo creas, idiota!
+evil_hottemper_a:0.127	¿Qué? ¿No ves que estoy\nintentando pensar?!
+evil_hottemper_a:0.131	¿Ceno tofu o pescado?\nMmm...\n¡No me decido!
+evil_hottemper_a:0.133	¡%s! Estoy\nocupado pensando.\n¿Me dejas en paz?
+evil_hottemper_a:0.139	¡Los magistrados se están\nhaciendo insoportables\nestos días!
+evil_hottemper_a:0.140	No paran, por muchos\nque detengan a los nuestros!
+evil_hottemper_a:0.144	¡No soporto a esos\nmagistrados! ¡De verdad!
+evil_hottemper_a:0.151	¡Quiero pelea! ¡Me da igual\ncon quién! ¡Una pelea gorda!
+evil_hottemper_a:0.153	¡Eh, samurái! Me sirves.\n¿Nos liamos a hostias?\n¿Vale?
+evil_hottemper_a:0.157	Los incendios y las peleas\nadornan Amahara como flores.\n¡A pelear! ¡A pelear!
+evil_hottemper_a:0.159	¡Eh, %s!\nMe sirves. ¡A pelear!
+evil_hottemper_a:1.17	¿Y tú qué miras?!
+evil_hottemper_a:1.19	¡¿Te crees mejor que yo?!
+evil_hottemper_a:1.51	N-no sirve de nada...
+evil_hottemper_a:1.57	A-ayúdame...
+evil_hottemper_a:2.17	¡Ahí estás!
+evil_hottemper_a:3.20	¿Una pelea?!
+evil_hottemper_a:3.22	¡Una pelea! ¡Por fin!
+evil_hottemper_a:3.24	¡Yo también!
+evil_hottemper_a:3.26	¡Déjame meterme!
+evil_hottemper_a:3.78	No sirve de nada...
+evil_hottemper_a:5.23	¿Quieres que te maten?!
+evil_hottemper_a:7.21	¡Eso no lo perdono!
