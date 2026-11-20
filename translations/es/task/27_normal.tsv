@@ -1,0 +1,218 @@
+# Tanda 27_normal: vecinos y gente corriente (bushido, herrero, choques por la calle).
+normal_bushido_b:0.61	Hay de todo entre\nlos samuráis...
+normal_bushido_b:0.62	Los samuráis pobres como yo\ntenemos que ganarnos la vida.
+normal_bushido_b:0.64	Vine desde muy lejos a\nAmahara buscando trabajo,\n¿y ahora qué hago?
+normal_bushido_b:0.68	Quizá alguien me contrate\ncomo guardaespaldas.\nSé manejar la espada...
+normal_bushido_b:0.70	Hay de todo entre\nlos samuráis, como sabes,\n%s.
+normal_bushido_b:0.76	Hoy en día hay tantos\nsamuráis idiotas por ahí.
+normal_bushido_b:0.78	Serán buenos samuráis,\npero están lejos de ser\nbuenas personas.
+normal_bushido_b:0.82	Intimidar al pueblo llano\nno tiene nada que ver con\nser samurái...
+normal_bushido_b:0.84	Hoy en día hay tantos\nsamuráis idiotas por ahí,\n%s.
+normal_bushido_b:0.89	¡¿Qué?! ¿Y tú qué quieres de mí?!\n¡Si no tengo ni un mon!
+normal_bushido_b:0.94	Si vas a atracar a alguien,\nelige a uno que tenga dinero.
+normal_bushido_b:0.96	Sé que tendrás tus problemas,\npero no tengo ni un mon, %s.
+normal_bushido_b:0.102	Si tienes poder para\nmatar a alguien...
+normal_bushido_b:0.103	También tienes poder para\ndejarle vivir. Eso me lo\nenseñó un monje.
+normal_bushido_b:0.107	Matar a alguien puede ser\nla opción fácil, pero no\nsiempre la mejor.
+normal_bushido_b:0.109	%s...\nSi tienes poder para\nmatar a alguien...
+normal_bushido_b:0.115	Una pelea entre los\nmagistrados y la banda\nAoto...
+normal_bushido_b:0.116	¿Qué bien puede salir\nde eso?
+normal_bushido_b:0.117	Eso es lo que pienso de\nverdad, pero, por otra\nparte...
+normal_bushido_b:0.119	Un samurái no puede vivir\nsin la oportunidad de\nempuñar su espada...
+normal_bushido_b:0.123	Quizá debería buscar\notro trabajo...
+normal_bushido_b:0.125	Una pelea entre tú, los\nmagistrados y la banda Aoto...
+normal_bushido_b:0.131	Hay una sorprendente\ncantidad de naturaleza\nalrededor de Amahara...
+normal_bushido_b:0.132	Es casi increíble.\nEsta isla está llena de naturaleza.
+normal_bushido_b:0.136	Hay más verde por aquí\nde lo que esperaba.
+normal_bushido_b:0.138	¿Qué tal estás hoy,\n%s?
+normal_bushido_b:0.143	¡No me hables, escoria\nsamurái!
+normal_bushido_b:0.145	...Eso es lo que decían\nmuchos samuráis engreídos.
+normal_bushido_b:0.147	Pero se acabó esa clase de\ntonterías. Trabajemos juntos.
+normal_bushido_b:0.151	Les costará tiempo a samuráis\ny campesinos entenderse.
+normal_bushido_b:0.153	...Eso es lo que decían\nesos samuráis engreídos, %s.
+normal_bushido_b:0.158	Vine a Amahara en busca\nde una espada famosa...
+normal_bushido_b:0.161	¡Esa espada que llevas!\n¿Será posible...?
+normal_bushido_b:0.164	...No, no brilla tanto\ncomo la que busco.
+normal_bushido_b:0.168	Tengo muy mala vista...
+normal_bushido_b:0.170	¡%s!\n¡Esa espada que llevas!\n¿Será posible...?
+normal_bushido_b:1.15	¡Vaya empujón me has dado!
+normal_bushido_b:1.17	¡Me has manchado la ropa!
+normal_bushido_b:1.53	Eres bastante bueno...
+normal_bushido_b:1.55	¡Hoy no estoy en forma...!
+normal_bushido_b:1.57	Ya basta de esto...
+normal_bushido_b:2.15	¡%s!\n¡Prepárate!
+normal_bushido_b:2.17	¡He venido a castigarte!
+normal_bushido_b:3.13	¡Te ayudo!
+normal_bushido_b:3.19	¡Estás en racha!
+normal_bushido_b:5.17	¿¡Eres un enemigo!?
+normal_bushido_b:5.21	¡Me has asustado!
+normal_bushido_b:7.19	Pedazo de miserable...
+normal_bushido_b:7.21	¿¡Quieres ver el infierno?!\n¡Te lo puedo arreglar!
+normal_bushido_b:7.23	¡Creo que me he equivocado!
+normal_bushido_smith_a:0.41	No tengo nada que enseñar\na un criminal como tú.
+normal_bushido_smith_a:0.42	¡Lárgate de Numata-cho!\nNo... ¡Lárgate de Amahara!
+normal_bushido_smith_a:0.44	...¿Qué pasa?
+normal_bushido_smith_a:0.47	¿Por qué no te largas\nde aquí?
+normal_bushido_smith_a:0.50	Pareces nuevo en\nAmahara...
+normal_bushido_smith_a:0.52	Déjame darte un consejo,\nde espadachín a espadachín...
+normal_bushido_smith_a:0.54	¡Ve a la herrería!
+normal_bushido_smith_a:0.55	¿Dices que hasta la peor espada\nsirve si eres lo bastante hábil?
+normal_bushido_smith_a:0.57	Puede que sea así, pero no\ntiene sentido luchar con\nuna desventaja.
+normal_bushido_smith_a:0.58	Un samurái de verdad cuida\nbien de sus armas.
+normal_bushido_smith_a:0.62	Haz lo que puedas...
+normal_bushido_smith_a:0.65	¿Entiendes lo que es la\ncalidad de una espada?
+normal_bushido_smith_a:0.67	Eso se ve con solo mirarla,\npero cada espada tiene\nsu propia calidad.
+normal_bushido_smith_a:0.68	Cuanta más calidad tiene,\nmás afilada es la espada.
+normal_bushido_smith_a:0.70	Y las espadas de gran calidad\nsacan más partido del\ntrabajo en la herrería.
+normal_bushido_smith_a:0.71	Claro...
+normal_bushido_smith_a:0.73	La calidad de una espada sube\ncuando el herrero la trabaja...
+normal_bushido_smith_a:0.75	Así que se podría decir que\ncuanto más la mejores,\nmás afilada puede quedar.
+normal_bushido_smith_a:0.77	Ahora que lo sabes,\nve a la herrería.
+normal_bushido_smith_a:0.84	¿Has llevado tus espadas\nal herrero?
+normal_bushido_smith_a:0.86	Entonces la calidad de tus\nespadas debería haber mejorado.
+normal_bushido_smith_a:0.89	Pero hay un límite a lo alta que\npuede llegar la calidad de una espada...
+normal_bushido_smith_a:0.90	Si no tienes cuidado e intentas\nseguir mejorando una espada\npasado ese límite...
+normal_bushido_smith_a:0.92	¡Puede romperse!
+normal_bushido_smith_a:0.93	¡Cuidado!
+normal_bushido_smith_a:0.95	Claro que el límite es\nsolo una guía...
+normal_bushido_smith_a:0.96	Hay espadas que aguantan\nser mejoradas más allá del límite.
+normal_bushido_smith_a:0.100	Usa una espada de muy alta calidad\nsi quieres mejorarla mucho.
+normal_bushido_smith_a:0.101	Una verdadera obra maestra\ntendrá un límite de mejora\nmuy alto.
+normal_bushido_smith_a:0.104	¿Qué tal van tus espadas?
+normal_bushido_smith_a:0.106	Las espadas tienen algo que\nse llama «durabilidad».
+normal_bushido_smith_a:0.107	Es lo resistente que\nes una espada.
+normal_bushido_smith_a:0.109	Cuanto más uses tu espada,\nmás tensión se acumula...
+normal_bushido_smith_a:0.110	Si esa tensión supera la\ndurabilidad de la espada...
+normal_bushido_smith_a:0.114	Una espada rota no se puede\nreparar, así que ten cuidado.
+normal_bushido_smith_a:0.118	Te hablaré más de la\ndurabilidad la próxima vez.
+normal_bushido_smith_a:0.119	Si vas a usar mucho tu espada,\n¡sube su durabilidad!
+normal_bushido_smith_a:0.122	¿Te cuento más sobre\nla durabilidad?
+normal_bushido_smith_a:0.124	Dicen que quien ataca primero\nen un combate lleva ventaja...
+normal_bushido_smith_a:0.126	Con la tensión de la espada\npasa lo mismo: el que defiende\nlleva desventaja.
+normal_bushido_smith_a:0.128	Piensa en las hojas de un\ndefensor y de un atacante...
+normal_bushido_smith_a:0.129	La hoja del defensor recibe\ntoda la fuerza del golpe\nen un solo punto.
+normal_bushido_smith_a:0.131	Si no quieres romper tu espada,\nno pases todo el tiempo defendiéndote.
+normal_bushido_smith_a:0.133	Además, las técnicas más poderosas\nson también las que más tensión causan.
+normal_bushido_smith_a:0.135	Así que no olvides fijarte\nen tu espada al luchar...
+normal_bushido_smith_a:0.138	¿Has usado alguna vez\nuna espada de esgrima?
+normal_bushido_smith_a:0.140	Son más rápidas y potentes\nque casi todas las demás\nespadas...
+normal_bushido_smith_a:0.141	Pero por su diseño\nespecializado, se rompen\nmuy fácilmente.
+normal_bushido_smith_a:0.143	Si tienes ocasión de usar una,\nintenta acabar pronto.
+normal_bushido_smith_a:0.145	Al fin y al cabo, si la espada\nse rompe, no podrás\nparar los ataques.
+normal_bushido_smith_a:0.149	¿Coleccionas espadas?
+normal_bushido_smith_a:0.151	Si es así, seguramente\nel armero se te está llenando.
+normal_bushido_smith_a:0.153	Deberías mandar\nagrandarlo.
+normal_bushido_smith_a:0.155	He oído que hay un carpintero\nmuy hábil por algún sitio de Amahara.
+normal_bushido_smith_a:0.156	Al parecer hace armeros...
+normal_bushido_smith_a:0.157	Pero yo sigo buscándolo...
+normal_bushido_smith_a:0.159	¿Dónde andará?
+normal_bushido_smith_a:0.163	Tengo la sensación de que anda\npor aquí cerca...
+normal_bushido_smith_a:0.165	¿Coleccionas espadas,\n%s?
+normal_bushido_smith_a:1.5	La herrería está por allí.
+normal_bushido_smith_a:3.2	¡Nada de peleas cerca\nde la herrería!
+normal_bushido_smith_a:5.3	¿Sigues siendo joven\ne impulsivo, verdad?
+normal_bushido_smith_a:7.6	¿Me estás retando?
+normal_collision_a:0.46	¡Ahhh! ¡Un samurái!\n¡No estoy haciendo nada malo!\n¡No me mates!
+normal_collision_a:0.48	¡Te parto en dos!\nYo no soy así.
+normal_collision_a:0.50	No volveré a hacer nada malo,\n¡no me hagas daño!
+normal_collision_a:0.52	¡Pero no robaré comida,\npor hambriento que esté!
+normal_collision_a:0.53	¡Y tampoco robaré nada más!\n¡Te lo prometo!
+normal_collision_a:0.56	¡Lo siento! ¡Fui yo el que\nrobó los rábanos de los vecinos!
+normal_collision_a:0.58	¡Y también cogí un poco de\nsu guiso! ¡Fui yo solo!
+normal_collision_a:0.63	¿Quieres decir que no vienes\na castigarme por robar comida?
+normal_collision_a:0.65	¡Pues olvídate de todo lo que he dicho!
+normal_collision_a:0.67	Tengo hambre...
+normal_collision_a:0.73	¿Has estado alguna vez\nen la posada Amakaze?
+normal_collision_a:0.74	Todas las chicas de allí\nson muy guapas.
+normal_collision_a:0.76	Le pregunté a mamá si ella\nsería guapa también si fuera allí.
+normal_collision_a:0.77	¡Pero se enfadó mucho!
+normal_collision_a:0.81	No sé por qué se enfadaría\nasí...
+normal_collision_a:0.83	Solo le dije cómo\nponerse guapa...
+normal_collision_a:0.85	¿Has estado alguna vez\nen la posada Amakaze, %s?
+normal_collision_a:0.90	¡Cuando crezca, seré\nun samurái fuerte!
+normal_collision_a:0.92	Mi papá murió, así que\ntengo que proteger a mamá.
+normal_collision_a:0.94	Mamá parece dura a veces,\npero en el fondo es muy frágil.
+normal_collision_a:0.95	Llora todas las noches\ndespués de que me acuesto.
+normal_collision_a:0.99	¡Quiero hacerme grande y fuerte\npara proteger a mamá!
+normal_collision_a:0.101	¡Cuando crezca, seré fuerte\ncomo tú, %s!
+normal_collision_a:0.105	He buscado a mi papá por\ntodas partes, pero no lo encuentro.
+normal_collision_a:0.107	Claro que, si no está en la bodega,\nno hay más sitios donde buscar.
+normal_collision_a:0.109	Quizá se haya quedado tirado\nen algún lado de la carretera...
+normal_collision_a:0.111	¿Y qué hará si lo detienen?\nDe verdad...
+normal_collision_a:0.115	Me pregunto adónde habrá ido\nmi papá...
+normal_collision_a:0.117	No lo habrás visto, ¿verdad, %s?
+normal_collision_a:1.13	¡Ay!
+normal_collision_a:2.46	¡Ayyy!
+normal_collision_a:2.48	¡Este mocoso me ha pegado\nen mi pierna preciosa!
+normal_collision_a:2.50	¡Me han hecho polvo\nlos huesos!
+normal_collision_a:2.52	¡P-perdón!
+normal_collision_a:2.54	Si pedir perdón lo arreglara\ntodo, no harían falta\nmagistrados.
+normal_collision_a:2.56	Métete con alguien de tu tamaño.\nSí, mocoso idiota.
+normal_collision_a:2.58	Vaya. No se gana dinero\ntratando con niños.
+normal_collision_a:2.59	¡Waaaah!
+normal_collision_a:2.62	¡Este mocoso acaba de\nchocarse conmigo!
+normal_collision_a:2.64	¡Me he roto la pierna!
+normal_collision_a:2.68	Eres un tipo razonable.
+normal_collision_a:2.70	¿Entonces no tienes\nningún problema...?
+normal_collision_a:2.72	Te la rompo de verdad.\n¡Mocoso irresponsable!
+normal_collision_a:2.80	¡Solo estaba de broma!
+normal_collision_a:2.82	No hace falta enfadarse.
+normal_collision_a:2.85	¡Gracias, samurái!
+normal_collision_a:2.91	¡Waaah!
+normal_collision_a:2.93	¡Gracias, %s!
+normal_collision_a:2.98	¡Este mocoso me ha chocado\ncontra la pierna sin pedir\nperdón!
+normal_collision_a:2.100	¡Mi preciosa pierna\nestá rota!
+normal_collision_a:2.108	Vaya. Con niños no\nse saca ni un mon.
+normal_collision_a:2.117	...Así es como Ichikichi\nacosa a los niños...
+normal_collision_a:2.118	¿Pero eso está bien de verdad?
+normal_collision_a:2.122	Oye, ¿no eres %s?\n¿Qué tal te va?
+normal_collision_a:2.124	Como ves, me va de maravilla.\n¡Ningún problema por aquí!
+normal_collision_a:2.136	¡%s!!!
+normal_collision_a:2.138	¡Ah! ¡%s me está secuestrando!
+normal_collision_a:2.140	¡Waaa!\n¿%s?
+normal_collision_b:0.49	Oye, samurái, prueba a tomarte\nun poco de esta medicina.
+normal_collision_b:0.51	Tiene pinta rara.\n¡Bueno, lo probaré!\n¿Qué pretendes?
+normal_collision_b:0.53	No te hará daño...\nCreo.
+normal_collision_b:0.56	¡Quiero ser igual que el doctor\nGenan cuando sea mayor!
+normal_collision_b:0.63	Esta medicina parece buena...\n¡Genial! ¡Un paso más cerca\ndel doctor Genan!
+normal_collision_b:0.70	Hum. Creo que era veneno.\nNo me sale como al doctor Genan...
+normal_collision_b:0.73	¡Quiero ser médico, igual que\nel doctor Genan!
+normal_collision_b:0.74	Pero no tengo dinero para\npagarme la escuela.
+normal_collision_b:0.75	Así que tengo que probar mis\ninventos con mucha gente...
+normal_collision_b:0.77	Me queda un largo camino...
+normal_collision_b:0.79	Oye, %s,\nprueba un poco de esta medicina.
+normal_collision_b:0.85	Mi abuelo dice que mataron al doctor\nGenan porque hizo algo malo.
+normal_collision_b:0.87	¿Tú crees que también era malo?
+normal_collision_b:0.89	No lo sé...\nSí, era un hombre malo.\nNo, no lo creo.
+normal_collision_b:0.91	No tienes que contestar\nsi no puedes...
+normal_collision_b:0.97	¡Pero el doctor Genan ayudó\na mucha gente en el pasado!
+normal_collision_b:0.98	¿Cuál crees que es peor?
+normal_collision_b:0.100	¿Un médico que se niega a atender\na los pobres, o el doctor Genan,\nque intentó ayudar?
+normal_collision_b:0.103	Una vez le dije al doctor Genan\nque quería ser médico...
+normal_collision_b:0.104	Me dijo: «Puedes ser médico.\nSolo no seas como yo...»
+normal_collision_b:0.105	Lo dijo sonriendo.
+normal_collision_b:0.107	Pero aun así quiero ser médico\ncomo el doctor Genan.
+normal_collision_b:0.109	Snif... Doctor Genan...
+normal_collision_b:0.111	¿Crees que el doctor Genan era\nuna mala persona, %s?
+normal_collision_b:0.117	Salí a pasear con mi hermanita,\npero nos separamos...
+normal_collision_b:0.118	Nunca había estado\npor esta zona...
+normal_collision_b:0.120	Mi hermana debe de estar\nllorando en algún sitio.
+normal_collision_b:0.121	Pobrecita...\n¡Waaah! ¡Waaah!
+normal_collision_b:0.125	¿Dónde estará mi hermanita?\n¡Waaaah!
+normal_collision_b:0.127	Iba paseando con mi hermanita,\npero la perdí, %s...
+normal_collision_b:0.132	¡Cuando crezca, entraré\nen la banda Aoto!
+normal_collision_b:0.134	¡Los yakuza se dan aires\ny se llevan lo que quieren!
+normal_collision_b:0.138	¿Qué tipo de tonto querría\nvivir una vida honrada?
+normal_collision_b:0.139	Mi papá dice lo mismo.
+normal_collision_b:0.141	¡Oye, %s!\n¡Cuando crezca, entraré\nen la banda Aoto!
+normal_collision_b:0.146	¿De verdad que si te mueres\ny te vuelves fantasma ya no\ntienes hambre?
+normal_collision_b:0.147	Si es así, ¡quiero ser fantasma!
+normal_collision_b:0.152	¡Tengo tanta hambre que me\ncomería un caballo!
+normal_collision_b:0.154	¡Puedes hacerte fantasma\nconmigo, %s!
+normal_collision_b:2.48	Oye, mocoso... ¿Ni siquiera\nsabes pedir perdón?
+normal_collision_b:2.50	¡Me has roto mi preciosa pierna!
+normal_collision_b:2.64	¡Me han hecho polvo\nlos huesos!
+normal_collision_b:2.80	¡Eh, tranquilo! ¡Solo estaba\nde broma con nuestro amiguito!
+normal_collision_b:2.82	No te enfades...
+normal_collision_b:2.85	¡Gracias, samurái!
+normal_collision_b:2.114	¡Me han hecho añicos\nlos huesos!
