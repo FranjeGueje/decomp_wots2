@@ -42,3 +42,228 @@ normal_beginner_area_a:0.109	Pruebe a ir allí\npor la mañana.
 normal_beginner_area_a:0.111	Le envidio,\nsamurái.
 normal_beginner_area_a:0.113	Nuestro maestro es muy\nfuerte. Es famoso incluso\nfuera de Amahara.
 normal_beginner_area_a:0.115	Así que también viene\nmucho retador.\nEs un fastidio.
+
+# normal_area_a: vecinos y guías de las calles (usted al protagonista). Hombre en 0.77 y 0.81 («mi mujer», «vine a pedir»).
+normal_area_a:0.29	La Puerta Otemon es la entrada\na Amahara, así que aquí hay\nmuchos mercaderes.
+normal_area_a:0.31	Amakaze-cho es un barrio\nde Amahara que creció alrededor\nde la Posada Amakaze.
+normal_area_a:0.33	Esta es la Magistratura\nde Amahara.
+normal_area_a:0.35	Este es el cuartel de los Aoto.\nMejor siga su camino...
+normal_area_a:0.40	Aquella fiesta fue un desastre...
+normal_area_a:0.42	El Santuario de Amahara está\nmuy ocupado preparando\nla fiesta del día 26.
+normal_area_a:0.44	Un poco más...
+normal_area_a:0.45	¡No puedo esperar a la fiesta!
+normal_area_a:0.47	¡Por fin! ¡La fiesta es mañana!
+normal_area_a:0.48	¡Vamos a divertirnos\nhasta caer rendidos!
+normal_area_a:0.50	¿Qué se le ha perdido aquí,\nen las afueras?
+normal_area_a:0.52	Nunca me acabo de acostumbrar\na las calles de laberinto\nde Otsuka-cho.
+normal_area_a:0.54	Hay mucho tipo sospechoso\npor aquí, en Numata-cho.\nTenga cuidado.
+normal_area_a:0.56	Hay gourmets que vienen a Amahara\nsolo para visitar este restaurante.
+normal_area_a:0.58	Shikano-cho es un barrio obrero,\ny hay mucha gente pobre.
+normal_area_a:0.60	%s,\nme alegra verle.
+normal_area_a:0.73	No, sigo sin saber nada\nde esta zona.
+normal_area_a:0.75	Esta es la entrada a Amahara.\nLos magistrados están de guardia.
+normal_area_a:0.77	No querría que mi mujer me viera\nen un sitio así...
+normal_area_a:0.79	Aquí vive el gran magistrado jefe\nKuroha.
+normal_area_a:0.81	Vine a pedir un poco de dinero\nprestado, pero no me atreví\na preguntar...
+normal_area_a:0.88	La fiesta solo es una vez al año,\n¡así que hay que aprovecharla!
+normal_area_a:0.92	Por mucho que cumpla años,\n¡sigo emocionándome con la fiesta!
+normal_area_a:0.94	Casi se olvida uno de que está\nen Amahara al mirar estas\nplantas y estos árboles...
+normal_area_a:0.96	¡Una vez me perdí por estas calles\ny acabé en un lío terrible!
+normal_area_a:0.98	A los extranjeros también parece\ngustarles los baños de por aquí.
+normal_area_a:0.100	Algún día me gustaría comer\nhasta hartarme en este restaurante...
+normal_area_a:0.102	El paisaje de por aquí\nme relaja mucho.
+
+# normal_barker_a: pregonero de un restaurante (usted al protagonista). 7.6 es un comentario para sí.
+normal_barker_a:0.25	¿Tiene hambre?
+normal_barker_a:0.27	¿Por qué no entra a\ncomer algo?
+normal_barker_a:0.29	No tengo hambre.\nQuizá entre luego...
+normal_barker_a:0.30	¿Por qué no dice algo?
+normal_barker_a:0.32	Qué lástima.\n¡Vuelva cuando tenga hambre!
+normal_barker_a:0.34	¡Estupendo!\n¡Gracias por su visita!
+normal_barker_a:0.57	Pase al restaurante, por favor.
+normal_barker_a:0.58	¡Tenemos de todo!\n¡Pescado, fideos, arroz!
+normal_barker_a:0.63	¿Tiene hambre, %s?
+normal_barker_a:0.65	Oiga, %s...\n¿Por qué no entra a\ncomer algo?
+normal_barker_a:0.67	Últimamente el negocio\nva muy mal.
+normal_barker_a:2.71	¿Usted también?\n¡Cuantos más, mejor!
+normal_barker_a:7.6	¡Me van a matar!
+
+# normal_barker_b: pregonero de una taberna (usted al protagonista). 1.5 es un comentario para sí (tartamudeo).
+normal_barker_b:0.25	¡Oiga, usted!\n¡El de la ropa elegante!
+normal_barker_b:0.27	¿Por qué no entra a\ntomar algo?
+normal_barker_b:0.29	No, gracias.\nQuizá entre.\nNo bebo alcohol.
+normal_barker_b:0.31	......¿?\nQué indeciso es usted.
+normal_barker_b:0.34	¡Bueno, vuelva otro día!
+normal_barker_b:0.37	¿Ah, sí...?\n¿Por qué no prueba una copa?
+normal_barker_b:0.39	¡Estupendo!\n¡Un cliente que entra!
+normal_barker_b:0.53	¡No hay nada como el sake\npara calmar a cualquiera!
+normal_barker_b:0.54	¿Por qué no entra a\ntomar algo?
+normal_barker_b:0.56	¡Ah! ¡Pero si es %s!
+normal_barker_b:0.58	¿Por qué no toma algo, %s?
+normal_barker_b:1.5	¿Q-qué desea?
+normal_barker_b:2.71	¿Usted también quiere beber?\n¡Dos clientes, entonces!
+
+# normal_barker_c: pregonero de una posada (usted al protagonista). 7.6 es un comentario para sí (masculino).
+normal_barker_c:0.25	¿Adónde va con tanta prisa?
+normal_barker_c:0.27	¿Por qué no descansa un rato\nen nuestro establecimiento?
+normal_barker_c:0.29	Estoy bien.\nQuizá un poquito...
+normal_barker_c:0.31	¡No se quede ahí plantado!
+normal_barker_c:0.34	¿Seguro? No se esfuerce demasiado...
+normal_barker_c:0.36	¡Estupendo! ¡Un cliente!
+normal_barker_c:0.50	¡Cuando esté cansado, pase a\ndescansar a nuestra posada!
+normal_barker_c:0.55	%s, ¿adónde va con tanta prisa?
+normal_barker_c:0.57	¡Cuando esté cansado, pase a\ndescansar a nuestra posada, %s!
+normal_barker_c:0.59	A ver si hoy llega algún cliente...
+normal_barker_c:2.63	¿Eh? ¿Usted también busca\nalojamiento? ¡Pase, pase!
+normal_barker_c:7.6	¡No podré casarme!
+
+# normal_beginner_a: vecino que se va o se queda en Amahara (usted al protagonista). 1.13 es para sí (repetida en b-e).
+normal_beginner_a:0.20	Antes de salir de Amahara,\ndebe pensarlo bien.
+normal_beginner_a:0.22	Si se ha olvidado de algo,\nno debe marcharse.
+normal_beginner_a:0.23	Si se acuerda más tarde,\nno podrá volver.
+normal_beginner_a:0.26	Estoy pensando en irme mañana.
+normal_beginner_a:0.28	Ya no me queda nada aquí.
+normal_beginner_a:0.32	Mira el mapa cada vez que sale\ndel pueblo, ¿verdad?
+normal_beginner_a:0.34	Debería llevar un registro\nde lo que hace allí.
+normal_beginner_a:0.37	Creo que yo también empezaré\nun registro...
+normal_beginner_a:1.13	Vaya, perdón.
+
+# normal_beginner_b: vecino que recomienda el dojo (usted al protagonista).
+normal_beginner_b:0.20	¿Ya ha ido al dojo\nde Shikano-cho?
+normal_beginner_b:0.22	Si quiere ser samurái aquí,\ndebería pasarse por allí.
+normal_beginner_b:0.25	El dojo está en Shikano-cho.
+normal_beginner_b:0.29	¡El maestro del dojo de\nShikano-cho es increíblemente fuerte!
+normal_beginner_b:0.31	Si le gana, quizá le dé\nun premio...
+normal_beginner_b:0.34	Pero me pregunto qué premio\npuede dar un maestro de dojo...
+
+# normal_beginner_c: vecino que no recuerda dónde está el carpintero (usted al protagonista). Habla de sí en masculino.
+normal_beginner_c:0.28	He oído que hay un carpintero\npor ahí que puede ampliarle el armero.
+normal_beginner_c:0.31	¿Dónde era...?
+normal_beginner_c:0.41	Lo tengo en la punta de la lengua...
+normal_beginner_c:0.44	¿Era en Kakinuma-cho...?
+normal_beginner_c:0.47	Creo que quizá era\nen Otsuka-cho...
+normal_beginner_c:0.50	¡Espere! ¡Ya me acuerdo!
+normal_beginner_c:0.52	¡Es en Shikano-cho!
+normal_beginner_c:0.55	No, no es ahí...
+normal_beginner_c:0.56	Es en Numata-cho.
+normal_beginner_c:0.59	Sí, en Numata-cho.
+normal_beginner_c:0.61	No hay duda.
+normal_beginner_c:0.66	Hay gente a la que solo se\npuede ver a ciertas horas del día.
+normal_beginner_c:0.68	Si busca a alguien, pruebe\na buscarle a otra hora del día.
+normal_beginner_c:0.71	¿Busca al carpintero?
+normal_beginner_c:0.72	Sí, lo busco.\nYa lo he encontrado.\n¿Carpintero?
+normal_beginner_c:0.75	Entonces no se olvide\nde lo que le acabo de decir...
+normal_beginner_c:0.78	Bueno, eso está bien.
+normal_beginner_c:0.81	Oh, nada.\nDéjelo, no importa.
+
+# normal_beginner_d: comerciante del barrio que pide ayuda (usted al protagonista).
+normal_beginner_d:0.20	Si a los mercaderes nos va bien,\nel pueblo se anima.
+normal_beginner_d:0.22	A veces las tiendas venden\na precios especiales.
+normal_beginner_d:0.23	O empiezan a vender artículos\nque antes no había.
+normal_beginner_d:0.25	¡Trabajemos juntos para mejorar\nla economía y bajar los precios!
+normal_beginner_d:0.29	Ayudar a los vecinos en apuros\nes el secreto para mejorar la economía.
+normal_beginner_d:0.33	Tanto los magistrados como los Aoto\nnos traen problemas a los del pueblo.
+normal_beginner_d:0.35	Por su culpa, Amahara\nestá como está.
+normal_beginner_d:0.37	Oiga, samurái.\n¿Nos ayudaría a los del pueblo?
+normal_beginner_d:0.41	Si busca trabajo, puede preguntar\nen la Posada Amakaze.
+
+# normal_beginner_e: vecino amargado (usted al protagonista). 0.41 se comparte con normal_cowardice_night_a.
+normal_beginner_e:0.23	La Magistratura y los Aoto\nson un horror, los dos.
+normal_beginner_e:0.25	Hay cadáveres tirados al borde\ndel camino y nadie les hace caso.
+normal_beginner_e:0.27	Pero uno se acostumbra a todo\nsi lo ve cada día.
+normal_beginner_e:0.31	No es un buen sitio para\nlos niños...
+normal_beginner_e:0.32	¡Juegan al pilla-pilla tan\ntranquilos junto a los cadáveres!
+normal_beginner_e:0.36	¿Adónde vamos a llegar?
+normal_beginner_e:0.38	Parece que solo se fijan en\nlas espadas y la sangre.
+normal_beginner_e:0.39	Los asesinatos ocurren cada día.
+normal_beginner_e:0.41	Debería tener cuidado.
+normal_beginner_e:0.45	Todo está fatal...
+normal_beginner_e:0.49	Si Amahara tiene algún producto\nespecial, serán los cadáveres.
+normal_beginner_e:0.50	La gente pasa de largo\nsin fijarse en ellos.
+normal_beginner_e:0.52	Cierta medicina es la causa\nde gran parte de este sufrimiento.
+normal_beginner_e:0.53	Supongo que esa es la otra\nespecialidad de Amahara.
+normal_beginner_e:0.58	¿Es usted forastero?
+normal_beginner_e:0.59	Váyase antes de acostumbrarse\na cómo son las cosas aquí.
+normal_beginner_e:0.60	¡No olvide lo valiosa que es\nla vida humana!
+
+# normal_bushido_a: samurái de la organización que busca gente desaparecida (usted al protagonista; tú cuando insulta a los ronin o amenaza). 1.x y 2.x-7.x son comentarios para sí.
+normal_bushido_a:0.67	Ahora mismo estoy ocupado...
+normal_bushido_a:0.69	Busco a alguien.\nEs muy difícil.
+normal_bushido_a:0.71	Pero es el mejor trabajo\nque he podido conseguir...
+normal_bushido_a:0.74	Si quiere mejores trabajos, tiene que\nganarse la confianza de la organización.
+normal_bushido_a:0.76	Pero lo más fácil es seguir\naceptando sus encargos...
+normal_bushido_a:0.78	Así que me toca buscar a gente\ndesaparecida una temporada...
+normal_bushido_a:0.80	Ahora mismo estoy ocupado,\n%s...
+normal_bushido_a:0.85	¿Ya ha ido a la herrería?
+normal_bushido_a:0.86	Recuerde que su habilidad\nimporta más que su arma.
+normal_bushido_a:0.88	Si es hábil, puede luchar\ncon la peor arma.
+normal_bushido_a:0.90	Pero hasta la mejor espada sirve\nde poco en manos torpes.
+normal_bushido_a:0.95	Claro, de todos modos no tengo\ndinero para mejorar mi espada...
+normal_bushido_a:0.100	¿Trabaja duro?
+normal_bushido_a:0.101	¡No hay nada mejor que el sudor\nde un día de trabajo duro!
+normal_bushido_a:0.103	Al principio no estaba seguro...
+normal_bushido_a:0.105	Pero cuando vi que mi trabajo\nayudaba a la gente de alrededor...
+normal_bushido_a:0.106	Ya no pude parar...
+normal_bushido_a:0.108	Por cierto, ¿de dónde saca\nla mayoría de sus trabajos?
+normal_bushido_a:0.110	De los magistrados, claro.\nDe Amakaze-cho, lo mejor.\nDe los Aoto, sin duda.
+normal_bushido_a:0.111	¿De ningún sitio en particular?
+normal_bushido_a:0.113	Probar de todo puede ser interesante,\npero decídase por un solo sitio.
+normal_bushido_a:0.116	Lo sospechaba...
+normal_bushido_a:0.118	Pero los trabajos de los magistrados\nsuelen ser...
+normal_bushido_a:0.119	trabajos que ellos mismos no pueden\nhacer a la luz del día.
+normal_bushido_a:0.120	Nos pasan a los pequeños\ntodo el trabajo sucio.
+normal_bushido_a:0.122	No me gusta nada...
+normal_bushido_a:0.127	Creía que la gente del pueblo\nestaba más contenta estos días...
+normal_bushido_a:0.128	Un samurái sirve fielmente\na su señor...
+normal_bushido_a:0.129	Pero también me gustan los samuráis\nque hacen lo posible por\nproteger a los débiles...
+normal_bushido_a:0.131	cueste lo que les cueste...
+normal_bushido_a:0.136	Supongo que por eso los yakuza\nse dan tanta importancia...
+normal_bushido_a:0.137	Como si fueran los dueños del pueblo...
+normal_bushido_a:0.139	Pero tenga cuidado.
+normal_bushido_a:0.140	La mayoría de sus trabajos\nson bastante peligrosos.
+normal_bushido_a:0.142	Si no tiene cuidado, puede acabar\nmuerto...
+normal_bushido_a:0.144	Bueno, tengo que volver al trabajo...
+normal_bushido_a:0.149	¿No podría darme algo?
+normal_bushido_a:0.151	Aquí tiene 1 mon.\nAquí tiene 10 mon.\nNo tengo dinero para darle.
+normal_bushido_a:0.156	Has entregado 1 mon...
+normal_bushido_a:0.159	Gracias.
+normal_bushido_a:0.161	Cuidado con los carteristas.
+normal_bushido_a:0.165	Has entregado 10 mon...
+normal_bushido_a:0.170	Para serle sincero,\nme acaban de robar la bolsa.
+normal_bushido_a:0.172	Creo que fue cuando\nme chocó aquel matón...
+normal_bushido_a:0.173	Usted también debería tener cuidado.
+normal_bushido_a:0.175	Si ve a alguien sospechoso,\ndeténgalo enseguida.
+normal_bushido_a:0.179	Usted también debe de estar\npasando apuros...
+normal_bushido_a:0.183	Ni siquiera tiene eso...
+normal_bushido_a:0.184	Estos tiempos son muy duros...
+normal_bushido_a:0.186	Este ha sido un mal año\npara todos.
+normal_bushido_a:0.192	Dicen que hay muchos\nproblemas en la capital...
+normal_bushido_a:0.193	Entre los partidarios del shogun\ny los radicales...
+normal_bushido_a:0.197	Hasta podría acabar en guerra.\n¿De qué lado debería estar\nun verdadero samurái...?
+normal_bushido_a:0.207	¿Qué negocio voy a tener\ncon un ronin? ¡Quítate de mi vista!
+normal_bushido_a:0.208	¡Son ronin como tú\nlos que arruinan este pueblo!
+normal_bushido_a:0.213	Tú, escoria ronin, no eres\ncomo nosotros, los samuráis.\n¡No me hables!
+normal_bushido_a:0.215	¡Ojalá los ronin se fueran de Amahara!
+normal_bushido_a:0.218	Tú, escoria ronin, no eres\ncomo nosotros, los samuráis.\n¿No es verdad?
+normal_bushido_a:0.223	Muchos samuráis no saben\ncómo vivir en un mundo en paz...
+normal_bushido_a:0.224	Pero el magistrado jefe es otra cosa.\nEs el samurái de los samuráis.
+normal_bushido_a:0.229	Un samurái debe vivir y morir\npor la justicia. Eso dice el\nmagistrado jefe.
+normal_bushido_a:0.232	Es usted muy bueno, pero no llega\na la altura del magistrado jefe.
+normal_bushido_a:0.238	Es usted buen espadachín.\n¿De qué escuela es?
+normal_bushido_a:0.239	Yo soy de la misma escuela que\nel famoso samurái Miyamoto Musashi...
+normal_bushido_a:0.243	¿Qué? ¡Lo soy de verdad!\n¡No se ría de mí!
+normal_bushido_a:0.245	Es usted buen espadachín, %s.\n¿De qué escuela es?
+normal_bushido_a:0.250	A la mañana siguiente de la fiesta\nhabía cadáveres por todas partes.
+normal_bushido_a:0.252	Esperaba que estallara la guerra\npara tener trabajo...
+normal_bushido_a:0.254	Pero no quiero volver a ver\nalgo así nunca más.
+normal_bushido_a:0.258	Quizá vaya a poner una lápida\na alguien que no tenga familia...
+normal_bushido_a:1.19	¡Mira por dónde vas!
+normal_bushido_a:1.21	¡Quítate de mi vista!
+normal_bushido_a:1.57	No aguanto más...
+normal_bushido_a:2.11	¿Eres %s?!
+normal_bushido_a:2.17	¡Vengo a tomar venganza\nen nombre de la gente del pueblo!
+normal_bushido_a:3.19	¿Hay dinero de por medio?!
+normal_bushido_a:5.17	¿Estás preparado para luchar?
+normal_bushido_a:7.19	Maldito...
+normal_bushido_a:7.21	Hijo de p...
+normal_bushido_a:7.23	¡No tengo ni un mon!
