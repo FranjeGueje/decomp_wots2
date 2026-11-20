@@ -113,8 +113,6 @@ Otros casos:
 - **Mods en otra carpeta:** `WOTS2_MODS=<carpeta> ./build/wots2`.
 - **Convive con los demás mods** (widescreen, resolución, FPS, iluminación moderna).
 
-Las partidas ya empezadas pueden mostrar restos en inglés, porque el nombre y el mensaje del trabajo en curso se guardan dentro de la partida.
-
 ## Cómo está organizado el trabajo
 
 ```
@@ -146,6 +144,18 @@ Las reglas de estilo (trato de usted y de tú por personaje, protagonista mascul
 - **Caja normal** en diálogos y opciones; el original va en mayúsculas.
 - **Nombres propios, espadas, técnicas y títulos de tasación del herrero** se dejan romanizados u originales.
 - **`¿`, `»`, `º`:** se dibujan con códigos privados (U+E000–U+E002) para no romper los iconos de botón que el juego dibuja con los códigos normales.
+
+## Limitaciones conocidas
+
+- **Rótulos dibujados en texturas** (menú del título, «PAUSE», «Settings», «Status Check», letreros de tienda…): siguen en inglés. Hay que editar los `.bpm` y aún no existe la herramienta para escribirlos.
+- **Créditos y películas:** son vídeo, no se pueden traducir con un mod. La página «Enhancements» del port también queda en inglés.
+- **Menús sin revisar en pantalla:** `spanish_text.py check` da 109 avisos de ancho en pantallas que no se han visto en el juego (espadas, objetos, armero, baúl, mapa y resultados). Algún texto podría salirse de su cuadro.
+- **Frases heredadas con trato dudoso:** cada frase de los NPC se tradujo una sola vez y la heredan todas las tareas donde se repite. Algunas, como «¡Eh, samurái!» o «Recuérdalo», pueden sonar con el trato (usted o tú) equivocado en boca de ciertos personajes.
+- **Fallo del port, ajeno a la traducción:** `C01B3x` y `C01C3x` cargan el código de `C01AFx` y `C01BFx` porque el port toma la primera entrada con el mismo hash. Afecta al juego con o sin el mod.
+- **Sin probar de principio a fin:** el flujo completo desde un clon limpio, la instalación sobre un paquete de Releases y la desactivación con `WOTS2_MOD_ESPANOL=0`.
+- **Partidas ya empezadas:** pueden mostrar restos en inglés, porque el nombre y el mensaje del trabajo en curso se guardan dentro de la partida.
+
+Si ves un texto en inglés o con el trato equivocado, anota el id (o la frase exacta) y su pantalla: con eso se corrige en el `.tsv` correspondiente y se regenera con `build`.
 
 ## Aviso legal
 
