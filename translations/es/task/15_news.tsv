@@ -1,0 +1,195 @@
+# 15_news: rumores de los hombres del pueblo (news_man1, news_man_b1, news_man_ge_before, news_mister1) y estudiantes del dojo (news_pupil1-3). Hombres: usted al protagonista.
+news_man1:0.115	Dicen que los magistrados\nhan invadido Amakaze.
+news_man1:0.117	¿Y por qué querrían\nhacer algo así?
+news_man1:0.122	Dicen que la banda Aoto\nanda desbocada\nen Otsuka-cho.
+news_man1:0.123	Me pregunto si alguien\nhará algo al respecto...
+news_man1:0.132	Me han dicho que el magistrado\njefe irá a la fiesta\ndisfrazado.
+news_man1:0.133	Corre el rumor de que\nvan a intentar matarlo...
+news_man1:0.137	¿El jefe irá a la fiesta?\nSeguro que es solo un rumor...
+news_man1:0.142	Goshiro, el magistrado,\nse fue hace un rato\nmuy enfadado.
+news_man1:0.143	Creo que se dirigía\nhacia la clínica.
+news_man1:0.147	Ese Goshiro... Me pregunto\nqué negocio puede tener\nen la clínica...
+news_man1:0.152	Cuando anochece, ese funcionario\nllamado Yasuno sale de juerga.
+news_man1:0.154	Es un horror, y siempre\nlo acompañan yakuza.
+news_man1:0.155	Cuesta creer que sea\nmagistrado...
+news_man1:0.159	Los yakuza y los magistrados...\nson igual de podridos.
+news_man1:0.163	¡Y usted también,\n%s!
+news_man1:0.168	Los yakuza me han hecho\nmuchas preguntas sobre Sayo.
+news_man1:0.169	¿Qué querrán de ella?
+news_man1:0.173	Espero que Sayo no\nesté en ningún apuro...
+news_man1:0.179	Dicen que por fin nombrarán\njefe oficial de la banda a Hanzaemon.
+news_man1:0.180	Bueno, supongo que no cambiará\nnada si llega a ser jefe.
+news_man1:0.185	Ya tengo bastante con\nmis propios problemas.
+news_man1:0.187	Dicen que la ceremonia para\nnombrar a Hanzaemon jefe\nes hoy y mañana.
+news_man1:0.190	No me importaría que un matón\ncomo usted llegara a jefe de banda.
+news_man1:0.195	Dicen que han encontrado\nflotando en el mar a Kyojiro,\nde la banda Aoto.
+news_man1:0.196	Es una buena noticia.
+news_man1:0.201	Quizá por aquí se viva\nun poco más tranquilo.
+news_man1:0.204	Si al menos ese matón de\n%s desapareciera...
+news_man1:0.205	Así estaríamos un poco\nmás tranquilos.
+news_man_b1:0.95	¡Qué calor hace últimamente!
+news_man_b1:0.99	Con este calor, no\nme apetece nada trabajar.
+news_man_b1:0.104	Amakaze-cho es la parte\nmás grande de Amahara.
+news_man_b1:0.105	La pequeña sin nombre trabaja\nde criada en la posada Amakaze.
+news_man_b1:0.109	Esta es la Puerta Otemon,\nla entrada a Amahara.
+news_man_b1:0.114	La pequeña sin nombre suele\nhacer recados a la clínica\nde las Afueras.
+news_man_b1:0.115	Trabaja muy duro.
+news_man_b1:0.120	Es tan pequeña y\ntrabaja tanto...
+news_man_b1:0.123	Quizá usted podría aprender\nalgo de ella...
+news_man_b1:0.128	Dicen que los magistrados\nestarán en alerta máxima\ndurante la fiesta.
+news_man_b1:0.129	No es de extrañar, con cómo\nandan las cosas estos días.
+news_man_b1:0.134	Bueno, mientras podamos disfrutar\nde la fiesta, lo demás no importa.
+news_man_b1:0.137	Creo que es porque hay demasiada\ngente como usted por aquí...
+news_man_b1:0.142	¡Vaya fiesta más increíble!
+news_man_b1:0.143	El olor a sangre mezclado\ncon el de la comida...\nMe dio vueltas la cabeza.
+news_man_b1:0.148	Pero yo estoy bien, por eso\npuedo hablar de ello así.
+news_man_b1:0.151	%s...\nCreo que entiendo cómo se sienten\nlos asesinos como usted...
+news_man_b1:0.156	Dicen que han matado a Yasuno\nen algún rincón del pueblo.
+news_man_b1:0.157	¡Menos mal!
+news_man_b1:0.162	No sé quién lo hizo,\n¡pero quisiera darle las gracias!
+news_man_b1:0.165	Pero preferiría que el muerto\nhubiera sido usted...
+news_man_b1:0.170	Dicen que los magistrados\nvigilan de cerca la clínica...
+news_man_b1:0.171	Pero el doctor Genan no\npodía estar metido en los\nproblemas de la fiesta.
+news_man_b1:0.175	Me pregunto qué pasa\nen la clínica...
+news_man_ge_before:0.89	Hoy hace buen día,\n¿verdad, samurái?
+news_man_ge_before:0.92	Solo faltan cuatro días\npara la fiesta...\n¡Va a ser genial!
+news_man_ge_before:0.95	Solo faltan tres días\npara la fiesta...\n¡Qué ilusión!
+news_man_ge_before:0.98	La fiesta es pasado mañana...\n¡No veo la hora!
+news_man_ge_before:0.101	¡La fiesta es mañana!\n¡Nos lo vamos a pasar en grande!
+news_man_ge_before:0.103	¡La fiesta de Amahara!
+news_man_ge_before:0.108	El antiguo jefe de la\nbanda Aoto era un\nbuen hombre.
+news_man_ge_before:0.110	Supongo que Hanzaemon\nocupará su lugar.
+news_man_ge_before:0.111	Pobre Kasumi...
+news_man_ge_before:0.115	Me pregunto qué pasará\nde ahora en adelante...
+news_man_ge_before:0.120	La pequeña sin nombre\nparecía muy triste\ny sola.
+news_man_ge_before:0.121	¿Es usted el samurái al que\nle dio su bola de arroz?
+news_man_ge_before:0.123	¿Hizo algo\npara que se disgustara?
+news_man_ge_before:0.127	Me pregunto de dónde habrá\nsalido esa niña...
+news_man_ge_before:0.132	Más habladurías de corrupción\nen la Magistratura...
+news_man_ge_before:0.133	Ese Yasuno es un tipo\nmuy turbio.
+news_man_ge_before:0.137	¡No me creo que alguien como él\ntrabaje para el gobierno!
+news_man_ge_before:0.142	¿Ha oído hablar del\nmagistrado Nakamura?
+news_man_ge_before:0.143	Dicen que pasa mucho tiempo\nescribiendo poesía...
+news_man_ge_before:0.147	Es raro en un magistrado,\n¿no cree?
+news_man_ge_before:0.152	Hay un magistrado muy sincero\nllamado Goshiro...
+news_man_ge_before:0.153	Pero tenga cuidado con él.\nSi se le enfrenta, ¡puede ser peligroso!
+news_man_ge_before:0.157	¡Tiene muy mal genio,\nese!
+news_man_ge_before:0.162	No lo parece, pero se preocupa\nmucho por los demás.
+news_man_ge_before:0.163	Tiene hijos, pero sigue\nsiendo todo un donjuán.
+news_man_ge_before:0.167	¿Eh? Ah, hablo de Danpachi,\nde la posada Amakaze.
+news_man_ge_before:0.172	¿Ha estado ya en la Magistratura?
+news_man_ge_before:0.173	Mejor manténgase alejado de allí...
+news_man_ge_before:0.177	¡Como dé un paso en falso,\nle meterán en la cárcel!
+news_mister1:0.87	Aaay...\nMi espalda... ¡Aaay...!
+news_mister1:0.88	Cuando llega uno a mi edad,\nla espalda empieza a doler\nde verdad.
+news_mister1:0.93	¡Doctor Genan!\n¡Doctor Genan!!
+news_mister1:0.95	Tengo que volver al dojo\na entrenar...
+news_mister1:0.100	Últimamente he visto\nmuchos magistrados\npor aquí...
+news_mister1:0.101	Supongo que no tienen tanto trabajo\ncomo uno cree...
+news_mister1:0.105	Si tienen tanto tiempo libre,\nquizá yo debería ser magistrado.
+news_mister1:0.110	¡La señorita Kasumi se ha ido\na la banda Aoto!
+news_mister1:0.111	Espero que no pase nada...
+news_mister1:0.115	Estoy muy preocupado\npor la señorita Kasumi...
+news_mister1:0.120	¡La señorita Kasumi ha ido\nal cuartel de los Aoto\ncon unos matones!
+news_mister1:0.121	Espero que vuelva\nsana y salva...
+news_mister1:0.130	¡El doctor Genan ha muerto!
+news_mister1:0.132	¿Y ahora quién me va a atender...?
+news_mister1:0.136	¿No será el de sangre fría,\n%s?!
+news_mister1:0.138	¿Será posible que usted\nsea el responsable de la muerte\ndel doctor Genan...?
+news_mister1:0.144	Dicen que Beniya, el rico\nmercader, quiere adoptar a Sayo.
+news_mister1:0.145	Espero que sea feliz.
+news_mister1:0.148	Dicen que Beniya podría\nvisitar Amakaze ya mañana.
+news_mister1:0.155	Dicen que Beniya está hoy\nen Amakaze.
+news_mister1:1.17	Uy, perdón.
+news_mister1:1.19	¡Ay!
+news_pupil1:0.26	¡No pienso perder el aliento!
+news_pupil1:0.29	¿Tiene algo que preguntarme?
+news_pupil1:0.30	Cómo funcionan los días.\nSobre el paso del tiempo.
+news_pupil1:0.33	Muy bien, le explicaré\nel concepto de los días.
+news_pupil1:0.34	Sobre los días...
+news_pupil1:0.37	Un día se divide en\ncinco fases.
+news_pupil1:0.38	Amanecer, mañana,\ntarde, anochecer\ny noche.
+news_pupil1:0.39	Tras la noche viene\nel amanecer del día siguiente.
+news_pupil1:0.41	El símbolo de la flor, abajo\na la izquierda de la pantalla,\nmuestra la hora.
+news_pupil1:0.42	Cuando caigan todos\nlos pétalos de la flor,\nel día habrá terminado.
+news_pupil1:0.44	No lo olvide.
+news_pupil1:0.47	Le explicaré cómo\npasa el tiempo.
+news_pupil1:0.48	Sobre el paso del tiempo...
+news_pupil1:0.51	El tiempo que puede pasar\nen Amahara es limitado.
+news_pupil1:0.52	El tiempo pasa\nmientras hace cosas.
+news_pupil1:0.54	Así que conviene no malgastar\nel tiempo en cosas sin sentido.
+news_pupil1:0.56	Para ver el paso del tiempo,\nmire el símbolo de la flor,\nabajo a la izquierda.
+news_pupil1:0.57	Los pétalos de la flor\npierden color poco a poco\nal pasar el tiempo.
+news_pupil1:0.58	Cuando el color se desvanece,\nsignifica que el tiempo\nha pasado.
+news_pupil1:0.60	Cuando el capullo de arriba\na la derecha del símbolo\nempiece a brillar...
+news_pupil1:0.61	significa que la fase del día\ncambiará pronto.
+news_pupil1:7.11	¡¿Qué está haciendo?!
+news_pupil2:0.26	¡Saca la espada!
+news_pupil2:0.29	¿Tiene alguna pregunta?\nPregúnteme lo que quiera.
+news_pupil2:0.30	Sobre los PV.\nSobre los PR.\nSobre la durabilidad.
+news_pupil2:0.33	Bien, le hablaré de\nsus puntos de vida.
+news_pupil2:0.34	Sobre los puntos de vida...
+news_pupil2:0.37	La barra verde, abajo a la\nizquierda de la pantalla,\nson sus PV.
+news_pupil2:0.38	Si llega a 0,\nmuere. Tenga cuidado.
+news_pupil2:0.39	Si come algo o duerme,\nrecupera PV.
+news_pupil2:0.41	Pero no puede tener más PV\nque el máximo.
+news_pupil2:0.42	Puede aumentar el máximo\nde PV usando algunos objetos.
+news_pupil2:0.47	Bien, le hablaré de\nsus puntos de resistencia.
+news_pupil2:0.48	Sobre los puntos de resistencia...
+news_pupil2:0.51	Sus PR representan\nsu fuerza mental y\nsu concentración.
+news_pupil2:0.52	La barra naranja, abajo a la\nizquierda de la pantalla, son sus PR.
+news_pupil2:0.54	Sus PR disminuyen\nal pasar el tiempo.
+news_pupil2:0.56	Puede recuperar PR\ndurmiendo o usando\nciertos objetos.
+news_pupil2:0.57	Si se queda sin PR,\ncaerá inconsciente\ndurante un día entero.
+news_pupil2:0.58	Procure dormir lo\nsuficiente para que no\nocurra.
+news_pupil2:0.59	También puede aumentar\nsu máximo de PR\ncon algunos objetos.
+news_pupil2:0.64	Bien, le hablaré de la\ndurabilidad de su espada.
+news_pupil2:0.65	Sobre la durabilidad de la espada...
+news_pupil2:0.68	La barra gris, abajo a la izquierda\nde la pantalla, es la durabilidad.
+news_pupil2:0.69	Cuando usa la espada\no se defiende de los ataques\nenemigos, se pone roja.
+news_pupil2:0.71	Indica el grado de fatiga\nque sufre su espada.
+news_pupil2:0.73	Si la barra se pone toda roja,\nla durabilidad de la espada baja en uno.
+news_pupil2:0.74	Si la durabilidad se agota\npor completo, la espada se romperá.
+news_pupil2:0.75	Una espada rota\nno puede repararse nunca.
+news_pupil2:0.77	No lo olvide nunca.
+news_pupil2:0.78	También puede mejorar la\ndurabilidad de su espada\nen la herrería.
+news_pupil2:0.80	Debe vigilar con atención\nla durabilidad de su espada.
+news_pupil2:0.81	La fatiga de su espada\nse acumula mucho más...
+news_pupil2:0.82	al defenderse de un ataque\nenemigo que al atacar.
+news_pupil2:0.84	Cuando la durabilidad de su espada\nes baja, es mejor atacar.
+news_pupil2:7.7	¡No puede ser en serio!
+news_pupil3:0.26	....¡¿Qué ha pasado?!
+news_pupil3:0.29	Amo Amahara más que nadie...\n¿Qué quiere saber de ella?
+news_pupil3:0.30	Sobre el pueblo en sí.\nSobre los distintos grupos.
+news_pupil3:0.32	Sobre el pueblo de Amahara...
+news_pupil3:0.35	Los magistrados gobiernan\na mano de hierro y los yakuza\nse ceban con los inocentes.
+news_pupil3:0.37	Esa es la realidad\nde Amahara hoy.
+news_pupil3:0.39	Es un pueblo cruel\npara el ciudadano de a pie.
+news_pupil3:0.40	La gente vive con miedo\na los que mandan.
+news_pupil3:0.42	Abusan de los débiles.\nNo merecen llamarse samuráis.
+news_pupil3:0.43	Qué triste es todo esto.
+news_pupil3:0.47	Sobre la Magistratura.\nSobre la banda Aoto.\nSobre el bakufu.
+news_pupil3:0.50	Antes se confiaba en los magistrados\npara mantener la paz\nen Amahara.
+news_pupil3:0.51	Sobre los magistrados...
+news_pupil3:0.55	Sin embargo, el magistrado jefe\nha cambiado desde que el shogun\nempezó a tomar los pueblos.
+news_pupil3:0.57	Se ha esforzado mucho en\nquitarle al shogun cualquier\npretexto...
+news_pupil3:0.58	para tomar Amahara. Y ahora\namenazan a quienes deberían proteger.
+news_pupil3:0.59	Ahora el pueblo les teme,\nigual que a la banda Aoto.
+news_pupil3:0.64	Cuando vivía el antiguo jefe,\nla banda se regía por el honor\ny el deber.
+news_pupil3:0.65	Sobre la banda Aoto...
+news_pupil3:0.68	Pero cambió cuando murió\nel antiguo jefe.
+news_pupil3:0.69	Su arrogancia y su violencia\nhan hecho que el pueblo les tema.
+news_pupil3:0.73	Las peleas entre los yakuza\ny los magistrados\nhan empeorado.
+news_pupil3:0.74	Temo que, si esto sigue así,\ncada vez morirá más gente.
+news_pupil3:0.76	Si es que las cosas\nno cambian...
+news_pupil3:0.79	Amahara puede gobernarse\nsola y comerciar con potencias\nextranjeras.
+news_pupil3:0.80	El gobierno del bakufu en Edo\nquiere ponerla bajo su control\ndirecto.
+news_pupil3:0.81	Dicen que tienen espías\nen la Magistratura.
+news_pupil3:0.82	Sobre el bakufu...
+news_pupil3:0.85	Y prueban otras formas\nde hacerse con el poder\naquí...
+news_pupil3:0.87	Me pregunto qué será\nde Amahara.
+news_pupil3:0.88	Quién sabe.
+news_pupil3:0.89	Incluso podría depender\nde las decisiones que tome...
+news_pupil3:0.91	O quizá no...
+news_pupil3:0.92	Bueno, no debemos\nperder la esperanza.
+news_pupil3:7.11	¡Qué horror!
