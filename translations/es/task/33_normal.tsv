@@ -1,0 +1,241 @@
+# 33_normal: vecinos y gente corriente de Amahara (normal_ronin_a/b, normal_room_a, normal_shonin_a). Ronin de tú; la sala (room_a) y el comerciante (shonin_a) de usted al protagonista.
+normal_ronin_a:0.54	He viajado sin parar desde que\nperdí a mi señor...
+normal_ronin_a:0.55	Y he aprendido una cosa\nen mi viaje.
+normal_ronin_a:0.57	No estaría mal deshacerme de\nla espada y asentarme en algún sitio...
+normal_ronin_a:0.61	Convertir mi espada\nen una reja de arado...
+normal_ronin_a:0.63	Suena de maravilla...
+normal_ronin_a:0.65	Tienes que entenderme, ¿verdad,\n%s?
+normal_ronin_a:0.70	Aunque no tenga dinero, un samurái\ndebe conservar su honor.
+normal_ronin_a:0.71	Un samurái hambriento debería\nusar un palillo y fingir\nque acaba de comer.
+normal_ronin_a:0.73	...Pero ni siquiera puedo\npermitirme un palillo...
+normal_ronin_a:0.77	Me mareo... Ojalá haya guerra\npronto... Necesito trabajo...
+normal_ronin_a:0.78	Estoy en los huesos...
+normal_ronin_a:0.80	Quizá me haga guardaespaldas\nde los magistrados o de los yakuza...
+normal_ronin_a:0.85	La espada de un samurái no se hizo\npara matar ni para dar poder.
+normal_ronin_a:0.86	Se hizo para proteger\na los débiles.
+normal_ronin_a:0.88	No puedes ir blandiendo la espada\nsin pensar.
+normal_ronin_a:0.92	Piensa en la naturaleza del poder\nantes de desenvainar...
+normal_ronin_a:0.94	Pero quizá predico a los conversos,\n%s.
+normal_ronin_a:0.100	¿Tienes algún asunto conmigo,\nel famoso Miyamoto Kojiro?
+normal_ronin_a:0.102	Ese nombre me suena...\nNunca he oído hablar de ti.
+normal_ronin_a:0.105	Pero no es raro que estés nervioso\npor conocerme...
+normal_ronin_a:0.110	Se reconoce a un verdadero espadachín\naunque no diga nada.
+normal_ronin_a:0.113	¿Qué? ¿No me conoces?
+normal_ronin_a:0.115	¿Será de provincias o algo así?
+normal_ronin_a:0.117	Estoy ocupado...\nNos vemos.
+normal_ronin_a:0.122	Creí que mis habilidades\nserían valiosas aquí, en Amahara...
+normal_ronin_a:0.127	Me da igual quién me contrate,\nmientras la paga sea buena...
+normal_ronin_a:0.129	%s, parece que te va bien.
+normal_ronin_a:0.134	La vida de un ronin es triste.\nSigues esperando encontrar\nun señor al que servir.
+normal_ronin_a:0.135	Pero sabes que ese día\nno llegará nunca...
+normal_ronin_a:0.140	Quizá debería dejar de ser samurái...\nPero tampoco puedo hacer eso...
+normal_ronin_a:0.143	Quizá aún tenga esperanza de que\nun pueblo me contrate, como a ti...
+normal_ronin_a:0.148	Creí que en un sitio como Amahara\nhabría trabajo de sobra.
+normal_ronin_a:0.149	Pero, aunque he venido hasta aquí,\nno he encontrado nada.
+normal_ronin_a:0.153	Claro, soy un espadachín pésimo\ny no conozco ninguna técnica...
+normal_ronin_a:0.156	%s... ¿Puedes decirme cómo\nllegar a ser como tú?
+normal_ronin_a:0.162	¡Eh! Los ronin como nosotros\ntenemos que ayudarnos.
+normal_ronin_a:0.163	Hablando de eso... ando algo escaso\nde dinero. ¿Me echas una mano?
+normal_ronin_a:0.168	¡Eh, los dos somos ronin!\n¡Tenemos que ayudarnos! ¿Verdad?
+normal_ronin_a:0.170	¡Eh, %s! ¿Has ido al santuario\nde noche?
+normal_ronin_a:0.171	Dicen que hay alguien allí que da\nconsejos muy valiosos.
+normal_ronin_a:0.172	Claro, no siempre aciertan...
+normal_ronin_a:0.174	Con las mejores espadas,\nni los ronin se fían unos de otros...
+normal_ronin_a:0.179	La fiesta fue un horror...
+normal_ronin_a:0.181	Me da igual que yakuza y magistrados\nse maten entre ellos...
+normal_ronin_a:0.182	Pero la gente inocente\nno debería verse metida en eso.
+normal_ronin_a:0.186	Esos desgraciados...
+normal_ronin_a:1.15	¿Ni siquiera una disculpa?
+normal_ronin_a:1.17	¡Qué hambre tengo!
+normal_ronin_a:1.21	¡Mira por dónde vas, paleto!
+normal_ronin_a:1.53	Hasta aquí llego...
+normal_ronin_a:1.55	Retirarse también es\nuna forma de valor...
+normal_ronin_a:1.57	¡No consigo hacerle ni un rasguño!
+normal_ronin_a:3.15	¿Esto es un trabajo para mí?
+normal_ronin_a:3.17	No hay remedio...
+normal_ronin_a:3.19	¡Déjame entrar en la pelea!
+normal_ronin_a:5.19	¡Ay, madre!
+normal_ronin_a:7.17	¡Siempre igual!
+normal_ronin_a:7.23	¡Ahora sí que me has cabreado!
+normal_ronin_b:0.53	Cuanto más usas una espada,\nmejor la manejas...
+normal_ronin_b:0.54	Una espada muy usada facilita\nencontrar técnicas avanzadas.
+normal_ronin_b:0.57	Antes que nada, deberías dominar\nuna sola espada.
+normal_ronin_b:0.61	Hay muchas situaciones en las que\npuedes descubrir movimientos nuevos...
+normal_ronin_b:0.63	Antes que nada, deberías dominar\nuna sola espada, %s.
+normal_ronin_b:0.68	Me gusta descubrir nuevas\ntécnicas de espada...
+normal_ronin_b:0.69	Me parece que son más fáciles\nde encontrar...
+normal_ronin_b:0.71	al derribar a un enemigo.
+normal_ronin_b:0.75	Mi capacidad para crear técnicas\nalcanza su punto álgido justo\ncuando mueren mis enemigos...
+normal_ronin_b:0.81	¡Eh, tú! ¿Me estás escuchando?!
+normal_ronin_b:0.82	En combate hay que arriesgar,\n¡pero solo un necio arriesga sin motivo!
+normal_ronin_b:0.84	No puedes atacar sin parar,\nni defenderte sin descanso.
+normal_ronin_b:0.86	Lo mejor es adaptarse\na la situación.
+normal_ronin_b:0.90	Claro, eso es más fácil de decir\nque de hacer...
+normal_ronin_b:0.92	¡Eh, %s! ¿Me estás escuchando?!
+normal_ronin_b:0.97	He aprendido muchas técnicas\nen mis combates...
+normal_ronin_b:0.98	Pero creo que aprendí más\nparando los ataques enemigos...
+normal_ronin_b:0.100	Supongo que mis instintos\nse activan cuando estoy en peligro.
+normal_ronin_b:0.101	Quizá por eso...
+normal_ronin_b:0.105	Pero hay muchas formas\nde aprender técnicas nuevas...
+normal_ronin_b:0.111	No soy gran espadachín...
+normal_ronin_b:0.112	pero hace un tiempo me atacó\nun samurái salvaje...
+normal_ronin_b:0.114	Tras parar su ataque, logré\nmatarle de un solo golpe.
+normal_ronin_b:0.115	Me di cuenta de que había\naprendido una técnica nueva.
+normal_ronin_b:0.117	Desde entonces, confío un poco\nmás en mis habilidades...
+normal_ronin_b:0.121	Quizá sí valgo para samurái,\nal fin y al cabo...
+normal_ronin_b:0.123	%s... Escucha...
+normal_ronin_b:0.129	¡Ataques rompedefensas!
+normal_ronin_b:0.130	La última vez que usé uno contra\nun enemigo...
+normal_ronin_b:0.132	Descubrí que había aprendido\nuna técnica nueva.
+normal_ronin_b:0.136	Pero acabé rompiendo\nmi espada preferida...
+normal_ronin_b:0.138	¿Conoces los ataques rompedefensas,\n%s?
+normal_ronin_b:0.143	Repetir ataques rápido, sin dejar\nque el enemigo responda...
+normal_ronin_b:0.144	Si quieres aprender combos nuevos...
+normal_ronin_b:0.147	Quizá te convenga repetir\nciertos ataques una y otra vez...
+normal_ronin_b:0.151	Pero cuidado, no rompas la espada...
+normal_ronin_b:0.153	Prueba a repetir los ataques\nuna y otra vez, %s.
+normal_ronin_b:0.159	El otro día luché contra un samurái\nque tenía una técnica rara...
+normal_ronin_b:0.161	Me atacaba de repente desde\nel aire.
+normal_ronin_b:0.162	Golpeé al azar y, por casualidad,\nle di.
+normal_ronin_b:0.163	Así fue como la aprendí:\nun combo precioso.
+normal_ronin_b:0.165	Supongo que debería darle las gracias\nal samurái...
+normal_ronin_b:0.166	Pero lo partí en dos...
+normal_ronin_b:0.170	Un enemigo en pleno salto...
+normal_ronin_b:0.172	Acabo de luchar contra un samurái\nque usó un movimiento raro, %s...
+normal_ronin_b:0.177	Hace tiempo me metí en una pelea\ncon un magistrado.
+normal_ronin_b:0.178	No pude evitarlo, así que tuve\nque luchar contra él...
+normal_ronin_b:0.180	Pero fue toda una batalla...
+normal_ronin_b:0.182	Estábamos muy igualados, así que fue\nuna batalla muy larga...
+normal_ronin_b:0.183	Pero justo cuando estábamos\nagotados los dos, ¡aprendí un combo!
+normal_ronin_b:0.186	¡Menuda forma de salvarse\nde las fauces de la muerte!
+normal_ronin_b:0.187	Supongo que a veces encuentras\nfuerzas ocultas cuando estás en apuros.
+normal_ronin_b:0.191	Supongo que quiere decir que\nsuelo no dar todo lo que puedo...
+normal_ronin_b:0.193	¡Ojalá me hubieras visto entonces!
+normal_ronin_b:1.17	¡Mocoso insolente...!
+normal_ronin_b:1.19	¿Qué estás mirando?!
+normal_ronin_b:1.51	T-tú eres fuerte...
+normal_ronin_b:1.55	Tendré que retirarme... Por ahora...
+normal_ronin_b:1.57	...¡No puedo ganar!
+normal_ronin_b:3.13	¡Déjame entrar en la acción!
+normal_ronin_b:3.15	¿Os peleáis por comida?!
+normal_ronin_b:3.17	¡Sois un estorbo!
+normal_ronin_b:3.19	¡Me hierve la sangre...!
+normal_ronin_b:5.15	¡Déjame en paz!
+normal_ronin_b:5.17	¡Estamos igualados!
+normal_ronin_b:7.19	¡No quiero meterme en esto!
+normal_ronin_b:7.21	¡No voy a consentir eso!
+normal_ronin_b:7.23	¡Te has buscado al enemigo equivocado!
+normal_room_a:0.47	¡Es usted! ¡El que mató al joven\nde Amakaze!
+normal_room_a:0.48	Es usted un criminal...
+normal_room_a:0.52	Es usted una mala influencia\npara los niños. ¡Quiero que\nse marche de Amahara!
+normal_room_a:0.53	De hecho, eso es lo que\npiensa todo el pueblo.
+normal_room_a:0.54	Amahara nunca será feliz\nmientras usted esté aquí.
+normal_room_a:0.56	¡Lárguese ya, gafe!
+normal_room_a:0.60	Entre nosotros, la gente de Amahara\nle tiene miedo.
+normal_room_a:0.61	Si quiere que confíen en usted,\ntrabaje por el bien del pueblo.
+normal_room_a:0.65	Trabajar es la mejor forma de que\nla gente confíe en usted en Amahara.
+normal_room_a:0.66	Si la gente confía en usted,\nle llegarán mejores encargos.
+normal_room_a:0.68	Espero que complete muchos encargos\ny ayude a la gente de este pueblo.
+normal_room_a:0.72	Me han dicho que le va bastante bien.\nLa gente del pueblo le aprecia.
+normal_room_a:0.73	Quizá le lleguen nuevos encargos pronto.
+normal_room_a:0.77	Ah, %s.
+normal_room_a:0.79	Se está haciendo buena fama\npor aquí.
+normal_room_a:0.80	La gente cree que es\nun gran samurái.
+normal_room_a:0.82	...Le apoyo en todo.
+normal_room_a:0.86	Lo está haciendo muy bien.\nTodos confían en usted.
+normal_room_a:0.87	Espero que siga ayudando\na los vecinos.
+normal_room_a:0.89	¡Se lo prometo!
+normal_room_a:0.93	¡Todo el mundo habla de usted!
+normal_room_a:0.94	Tiene que contarme cómo llegó\na ser tan popular.
+normal_room_a:0.96	¡Es el samurái perfecto!
+normal_room_a:5.3	¡Me largo de aquí!
+normal_shonin_a:0.46	Amahara es un puesto comercial\nde la isla.
+normal_shonin_a:0.48	Así que aquí hay muchísimas\ncosas extranjeras.
+normal_shonin_a:0.51	¡Cazar gangas es muy divertido!
+normal_shonin_a:0.58	Soy un vendedor ambulante y busco\nuna cosa que llaman «afro».
+normal_shonin_a:0.60	Pero no he visto ni rastro de ello.
+normal_shonin_a:0.61	Me pregunto qué será...
+normal_shonin_a:0.63	No lo sé.\nDebe de ser una comida.\nEs un saludo extranjero.
+normal_shonin_a:0.67	¿Vaya, usted tampoco lo sabe?
+normal_shonin_a:0.71	¡¿Una comida?!
+normal_shonin_a:0.72	¡No tenía ni idea de que fuera\nuna comida!
+normal_shonin_a:0.74	Me encantaría probarla.
+normal_shonin_a:0.78	¡¿Un saludo?!
+normal_shonin_a:0.79	Sí, ya veo. La palabra «afro»\nsuena a un saludo espléndido.
+normal_shonin_a:0.81	¡Un saludo! Pues vaya...
+normal_shonin_a:0.85	Me pregunto qué será un afro...
+normal_shonin_a:0.87	Me gustaría probarla...
+normal_shonin_a:0.88	Sí, me encantaría comerme\nun afro precioso...
+normal_shonin_a:0.92	¡Afro!
+normal_shonin_a:0.93	¡Afro!\n.......¡Ja, ja!
+normal_shonin_a:0.95	¡Pero si es un saludo!
+normal_shonin_a:0.103	¿De qué se ríe?
+normal_shonin_a:0.104	¿Es que pronuncié mal?
+normal_shonin_a:0.109	¡Por fin he averiguado\nlo que significa!
+normal_shonin_a:0.110	¡Un afro es un peinado extranjero!\n¡Y muy grande!
+normal_shonin_a:0.112	¡Ja, ja, ja! Al final no era\nni comida ni saludo.
+normal_shonin_a:0.121	Amahara es un lugar muy turbulento.
+normal_shonin_a:0.123	No debería quedarse mucho tiempo.
+normal_shonin_a:0.126	Amahara está protegida por gente\ncomo usted, %s.
+normal_shonin_a:0.128	Dependemos de usted.
+normal_shonin_a:0.130	Amahara es un digno hogar\npara la banda Aoto.
+normal_shonin_a:0.132	Le apoyo al cien por cien.
+normal_shonin_a:0.134	Gracias a los magistrados,\nAmahara vive en paz.
+normal_shonin_a:0.138	No hace falta que se quede mucho.
+normal_shonin_a:0.140	¡El futuro de Amahara\nestá en sus manos!
+normal_shonin_a:0.148	¿Qué tal el negocio?
+normal_shonin_a:0.151	Me pregunto si habrá buenas formas\nde ganar dinero...
+normal_shonin_a:0.156	¡Hola! ¡Bienvenido!
+normal_shonin_a:0.158	...Ah, creí que era cliente.\nPero solo es un samurái pobre.
+normal_shonin_a:0.161	Si no tiene dinero, no es cliente.\n¡Fuera de aquí!
+normal_shonin_a:0.164	¡Buenas!
+normal_shonin_a:0.166	Últimamente anda muy ocupado,\n¿verdad?
+normal_shonin_a:0.167	Apuesto a que su bolsa\nanda muy llena.
+normal_shonin_a:0.172	Debería pasarse por mi tienda...
+normal_shonin_a:0.173	¿De qué sirve tener dinero\nsi no se gasta?
+normal_shonin_a:0.178	Dicen que el rico mercader\nBeniya Kakube está en Amakaze.
+normal_shonin_a:0.180	Si él está aquí, algo de dinero\nhabrá por algún sitio.
+normal_shonin_a:0.183	Si Beniya está aquí, tiene que\nhaber dinero que ganar en Amahara.
+normal_shonin_a:0.186	Oiga, %s, quisiera adoptarle.
+normal_shonin_a:0.188	Sería perfecto para llevar\nel negocio familiar.
+normal_shonin_a:0.191	Podría cambiar la espada\npor un ábaco...
+normal_shonin_a:0.196	¡El negocio va viento en popa!\nLa situación nos viene de maravilla.
+normal_shonin_a:0.198	Cuanto más movimiento, más\nposibilidades de negocio.
+normal_shonin_a:0.201	Ojalá estos problemas duren mucho.\nSon buenos para el negocio.
+normal_shonin_a:0.204	¡Oiga! Últimamente las cosas\nno van muy bien.
+normal_shonin_a:0.206	Cuando el pueblo está en paz,\nhay poco negocio.
+normal_shonin_a:0.209	Espero que esta paz no dure.\n¡Mi negocio no aguanta la calma!
+normal_shonin_a:0.214	¿Le cuento el secreto del éxito\nen los negocios?
+normal_shonin_a:0.216	Por favor.\nNo, gracias.\nYa lo sé.
+normal_shonin_a:0.218	¡Así no! ¡Un comerciante nunca\ndebe dudar!
+normal_shonin_a:0.221	Está claro que no le interesa\nsuperarse.
+normal_shonin_a:0.226	¡Venda paraguas los días de lluvia\ny sombrillas los de sol!
+normal_shonin_a:0.228	Son 100 mon por el consejo.
+normal_shonin_a:0.231	¡Has pagado 100 mon!
+normal_shonin_a:0.232	¡Gracias! ¡Vuelva pronto!
+normal_shonin_a:0.236	¡Oiga, no le alcanza!
+normal_shonin_a:0.237	¿Está en la miseria? Bueno, supongo\nque se lo dejaré gratis.
+normal_shonin_a:0.240	Por eso los samuráis no tienen remedio.\n¡No entienden nada de negocios!
+normal_shonin_a:0.243	¿Sabe de negocios y sigue siendo ronin?\nQué tipo más raro...
+normal_shonin_a:0.245	Vendo consejos de negocios. No tengo\ngastos, ¡así que es un gran negocio!
+normal_shonin_a:0.248	¿No cree que los comerciantes\ny los samuráis se parecen?
+normal_shonin_a:0.250	Los dos trabajan por el bien\nde la gente.
+normal_shonin_a:0.252	Exacto.\nNo lo creo.\nMmm....
+normal_shonin_a:0.257	Un momento...
+normal_shonin_a:0.260	Por eso creo que le interesarán\nmis productos...
+normal_shonin_a:0.261	¡Es un producto nuevo! ¡Corta, pica\ny hace juliana!
+normal_shonin_a:0.263	¡Nunca encontrará un producto\ntan útil en otra parte!
+normal_shonin_a:0.264	¡Lleva de todo y cuesta\nsolo 3000 mon!
+normal_shonin_a:0.266	¡Cómprelo ya!
+normal_shonin_a:0.268	¡Tiene que comprarlo!
+normal_shonin_a:0.270	¡Compre, compre, compre!
+normal_shonin_a:0.271	No lo quiero.\nNo tengo dinero.\n¡Cierre el pico o lo mato!
+normal_shonin_a:0.273	¡Vamos, decídase de una vez!
+normal_shonin_a:0.279	No parece muy interesado.
+normal_shonin_a:0.282	¡Samurái de tres al cuarto!
+normal_shonin_a:0.285	¿Un pobre ronin, eh?
+normal_shonin_a:0.288	¡Ay! ¡Perdone!
+normal_shonin_a:0.291	Vender cosas es duro...
+normal_shonin_a:0.296	Vaya, qué buena fue la fiesta.
+normal_shonin_a:0.298	¡Y el negocio, fatal!
+normal_shonin_a:0.302	Quizá debería encargar\nlápidas...
