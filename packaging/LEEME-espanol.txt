@@ -1,0 +1,38 @@
+Way of the Samurai 2 en español — port nativo (Linux x86-64 / Windows 64 bits)
+
+Hace falta tu propia copia del juego: el disco norteamericano, SLUS-208.93.
+Este paquete no contiene nada del disco: lleva el port, la traducción y un
+programa que aplica la traducción a los archivos de TU disco.
+
+1. Primera vez: entrega tu ISO al juego.
+
+   Linux:    sudo apt install libsdl2-2.0-0 libarchive13     (Fedora: SDL2 libarchive;
+             Arch: sdl2 libarchive; ffmpeg es opcional, con él se ven los vídeos)
+             ./wots2 "Way of the Samurai 2.iso"
+   Windows:  descomprime en una carpeta con permiso de escritura (no Program Files),
+             haz doble clic en wots2.exe y elige tu ISO.
+
+   Sirve un .iso, o un .zip / .7z / .rar que lo contenga. Los archivos del disco
+   se extraen una vez en la carpeta «extracted» (unos 1,5 GB). Cierra el juego.
+
+2. Genera el mod en español (unos segundos):
+
+   Linux:    ./parchear-espanol
+   Windows:  doble clic en parchear-espanol.exe   (o ejecútalo desde una consola)
+
+   Comprueba que existe «extracted» con el disco y escribe el mod en
+   «mods/espanol/files». Solo hay que hacerlo una vez (y de nuevo si actualizas
+   este paquete). Con --comprobar revisa además las traducciones.
+
+3. Juega como siempre (./wots2 o wots2.exe): el mod «Español» está activado.
+   Para quitarlo, pon enabled = 0 en mods/espanol/mod.ini.
+
+Qué está traducido: menús, historia, tiendas, objetos, finales y las conversaciones
+de los NPC. Siguen en inglés los rótulos dibujados en texturas (título, PAUSE…),
+los créditos en vídeo y la página «Enhancements» del port. Las partidas ya
+empezadas pueden mostrar restos en inglés.
+
+Los demás mods (pantalla ancha, resolución, FPS, iluminación) y las teclas del
+juego son los del port: mira README.txt y mods/README.md.
+
+Código y avisos: https://github.com/FranjeGueje/decomp_wots2 (rama espanol)

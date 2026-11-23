@@ -26,7 +26,8 @@ import struct
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from wotsroot import ROOT  # noqa: E402
 VOLUME_PATH = ROOT / "extracted" / "VOLUME.DAT"
 ASSET_PATHS = ROOT / "config" / "asset_paths.json"
 LANG_PREFIX = "Us/"

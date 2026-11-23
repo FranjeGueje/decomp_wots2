@@ -113,6 +113,21 @@ Otros casos:
 - **Mods en otra carpeta:** `WOTS2_MODS=<carpeta> ./build/wots2`.
 - **Convive con los demás mods** (widescreen, resolución, FPS, iluminación moderna).
 
+## Paquetes de Releases (Linux y Windows)
+
+Cada etiqueta `vX.Y` puesta en un commit de la rama `espanol` hace que GitHub Actions publique una release con:
+
+- `wots2-es-linux-x86_64.tar.gz` y `wots2-es-windows-x86_64.zip`: el port, la traducción (`translations/es`) y `parchear-espanol`, un programa que genera el mod a partir de **tu** disco. No llevan nada del juego. Las instrucciones para el usuario están en `packaging/LEEME-espanol.txt`.
+- `wots2-es-parcheador-linux-x86_64.tar.gz` y `wots2-es-parcheador-windows-x86_64.zip`: solo `parchear-espanol`, `translations/es` y `mods/espanol/mod.ini`, para quien ya tiene el port (se descomprimen en su carpeta).
+- `SHA256SUMS`.
+- El parche xdelta de la ISO de PS2 **no** lo genera Actions (necesita la ISO): se hace en local con `tools/spanish_iso.py make` y se sube a la release a mano (`gh release upload vX.Y …`).
+
+```bash
+git tag v1.0 && git push origin v1.0     # solo etiquetas vX.Y (no v1.2.3 ni sufijos)
+```
+
+El primer trabajo del workflow falla si la etiqueta no es `vX.Y` o si su commit no está en `espanol`. `parchear-espanol` se compila con PyInstaller (`packaging/parchear-espanol.spec`); si no encuentra `extracted/` con el disco, avisa y no toca nada. Probado en Linux; la versión de Windows no se ha podido probar en una máquina real.
+
 ## Parche xdelta para la ISO de PS2 (USA)
 
 `tools/spanish_iso.py` aplica el mod a una imagen del disco USA (SLUS-208.93) y saca un parche xdelta que se puede repartir sin incluir nada del disco:

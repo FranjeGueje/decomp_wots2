@@ -53,7 +53,7 @@ from spanish_font import to_game  # noqa: E402
 from spanish_text import ICONS  # noqa: E402
 from spanish_script import Widths  # noqa: E402
 
-ROOT = Path(__file__).resolve().parent.parent
+from wotsroot import ROOT  # noqa: E402
 TRANSLATIONS = ROOT / "translations" / "es" / "task"
 WORK = ROOT / "translations" / "es" / "original" / "task"
 OUT = ROOT / "mods" / "espanol" / "files" / "Us" / "task" / "alltask"

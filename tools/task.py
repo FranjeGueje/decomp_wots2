@@ -14,7 +14,9 @@ Program 0 runs first; the others are entered by events (see the project notes).
 """
 import struct, sys, os
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from wotsroot import ROOT as _ROOT  # noqa: E402
+ROOT = str(_ROOT)
 ELF = os.path.join(ROOT, 'extracted', 'SLUS_208.93')
 NAME_TABLE = 0x2D7D10
 

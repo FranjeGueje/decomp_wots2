@@ -1,0 +1,16 @@
+Mod en español de Way of the Samurai 2 — solo el parcheador
+
+Para quien ya tiene el port nativo de Way of the Samurai 2 funcionando
+(con su carpeta «extracted» creada al darle la ISO la primera vez).
+
+1. Descomprime TODO esto dentro de la carpeta del port, junto a wots2 / wots2.exe,
+   de modo que queden juntos: parchear-espanol(.exe), translations/ y mods/espanol/.
+2. Ejecuta parchear-espanol (Linux) o parchear-espanol.exe (Windows).
+   Lee «extracted» (tu disco) y «translations/es» y escribe el mod en
+   «mods/espanol/files». Tarda unos segundos.
+3. Juega como siempre: el mod «Español» está activado (mods/espanol/mod.ini).
+
+Si no tienes aún el port, baja mejor el paquete completo (wots2-es-…), que lo incluye.
+Este paquete no lleva nada del disco: solo la traducción y el programa que la aplica.
+
+Código: https://github.com/FranjeGueje/decomp_wots2 (rama espanol)

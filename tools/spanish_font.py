@@ -40,7 +40,7 @@ import font_info  # noqa: E402
 
 import numpy as np  # noqa: E402
 
-ROOT = Path(__file__).resolve().parent.parent
+from wotsroot import ROOT  # noqa: E402
 DEFAULT_OUT = ROOT / "mods" / "espanol" / "files" / "Us" / "Font"
 
 # The new characters and their codes.  Keep in step with docs/spanish/02_new_glyphs.md.

@@ -50,7 +50,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from spanish_font import to_game  # noqa: E402
 import font_info  # noqa: E402
 
-ROOT = Path(__file__).resolve().parent.parent
+from wotsroot import ROOT  # noqa: E402
 TRANSLATIONS = ROOT / "translations" / "es" / "script"
 WORK = ROOT / "translations" / "es" / "original" / "script"
 OUT = ROOT / "mods" / "espanol" / "files" / "Us" / "script"

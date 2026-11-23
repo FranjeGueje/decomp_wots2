@@ -37,7 +37,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from spanish_font import NEW_GLYPHS, to_game  # noqa: E402
 import font_info  # noqa: E402
 
-ROOT = Path(__file__).resolve().parent.parent
+from wotsroot import ROOT  # noqa: E402
 GAME_PATH = "menu/menutext.txt"
 TRANSLATION = ROOT / "translations" / "es" / "menutext.tsv"
 WORK = ROOT / "translations" / "es" / "original" / "menutext.tsv"
