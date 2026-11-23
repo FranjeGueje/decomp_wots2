@@ -113,6 +113,20 @@ Otros casos:
 - **Mods en otra carpeta:** `WOTS2_MODS=<carpeta> ./build/wots2`.
 - **Convive con los demás mods** (widescreen, resolución, FPS, iluminación moderna).
 
+## Parche xdelta para la ISO de PS2 (USA)
+
+`tools/spanish_iso.py` aplica el mod a una imagen del disco USA (SLUS-208.93) y saca un parche xdelta que se puede repartir sin incluir nada del disco:
+
+```bash
+python3 -I tools/spanish_iso.py make "Way of the Samurai 2 (USA).iso" -o es.xdelta   # genera el parche
+python3 -I tools/spanish_iso.py verify "Way of the Samurai 2 (USA).iso" es.xdelta    # lo aplica y comprueba
+xdelta3 -d -s "Way of the Samurai 2 (USA).iso" es.xdelta "Way of the Samurai 2 (ES).iso"
+```
+
+Necesita `xdelta3`, el `solc` del proyecto compilado y los pasos 1 y 2 hechos. Compila los `.sol` a `.sx`, añade las entradas traducidas al final de `VOLUME.DAT` y recorta el archivo de relleno `SAMURAI2` (que el juego no abre) para que la ISO conserve su tamaño. El parche pesa unos 1,6 MB.
+
+**Sin probar en PS2 ni en emulador.** Algunos textos son más largos que los originales (`alltask` crece un 8 %); si el juego usara búferes fijos para ellos podría fallar.
+
 ## Cómo está organizado el trabajo
 
 ```
